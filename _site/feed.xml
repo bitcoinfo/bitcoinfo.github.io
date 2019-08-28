@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bitcoin-Nerds</title>
+    <description>For geeks, dweebs, and other nerds interested in learning more about Bitcoin.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Infominer: Research Ethusiast - Bitcoin History - Apps, Tools and Howtos</title>
+        <description>
+          How I found Bitcoin, some bitcoin history, tools and guides. - 
+          I’m Infominer, internet research enthusiast. I don’t consider myself a good writer. However, I love to read, and when I do write, I spend a lot of time editing. I care about reliable sources, love the research, and have an attention for detail. What follows is how I came to...
+        </description>
+        <pubDate>Sat, 10 Aug 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2019-08-10-why-im-a-bitcoiner/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019-08-10-why-im-a-bitcoiner/</guid>
+      </item>
+    
+      <item>
+        <title>Practical Lightning: Wallets, Applications, Guides and Development</title>
+        <description>
+          
+          Lightning Network - Resource and Information Guide - LNRoute LightningHood lopp.net - Lightning Network Resources (source) https://github.com/lightningnetwork/lightning-rfc -Lightning Network Specifications https://lightninginabox.co Lightning Nodes Easiest Bitcoin Lightning Guide! Easiest BTC/LN desktop app, for Windows, macOS, and Linux Lightning Network BOLT implementation The perfect Bitcoin Lightning️ node - Tutorial https://github.com/mit-dci/lit -Lightning Network...
+        </description>
+        <pubDate>Tue, 16 Jul 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/blog/Bitcoin/lightning/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/Bitcoin/lightning/</guid>
+      </item>
+    
+      <item>
+        <title>Practical Bitcoin Guides: Wallets, Applications, and Development</title>
+        <description>
+          
+          lopp.net/bitcoin-information.html - A pre-eminent source on Everything Bitcoin. bitcoin-only.com - Requirement: Support Bitcoin, Not Support Altcoins. bitcoin.org btcinformation.org/en/developer-documentation - Community led and supported fork of Bitcoin.org. Developers Resources igorbarinov/awesome-bitcoin - A curated list of bitcoin services and tools for software developers. chaincodelabs/bitcoin-curriculum !!!!!!!! bitcoin.org/en/developer-reference btcinformation.org/en/developer-documentation - Community led and supported...
+        </description>
+        <pubDate>Mon, 15 Jul 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/blog/Bitcoin/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/Bitcoin/</guid>
+      </item>
+    
+      <item>
+        <title>Bitcoin Info</title>
+        <description>
+          
+          This page, at the moment, is mainly the contents of the Bitcoin Channel from SourceCrypto Discord server. This is my first attempt at organizing information related specifically to Bitcoin. We also have Bitcoin Dev and BTC-Layer2 channels that must be sorted. To be honest, much of the contents of the...
+        </description>
+        <pubDate>Mon, 15 Jul 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/posts/Bitcoin/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/Bitcoin/</guid>
+      </item>
+    
+      <item>
+        <title>Using PGP and Cryptocurrency Keysignatures</title>
+        <description>
+          
+          &quot;Public key encryption: supporting secure transactions online since 1991!!&quot; I created this resource while researching the following article: freelanceforcoins.com/Business with Crypto 101—Escrow and Key Signatures -infominer This article will explain what is escrow, how to find an escrow agent, and using key signatures to verify who you are communicating with...
+        </description>
+        <pubDate>Fri, 22 Mar 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/posts/crypto/keysigs-escrow-bitcoin-ethereum-pgp/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/crypto/keysigs-escrow-bitcoin-ethereum-pgp/</guid>
+      </item>
+    
+      <item>
+        <title>Before Bitcoin</title>
+        <description>
+          
+          Short-form Crypto Fundamentals -by Infominer What’s a Cryptographic Primitive? Cryptographic Hash Functions Proof of Work in a Nutshell Zero Knowledge Proofs David Chaum - The Father of Digital Cash The Birth of the Cypherpunks The Rise of the Cypherpunks /cypherpunks/ and the Crypto Wars Crypto Wars Cypherpunk Mailing-list Modern Crypto...
+        </description>
+        <pubDate>Mon, 07 Jan 2019 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/posts/Bitcoin/pre-history/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/Bitcoin/pre-history/</guid>
+      </item>
+    
+      <item>
+        <title>Electronic Cash, Before Bitcoin</title>
+        <description>
+          
+          DigiCash Digicash enables First Electronic Payment - 1994 eCash - Timeline [1998] E-MONEY (THAT’S WHAT I WANT) How DigiCash Blew Everything [ϟ] A Brief History of Digital Currencies History of digital currencies of the 90’s with DigiCash as the primary example FirstVirtual and CyberCash Early History of Digital Cash and...
+        </description>
+        <pubDate>Sat, 05 Jan 2019 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/posts/Bitcoin/pre-history/electronic-cash/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/Bitcoin/pre-history/electronic-cash/</guid>
+      </item>
+    
+      <item>
+        <title>Cypherpunks and the Crypto Wars</title>
+        <description>
+          
+          A Resource for learning about the Cypherpunk Movement. This repository was created, in part while researching: Electronic Currency, Before Bitcoin Crypto Wars Birth of Cypherpunks: Short wiki.openrightsgroup.org/wiki/Crypto_Wars wikipedia.org/wiki/Crypto_Wars Untold History of Blockchain Phil Zimmerman creates PGP(‘91), the first publicly available encryption allowing people to communicate using 128-bit encryption and Diffie-Hellman...
+        </description>
+        <pubDate>Thu, 27 Dec 2018 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/posts/Bitcoin/pre-history/cypherpunks/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/Bitcoin/pre-history/cypherpunks/</guid>
+      </item>
+    
+      <item>
+        <title>Bitcoin History</title>
+        <description>
+          
+          www.thetimes03jan2009.com For now this is just an assorted list. Shortly I’ll be diving deeper into the history of bitcoin itself. Thusfar, I’ve been circling around it, so to speak. I’ve been gathering all of the necessary background research, in order to do justice to the story of Bitcoin itself Bitcoin’s...
+        </description>
+        <pubDate>Thu, 27 Dec 2018 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/posts/Bitcoin/history/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/Bitcoin/history/</guid>
+      </item>
+    
+      <item>
+        <title>Test markdown</title>
+        <description>
+          Each post also has a subtitle - 
+          You can write regular markdown here and Jekyll will automatically convert it to a nice webpage. I strongly encourage you to take 5 minutes to learn how to write in markdown - it’ll teach you how to transform regular text into bold/italics/headings/tables/etc. Here is some bold text Here is a...
+        </description>
+        <pubDate>Sat, 28 Feb 2015 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2015-02-28-test-markdown/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015-02-28-test-markdown/</guid>
+      </item>
+    
+      <item>
+        <title>Flake it till you make it</title>
+        <description>
+          Excerpt from Soulshaping by Jeff Brown - 
+          Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who...
+        </description>
+        <pubDate>Thu, 26 Feb 2015 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2015-02-26-flake-it-till-you-make-it/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015-02-26-flake-it-till-you-make-it/</guid>
+      </item>
+    
+  </channel>
+</rss>
