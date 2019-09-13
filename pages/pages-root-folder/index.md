@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: bitcoin.jpg
+  image_fullwidth: MaxPixel.net-Bitcoin.jpg
 widget1:
   title: "Blog & Portfolio"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
