@@ -1,4 +1,4 @@
-- title: Start
+- title: "Home"
   url: "/"
   side: left
 
@@ -60,11 +60,11 @@
     url: "/roadmap/"
 
 - title: Blog
-  url: "/blog/"
+  url: "/feed/"
   side: left
   dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+  - title: "List"
+    url: "/feed/list/"
 
 - title: "Search"
   url: "/search/"
