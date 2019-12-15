@@ -6,11 +6,11 @@
 #
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
 infominer: # replace this with your info
-  name: "Infominer"
+  name: "infominer"
   siterole: "🔗Hyperlink Enthusiast 🌃Skyscraper Curator ⛓TimeChain Historian"
-  uri: http://infominer.id/
-  email:
-  twitter: "@phlow"
+  uri: http://infominer.xyz/
+  email: infominer@protonmail.com
+  twitter: "@infominer33"
 # you can add more authors here
 
  

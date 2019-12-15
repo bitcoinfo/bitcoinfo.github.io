@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 28 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 19 links with priority=0.3, changefreq=monthly -->
 
 	
 	<url>
 	<loc>http://localhost:4000/404.html</loc>
 	
-		<lastmod>2019-09-13T01:53:40-04:00</lastmod>
+		<lastmod>2019-12-15T12:25:37-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -22,7 +22,7 @@
 	<url>
 	<loc>http://localhost:4000/feed/all/</loc>
 	
-		<lastmod>2019-09-13T01:53:40-04:00</lastmod>
+		<lastmod>2019-12-15T12:25:37-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -39,7 +39,7 @@
 	<url>
 	<loc>http://localhost:4000/atom.xml</loc>
 	
-		<lastmod>2019-09-13T01:53:40-04:00</lastmod>
+		<lastmod>2019-12-15T12:25:37-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -50,103 +50,13 @@
 	</url>
 	
 
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/changelog/</loc>
-	
-		<lastmod>2019-09-13T01:53:40-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/contact/</loc>
-	
-		<lastmod>2019-09-13T01:53:40-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/design/</loc>
-	
-		<lastmod>2019-09-13T01:53:40-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/documentation/</loc>
-	
-		<lastmod>2019-09-13T01:53:40-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
 	
 
 	
 	<url>
 	<loc>http://localhost:4000/feed.xml</loc>
 	
-		<lastmod>2019-09-13T01:53:40-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/getting-started/</loc>
-	
-		<lastmod>2019-09-13T01:53:40-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/headers/</loc>
-	
-		<lastmod>2019-09-13T01:53:40-04:00</lastmod>
+		<lastmod>2019-12-15T12:25:37-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -161,7 +71,7 @@
 	<url>
 	<loc>http://localhost:4000/humans.txt</loc>
 	
-		<lastmod>2019-09-13T01:53:40-04:00</lastmod>
+		<lastmod>2019-12-15T12:25:37-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -176,7 +86,7 @@
 	<url>
 	<loc>http://localhost:4000/feed/</loc>
 	
-		<lastmod>2019-09-13T01:53:40-04:00</lastmod>
+		<lastmod>2019-12-15T12:25:37-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -191,7 +101,7 @@
 	<url>
 	<loc>http://localhost:4000/</loc>
 	
-		<lastmod>2019-09-13T01:53:40-04:00</lastmod>
+		<lastmod>2019-12-15T12:25:37-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -206,7 +116,7 @@
 	<url>
 	<loc>http://localhost:4000/index.tmp</loc>
 	
-		<lastmod>2019-09-13T01:53:40-04:00</lastmod>
+		<lastmod>2019-12-15T12:25:37-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -221,7 +131,7 @@
 	<url>
 	<loc>http://localhost:4000/info/</loc>
 	
-		<lastmod>2019-09-13T01:53:40-04:00</lastmod>
+		<lastmod>2019-12-15T12:25:37-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -236,22 +146,7 @@
 	<url>
 	<loc>http://localhost:4000/redirect-page/</loc>
 	
-		<lastmod>2019-09-13T01:53:40-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/roadmap/</loc>
-	
-		<lastmod>2019-09-13T01:53:40-04:00</lastmod>
+		<lastmod>2019-12-15T12:25:37-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -266,7 +161,7 @@
 	<url>
 	<loc>http://localhost:4000/robots.txt</loc>
 	
-		<lastmod>2019-09-13T01:53:40-04:00</lastmod>
+		<lastmod>2019-12-15T12:25:37-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -285,7 +180,7 @@
 	<url>
 	<loc>http://localhost:4000/search/</loc>
 	
-		<lastmod>2019-09-13T01:53:40-04:00</lastmod>
+		<lastmod>2019-12-15T12:25:37-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -300,7 +195,7 @@
 	<url>
 	<loc>http://localhost:4000/sitemap.xml</loc>
 	
-		<lastmod>2019-09-13T01:53:40-04:00</lastmod>
+		<lastmod>2019-12-15T12:25:37-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -317,37 +212,7 @@
 	<url>
 	<loc>http://localhost:4000/feed/page2/</loc>
 	
-		<lastmod>2019-09-13T01:53:40-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/feed/page3/</loc>
-	
-		<lastmod>2019-09-13T01:53:40-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/feed/page4/</loc>
-	
-		<lastmod>2019-09-13T01:53:40-04:00</lastmod>
+		<lastmod>2019-12-15T12:25:37-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -359,13 +224,13 @@
 	
 
 
-<!-- Posts: 19 links with priority=0.5, changefreq=monthly -->
+<!-- Posts: 7 links with priority=0.5, changefreq=monthly -->
 
 	
 	<url>
-	<loc>http://localhost:4000/design/mediaelement_js/</loc>
+	<loc>http://localhost:4000/posts/practical/</loc>
 	
-		<lastmod>2015-10-15T00:00:00-04:00</lastmod>
+		<lastmod>2019-08-01T00:00:00-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -378,24 +243,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/design/typography/typography/</loc>
+	<loc>http://localhost:4000/posts/lightning/</loc>
 	
-		<lastmod>2015-08-16T00:00:00-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/design/comments/</loc>
-	
-		<lastmod>2015-08-15T00:00:00-04:00</lastmod>
+		<lastmod>2019-07-22T00:00:00-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -408,24 +258,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/design/no-header/</loc>
+	<loc>http://localhost:4000/posts/Bitcoin/</loc>
 	
-		<lastmod>2015-08-11T00:00:00-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/design/no-header-but-image/</loc>
-	
-		<lastmod>2015-03-12T00:00:00-04:00</lastmod>
+		<lastmod>2019-07-15T00:00:00-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -438,24 +273,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/design/header-with-text/</loc>
+	<loc>http://localhost:4000/posts/thecryptoconomy-podcast-deep-dive/</loc>
 	
-		<lastmod>2015-02-10T00:00:00-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/design/header-logo-only/</loc>
-	
-		<lastmod>2014-10-09T00:00:00-04:00</lastmod>
+		<lastmod>2019-06-21T00:00:00-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -468,24 +288,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/design/header-image-color/</loc>
+	<loc>http://localhost:4000/posts/bitcoin/rare-pepe/</loc>
 	
-		<lastmod>2014-10-09T00:00:00-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/design/header-full-width-image/</loc>
-	
-		<lastmod>2014-10-09T00:00:00-04:00</lastmod>
+		<lastmod>2019-05-28T00:00:00-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -498,24 +303,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/design/header-image-pattern/</loc>
+	<loc>http://localhost:4000/posts/transcripts/SLP53-Livera-Antonopolis-Maximalism-Transcript/</loc>
 	
-		<lastmod>2014-10-08T00:00:00-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/design/gallery/</loc>
-	
-		<lastmod>2014-09-15T00:00:00-04:00</lastmod>
+		<lastmod>2019-03-13T00:00:00-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -528,114 +318,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/design/video/</loc>
+	<loc>http://localhost:4000/posts/history/</loc>
 	
-		<lastmod>2014-09-14T00:00:00-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/design/grid/</loc>
-	
-		<lastmod>2014-09-13T00:00:00-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/design/portfolio/</loc>
-	
-		<lastmod>2014-09-10T00:00:00-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/design/page-fullwidth/</loc>
-	
-		<lastmod>2014-08-19T00:00:00-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/design/post-right-sidebar/</loc>
-	
-		<lastmod>2014-07-10T00:00:00-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/design/page/</loc>
-	
-		<lastmod>2014-07-10T00:00:00-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/design/breadcrumb/</loc>
-	
-		<lastmod>2014-07-10T00:00:00-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/design/post-left-sidebar/</loc>
-	
-		<lastmod>2014-07-09T00:00:00-04:00</lastmod>
+		<lastmod>2018-12-27T00:00:00-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>

@@ -6,9 +6,9 @@
 #   /____/_/\__/\___/   /____/\___/\__/\__/_/_/ /_/\__, /____/
 #                                                 /____/
 
-title: 'Bitcoin-Nerds'
-slogan: 'Curators Collaborative: For geeks, dweebs, and other nerds interested in learning more about Bitcoin.'
-description: 'Social curation archive, all types of information related to Bitcoin.'
+title: 'Bitcoinfo'
+slogan: 'Curated Bitcoin Info'
+description: 'Bitcoin is a difficult subject, requiring much background knowledge, to begin understanding. Bitcoinfo breaks down the varieties into a navigable structure.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
@@ -18,12 +18,12 @@ credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with 
 author: infominer
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
-url: 'https://bitcoin-nerds.xyz'
+url: 'https://bitcoinfo.xyz'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/bitcoin-nerds/bitcoin-nerds.github.io/blob/master
+improve_content: https://github.com/bitcoinfo/bitcoinfo.github.io/blob/master
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -31,11 +31,11 @@ improve_content: https://github.com/bitcoin-nerds/bitcoin-nerds.github.io/blob/m
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://bitcoin-nerds.xyz/images/'
+urlimg: 'https://bitcoinfo.xyz/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "BitcoiNerds.png"
+logo: "bitcoiNFo-1.png"
 
 # Plugins
 plugins:
@@ -186,8 +186,8 @@ og_type:                            'website'
 #
 
 socialmedia:
-    twitter: phlow
-    facebook: phlow.media
+    twitter: infominer33
+    facebook: 
 
 
 #        ____  _
