@@ -23,3 +23,9 @@
 
 * [Making sense of Lightning network nodes and money transmission licensing](https://coincenter.org/entry/making-sense-of-lightning-network-nodes-and-money-transmission-licensing) 
   > An update on Coin Center’s work to avoid unnecessary regulatory burdens on technologists.
+
+[Vortex (@theonevortex)](https://twitter.com/theonevortex/status/1036592334249447425)
+  > Know-your-customer (KYC) and anti-money-laundering (AML) laws are authoritarian tools disguised as consumer protection & designed to keep financial institutions working directly w/the state in power. If you are a dev REMOVE these reqs now & instead tie account to a BTC a...
+
+[Can You Really 'Know' a Customer Who Uses Bitcoin?](https://www.americanbanker.com/news/can-you-really-know-a-customer-who-uses-bitcoin)
+  > Services are cropping up that help banks analyze bitcoin transactions for signs of criminal behavior such as money laundering. But such services come with their own risks.

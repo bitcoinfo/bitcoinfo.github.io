@@ -46,3 +46,23 @@ permalink: /technical/
 ### Block Size
 * [8 Problems for the Bitcoin Community to Solve Before Block Size](https://medium.com/@jeremyrubin/8-problems-with-bitcoin-to-solve-before-block-size-6b4d35e0c6f9)
   >Recently the debate around block size has been getting a huge amount of attention, and it is easy to think this is the most important…
+
+### BIPs
+
+[https://coindoo.com/what-is-a-bip-the-most-famous-bitcoin-improvement-proposals/](https://coindoo.com/what-is-a-bip-the-most-famous-bitcoin-improvement-proposals/)
+
+[Vladimir Ciobica](https://coindoo.com/author/vladimirciobica/)
+
+[What Is a BIP? | The Most Famous Bitcoin Improvement Proposals - C...](https://coindoo.com/what-is-a-bip-the-most-famous-bitcoin-improvement-proposals/)
+
+There are some that argue that these BIPs can and will eventually lead to more forks in the network which is generally considered to be a bag thing in the cryptocurrency community at large.
+
+⧉infominer 22-Jul-19 03:34 AM
+
+[https://github.com/bitcoin/bips/blob/master/bip-0042.mediawiki](https://github.com/bitcoin/bips/blob/master/bip-0042.mediawiki)
+
+[bitcoin/bips](https://github.com/bitcoin/bips/blob/master/bip-0042.mediawiki)
+
+Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creating an account on GitHub.
+
+[https://avatars0.githubusercontent.com/u/528860?s=400&v=4](https://avatars0.githubusercontent.com/u/528860?s=400&v=4)
