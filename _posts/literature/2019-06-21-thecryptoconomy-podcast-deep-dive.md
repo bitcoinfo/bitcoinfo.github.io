@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Down the @TheCryptoconomy Rabbithole"
+title: "The Cryptoconomy Podcast - Categorical Index"
 description: "Audio for Hundreds of Essential Bitcoin Articles. @TheCryptoconomy - Guy Swan..... These Podcasts are essential. So I made an index of them, organized by topic."
 header:
   image: /images/thecryptoconomy-podcast_guy-swann-header.png
@@ -8,11 +8,7 @@ header:
   og_image: /images/thecryptoconomy-podcast_guy-swann.png
   caption   : "[@TheCryptoconomy](https://twitter.com/TheCryptoconomy) - Guy Swann - [cryptoconomy.life](https://cryptoconomy.life) - [Anchor.fm/TheCryptoconomy](http://Anchor.fm/TheCryptoconomy)"
 excerpt: "Guy Swan has recorded thousands of hours, reading essential Bitcoin literature. Here's a linked list of episodes organized by category."
-sidebar:
-  nav: sourcedisco 
-toc: true
-classes: wide
-permalink: /literature/thecryptoconomy-podcast-deep-dive/
+permalink: /literature/cryptoconomy-podcast/
 last_modified_at: 2019-12-29T11:22:33-23:00
 categories: ["History"]
 tags: ["Audio","Literature"]

@@ -63,6 +63,6 @@ There are some that argue that these BIPs can and will eventually lead to more f
 
 [bitcoin/bips](https://github.com/bitcoin/bips/blob/master/bip-0042.mediawiki)
 
-Bitcoin Improvement Proposals. Contribute to bitcoin/bips development by creating an account on GitHub.
+Bitcoin Improvement Proposals. 
 
 [https://avatars0.githubusercontent.com/u/528860?s=400&v=4](https://avatars0.githubusercontent.com/u/528860?s=400&v=4)

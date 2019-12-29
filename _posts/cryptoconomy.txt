@@ -8,7 +8,7 @@
 * CryptoQuikRead_017 - [Natural v. Artifical Money Why Bitcoin is the Greatest Thing to Happen for Alternative Energy](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_017---Natural-v--Artifical-Money-Why-Bitcoin-is-the-Greatest-Thing-to-Happen-for-Alternative-Energy-e2ndub)
 * CryptoQuickRead_021 - [The Bullish case For Bitcoin](https://anchor.fm/thecryptoconomy/episodes/CryptoQuickRead_021---The-Bullish-case-For-Bitcoin-e2ndu7)
 * CryptoQuikRead_020 - [There is a Bitcoin Patent War Going On](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_020---There-is-a-Bitcoin-Patent-War-Going-On-e2ndu8)
-* CryptoQuikRead_025 - [Bitcoin's Anarchy is a Feature, Not a Bug](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_025---Bitcoins-Anarchy-is-a-Feature--Not-a-Bug-e2ndu3)
+
 * CryptoQuikRead_031 - [Nobody Understands Bitcoin (and that's ok)](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_031---Nobody-Understands-Bitcoin-and-thats-ok-e2ndtt)
 * CryptoQuikRead_038 - [7 Misunderstandings of Bitcoin's Scaling Problem](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_038---7-Misunderstandings-of-Bitcoins-Scaling-Problem-e2ndtf)
 * CryptoQuikRead_040 - [Why Bitcoin is Different](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_040---Why-Bitcoin-is-Different-e2ndt5)
@@ -149,69 +149,6 @@
 * CryptoQuikRead_227 - [Bitcoin is a Hedge Against the Cashless Society](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_227---Bitcoin-is-a-Hedge-Against-the-Cashless-Society-e3l5ne)
 * CryptoQuikRead_100 - [Dandelions and a Bright Future for Bitcoin Privacy](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_100---Dandelions-and-a-Bright-Future-for-Bitcoin-Privacy-e2ndrg)
 
-### Bitcoin - Lightning
-
-[![](https://imgur.com/k55OjEO.png)](https://medium.com/@melik_87377/lightning-network-enables-unicast-transactions-in-bitcoin-lightning-is-bitcoins-tcp-ip-stack-8ec1d42c14f5)
-
-* CryptoQuikRead_011 - [Lightning Enables Unicast Transactions in Bitcoin](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_011---Lightning-Enables-Unicast-Transactions-in-Bitcoin-e2nduh)
-* CryptoQuikRead_027 - [The Barely Discussed, Incredible Benefit of the Lightning Network](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_027---The-Barely-Discussed--Incredible-Benefit-of-the-Lightning-Network-e2ndu1)
-* CryptoQuikRead_047 - [Understanding The Lightning Network Part 1](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_047---Understanding-The-Lightning-Network-Part-1-e2ndtd)
-* CryptoQuikRead_048 - [Understanding The Lightning Network Part 2](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_048---Understanding-The-Lightning-Network-Part-2-e2ndt4)
-* CryptoQuikRead_049 - [Understanding The Lightning Network Part 3](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_049---Understanding-The-Lightning-Network-Part-3-e2ndtc)
-* CryptoQuikRead_061 - [Eltoo - A Simplified Update Mechanism for Lightning](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_061---Eltoo---A-Simplified-Update-Mechanism-for-Lightning-e2ndso)
-* CryptoQuikRead_062 - [This New Scaling Layer Could Make Lightning More Effective](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_062---This-New-Scaling-Layer-Could-Make-Lightning-More-Effective-e2ndsn)
-* CryptoQuikRead_063 - [Atomic Swaps, How the Lightning Network Extends to Altcoins](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_063---Atomic-Swaps--How-the-Lightning-Network-Extends-to-Altcoins-e2ndsm)
-* CryptoQuikRead_064 - [The Future of Bitcoin - What Lightning Could Look Like](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_064---The-Future-of-Bitcoin---What-Lightning-Could-Look-Like-e2ndsk)
-* CryptoQuikRead_065 - [Lightning User Experience, A Day in the Life of Carol](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_065---Lightning-User-Experience--A-Day-in-the-Life-of-Carol-e2ndsl)
-* CryptoQuikRead_082 - [Exploring Lightning Network Routing](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_082---Exploring-Lightning-Network-Routing-e2nds3)
-* CryptoQuikRead_099 - [Announcing C-Lightning 0.6](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_099---Announcing-C-Lightning-0-6-e2ndrh)
-* CryptoQuikRead_136 - [The Panama Canal and The Bitcoin Lightning Network](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_136---The-Panama-Canal-and-The-Bitcoin-Lightning-Network-e2ndq9)
-* CryptoQuikRead_139 - [Lightning Network 2.0 [Part1]](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_139---Lightning-Network-2-0-Part1-e2ndq7) 
-* CryptoQuikRead_140 - [Lightning Network 2.0 [Part 2]](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_140---Lightning-Network-2-0-Part-2-e2ndq6)
-* CryptoQuikRead_142 - [Chaincode’s Residency Program Is Back, This Time With Lightning](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_142---Chaincodes-Residency-Program-Is-Back--This-Time-With-Lightning-e2ndq3)
-* GuysTake_002 - [The Lightning App I Want to Use](https://anchor.fm/thecryptoconomy/episodes/GuysTake_002---The-Lightning-App-I-Want-to-Use-e2ndp6)
-* CryptoQuikRead_169 - [Neutrino: The Lighter Side of Lightning](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_169---Neutrino-The-Lighter-Side-of-Lightning-e2ndp4)
-* CryptoQuikRead_183 - [Custody in the Age of Digital Assets](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_183---Custody-in-the-Age-of-Digital-Assets-e2ndoi)
-* CryptoQuikRead_199 - [Confidential Auditing by Nick Szabo](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_199---Confidential-Auditing-by-Nick-Szabo-e2oqkk)
-* CryptoQuikRead_200 - [Why Bitcoin's Lightning Network is Ingenious](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_200---Why-Bitcoins-Lightning-Network-is-Ingenious-e2plij)
-* CryptoChat_008 - [Under the Lightning Hood with @petoveritas, @Crypt0PuraVida, & @CoinBeezy](https://anchor.fm/thecryptoconomy/episodes/CryptoChat_008---Under-the-Lightning-Hood-with-petoveritas--Crypt0PuraVida---CoinBeezy-e2q4gf)
-* CryptoQuikRead_206 - [#Reckless to Wumbology, The Lightning Network Infrastructural Build-Out](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_206---Reckless-to-Wumbology--The-Lightning-Network-Infrastructural-Build-Out-e3235m)
-* GuysTake_008 - [The Lightning of my TCP, or How the Internet is Too Complex to Work](https://anchor.fm/thecryptoconomy/episodes/GuysTake_008---The-Lightning-of-my-TCP--or-How-the-Internet-is-Too-Complex-to-Work-e32omd)
-* CryptoChat_009 - [Holding the Lightning Torch on the Rollo & Slappy Show](https://anchor.fm/thecryptoconomy/episodes/CryptoChat_009---Holding-the-Lightning-Torch-on-the-Rollo--Slappy-Show-e36t53)
-* CryptoChat_011 - [Lightning, Paywall.Link, & the Bootstrap Bandit](https://anchor.fm/thecryptoconomy/episodes/CryptoChat_011---Lightning--Paywall-Link---the-Bootstrap-Bandit-e3smfp)
-* GuysTake_011 - [Why Lightning Sucks](https://anchor.fm/thecryptoconomy/episodes/GuysTake_011---Why-Lightning-Sucks-e3r95t)
-* GuysTake_014 - [The What, Why, & How of Lightning](https://anchor.fm/thecryptoconomy/episodes/GuysTake_014---The-What--Why---How-of-Lightning-e41pbe)
-* CryptoQuikRead_248 - [Bitrefill's Hottest Lightning Tech of 2019!](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_248---Bitrefills-Hottest-Lightning-Tech-of-2019-e426ph)
-* CryptoQuikRead_259 - [Lightning at the End of the Tunnel](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_259---Lightning-at-the-End-of-the-Tunnel-e4a35k)
-
-### LApps
-
-[![](https://imgur.com/qs08w40.png)](https://dev.lightning.community/lapps/)
-
-
-* CryptoQuickRead_031.5 - [Lapp 1 - FileBazaar](https://anchor.fm/thecryptoconomy/episodes/CryptoQuickRead_031-5---Lapp-1---FileBazaar-e2ndts)
-* CryptoQuikRead_032.5 - [Lapp 2 - Lightning Publisher](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_032-5---Lapp-2---Lightning-Publisher-e2ndtq)
-* CryptoQuikRead_033.5 - [LApp 3 - NanoTip](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_033-5---LApp-3---NanoTip-e2ndto)
-* CryptoQuikRead_034.5 - [LApp 4 - PayPerCall](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_034-5---LApp-4---PayPerCall-e2ndtm)
-* CryptoQuikRead_035.5 - [LApp 5 - Nanopos for Simple Point-of-Sale](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_035-5---LApp-5---Nanopos-for-Simple-Point-of-Sale-e2ndtk)
-* CryptoQuikRead_036.5 - [LApp 6 - Ifpaytt Brings Lightning Payments to IFTTT](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_036-5---LApp-6---Ifpaytt-Brings-Lightning-Payments-to-IFTTT-e2ndth)
-* CryptoQuikRead_037.5 - [Lapp 7 - The Lightning Jukebox](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_037-5---Lapp-7---The-Lightning-Jukebox-e2ndti)
-
-## Ethereum
-
-
-{% include figure image_path="https://imgur.com/FuTVcMm.png" caption="[The Future of Ethereum Doesn't Have Wallets](https://medium.com/mycrypto/the-future-of-ethereum-doesnt-have-wallets-232fcee708bf)" %}
-
-
-* CryptoQuikRead_019 - [The Future of Ethereum Doesn't Have Wallets](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_019---The-Future-of-Ethereum-Doesnt-Have-Wallets-e2ndu9)
-* CryptoQuikRead_041 - [A Proof of Stake Design Philosophy](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_041---A-Proof-of-Stake-Design-Philosophy-e2ndtb)
-* CryptoQuikRead_042 - [Critique of Buterin's Proof of Stake Design Philosophy](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_042---Critique-of-Buterins-Proof-of-Stake-Design-Philosophy-e2ndt7)
-* CryptoQuikRead_090 - [Sharding Centralizes Ethereum](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_090---Sharding-Centralizes-Ethereum-e2ndrr)
-* CryptoQuikRead_098 - [The Challenges of Building Ethereum Infrastructure](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_098---The-Challenges-of-Building-Ethereum-Infrastructure-e2ndrn)
-* CryptoQuikRead_121 - [Ethereum, Fomo3D, and Dangerous Game Theory](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_121---Ethereum--Fomo3D--and-Dangerous-Game-Theory-e2ndqp)
-* CryptoQuikRead_223 - [Ethereum Architecture is Flawed](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_223---Ethereum-Architecture-is-Flawed-e3i5k1)
-
-
 ## Crypto
 
 
@@ -233,7 +170,6 @@
 * CryptoQuikRead_097 - [I HODL](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_097---I-HODL-e2ndrj)
 * CryptoQuikRead_101 - [How Easy it is to Buy ICO Ratings](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_101---How-Easy-it-is-to-Buy-ICO-Ratings-e2ndrf)
 * CryptoQuikRead_103 - [Crypto Commons](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_103---Crypto-Commons-e2ndre)
-* CryptoQuikRead_104 - [Crypto-Incrementalism vs Crypto-Anarchy](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_104---Crypto-Incrementalism-vs-Crypto-Anarchy-e2ndrd)
 * CryptoChat_003 - [Nik Bhatia on The Future of Bitcoin Financial Markets](https://anchor.fm/thecryptoconomy/episodes/CryptoChat_003---Nik-Bhatia-on-The-Future-of-Bitcoin-Financial-Markets-e2ndqv)
 * CryptoChat_004 - [John Wolpert on Blockchain, Identity, Trust, and a New Internet](https://anchor.fm/thecryptoconomy/episodes/CryptoChat_004---John-Wolpert-on-Blockchain--Identity--Trust--and-a-New-Internet-e2ndqo)
 * CryptoQuikRead_110 - [Adversaries, Distributed Ledgers, and Decentralization](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_110---Adversaries--Distributed-Ledgers--and-Decentralization-e2ndr6)
@@ -244,36 +180,3 @@
 * CryptoQuikRead_170 - [If Games Drive Crypto Mass Adoption, Then it Will be Grassroots](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_170---If-Games-Drive-Crypto-Mass-Adoption--Then-it-Will-be-Grassroots-e2ndp3)
   >"If you build a system meant by its very nature to dis-intermediate third parties and exist independent of governments and legal systems, you have an identity problem." -Nic Carter Another excellent piece by Nic Carter exploring the very idea of identity in a decentralized system and the ongoing battles for the vision of Bitcoin.
 * CryptoQuikRead_228 - [Minimum Viable Decentralization](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_228---Minimum-Viable-Decentralization-e3lfo9)
-
-### The Cryptocurrency Phenomenon
-
-[![](https://imgur.com/XyMR2ev.png)](https://iterative.capital/thesis/)
-
-* [What's Really Driving the Cryptocurrency Phenomenon? - The Iterative Capital Thesis](https://anchor.fm/thecryptoconomy/episodes/Whats-Really-Driving-the-Cryptocurrency-Phenomenon----The-Iterative-Capital-Thesis-e2u7qq) -Complete
-
-**Quick Reads**
-* CryptoQuikRead_186 - [The Cryptocurrency Phenomenon [Part 1]](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_186---The-Cryptocurrency-Phenomenon-Part-1-e2ndoh)
-* CryptoQuikRead_187 - [The Cryptocurrency Phenomenon [Part 2]](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_187---The-Cryptocurrency-Phenomenon-Part-2-e2ndoe)
-* CryptoQuikRead_188 - [The Cryptocurrency Phenomenon [Part 3]](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_188---The-Cryptocurrency-Phenomenon-Part-3-e2ndod)
-* CryptoQuikRead_189 - [The Cryptocurrency Phenomenon [Part 4]](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_189---The-Cryptocurrency-Phenomenon-Part-4-e2ndoc)
-* CryptoQuikRead_190 - [The Cryptocurrency Phenomenon [Part 5]](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_190---The-Cryptocurrency-Phenomenon-Part-5-e2ndoa)
-* CryptoQuikRead_191 - [The Cryptocurrency Phenomenon [Part 6]](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_191---The-Cryptocurrency-Phenomenon-Part-6-e2ndo8)
-* CryptoQuikRead_192 - [The Cryptocurrency Phenomenon [Part 7]](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_192---The-Cryptocurrency-Phenomenon-Part-7-e2ndo9)
-* CryptoQuikRead_193 - [The Cryptocurrency Phenomenon [Part 8]](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_193---The-Cryptocurrency-Phenomenon-Part-8-e2ndo5)
-* CryptoQuikRead_194 - [The Cryptocurrency Phenomenon [Part 9]](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_194---The-Cryptocurrency-Phenomenon-Part-9-e2ndo4)
-
-
-## Mining
-
-[![](https://imgur.com/nG6qFGn.png)](https://medium.com/@jimmysong/mining-centralization-scenarios-b74102adbd36)
-
-* CryptoQuikRead_052 - [Mining Centralization Scenarios](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_052---Mining-Centralization-Scenarios-e2ndt1)
-* CryptoQuikRead_088 - [Feared 51% Attacks Are Now Becoming Regular](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_088---Feared-51-Attacks-Are-Now-Becoming-Regular-e2ndrs)
-* CryptoQuikRead_091 - [BetterHash Aims to Increase Bitcoin Mining Decentralization](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_091---BetterHash-Aims-to-Increase-Bitcoin-Mining-Decentralization-e2ndro)
-* CryptoQuikRead_124 - [ASIC Resistance is Nothing but a Blockchain Buzzword](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_124---ASIC-Resistance-is-Nothing-but-a-Blockchain-Buzzword-e2ndql)
-* GuysTake_015 - [The Bcash 51% Attack](https://anchor.fm/thecryptoconomy/episodes/GuysTake_015---The-Bcash-51-Attack-e44su2)
-
-
-
-
-

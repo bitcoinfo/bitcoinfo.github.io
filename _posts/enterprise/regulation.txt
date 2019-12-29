@@ -34,3 +34,7 @@
 
 [How Do Private Digital Currencies Affect Government Policy? by Max...](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3437529)
   > This paper provides a systematic evaluation of the different types of digital currencies. We express skepticism regarding centralized digital currencies and the
+
+
+* [California Passes Bill Defining Blockchain and Crypto Terms](https://news.bitcoin.com/california-passes-bill-defining-blockchain-and-crypto-terms)
+  >A draft law designed to amend California’s legislation to create legal grounds for the implementation of crypto-related technologies has been passed by the state’s legislature. Assembly Bill 2658 contains important definitions of some key blockchain and crypto terms.

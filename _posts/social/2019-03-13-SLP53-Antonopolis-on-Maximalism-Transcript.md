@@ -1,25 +1,19 @@
 ---
 layout: page-fullwidth
-title: "Stephan Livera and Andreas Antonopolous, on Bitcoin Maximalism - SLP53"
+title: "Transcriopt - Stephan Livera and Andreas Antonopolous, on Bitcoin Maximalism - SLP53"
 description: Transcript of Stephan Livera with Andreas Antonopoulos - On Bitcoin Maximalism
 excerpt: "..the term was coined by Vitalik return who used it to criticize the position that only Bitcoin matters or only Bitcoin will survive and I think that might be perhaps overstating it. but it was very quickly embraced by quite a few people who who found it to be a very comfortable position to take, and didn't see that as a provocation by Vitalik."
-share: true
 header: 
   image: "/images/antonop-livera-maximalism-header.png"
   teaser: "/images/antonop-livera-maximalism.png"
   caption: "[SLP53 ANDREAS M. ANTONOPOULOS – ON BITCOIN MAXIMALISM](https://stephanlivera.com/episode/53)"
-toc: false
-classes: wide
 last_modified_at: 2019-04-20T11:22:33-23:00
 categories: ["Transcripts","Bitcoin"]
 tags:
   - Stephan Livera
   - Andreas Antonopolous
   - Bitcoin Maximalism
-redirect_from:
-  - /transcripts/SLP53-Livera-Antonopolis-Maximalism-Transcript/
-permalink: '/posts/transcripts/SLP53-Livera-Antonopolis-Maximalism-Transcript/'
-cannonical_url: 'https://sourcecrypto.pub/posts/SLP53-Livera-Antonopolis-Maximalism-Transcript/'
+permalink: '/social/SLP53-Antonopolis-Maximalism-Transcript/'
 
 ---
 

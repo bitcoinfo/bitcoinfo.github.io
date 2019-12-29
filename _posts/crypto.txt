@@ -1,0 +1,16 @@
+
+## Ethereum
+
+
+{% include figure image_path="https://imgur.com/FuTVcMm.png" caption="[The Future of Ethereum Doesn't Have Wallets](https://medium.com/mycrypto/the-future-of-ethereum-doesnt-have-wallets-232fcee708bf)" %}
+
+
+* CryptoQuikRead_019 - [The Future of Ethereum Doesn't Have Wallets](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_019---The-Future-of-Ethereum-Doesnt-Have-Wallets-e2ndu9)
+* CryptoQuikRead_041 - [A Proof of Stake Design Philosophy](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_041---A-Proof-of-Stake-Design-Philosophy-e2ndtb)
+* CryptoQuikRead_042 - [Critique of Buterin's Proof of Stake Design Philosophy](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_042---Critique-of-Buterins-Proof-of-Stake-Design-Philosophy-e2ndt7)
+* CryptoQuikRead_090 - [Sharding Centralizes Ethereum](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_090---Sharding-Centralizes-Ethereum-e2ndrr)
+* CryptoQuikRead_098 - [The Challenges of Building Ethereum Infrastructure](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_098---The-Challenges-of-Building-Ethereum-Infrastructure-e2ndrn)
+* CryptoQuikRead_121 - [Ethereum, Fomo3D, and Dangerous Game Theory](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_121---Ethereum--Fomo3D--and-Dangerous-Game-Theory-e2ndqp)
+* CryptoQuikRead_223 - [Ethereum Architecture is Flawed](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_223---Ethereum-Architecture-is-Flawed-e3i5k1)
+
+

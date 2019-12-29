@@ -1,9 +1,10 @@
 ---
 layout: page-fullwidth
 title: 🔩-drivechain
-published: false
+permalink: /layer2/drivechain/
 ---
 
-⧉infominer 09-Aug-19 01:58 AM
+[drivechain.info](http://www.drivechain.info/)
 
-[http://www.drivechain.info/](http://www.drivechain.info/) (edited)
+
+[Drivechain Release Announcement](http://www.drivechain.info/blog/first-release/)

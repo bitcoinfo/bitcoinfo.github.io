@@ -53,4 +53,4 @@ permalink: /technical/bitcoin-core/
   > To remove the confusion between the Bitcoin network and the reference client implementation that we maintain in this repository, both confusingly named &#39;bitcoin&#39;, we&#39;d like ...
 
 [bitcoin-core/bitcoincore.org](https://github.com/bitcoin-core/bitcoincore.org)
-  > Bitcoin Core project website. Contribute to bitcoin-core/bitcoincore.org development by creating an account on GitHub.
+  > Bitcoin Core project website. 

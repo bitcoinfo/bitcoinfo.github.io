@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: 📦 Bitcoin Scripting 
-published: true
+permalink: /practical/development/scripting/
 ---
 
 
