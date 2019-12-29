@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
-title: 🔩-liquid-btc-info
-published: false
+title: "🔩liquid-btc-info"
+permalink: layer2/liquid/
 ---
 
 ⧉infominer 19-Jul-19 11:10 PM

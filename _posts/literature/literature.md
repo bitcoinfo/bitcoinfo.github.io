@@ -4,17 +4,16 @@ title: 🧾-literature
 published: false
 ---
 
-⧉infominer 19-Jul-19 11:55 PM
+
+
+[https://www.essaysonbitcoin.com/uploads/3/4/9/6/3496353/essaysonbitcoinv7.pdf](https://www.essaysonbitcoin.com/uploads/3/4/9/6/3496353/essaysonbitcoinv7.pdf)
+
+These essays represent varying viewpoints on what Bitcoin is to each participant. The common thread is a long time horizon, deep knowledge on the topic and some historical context. The idea is to provide a contrast to the increasingly short term focus that other platforms and businesses seem to precipitate. I hope you enjoy the series.
 
 [http://nakamotoinstitute.org/literature/](http://nakamotoinstitute.org/literature/)
 
-⧉infominer 20-Jul-19 12:18 AM
-
-[https://twitter.com/SebastienGllmt/status/1060744966618529793](https://twitter.com/SebastienGllmt/status/1060744966618529793)
-
-[Sebastien Guillemot (@SebastienGllmt)](https://twitter.com/SebastienGllmt)
-
-Wow this is awesome! Check out this slide deck about the Bitcoin Backbone Model. The math used in this paper is reused in a bunch of papers about crypto (including Cardano) so understanding this will help you understand all the other papers! [https://t.co/lUb3NVaOi4](https://t.co/lUb3NVaOi4)
+[Sebastien Guillemot (@SebastienGllmt)](https://twitter.com/SebastienGllmt/status/1060744966618529793)
+  > Wow this is awesome! Check out this slide deck about the Bitcoin Backbone Model. The math used in this paper is reused in a bunch of papers about crypto (including Cardano) so understanding this will help you understand all the other papers! [https://t.co/lUb3NVaOi4](https://t.co/lUb3NVaOi4)
 
 Twitter
 
