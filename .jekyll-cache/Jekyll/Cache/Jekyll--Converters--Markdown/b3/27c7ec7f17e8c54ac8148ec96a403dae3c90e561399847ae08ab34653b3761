@@ -1,0 +1,84 @@
+I"d<p><a href="https://twitter.com/KryptykHex/status/1005079233075515393">Jonathodl ₿ (@KryptykHex)</a></p>
+<blockquote>
+  <p>#Bitcoin is by far the most energy efficient monetary system we’ve ever designed.
+<a href="https://coincenter.org/entry/bitcoin-electricity">Estimating Bitcoin Electricity Use: A Beginner’s Guide | Coin Center</a>
+Summarizing complexities and pitfalls in analyzing the electricity demand of new information technology, focusing on Bitcoin, the mostly widely used …</p>
+</blockquote>
+
+<ul>
+  <li><a href="https://medium.com/@hassmccook/the-economic-environmental-cost-of-bitcoin-part-i-ac162067721d">The Cost &amp; Sustainability of Bitcoin — Part I</a>
+    <blockquote>
+      <p>This article is the first in a 10-part series on the Economic &amp; Environmental Cost of Bitcoin. We will be revisiting my work from 2014…</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.academia.edu/37178295/The_Cost_and_Sustainability_of_Bitcoin_August_2018_">The Cost &amp; Sustainability of Bitcoin (August 2018)</a>
+    <blockquote>
+      <p>This paper serves to update the assumptions used in a prior version of this research from February 2015 (<a href="https://www.academia.edu/7666373/_OBSOLETE_An_Order-of-Magnitude_Estimate_of_the_Relative_Sustainability_of_the_Bitcoin_Network">An Order-of-Magnitude Estimate of the Relative Sustainability of the Bitcoin Network</a>), and provides a systematic methodology of modelling the environmental and economic costs of Bitcoin. Furthermore, the</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/@laurentmt/gravity-10e1a25d2ab2">Gravity – LaurentMT – Medium</a>
+    <blockquote>
+      <p>In the last years, a lot has been written about the “huge waste of energy” resulting from Bitcoin’s Proof of Work (PoW). In this series of four posts, we‘re going to challenge this widespread opinion by questioning the main metrics used to highlight the alleged increasing inefficiency of Bitcoin’s PoW.</p>
+
+      <p>In this first part, we‘ll first discuss the main utility of PoW in the Bitcoin protocol. Then, after a reminder of two important properties of Bitcoin’s PoW, we’ll define a mathematical formalization of this utility (Bitcoin.Days Secured) and we’ll use it to define two new metrics (Unit Cost and Average Cost). At last, we’ll check what these metrics can teach us about the evolution of the efficiency of Bitcoin’s PoW over time.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://twitter.com/KryptykHex/status/1005079233075515393">Jonathan Bitcoin Not Blockchain (@KryptykHex)</a>
+    <blockquote>
+      <p>#Bitcoin is by far the most energy efficient monetary system we’ve ever designed.
+<img src="https://pbs.twimg.com/media/DfLCOxlUwAAIegz.jpg:large" alt="" /></p>
+    </blockquote>
+  </li>
+  <li><a href="https://bitcointechtalk.com/the-anatomy-of-proof-of-work-98c85b6f6667">The Anatomy of Proof-of-Work - Bitcoin Tech Talk</a>
+    <blockquote>
+      <p>Proof-of-Work (PoW) was originally invented as a measure against email spams. Only later it was adapted to be used in digital cash [1].</p>
+    </blockquote>
+  </li>
+  <li>
+    <p><a href="https://medium.com/@venkinarayanan/block-chain-mining-proof-work-stake-95345d8af443">Block Chain Mining — Proof Work &amp; Stake - Venkatesh Narayanan</a> - What does it takes to add a new transaction / record / block to the blockchain ?</p>
+  </li>
+  <li><a href="https://twitter.com/uneeb123/status/1042267905881190400">Uneeb Agha (@uneeb123)</a>
+    <blockquote>
+      <p>1/ Proof of work is still pretty poorly understood. I’ll break it down in my own terms.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://twitter.com/nic__carter/status/1041659062855843840">nic carter (@nic__carter)</a>
+    <blockquote>
+      <p>Between @danheld and @LaurentMT, PoW is in safe hands. Laurent’s latest is bang on the money. PoW enforces churn in the validator set, PoS enables incumbents to maintain a costless advantage. <a href="https://t.co/ipSScdMX9w">https://t.co/ipSScdMX9w</a></p>
+    </blockquote>
+  </li>
+  <li><a href="https://twitter.com/danheld/status/1040621230691213314">Dan Hedl (@danheld)</a>
+    <blockquote>
+      <p>1/ Most people think #Bitcoin’s PoW is “wasteful.” I explore how everything is energy, money is energy, subjective use of energy, and PoW’s costs relative to existing governance systems For a deeper dive, my Medium post: <a href="https://t.co/a3wJW5Y1Ni">https://t.co/a3wJW5Y1Ni</a> TL;DR - check out this t…</p>
+    </blockquote>
+  </li>
+  <li><a href="https://grisha.org/blog/2018/01/23/explaining-proof-of-work/">Blockchain Proof-of-Work is a Decentralized Clock - Gregory Trubetskoy</a>
+    <blockquote>
+      <p>This is an explanation of the key function on Proof-of-Work in the Bitcoin blockchain. It focuses on the one feature of Proof-of-Work that is …</p>
+    </blockquote>
+  </li>
+  <li><a href="https://twitter.com/jimmysong/status/1034051762393505793">Jimmy Song (송재준) (@jimmysong)</a>
+    <blockquote>
+      <p>Why you need Proof of Work: <a href="https://t.co/UyzAuw561O">Off the Chain, with Jimmy Song - Why you need Proof of Work</a> via @YouTube</p>
+    </blockquote>
+  </li>
+  <li><a href="https://twitter.com/danheld/status/1032322008854421504">Dan Hedl (@danheld)</a>
+    <blockquote>
+      <p>1/ Most people have misconceptions about PoW being “wasteful.” Because this narrative is so popular, I’ve spent some time collecting my thoughts on its utility, efficiency, and morality. A thread:</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h3 id="cryptoconomy-podcast">Cryptoconomy Podcast</h3>
+
+<ul>
+  <li>CryptoQuikRead_151 - <a href="https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_151---Gravity-Part-1---Bitcoins-POW-e2ndpo">Gravity [Part 1 - Bitcoin’s POW]</a></li>
+  <li>CryptoQuikRead_152 - <a href="https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_152---Yin-and-Yang-of-Bitcoin-Part-2---Bitcoins-POW-e2ndpn">Yin and Yang of Bitcoin [Part 2 - Bitcoin’s POW]</a></li>
+  <li>CryptoQuikRead_153 - <a href="https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_153---Cliffhangers-Part-3---Bitcoins-POW-e2ndpm">Cliffhangers [Part 3 - Bitcoin’s POW]</a></li>
+  <li>CryptoQuikRead_154 - <a href="https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_154---Electric-Money-Part-4---Bitcoins-POW-e2ndpl">Electric Money [Part 4 - Bitcoin’s POW]</a></li>
+  <li>CryptoQuikRead_155 - <a href="https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_155---POW-is-Efficient-e2ndpk">POW is Efficient</a></li>
+  <li>CryptoQuikRead_158 - <a href="https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_158---Anatomy-of-Proof-of-Work-Part-1-e2ndpg">Anatomy of Proof of Work [Part 1]</a></li>
+  <li>CryptoQuikRead_056 - <a href="https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_056---Five-Myths-About-Bitcoins-Energy-Use-e2ndst">Five Myths About Bitcoin’s Energy Use</a></li>
+  <li>CryptoQuikRead_017 - <a href="https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_017---Natural-v--Artifical-Money-Why-Bitcoin-is-the-Greatest-Thing-to-Happen-for-Alternative-Energy-e2ndub">Natural v. Artifical Money Why Bitcoin is the Greatest Thing to Happen for Alternative Energy</a></li>
+</ul>
+:ET

@@ -1,14 +1,16 @@
 # ASCII-Font › http://patorjk.com/software/taag/#p=display&f=Slant&t=Phlow
+#
 #      _____ _ __          _____      __  __  _
 #     / ___/(_) /____     / ___/___  / /_/ /_(_)___  ____ ______
 #     \__ \/ / __/ _ \    \__ \/ _ \/ __/ __/ / __ \/ __ `/ ___/
 #    ___/ / / /_/  __/   ___/ /  __/ /_/ /_/ / / / / /_/ (__  )
 #   /____/_/\__/\___/   /____/\___/\__/\__/_/_/ /_/\__, /____/
 #                                                 /____/
-
-title: 'Bitcoinfo'
-slogan: 'Curated Bitcoin Info'
-description: 'Bitcoin is a difficult subject, requiring much background knowledge, to begin understanding. Bitcoinfo breaks down the varieties into a navigable structure.'
+#
+# Title of your website
+title: Bitcoinfo
+slogan: Curated Bitcoin Info
+description: "Bitcoin is a difficult subject, requiring much background knowledge, to begin understanding. Bitcoinfo breaks down it's varieties into a navigable structure."
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created with &hearts; by <a href="https://infominer.xyz">infominer</a>, with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
@@ -31,7 +33,7 @@ improve_content: https://github.com/bitcoinfo/bitcoinfo.github.io/blob/master
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://bitcoinfo.xyz/images/'
+urlimg: 'https://bitcoinfo.xyz/assets/img/'
 
 
 # Logo size is 600x80 pixels
@@ -105,12 +107,13 @@ defaults:
       show_meta: true 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
+      author: infominer    # Default author for pages
   -
     scope:
       path: '_posts'
       type: 'posts'
     values:
+      layout: page-fullwidth
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
