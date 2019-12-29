@@ -6,7 +6,7 @@ gh-repo: bitcoin-nerds/bitcoin-nerds.github.io
 gh-badge: [star, fork, follow]
 tags: [BTC-Nerds,Infominer]
 image: /img/hello_world.jpeg
-published: true
+published: false
 comments: false
 ---
 
