@@ -1,0 +1,62 @@
+I"�<ul>
+  <li><a href="https://en.bitcoin.it/wiki/Mining">en.bitcoin.it/wiki/Mining</a></li>
+  <li><a href="https://www.reddit.com/r/Bitcoin/comments/cn6wff/a_brief_history_of_bitcoin_mining/">A brief history of bitcoin mining.</a></li>
+</ul>
+
+<h3 id="code">Code</h3>
+
+<p><a href="https://github.com/MultiPoolMiner/MultiPoolMiner">MultiPoolMiner/MultiPoolMiner</a></p>
+<blockquote>
+  <p>Monitors crypto mining pools in real-time in order to find the most profitable for your machine. Controls any miner that is available via command line. - MultiPoolMiner/MultiPoolMiner</p>
+</blockquote>
+
+<p><a href="https://github.com/jgarzik/pyminer">jgarzik/pyminer</a></p>
+<blockquote>
+  <p>Python miner for bitcoin.</p>
+</blockquote>
+
+<p><a href="https://github.com/philipperemy/my-first-bitcoin-miner">philipperemy/my-first-bitcoin-miner</a></p>
+<blockquote>
+  <p>For the curious minds who want to understand how Bitcoin Blockchain works! - philipperemy/my-first-bitcoin-miner</p>
+</blockquote>
+
+<p><a href="https://github.com/MrPlusGH/NPlusMiner">MrPlusGH/NPlusMiner</a></p>
+<blockquote>
+  <table>
+    <tbody>
+      <tr>
+        <td>NPlusMiner + GUI</td>
+        <td>NVIDIA/AMD/CPU miner</td>
+        <td>Autoupdate</td>
+        <td>Auto Pool/Algo switching - MrPlusGH/NPlusMiner</td>
+      </tr>
+    </tbody>
+  </table>
+</blockquote>
+
+<h2 id="cryptoconomy-podcast">Cryptoconomy Podcast</h2>
+
+<p><a href="https://medium.com/@jimmysong/mining-centralization-scenarios-b74102adbd36"><img src="https://imgur.com/nG6qFGn.png" alt="" /></a></p>
+
+<ul>
+  <li>CryptoQuikRead_052 - <a href="https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_052---Mining-Centralization-Scenarios-e2ndt1">Mining Centralization Scenarios</a></li>
+  <li>CryptoQuikRead_088 - <a href="https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_088---Feared-51-Attacks-Are-Now-Becoming-Regular-e2ndrs">Feared 51% Attacks Are Now Becoming Regular</a></li>
+  <li>CryptoQuikRead_091 - <a href="https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_091---BetterHash-Aims-to-Increase-Bitcoin-Mining-Decentralization-e2ndro">BetterHash Aims to Increase Bitcoin Mining Decentralization</a></li>
+  <li>CryptoQuikRead_124 - <a href="https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_124---ASIC-Resistance-is-Nothing-but-a-Blockchain-Buzzword-e2ndql">ASIC Resistance is Nothing but a Blockchain Buzzword</a></li>
+  <li>GuysTake_015 - <a href="https://anchor.fm/thecryptoconomy/episodes/GuysTake_015---The-Bcash-51-Attack-e44su2">The Bcash 51% Attack</a></li>
+</ul>
+
+<h2 id="pools">Pools</h2>
+
+<p><a href="https://slushpool.com/stats/">slushpool.com</a>
+Slush’s bitcoin mining pool</p>
+
+<h2 id="assorted">Assorted</h2>
+
+<p><a href="https://drive.google.com/file/d/1vkk7yI7F2QGDIBhHf_aYVHzpWrcaPVZA/view">Mining Share Transactions.docx</a>
+<a href="https://twitter.com/lukedashjr/status/1159561749164638209?s=12">Luke Dashjr (@LukeDashjr)</a></p>
+<blockquote>
+  <p>Despite claims, @Blockstream’s hosted mining services are absolutely a centralisation risk, just like any other hosted mining. If buying hosted mining, use a low-hashrate company to provide it, but don’t fool yourself into thinking it’s like self-mining. <a href="https://t.co/XdF">https://t.co/XdF</a>…</p>
+</blockquote>
+
+:ET

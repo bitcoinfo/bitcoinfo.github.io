@@ -1,0 +1,213 @@
+I"�<h3 id="-java-scala">🏗 Java-scala</h3>
+
+<ul>
+  <li><a href="https://github.com/knowm/XChange">knowm/XChange</a>
+    <blockquote>
+      <p>XChange is a Java library providing a streamlined API for interacting with 60+ Bitcoin and Altcoin exchanges providing a consistent interface for trading and accessing market data. - knowm/XChange</p>
+    </blockquote>
+  </li>
+  <li><a href="https://bitcoin-s.org/">bitcoin-s · Bitcoin implementation in Scala</a>
+<a href="https://github.com/bitcoin-s/bitcoin-s">bitcoin-s/bitcoin-s</a>
+    <blockquote>
+      <p>Bitcoin Implementation in Scala.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://bitcoinj.github.io/">bitcoinj.github.io/</a>
+<a href="https://github.com/bitcoinj/bitcoinj">bitcoinj/bitcoinj</a>
+    <blockquote>
+      <p>A library for working with Bitcoin.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/ACINQ/eclair">ACINQ/eclair</a>
+    <blockquote>
+      <p>A scala implementation of the Lightning Network.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h3 id="-javascript">🏗 Javascript</h3>
+
+<ul>
+  <li><a href="https://github.com/cryptocoinjs/awesome-cryptocoinjs">cryptocoinjs/awesome-cryptocoinjs</a>
+    <blockquote>
+      <p>Useful crypto coins JavaScript libraries.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/bitpay/bitcore/tree/v8.0.0/packages/bitcore-lib">bitpay/bitcore/tree/v8.0.0/packages/bitcore-lib</a>
+    <blockquote>
+      <p>A full stack for bitcoin and blockchain-based applications</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/bitcoinjs">bitcoinjs</a>
+<a href="https://github.com/bitcoinjs/bitcoinjs-lib">bitcoinjs/bitcoinjs-lib</a></li>
+  <li><a href="http://cryptocoinjs.com/">CryptoCoinJS</a>
+    <blockquote>
+      <p>CryptoCoinJS Bitcoin and Crypto Currency JavaScript Library</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/blocktrail/blocktrail-sdk-nodejs">blocktrail/blocktrail-sdk-nodejs</a>
+    <blockquote>
+      <p>BlockTrail’s Developer Friendly NodeJS SDK for the BlockTrail API</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/bcoin-org/bcoin">bcoin-org/bcoin</a>
+    <blockquote>
+      <p>Javascript bitcoin library for node.js and browsers</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/imfly/bitcoin-on-nodejs">imfly/bitcoin-on-nodejs</a>
+    <blockquote>
+      <p>《Node.js区块链开发》（网名《Nodejs开发加密货币》），纸质书籍和在线培训已经全部开启.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/bitcoinjs/bip32">bitcoinjs/bip32</a>
+    <blockquote>
+      <p>A BIP32 compatible library.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/bitcoinjs/indexd">bitcoinjs/indexd</a>
+    <blockquote>
+      <p>An external bitcoind index management service module - bitcoinjs/indexd</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h3 id="-python">🏗 Python</h3>
+
+<ul>
+  <li><a href="https://github.com/blocktrail/blocktrail-sdk-python">blocktrail/blocktrail-sdk-python</a>
+    <blockquote>
+      <p>Python BlockTrail’s Developer Friendly SDK for the BlockTrail API</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/etotheipi/BitcoinArmory">etotheipi/BitcoinArmory</a></li>
+  <li><a href="https://github.com/F483/btctxstore">F483/btctxstore</a>
+    <blockquote>
+      <p>I simple library to store/retrieve information in bitcoin transactions using OP_RETURN - F483/btctxstore</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/vbuterin/pybitcointools">vbuterin/pybitcointools</a>
+    <blockquote>
+      <p>SImple, common-sense Bitcoin-themed Python ECC library - vbuterin/pybitcointools</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/richardkiss/pycoin">richardkiss/pycoin</a>
+    <blockquote>
+      <p>Python-based Bitcoin and alt-coin utility library. - richardkiss/pycoin</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/sr-gi/bitcoin_tools">sr-gi/bitcoin_tools</a>
+    <blockquote>
+      <p>Python Bitcoin tools.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/julienr/ipynb_playground">julienr/ipynb_playground</a>
+    <blockquote>
+      <p>Various ipython notebooks.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/ofek/bit">ofek/bit</a>
+    <blockquote>
+      <p>Bitcoin made easy.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/chainside/btcpy">chainside/btcpy</a>
+    <blockquote>
+      <p>A Python3 SegWit-compliant library which provides tools to handle Bitcoin data structures in a simple fashion. - chainside/btcpy</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/ascribe/transactions">ascribe/transactions</a>
+    <blockquote>
+      <p>transactions: Bitcoin for humans.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h3 id="-net-libraries">🏗 Net-libraries</h3>
+
+<ul>
+  <li><a href="https://github.com/MetacoSA/NBitcoin">MetacoSA/NBitcoin</a>
+    <blockquote>
+      <p>Comprehensive Bitcoin library for the .NET framework. - MetacoSA/NBitcoin</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/cryptean/bitcoinlib">cryptean/bitcoinlib</a>
+    <blockquote>
+      <p>Bitcoin Core RPC compatible, battle-tested .NET library and RPC wrapper for Bitcoin and Altcoins - cryptean/bitcoinlib</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/MetacoSA/QBitNinja">MetacoSA/QBitNinja</a></li>
+</ul>
+
+<h3 id="-ruby">🏗 Ruby</h3>
+
+<ul>
+  <li><a href="https://github.com/lian/bitcoin-ruby">lian/bitcoin-ruby</a>
+    <blockquote>
+      <p>bitcoin utils and protocol in ruby.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h3 id="-golang">🏗 Golang</h3>
+
+<ul>
+  <li><a href="https://github.com/piotrnar/gocoin">piotrnar/gocoin</a>
+    <blockquote>
+      <p>Full bitcoin solution written in Go (golang).</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h3 id="-c">🏗 C++</h3>
+
+<ul>
+  <li><a href="https://libbitcoin.org/">libbitcoin.org/</a></li>
+  <li><a href="https://github.com/ElementsProject/libwally-core">ElementsProject/libwally-core</a>
+    <blockquote>
+      <p>Useful primitives for wallets.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/bitcoin-core/secp256k1">bitcoin-core/secp256k1</a>
+    <blockquote>
+      <p>Optimized C library for EC operations on curve secp256k1 - bitcoin-core/secp256k1</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h3 id="-php">🏗 PHP</h3>
+
+<ul>
+  <li><a href="https://github.com/coinspark/php-OP_RETURN">coinspark/php-OP_RETURN</a>
+    <blockquote>
+      <p>Simple PHP commands and library for using bitcoin OP_RETURNs.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/blocktrail/blocktrail-sdk-php">blocktrail/blocktrail-sdk-php</a>
+    <blockquote>
+      <p>BlockTrail’s Developer Friendly PHP SDK for the BlockTrail API</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/Bit-Wasp/bitcoin-php">Bit-Wasp/bitcoin-php</a></li>
+</ul>
+
+<h3 id="-rust">🏗 Rust</h3>
+
+<ul>
+  <li><a href="https://github.com/mikispag/bitiodine">mikispag/bitiodine</a>
+    <blockquote>
+      <p>A Rust Bitcoin blockchain parser with clustering capabilities, allowing to group together addresses in ownership clusters. Please contact @mikispag if interested in using BitIodine for any real-wor…</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/cryptean/bitcoinlib">cryptean/bitcoinlib</a>
+    <blockquote>
+      <p>Bitcoin Core RPC compatible, battle-tested .NET library and RPC wrapper for Bitcoin and Altcoins</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/tomasvdw/bitcrust">tomasvdw/bitcrust</a>
+    <blockquote>
+      <p>Bitcoin software suite.</p>
+    </blockquote>
+  </li>
+</ul>
+:ET
