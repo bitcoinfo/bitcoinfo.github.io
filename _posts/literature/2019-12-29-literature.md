@@ -11,6 +11,8 @@ permalink: /literature/
 * [Crypto Words // A journal of Bitcoin commentary](https://cryptowords.github.io/)
 * [Literature - nakamotoinstitute.org](http://nakamotoinstitute.org/literature/) 
   > Bitcoin was not forged in a vacuum. These works serve to contextualize Bitcoin into the broader story of cryptography and freedom.
+* [Jameson Lopp's Bitcoin Articles](https://www.lopp.net/articles.html)
+
 
 ## Academic \ Research
 
@@ -75,3 +77,17 @@ permalink: /literature/
 * [Cryptoconomy Bitcoin Survivor’s Book List](https://cryptoconomy.life/bitcoin-survivors-book-list/)
 * [BlockchainBooks](https://blockchainbooks.github.io) - [github](https://github.com/BlockchainBooks/blockchainbooks.github.io)
 * [BlockchainDevs/CryptocurrencyAwesome#bitcoin](https://github.com/BlockchainDevs/CryptocurrencyAwesome#bitcoin)
+
+## DAO
+
+
+[Most Cited Decentralized Autonomous Organization Publications](https://blockchainlibrary.org/2017/10/most-cited-decentralized-autonomous-organization-publications)
+Last updated October 26, 2017. “Blockchain: Blueprint for a new economy”. M Swan. 2015. books.google.com . 274 cites. “Blockchain Revolution: How the technology behind Bitc…
+
+
+[Drew Hinkes (@propelforward)](https://twitter.com/propelforward/status/1066789728043839488)
+  > some links: https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/
+  > https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3082055
+  > https://bitcoinmagazine.com/articles/bootstrapping-a-decentralized-autonomous-corporation-part-i-1379644274/
+  > maybe chapter by Deegan in: https://amazon.com/Bitcoin-Burning-Man-Beyond-Identity/dp/1937146588
+  > [Bootstrapping A Decentralized Autonomous Corporation: Part I](https://bitcoinmagazine.com/articles/bootstrapping-a-decentralized-autonomous-corporation-part-i-1379644274)

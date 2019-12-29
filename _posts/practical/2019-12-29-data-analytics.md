@@ -4,7 +4,7 @@ title: Bitcoin Data and Analytics
 permalink: /practical/data-analytics/
 ---
 
-
+[Blockchain Analysis Is About to Get Harder as P2EP Enters Testing Phase](https://bitcoinmagazine.com/articles/blockchain-analysis-about-get-harder-p2ep-enters-testing-phase)
 
 ## ⧉ Data
 * [bitdb.network/](https://bitdb.network/)

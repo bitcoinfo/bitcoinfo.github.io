@@ -14,3 +14,48 @@
 * CryptoQuikRead_223 - [Ethereum Architecture is Flawed](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_223---Ethereum-Architecture-is-Flawed-e3i5k1)
 
 
+[Blockstack](https://www.youtube.com/channel/UC3J2iHnyt2JtOvtGVf_jpHQ)
+
+[Misthos: Decentralizing your cash flow | Decentralizing the World ...](https://youtu.be/e0YX6ovMoCk)
+
+Blockstack Decentralizing the World Tour event in London, October 1, 2018 with Justin Carter, Founder, Misthos. [https://community.blockstack.org/dwt-tour-lon](https://community.blockstack.org/dwt-tour-lon)...
+
+
+# hash-algos
+
+[NIST hash function competition](https://en.wikipedia.org/wiki/NIST_hash_function_competition)
+
+The NIST hash function competition was an open competition held by the US National Institute of Standards and Technology (NIST) to develop a new hash function called SHA-3 to complement the older SHA-1 and SHA-2. The competition was formally announced in the Federal Register ...
+
+[Password Hashing Competition](https://en.wikipedia.org/wiki/Password_Hashing_Competition)
+
+The Password Hashing Competition was an open competition announced in 2013 to select one or more password hash functions that can be recognized as a recommended standard. It was modeled after the successful Advanced Encryption Standard process and NIST hash function competiti...
+
+[Post-Quantum Cryptography | CSRC](https://csrc.nist.gov/Projects/Post-Quantum-Cryptography)
+
+NIST has initiated a process to solicit, evaluate, and standardize one or more quantum-resistant public-key cryptographic algorithms. Full details can be found in the Post-Quantum Cryptography Standardization page. The Round 2 candidates were announced January 30, 2...
+
+#
+
+[State Channel for Dummies: Part 4 – BlockChannel – Medium](https://medium.com/blockchannel/state-channel-for-dummies-part-4-f3ba9d76c7c4)
+
+Ledger Channels and Virtual Channels
+
+[State Channels Q&A – Eric Olszewski – Medium](https://medium.com/@eolszewski/state-channels-q-a-fbdb6ba9c131?source=placement_card_footer_grid---------2-44)
+The Solution to Scaling Blockchain Now
+
+
+"State Channel Education for Everyone" [https://learnchannels.org/](https://learnchannels.org/) (edited)
+
+[State Channels - an explanation](https://www.jeffcoleman.ca/state-channels)
+State channels are a way of moving blockchain interactions into high-speed, low-cost "dedicated highways" between a set of defined participants.
+
+
+[Jeff Tong (@itsjefftong)](https://twitter.com/itsjefftong/status/1045360005845663750)
+@Arjun_Bhuptani from @ConnextNetwork talks about all the knicks and knacks to a production ready state channel network. It's crazy to see how far we've come since that whitepaper days! Check it out here: [https://t.co/tJXLEIchYX](https://t.co/tJXLEIchYX)
+
+[Patrick McCorry ☘️ (@paddykcl)](https://twitter.com/paddykcl/status/1073876560153739267)
+  > Following our FC feedback: [https://t.co/Um6gQbBEBu](https://t.co/Um6gQbBEBu) I updated the battleship paper to better focus it: [https://t.co/2AhiEchgD5](https://t.co/2AhiEchgD5) This is the "year of paper rejection" for me. It is really easy to get annoyed, but that isn't productive. The right attitude...
+
+[https://blog.coinfund.io/the-state-of-state-channels-2018-edition-f5492134ab96](https://blog.coinfund.io/the-state-of-state-channels-2018-edition-f5492134ab96)
+

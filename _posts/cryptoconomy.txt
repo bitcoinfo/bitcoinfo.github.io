@@ -1,71 +1,39 @@
-## Bitcoin
 
 
-{% include figure image_path="https://imgur.com/ZZZVt6l.png" caption="[bitcoinmagazine.com - Bitcoin 0.16.0 is Released: Here's What's New](https://bitcoinmagazine.com/articles/bitcoin-core-0160-released-heres-whats-new)" %}
 
-
-* CryptoQuikRead_016 - [Bitcoin 0.16.0 is Released: Here's What's New](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_016---Bitcoin-0-16-0-is-Released-Heres-Whats-New-e2nduc)
-* CryptoQuikRead_017 - [Natural v. Artifical Money Why Bitcoin is the Greatest Thing to Happen for Alternative Energy](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_017---Natural-v--Artifical-Money-Why-Bitcoin-is-the-Greatest-Thing-to-Happen-for-Alternative-Energy-e2ndub)
-* CryptoQuickRead_021 - [The Bullish case For Bitcoin](https://anchor.fm/thecryptoconomy/episodes/CryptoQuickRead_021---The-Bullish-case-For-Bitcoin-e2ndu7)
 * CryptoQuikRead_020 - [There is a Bitcoin Patent War Going On](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_020---There-is-a-Bitcoin-Patent-War-Going-On-e2ndu8)
 
-* CryptoQuikRead_031 - [Nobody Understands Bitcoin (and that's ok)](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_031---Nobody-Understands-Bitcoin-and-thats-ok-e2ndtt)
-* CryptoQuikRead_038 - [7 Misunderstandings of Bitcoin's Scaling Problem](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_038---7-Misunderstandings-of-Bitcoins-Scaling-Problem-e2ndtf)
-* CryptoQuikRead_040 - [Why Bitcoin is Different](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_040---Why-Bitcoin-is-Different-e2ndt5)
-* CryptoQuikRead_045 - [Why Schnorr Signatures will Solve 2 of Bitcoin's Biggest Problems](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_045---Why-Schnorr-Signatures-will-Solve-2-of-Bitcoins-Biggest-Problems-e2ndt9)
-* CryptoQuikRead_053 - [Pieter Wuille Chapioning Bitcoin Development](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_053---Pieter-Wuille-Chapioning-Bitcoin-Development-e2ndt0)
-* CryptoQuikRead_054 - [The Long Road To Segwit](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_054---The-Long-Road-To-Segwit-e2ndsv)
-* CryptoQuikRead_056 - [Five Myths About Bitcoin’s Energy Use](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_056---Five-Myths-About-Bitcoins-Energy-Use-e2ndst)
-* CryptoQuikRead_073 - [Introducing TxTenna: Decentralizing the Last Mile in Bitcoin](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_073---Introducing-TxTenna-Decentralizing-the-Last-Mile-in-Bitcoin-e2ndsc)
-* CryptoQuikRead_084 - [Analysis of Batching in Bitcoin](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_084---Analysis-of-Batching-in-Bitcoin-e2nds0)
-* CryptoQuikRead_086 - [Build the Bitcoin Economy, The Complete Contract Governance Platform](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_086---Build-the-Bitcoin-Economy--The-Complete-Contract-Governance-Platform-e2nds1)
-* CryptoQuikRead_087 - [Introducing Bitcoin Contract Governance](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_087---Introducing-Bitcoin-Contract-Governance-e2ndrv)
-* CryptoQuikRead_093 - [The Importance of Layer 2](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_093---The-Importance-of-Layer-2-e2ndrp)
-* CryptoQuikRead_096 - [Giacomo's Tweetstorm, Coinage in the Age of Bitcoin](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_096---Giacomos-Tweetstorm--Coinage-in-the-Age-of-Bitcoin-e2ndrk)
-* CryptoQuikRead_105 - [Why You Can’t Understand Bitcoin](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_105---Why-You-Cant-Understand-Bitcoin-e2ndrc)
-* CryptoQuikRead_114 - [Schnorr Poised to Become Bitcoin's Biggest Change Since SegWit](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_114---Schnorr-Poised-to-Become-Bitcoins-Biggest-Change-Since-SegWit-e2ndr1)
+* CryptoQuikRead_196 - [Understanding the Technical Side of Bitcoin](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_196---Understanding-the-Technical-Side-of-Bitcoin-e2ndo6)
+
 * CryptoQuikRead_115 - [Announcing Bitcoin OpTech](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_115---Announcing-Bitcoin-OpTech-e2ndr0)
-* CryptoQuikRead_107 - [If Bitcoin Had a First Draft, Wei Dai's B-Money Was It](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_107---If-Bitcoin-Had-a-First-Draft--Wei-Dais-B-Money-Was-It-e2ndra)
-* CryptoQuikRead_108 - [Bitcoin Governance](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_108---Bitcoin-Governance-e2ndr8)
+* CryptoQuikRead_084 - [Analysis of Batching in Bitcoin](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_084---Analysis-of-Batching-in-Bitcoin-e2nds0)
+
+
+
+* CryptoQuikRead_096 - [Giacomo's Tweetstorm, Coinage in the Age of Bitcoin](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_096---Giacomos-Tweetstorm--Coinage-in-the-Age-of-Bitcoin-e2ndrk)
+
 * CryptoQuikRead_109 - [The Bitcoin Risk Spectrum](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_109---The-Bitcoin-Risk-Spectrum-e2ndr7)
 * CryptoQuikRead_118 - [Securing Property with Owner Authority](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_118---Securing-Property-with-Owner-Authority-e2ndqs)
-* CryptoQuikRead_120 - [Visions of Bitcoin](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_120---Visions-of-Bitcoin-e2ndqq)
+
+
 * CryptoQuikRead_130 - [Media Coverage of Bitcoin is Still a Total Disaster](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_130---Media-Coverage-of-Bitcoin-is-Still-a-Total-Disaster-e2ndqf)
-* CryptoQuikRead_132 - [The Bitcoin Second Layer](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_132---The-Bitcoin-Second-Layer-e2ndqd)
 * CryptoQuikRead_134 - [Welcome to Bitcoin Island](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_134---Welcome-to-Bitcoin-Island-e2ndqb)
-* CryptoQuikRead_137 - [Half of the Remaining Bitcoin Supply is 'Spoken For'](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_137---Half-of-the-Remaining-Bitcoin-Supply-is-Spoken-For-e2ndq8)
-* CryptoQuikRead_143 - [The Time Value of Bitcoin](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_143---The-Time-Value-of-Bitcoin-e2ndq2)
-* CryptoQuikRead_144 - [SegWit2x Bugs Explained](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_144---SegWit2x-Bugs-Explained-e2ndq0)
-* CryptoQuikRead_146 - [The Three Economic Eras of Bitcoin](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_146---The-Three-Economic-Eras-of-Bitcoin-e2ndpu)
+
 * CryptoQuikRead_147 - [How to Critique Bitcoin, A Guide](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_147---How-to-Critique-Bitcoin--A-Guide-e2ndpt)
-* CryptoQuikRead_148 - [Bitcoin as a Conflict Prevention Protocol](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_148---Bitcoin-as-a-Conflict-Prevention-Protocol-e2ndps)
+
 * CryptoChat_005 - [Brady Swenson on Being an Informed Bitcoin Citizen](https://anchor.fm/thecryptoconomy/episodes/CryptoChat_005---Brady-Swenson-on-Being-an-Informed-Bitcoin-Citizen-e2ndq1)
 * CryptoChat_006 - [TheOneVortex on Building for Bitcoin](https://anchor.fm/thecryptoconomy/episodes/CryptoChat_006---TheOneVortex-on-Building-for-Bitcoin-e2ndpq)
-* CryptoQuikRead_151 - [Gravity [Part 1 - Bitcoin's POW]](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_151---Gravity-Part-1---Bitcoins-POW-e2ndpo)
-* CryptoQuikRead_152 - [Yin and Yang of Bitcoin [Part 2 - Bitcoin's POW]](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_152---Yin-and-Yang-of-Bitcoin-Part-2---Bitcoins-POW-e2ndpn)
-* CryptoQuikRead_153 - [Cliffhangers [Part 3 - Bitcoin's POW]](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_153---Cliffhangers-Part-3---Bitcoins-POW-e2ndpm)
-* CryptoQuikRead_154 - [Electric Money [Part 4 - Bitcoin's POW]](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_154---Electric-Money-Part-4---Bitcoins-POW-e2ndpl)
-* CryptoQuikRead_155 - [POW is Efficient](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_155---POW-is-Efficient-e2ndpk)
-* CryptoQuikRead_157 - [The Bitcoin Central Bank's Perfect Monetary Policy](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_157---The-Bitcoin-Central-Banks-Perfect-Monetary-Policy-e2ndph)
-* CryptoQuikRead_158 - [Anatomy of Proof of Work [Part 1]](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_158---Anatomy-of-Proof-of-Work-Part-1-e2ndpg)
 * CryptoQuikRead_159 - [Bitcoin, Chance, and Randomness [Part 2]](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_159---Bitcoin--Chance--and-Randomness-Part-2-e2ndpi)
 * CryptoQuikRead_160 - [Bitcoin, Blockade Runner of the Information Age](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_160---Bitcoin--Blockade-Runner-of-the-Information-Age-e2ndpf)
 * Guy'sTake_001 - [Poor in a World with Bitcoin, or Rich in a World Without It?](https://anchor.fm/thecryptoconomy/episodes/GuysTake_001---Poor-in-a-World-with-Bitcoin--or-Rich-in-a-World-Without-It-e2ndpb)
-* CryptoQuikRead_164 - [Bitcoin Optech's Scaling Bitcoin Special](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_164---Bitcoin-Optechs-Scaling-Bitcoin-Special-e2ndpa)
-* CryptoQuikRead_166 - [Liquid Network Launch and Thoughts from @LucasNuzzi](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_166---Liquid-Network-Launch-and-Thoughts-from-LucasNuzzi-e2ndp8)
-* CryptoQuikRead_167 - [Deep Dive into Strong Federations & Foundations of Liquid](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_167---Deep-Dive-into-Strong-Federations--Foundations-of-Liquid-e2ndp7)
 * CryptoChat_007 - [The One and Only @Real_Vijay](https://anchor.fm/thecryptoconomy/episodes/CryptoChat_007---The-One-and-Only-Real_Vijay-e2ndp1)
 * CryptoQuikRead_172 - [Bitcoin's Distribution Was Fair](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_172---Bitcoins-Distribution-Was-Fair-e2ndp0)
 * CryptoQuikRead_175 - [Open Sourcing Subzero](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_175---Open-Sourcing-Subzero-e2ndot)
   >Alok Menghrajani, security engineer at Square, details their Multisig & Hardware key management system for the cold storage of customer's Cash app Bitcoin balances. 
 * CryptoQuikRead_181 - [Bitcoin's Existential Crisis](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_181---Bitcoins-Existential-Crisis-e2ndok)
-* CryptoQuikRead_182 - [The Business of Bitcoin Cold Storage](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_182---The-Business-of-Bitcoin-Cold-Storage-e2ndoj)
-* CryptoQuikRead_184 - [How Many Forks Does it Take to Get to the Center of Satoshi's Vision](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_184---How-Many-Forks-Does-it-Take-to-Get-to-the-Center-of-Satoshis-Vision-e2ndog)
-* CryptoQuikRead_185 - [Sorry Bitcoin is Still Anarchist](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_185---Sorry-Bitcoin-is-Still-Anarchist-e2ndof)
-* CryptoQuikRead_196 - [Understanding the Technical Side of Bitcoin](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_196---Understanding-the-Technical-Side-of-Bitcoin-e2ndo6)
+
+
 * GUYSTAKE_006 - [100,000! ANCHOR.FM & MASTERING BITCOIN](https://anchor.fm/thecryptoconomy/episodes/GUYSTAKE_006---100-000--ANCHOR-FM--MASTERING-BITCOIN-e2nijv)
-* CryptoQuikRead_198 - [Unpacking Bitcoin's Social Contract](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_198---Unpacking-Bitcoins-Social-Contract-e2oct5)
-* CryptoQuikRead_201 - [Bitcoin is a Decentralized Organism - Mycelium [Part 1]](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_201---Bitcoin-is-a-Decentralized-Organism---Mycelium-Part-1-e2sarg)
 * GuysTake_007 - [Happy Birthday Bitcoin, Looking Back on 10 Insane Years](https://anchor.fm/thecryptoconomy/episodes/GuysTake_007---Happy-Birthday-Bitcoin--Looking-Back-on-10-Insane-Years-e2sh1j)
 * CryptoQuikRead_202 - [Dan Hedl thinks Satoshi's Vision is a Silly Endeavor](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_202---Dan-Hedl-thinks-Satoshis-Vision-is-a-Silly-Endeavor-e2v0j1)
 * CryptoQuikRead_203 - [Dont Trust, Verify, A Bitcoin Private Case Study](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_203---Dont-Trust--Verify--A-Bitcoin-Private-Case-Study-e2vgmt)
@@ -74,16 +42,12 @@
 * CryptoQuikRead_213 - [MuSig, A New MultiSignature Standard](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_213---MuSig--A-New-MultiSignature-Standard-e38hv5)
 * CryptoQuikRead_218 - [The Resolution of the Big Block Experiment](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_218---The-Resolution-of-the-Big-Block-Experiment-e3g7ms)
 * GuysTake_009 - [A Trust Model Comparison: Bitcoin vs. the Mighty Dollar](https://anchor.fm/thecryptoconomy/episodes/GuysTake_009---A-Trust-Model-Comparison-Bitcoin-vs--the-Mighty-Dollar-e3if6g)
-* CryptoQuikRead_224 - [Bitcoin is a Social Creature, Mycelium Part 2](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_224---Bitcoin-is-a-Social-Creature--Mycelium-Part-2-e3iq3u)
+* CryptoQuikRead_148 - [Bitcoin as a Conflict Prevention Protocol](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_148---Bitcoin-as-a-Conflict-Prevention-Protocol-e2ndps)
 * CryptoQuikRead_225 - [Bitcoin & the Promise of Independent Property Rights](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_225---Bitcoin--the-Promise-of-Independent-Property-Rights-e3j6b8)
 * CryptoQuikRead_226 - [Schnorr Signatures & The Inevitability of Privacy in Bitcoin](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_226---Schnorr-Signatures--The-Inevitability-of-Privacy-in-Bitcoin-e3jfhi)
 * [My Favorite Bitcoin Holidays? A Walk with Guy Through Bitcoin History](https://anchor.fm/thecryptoconomy/episodes/My-Favorite-Bitcoin-Holidays--A-Walk-with-Guy-Through-Bitcoin-History-e3kgpp)
 * CryptoChat_010 - [Guy & the PayPod on How Bitcoin Will Change the World](https://anchor.fm/thecryptoconomy/episodes/CryptoChat_010---Guy--the-PayPod-on-How-Bitcoin-Will-Change-the-World-e3kpfs)
 * CryptoQuikRead_227 - [Bitcoin is a Hedge Against the Cashless Society](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_227---Bitcoin-is-a-Hedge-Against-the-Cashless-Society-e3l5ne)
-* CryptoChat_010 - [Guy & the PayPod on How Bitcoin Will Change the World](https://anchor.fm/thecryptoconomy/episodes/CryptoChat_010---Guy--the-PayPod-on-How-Bitcoin-Will-Change-the-World-e3kpfs)
-* CryptoQuikRead_228 - [Minimum Viable Decentralization](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_228---Minimum-Viable-Decentralization-e3lfo9)
-* CryptoQuikRead_238 - [How to Scale Bitcoin Without Changing a Thing [Part 1]](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_238---How-to-Scale-Bitcoin-Without-Changing-a-Thing-Part-1-e3qgfg)
-* CryptoQuikRead_239 - [How to Scale Bitcoin Without Changing a Thing [Part 2]](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_239---How-to-Scale-Bitcoin-Without-Changing-a-Thing-Part-2-e3qsvi)
 * CryptoQuikRead_243 - [Bitcoin in Heavy Accumulation [Part 1]](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_243---Bitcoin-in-Heavy-Accumulation-Part-1-e3tnic)
 * [CryptoQuikRead_243 - Bitcoin in Heavy Accumulation [Part 2]](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_243---Bitcoin-in-Heavy-Accumulation-Part-2-e3u1gb)
 * CryptoQuikRead_245 - [Bitcoin's Gravity](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_245---Bitcoins-Gravity-e3urjl)
@@ -110,44 +74,6 @@
 * CryptoQuikRead_258 - [21 Lessons of the Bitcoin Rabbit Hole - Chapter 3](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_258---21-Lessons-of-the-Bitcoin-Rabbit-Hole---Chapter-3-e48kao)
 
 
-### Bitcoin - Casa
-
-[![](https://imgur.com/c0eHAmk.png)](https://medium.com/casa/casa-privacy-model-ee6d1a08fd82)
-
-
-* CryptoQuikRead_102 - [Casa's Privacy Model](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_102---Casas-Privacy-Model-e2ndri)
-* CryptoQuikRead_156 - [Features of the Casa Node](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_156---Features-of-the-Casa-Node-e2ndpj)
-* GuysTake_003 - [Casa Node First Impressions & A Few Updates](https://anchor.fm/thecryptoconomy/episodes/GuysTake_003---Casa-Node-First-Impressions--A-Few-Updates-e2ndon)
-* GuysTake_005 - [New Video - Casa Node Setup & Router Configuration](https://anchor.fm/thecryptoconomy/episodes/GuysTake_005---New-Video---Casa-Node-Setup--Router-Configuration-e2ndob)
-* CryptoQuikRead_205 - [Seven Guiding Principles at Casa](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_205---Seven-Guiding-Principles-at-Casa-e31fi9)
-* CryptoQuikRead_207 - [Announcing the Casa Browser Extension](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_207---Announcing-the-Casa-Browser-Extension-e33ao8)
-* CryptoQuikRead_237 - [Casa Keymaster Security - Mobile Key Overview](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_237---Casa-Keymaster-Security---Mobile-Key-Overview-e3pbg1)
-
-### Bitcoin Threat Model
-
-
-[![](https://imgur.com/pfCQUAa.png)](https://github.com/JWWeatherman)
-
-* CryptoQuikRead_208 - [The Bitcoin Threat Model [Part 1]](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_208---The-Bitcoin-Threat-Model-Part-1-e33vc0)
-* CryptoQuikRead_209 - [The Bitcoin Threat Model [Part 2]](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_209---The-Bitcoin-Threat-Model-Part-2-e34ah8)
-* CryptoQuikRead_210 - [Human Threat Model [Part 1]](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_210---Human-Threat-Model-Part-1-e352ah)
-* CryptoQuikRead_211 - [Human Threat Model [Part 2]](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_211---Human-Threat-Model-Part-2-e35ejd)
-* [The Bitcoin Threat Model](https://anchor.fm/thecryptoconomy/episodes/The-Bitcoin-Threat-Model-e35f5r)
-
-
-### Bitcoin - Privacy
-
-[![](https://imgur.com/jkXirjP.png)](https://medium.com/@nopara73/wasabi-privacy-focused-bitcoin-wallet-for-desktop-3962d567045a)
-
-
-* CryptoQuikRead_112 - [Wasabi Privacy Focused Bitcoin Wallet](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_112---Wasabi-Privacy-Focused-Bitcoin-Wallet-e2ndr4)
-* CryptoQuikRead_085 - [Increasing Bitcoin Privacy Using the Lightning Network](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_085---Increasing-Bitcoin-Privacy-Using-the-Lightning-Network-e2ndru)
-* CryptoQuikRead_138 - [Traditional Bitcoin Mixers](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_138---Traditional-Bitcoin-Mixers-e2ndq5)
-* CryptoQuikRead_149 - [Bitcoin as a PrivacyCoin](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_149---Bitcoin-as-a-PrivacyCoin-e2ndpr)
-* CryptoQuikRead_165 - [Why Privacy Matters](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_165---Why-Privacy-Matters-e2ndp9)
-* CryptoChat_12 - [Talking Privacy, Bitcoin & the New Economy with the Raleigh Bitcoin Meetup](https://anchor.fm/thecryptoconomy/episodes/CryptoChat_12---Talking-Privacy--Bitcoin--the-New-Economy-with-the-Raleigh-Bitcoin-Meetup-e4ar2g)
-* CryptoQuikRead_227 - [Bitcoin is a Hedge Against the Cashless Society](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_227---Bitcoin-is-a-Hedge-Against-the-Cashless-Society-e3l5ne)
-* CryptoQuikRead_100 - [Dandelions and a Bright Future for Bitcoin Privacy](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_100---Dandelions-and-a-Bright-Future-for-Bitcoin-Privacy-e2ndrg)
 
 ## Crypto
 
@@ -156,27 +82,20 @@
 
 * CryptoQuikRead_006 - [What You May Not Understand About Crypto Millionaires](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_006---What-You-May-Not-Understand-About-Crypto-Millionaires-e2ndul)
 * CryptoQuikRead_014 - [Bulletproofs, Faster Rangeproofs, and Much More](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_014---Bulletproofs--Faster-Rangeproofs--and-Much-More-e2ndue)
-* CryptoQuikRead_015 - [Venezuala Launches "Petros" Cryptocurrency Amid Growing Skepticism](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_015---Venezuala-Launches-Petros-Cryptocurrency-Amid-Growing-Skepticism-e2ndud)
-* CryptoQuikRead_018 - [Why Decentralization Matters](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_018---Why-Decentralization-Matters-e2ndua)
-* CryptoQuikRead_022 - [Sidechains - Why These Researchers Think They Solved a Key Piece of the Puzzle](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_022---Sidechains---Why-These-Researchers-Think-They-Solved-a-Key-Piece-of-the-Puzzle-e2ndu6)
+* CryptoQuikRead_045 - [Why Schnorr Signatures will Solve 2 of Bitcoin's Biggest Problems](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_045---Why-Schnorr-Signatures-will-Solve-2-of-Bitcoins-Biggest-Problems-e2ndt9)
+* CryptoQuikRead_053 - [Pieter Wuille Chapioning Bitcoin Development](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_053---Pieter-Wuille-Chapioning-Bitcoin-Development-e2ndt0)
+* CryptoQuikRead_114 - [Schnorr Poised to Become Bitcoin's Biggest Change Since SegWit](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_114---Schnorr-Poised-to-Become-Bitcoins-Biggest-Change-Since-SegWit-e2ndr1)
 * CryptoQuickRead_035 - [The Digital Age of Securities](https://anchor.fm/thecryptoconomy/episodes/CryptoQuickRead_035---The-Digital-Age-of-Securities-e2ndtl)
-* CryptoQuikRead_066 - [Money, Blockchains, and Social Scalability](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_066---Money--Blockchains--and-Social-Scalability-e2ndsj)
+
 * CryptoQuikRead_067 - [Giacomo Zucco's Epic Twitter Thread](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_067---Giacomo-Zuccos-Epic-Twitter-Thread-e2ndsi)
   * [threadreaderapp.com/thread/991438132812943369.html](https://threadreaderapp.com/thread/991438132812943369.html)
-* CryptoQuikRead_078 - [Tari Blockchain for Digital Assets on Monero](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_078---Tari-Blockchain-for-Digital-Assets-on-Monero-e2nds9)
-* CryptoQuikRead_079 - [The Security Token Thesis](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_079---The-Security-Token-Thesis-e2nds4)
-* CryptoQuikRead_080 - [Amid Chaos, Our Decentralized Future is Being Built](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_080---Amid-Chaos--Our-Decentralized-Future-is-Being-Built-e2ndsb_)
-* CryptoQuikRead_092 - [The Truth About Smart Contracts](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_092---The-Truth-About-Smart-Contracts-e2ndrq)
-* CryptoQuikRead_097 - [I HODL](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_097---I-HODL-e2ndrj)
-* CryptoQuikRead_101 - [How Easy it is to Buy ICO Ratings](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_101---How-Easy-it-is-to-Buy-ICO-Ratings-e2ndrf)
 * CryptoQuikRead_103 - [Crypto Commons](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_103---Crypto-Commons-e2ndre)
 * CryptoChat_003 - [Nik Bhatia on The Future of Bitcoin Financial Markets](https://anchor.fm/thecryptoconomy/episodes/CryptoChat_003---Nik-Bhatia-on-The-Future-of-Bitcoin-Financial-Markets-e2ndqv)
 * CryptoChat_004 - [John Wolpert on Blockchain, Identity, Trust, and a New Internet](https://anchor.fm/thecryptoconomy/episodes/CryptoChat_004---John-Wolpert-on-Blockchain--Identity--Trust--and-a-New-Internet-e2ndqo)
-* CryptoQuikRead_110 - [Adversaries, Distributed Ledgers, and Decentralization](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_110---Adversaries--Distributed-Ledgers--and-Decentralization-e2ndr6)
 * CryptoQuikRead_129 - [Responsible Disclosure in the Era of Cryptocurrencies](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_129---Responsible-Disclosure-in-the-Era-of-Cryptocurrencies-e2ndqg)
 * CryptoQuikRead_131 - [BCH Update: Bitmain, BCH, the IPO & What it All Actually Means](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_131---BCH-Update-Bitmain--BCH--the-IPO--What-it-All-Actually-Means-e2ndqe)
 * CryptoQuikRead_145 - [Giacomo on SPV and Digital Coinage](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_145---Giacomo-on-SPV-and-Digital-Coinage-e2ndpv)
 * CryptoQuikRead_173 - [Reimagining Trusted Intermediaries](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_173---Reimagining-Trusted-Intermediaries-e2ndov)
 * CryptoQuikRead_170 - [If Games Drive Crypto Mass Adoption, Then it Will be Grassroots](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_170---If-Games-Drive-Crypto-Mass-Adoption--Then-it-Will-be-Grassroots-e2ndp3)
   >"If you build a system meant by its very nature to dis-intermediate third parties and exist independent of governments and legal systems, you have an identity problem." -Nic Carter Another excellent piece by Nic Carter exploring the very idea of identity in a decentralized system and the ongoing battles for the vision of Bitcoin.
-* CryptoQuikRead_228 - [Minimum Viable Decentralization](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_228---Minimum-Viable-Decentralization-e3lfo9)
+

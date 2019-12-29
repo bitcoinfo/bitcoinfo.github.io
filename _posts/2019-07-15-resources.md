@@ -159,15 +159,6 @@ https://arxiv.org/pdf/1810.02466.pdf -"looming threat of china"
   >1/8 A thread on my research with @mireya_anita and @A_led analyzing China's influence on Bitcoin: https://t.co/LsIMEbePQk Important: we're still waiting on peer review! We claim that China is a motivated, capable, and overall credible threat to Bitcoin. More on each adje...
 
 
-## Organizations
-* [Tone Vays [@Bitcoin] (@ToneVays)](https://twitter.com/ToneVays/status/1043806199660118017)
-  >Big Announcement by @giacomozucco & @AlenaSatoshi at #bh2018 by @hodlhodl of the formation of @TheBFoundation to support #Bitcoin development & education efforts. Afiliated members are @sysmannet @francispouliot @Trezor @WhalePanda @starkness @adam3us @lopp & more.
-* [BTC Sessions 🐂₿ [Jan/3➞₿🔑∎] (@BTCsessions)](https://twitter.com/BTCsessions/status/1070777587457175552)
-  >Full #BullBitcoin launch speech. Premiere today at 5:30pm MST. @francispouliot_ @BitcoinBrains @SatoshiPortal @Bitcoin_Outlet @myBylls https://t.co/Z1Ie6XWrGt
-* [Fact or FUD — “BlockStream , Inc is the main force behind Bitcoin (and taken over)”](https://medium.com/@whalecalls/fud-or-fact-blockstream-inc-is-the-main-force-behind-bitcoin-and-taken-over-160aed93c003)
-  >The first user selected topic on “BlockStream” and the perpetuated belief that they are in control of Bitcoin. In typical WhaleCalls fashion, we will address and discuss the verifiable facts first, then our commentary will follow. This way you can choose to stop reading.
-
-
 
 
 ## Resources
