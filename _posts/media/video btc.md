@@ -16,7 +16,7 @@ The best way to learn about bitcoin is to actually use it. Perhaps the second be
 
 [https://yt3.ggpht.com/a/AGF-l79faOz26Ra12wxfGi4_KdfH7ggTRmTR1T76CQ=s900-c-k-c0xffffffff-no-rj-mo](https://yt3.ggpht.com/a/AGF-l79faOz26Ra12wxfGi4_KdfH7ggTRmTR1T76CQ=s900-c-k-c0xffffffff-no-rj-mo)
 
-[https://www.youtube.com/user/aantonop](https://www.youtube.com/user/aantonop) [https://www.youtube.com/user/JellyBaby68/videos](https://www.youtube.com/user/JellyBaby68/videos) [https://www.youtube.com/channel/UCt-Po2gFQxiUngwJXh6s04w/videos](https://www.youtube.com/channel/UCt-Po2gFQxiUngwJXh6s04w/videos) [https://www.youtube.com/channel/UCJ5uHx90mZGlK0lC-GSmtzw/videos](https://www.youtube.com/channel/UCJ5uHx90mZGlK0lC-GSmtzw/videos) (edited)
+[https://www.youtube.com/user/aantonop](https://www.youtube.com/user/aantonop) [https://www.youtube.com/user/JellyBaby68/videos](https://www.youtube.com/user/JellyBaby68/videos) [https://www.youtube.com/channel/UCt-Po2gFQxiUngwJXh6s04w/videos](https://www.youtube.com/channel/UCt-Po2gFQxiUngwJXh6s04w/videos) [https://www.youtube.com/channel/UCJ5uHx90mZGlK0lC-GSmtzw/videos](https://www.youtube.com/channel/UCJ5uHx90mZGlK0lC-GSmtzw/videos) 
 
 [aantonop](https://www.youtube.com/user/aantonop)
 
@@ -40,7 +40,7 @@ Live events, and content from Blockchain University courses for software develop
 
 [https://yt3.ggpht.com/a/AGF-l78qRZEuEJbURVhWSpaXHLfc-yKQv1LjrdI2vQ=s900-mo-c-c0xffffffff-rj-k-no](https://yt3.ggpht.com/a/AGF-l78qRZEuEJbURVhWSpaXHLfc-yKQv1LjrdI2vQ=s900-mo-c-c0xffffffff-rj-k-no)
 
-[https://www.youtube.com/user/MITBitcoinClub/videos](https://www.youtube.com/user/MITBitcoinClub/videos) [https://www.youtube.com/channel/UCOLeHoKV7SHwAAS0zBwsV-A/videos](https://www.youtube.com/channel/UCOLeHoKV7SHwAAS0zBwsV-A/videos) [https://www.youtube.com/user/IamSatoshiNakamoto/videos](https://www.youtube.com/user/IamSatoshiNakamoto/videos) (edited)
+[https://www.youtube.com/user/MITBitcoinClub/videos](https://www.youtube.com/user/MITBitcoinClub/videos) [https://www.youtube.com/channel/UCOLeHoKV7SHwAAS0zBwsV-A/videos](https://www.youtube.com/channel/UCOLeHoKV7SHwAAS0zBwsV-A/videos) [https://www.youtube.com/user/IamSatoshiNakamoto/videos](https://www.youtube.com/user/IamSatoshiNakamoto/videos) 
 
 [MIT Bitcoin Club](https://www.youtube.com/user/MITBitcoinClub/videos)
 

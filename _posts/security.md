@@ -20,7 +20,7 @@ Lotta overlap between here and #cryptography channel
 
 Raccoon - A high performance offensive security tool for reconnaissance and vulnerability scanning
 
-[https://avatars3.githubusercontent.com/u/29180932?s=400&v=4](https://avatars3.githubusercontent.com/u/29180932?s=400&v=4)
+
 
 
 
@@ -74,9 +74,9 @@ OS and tools for building dependable systems. The Singularity research codebase 
 
 ![https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02//singularity-singularityteam2008.jpg](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02//singularity-singularityteam2008.jpg)
 
-Improving SSL Warnings: Comprehension and Adherence - [https://dl.acm.org/citation.cfm?id=2702442](https://dl.acm.org/citation.cfm?id=2702442) (edited)
+Improving SSL Warnings: Comprehension and Adherence - [https://dl.acm.org/citation.cfm?id=2702442](https://dl.acm.org/citation.cfm?id=2702442) 
 
-Reflections on Trusting Trust - [https://www.archive.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf](https://www.archive.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf) (edited)
+Reflections on Trusting Trust - [https://www.archive.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf](https://www.archive.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf) 
 
 [https://www.zerohedge.com/news/2018-07-26/i-just-got-robbed-bank-woman-finds-her-bofa-safe-deposit-box-has-vanished](https://www.zerohedge.com/news/2018-07-26/i-just-got-robbed-bank-woman-finds-her-bofa-safe-deposit-box-has-vanished)
 
@@ -86,13 +86,13 @@ Reflections on Trusting Trust - [https://www.archive.ece.cmu.edu/~ganger/712.fal
 
 ![https://www.zerohedge.com/sites/default/files/2018-07/lost%20safe%20box.jpg](https://www.zerohedge.com/sites/default/files/2018-07/lost%20safe%20box.jpg)
 
-;login: logout -This World of Ours -[https://www.usenix.org/system/files/1401_08-12_mickens.pdf](https://www.usenix.org/system/files/1401_08-12_mickens.pdf) (edited)
+;login: logout -This World of Ours -[https://www.usenix.org/system/files/1401_08-12_mickens.pdf](https://www.usenix.org/system/files/1401_08-12_mickens.pdf) 
 
 
 
 ⧉infominer 13-Aug-18 03:50 PM
 
-Format String Attacks -[http://forum.ouah.org/FormatString.PDF](http://forum.ouah.org/FormatString.PDF) (edited)
+Format String Attacks -[http://forum.ouah.org/FormatString.PDF](http://forum.ouah.org/FormatString.PDF) 
 
 Getting around non-executable stack (and fix) -[http://seclists.org/bugtraq/1997/Aug/63](http://seclists.org/bugtraq/1997/Aug/63)
 
@@ -108,9 +108,9 @@ Survivable Key Compromise in Software Update Systems -[https://justinsamuel.com/
 
 ⧉infominer 13-Aug-18 10:25 PM
 
-Some thoughts on security after ten years of qmail 1.0 -[https://cr.yp.to/qmail/qmailsec-20071101.pdf](https://cr.yp.to/qmail/qmailsec-20071101.pdf) (edited)
+Some thoughts on security after ten years of qmail 1.0 -[https://cr.yp.to/qmail/qmailsec-20071101.pdf](https://cr.yp.to/qmail/qmailsec-20071101.pdf) 
 
-NEW YORKERS ON MOBILE MESSAGING AND IMPLICATIONS FOR PRIVACY -[https://simplysecure.org/resources/techreports/NYC15-MobMsg.pdf](https://simplysecure.org/resources/techreports/NYC15-MobMsg.pdf) (edited)
+NEW YORKERS ON MOBILE MESSAGING AND IMPLICATIONS FOR PRIVACY -[https://simplysecure.org/resources/techreports/NYC15-MobMsg.pdf](https://simplysecure.org/resources/techreports/NYC15-MobMsg.pdf) 
 
 
 
@@ -578,7 +578,7 @@ Together with @nadiaheninger, just presented our work on biased nonces revealing
 
 ⧉infominer 25-Feb-19 12:38 AM
 
-[https://www.schneier.com](https://www.schneier.com/) (edited)
+[https://www.schneier.com](https://www.schneier.com/) 
 
 
 
@@ -676,7 +676,7 @@ What will it take to convince people that privacy is something that they have a 
 
 A curated list of Awesome Threat Intelligence resources - hslatman/awesome-threat-intelligence
 
-[https://avatars3.githubusercontent.com/u/1219780?s=400&v=4](https://avatars3.githubusercontent.com/u/1219780?s=400&v=4)
+
 
 
 
@@ -688,7 +688,7 @@ A curated list of Awesome Threat Intelligence resources - hslatman/awesome-threa
 
 A collection of various awesome lists for hackers, pentesters and security researchers - Hack-with-Github/Awesome-Hacking
 
-[https://avatars0.githubusercontent.com/u/18143746?s=400&v=4](https://avatars0.githubusercontent.com/u/18143746?s=400&v=4)
+
 
 
 
@@ -784,4 +784,3 @@ The least you can do to frustrate would-be hackers.
 
 Curated list about cryptocurrency security (reverse / exploit / fuzz..) - nongiach/awesome-cryptocurrency-security
 
-[https://avatars2.githubusercontent.com/u/5711608?s=400&v=4](https://avatars2.githubusercontent.com/u/5711608?s=400&v=4)

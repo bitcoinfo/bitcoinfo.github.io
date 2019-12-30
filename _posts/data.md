@@ -26,7 +26,7 @@ permalink:
 @This Is An Adventure here you can drop resources of actual data people can run anlysis on
 
 
-(edited)
+
 
 
 
@@ -311,7 +311,7 @@ A cybersecurity subsidiary of Japan’s Nomura Research Institute (NRI) unveiled
 
 A curated list of projects around Ethereum analytics. - jdourlens/awesome-ethereum-analytics
 
-[https://avatars0.githubusercontent.com/u/1624124?s=400&v=4](https://avatars0.githubusercontent.com/u/1624124?s=400&v=4)
+
 
 
 
@@ -337,7 +337,7 @@ A cybersecurity subsidiary of Japan’s Nomura Research Institute (NRI) unveiled
 
 A list of command line tools for manipulating structured text data - dbohdan/structured-text-tools
 
-[https://avatars2.githubusercontent.com/u/3179832?s=400&v=4](https://avatars2.githubusercontent.com/u/3179832?s=400&v=4)
+
 
 
 
@@ -427,9 +427,9 @@ CIRCL Images AIL Dataset - Open Data at CIRCL
 
 [johnyleebrown/years-of-crypto-data](https://github.com/johnyleebrown/years-of-crypto-data)
 
-Parsed crypto data from twitter. Contribute to johnyleebrown/years-of-crypto-data development by creating an account on GitHub.
+Parsed crypto data from twitter. .
 
-[https://avatars1.githubusercontent.com/u/10441153?s=400&v=4](https://avatars1.githubusercontent.com/u/10441153?s=400&v=4)
+
 
 
 
@@ -467,7 +467,7 @@ High precision raw historical data for cryptocurrency markets — full order boo
 
 A registry of JSON formatted files on 1500+ cryptocurrency tokens. Provides information like chat rooms, communities, explorers, and contact information on each coin. Used by [https://blockmodo.com](https://blockmodo.com/) ...
 
-[https://avatars1.githubusercontent.com/u/38028814?s=400&v=4](https://avatars1.githubusercontent.com/u/38028814?s=400&v=4)
+
 
 
 
@@ -479,7 +479,7 @@ A registry of JSON formatted files on 1500+ cryptocurrency tokens. Provides info
 
 Python-based scraper for market cap, supply, exchange price, and exchange volume data from coinmarketcap.com - prouast/coinmarketcap-scraper
 
-[https://avatars3.githubusercontent.com/u/7644676?s=400&v=4](https://avatars3.githubusercontent.com/u/7644676?s=400&v=4)
+
 
 
 
@@ -491,7 +491,7 @@ Python-based scraper for market cap, supply, exchange price, and exchange volume
 
 historical 1-minute candles from bitfinex-exchange - Zombie-3000/Bitfinex-historical-data
 
-[https://avatars2.githubusercontent.com/u/39772692?s=400&v=4](https://avatars2.githubusercontent.com/u/39772692?s=400&v=4)
+
 
 
 

@@ -354,13 +354,13 @@ Electrum is a good wallet, I never had a problem using it, but I'll be moving to
 
 * https://github.com/btcpayserver/
 * https://t.me/btcpayserver
-* https://github.com/btcpayserver/btcpayserver-doc - Documentation of BTCPayServer. Contribute to btcpayserver/btcpayserver-doc development by creating an account on GitHub.
-* https://github.com/btcpayserver/commerce_btcpay -BTCPay server plugin for Drupal Commerce 2.x. Contribute to btcpayserver/commerce_btcpay development by creating an account on GitHub.
+* https://github.com/btcpayserver/btcpayserver-doc - Documentation of BTCPayServer. .
+* https://github.com/btcpayserver/commerce_btcpay -BTCPay server plugin for Drupal Commerce 2.x. .
 * https://bitcoinshirt.co/how-to-create-store-accept-bitcoin
 * https://github.com/k3tan172/ubuntu-node-box
 * https://github.com/astupidmoose/btcpay_taxreport-for-woocommerce -This is a transaction history plugin for BTCPay for tax reporting - astupidmoose/btcpay_taxreport-for-woocommerce
 * https://github.com/Skyfleet/NBitcoin - Comprehensive Bitcoin library for the .NET framework. - Skyfleet/NBitcoin
-* https://github.com/talvasconcelos/btc-terminal - Payment terminal for BTC with BTCPay Server. Contribute to talvasconcelos/btc-terminal development by creating an account on GitHub.
+* https://github.com/talvasconcelos/btc-terminal - Payment terminal for BTC with BTCPay Server. .
 * https://github.com/djseeds/btcpay-browser-client - BTCPay client to create invoices and display a payment modal from the browser - djseeds/btcpay-browser-client
 * [How to Install BTCPayServer on Raspberry Pi 3 B+ (with pruning and FastSync)](https://lightninginabox.co/2018/12/how-to-install-btcpayserver-on-raspberry-pi-3-b/)
 * https://docs.btcpayserver.org/deployment/raspberrypideployment
@@ -399,9 +399,9 @@ Lightning Node Match – maximize te number of nodes reached in a minimum number
 * [Pierre Rochard (@pierre_rochard) - twitter.com](https://twitter.com/pierre_rochard/status/1055159992733626368)
   >The LND node software now runs from within the Excel plugin. With neutrino, that means that a Windows + Excel user can be making and receiving LN payments with a few clicks. https://t.co/qeP2dCJSqp
 * https://github.com/mably/lncli-web - Light-weight web client for the lnd daemon written in NodeJS / Angular. - mably/lncli-web
-* https://github.com/janoside/lnd-admin - Admin UI for LND. Contribute to janoside/lnd-admin development by creating an account on GitHub.
+* https://github.com/janoside/lnd-admin - Admin UI for LND. .
 * [Ride The Lightning - A full function web browser app for LND - ShahanaFarooqui/RTL](https://github.com/ShahanaFarooqui/RTL/blob/master/README.md)
-* https://github.com/djmelik/lndash - A simple web dashboard for lnd. Contribute to djmelik/lndash development by creating an account on GitHub.
+* https://github.com/djmelik/lndash - A simple web dashboard for lnd. .
 * [Setup LND 0.4 beta and bitcoind on Ubuntu 16.04](https://gist.github.com/bretton/0b22a0503a9eba09df86a23f3d625c13)
 * [LNDwork](https://www.lndwork.com/)	Micro-Freelancing
 * [alexbosworth/lnd-gui](https://github.com/alexbosworth/lnd-gui)

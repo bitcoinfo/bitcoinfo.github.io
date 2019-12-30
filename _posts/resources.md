@@ -30,21 +30,21 @@ List of active initial coin offerings. We provide coin presale date, rating, liv
 
 ![https://www.icodata.io/images/seo_logo.jpg](https://www.icodata.io/images/seo_logo.jpg)
 
-[http://data.bitcoinity.org](http://data.bitcoinity.org/) - tons of crypto analytics (edited)
+[http://data.bitcoinity.org](http://data.bitcoinity.org/) - tons of crypto analytics 
 
-[http://blocktivity.info/](http://blocktivity.info/) - lists chains in order of most transactions (edited)
+[http://blocktivity.info/](http://blocktivity.info/) - lists chains in order of most transactions 
 
 
 
 ⧉infominer 08-Aug-18 12:12 AM
 
-[https://nakamotoinstitute.org/](https://nakamotoinstitute.org/) - perfect for reserach bitcoin history (edited)
+[https://nakamotoinstitute.org/](https://nakamotoinstitute.org/) - perfect for reserach bitcoin history 
 
 
 
 ⧉infominer 08-Aug-18 12:31 AM
 
-[https://lopp.net/bitcoin.html](https://lopp.net/bitcoin.html) - Tons of bitcoin resources (edited)
+[https://lopp.net/bitcoin.html](https://lopp.net/bitcoin.html) - Tons of bitcoin resources 
 
 
 
@@ -88,7 +88,7 @@ The best real-time crypto price index with graphs & historical data for 1500+ co
 
 CryptoList - Curated collection of blockchain & cryptocurrency resources.
 
-[https://avatars0.githubusercontent.com/u/31234553?s=400&v=4](https://avatars0.githubusercontent.com/u/31234553?s=400&v=4)
+
 
 
 
@@ -234,7 +234,7 @@ Since 2013 we have been studying the breadth of the public blockchain space with
 
 venalbe 06-Sep-18 04:10 PM
 
-that's pretty cool basically it shows only big orders short/long of BTC it's quite entertaining to watch [https://tucsky.github.io/SignificantTrades/#](https://tucsky.github.io/SignificantTrades/#) (edited)
+that's pretty cool basically it shows only big orders short/long of BTC it's quite entertaining to watch [https://tucsky.github.io/SignificantTrades/#](https://tucsky.github.io/SignificantTrades/#) 
 
 [SignificantTrades](https://tucsky.github.io/SignificantTrades/)
 
@@ -378,9 +378,9 @@ Welcome to my Secret 'Stache of Resources! This is a curated list of the apps an
 
 [mark-s/CryptoCoinWhitePapers](https://github.com/mark-s/CryptoCoinWhitePapers)
 
-Crypto Coin White Papers. Contribute to mark-s/CryptoCoinWhitePapers development by creating an account on GitHub.
+Crypto Coin White Papers. .
 
-[https://avatars0.githubusercontent.com/u/999307?s=400&v=4](https://avatars0.githubusercontent.com/u/999307?s=400&v=4)
+
 
 
 
@@ -458,15 +458,15 @@ A cluster of topics related to blockchain and cryptocurrency.
 
 Curated collection of blockchain & cryptocurrency resources. - coinpride/CryptoList
 
-[https://avatars0.githubusercontent.com/u/31234553?s=400&v=4](https://avatars0.githubusercontent.com/u/31234553?s=400&v=4)
+
 
 [https://github.com/Xel/Blockchain-stuff](https://github.com/Xel/Blockchain-stuff)
 
 [Xel/Blockchain-stuff](https://github.com/Xel/Blockchain-stuff)
 
-Blockchain and Crytocurrency Resources. Contribute to Xel/Blockchain-stuff development by creating an account on GitHub.
+Blockchain and Crytocurrency Resources. .
 
-[https://avatars2.githubusercontent.com/u/886449?s=400&v=4](https://avatars2.githubusercontent.com/u/886449?s=400&v=4)
+
 
 
 
@@ -478,7 +478,7 @@ Blockchain and Crytocurrency Resources. Contribute to Xel/Blockchain-stuff devel
 
 A collection of awesome blockchain articles. Good learning resources about blockchain. - hylinux1024/awesome-blockchain-articles
 
-[https://avatars0.githubusercontent.com/u/24642960?s=400&v=4](https://avatars0.githubusercontent.com/u/24642960?s=400&v=4)
+
 
 [https://github.com/yjjnls/awesome-blockchain](https://github.com/yjjnls/awesome-blockchain)
 
@@ -487,7 +487,7 @@ A collection of awesome blockchain articles. Good learning resources about block
 
 ️Curated list of resources for the development and applications of block chain. - yjjnls/awesome-blockchain
 
-[https://avatars3.githubusercontent.com/u/20850300?s=400&v=4](https://avatars3.githubusercontent.com/u/20850300?s=400&v=4)
+
 
 
 
@@ -497,9 +497,9 @@ A collection of awesome blockchain articles. Good learning resources about block
 
 [BlockchainDevs/CryptocurrencyAwesome](https://github.com/BlockchainDevs/CryptocurrencyAwesome)
 
-Cryptocurrency study materials resources. Contribute to BlockchainDevs/CryptocurrencyAwesome development by creating an account on GitHub.
+Cryptocurrency study materials resources. .
 
-[https://avatars1.githubusercontent.com/u/38042573?s=400&v=4](https://avatars1.githubusercontent.com/u/38042573?s=400&v=4)
+
 
 
 
@@ -524,7 +524,7 @@ A small Python implementation to begin understanding blockchains - daneah/toyblo
 
 A collection of awesome crypto goodies about cryptocurrencies and blockchains, public key infrastructure (pki), merkle trees and more - s6ruby/awesome-crypto
 
-[https://avatars2.githubusercontent.com/u/47460144?s=400&v=4](https://avatars2.githubusercontent.com/u/47460144?s=400&v=4)
+
 
 
 
@@ -534,9 +534,9 @@ A collection of awesome crypto goodies about cryptocurrencies and blockchains, p
 
 [Xel/Blockchain-stuff](https://github.com/Xel/Blockchain-stuff)
 
-Blockchain and Crytocurrency Resources. Contribute to Xel/Blockchain-stuff development by creating an account on GitHub.
+Blockchain and Crytocurrency Resources. .
 
-[https://avatars2.githubusercontent.com/u/886449?s=400&v=4](https://avatars2.githubusercontent.com/u/886449?s=400&v=4)
+
 
 
 
@@ -548,7 +548,7 @@ Blockchain and Crytocurrency Resources. Contribute to Xel/Blockchain-stuff devel
 
 Recently started working on Blockchain technologies. This repo contains material related to Blockchain technologies. My current focus on dAPP development using Hyperledger. - ramyrams/Blockchain
 
-[https://avatars1.githubusercontent.com/u/4111479?s=400&v=4](https://avatars1.githubusercontent.com/u/4111479?s=400&v=4)
+
 
 ![https://cdn.discordapp.com/avatars/389590245072568321/d80da3d4db68c780527d60958f148fd4.png](https://cdn.discordapp.com/avatars/389590245072568321/d80da3d4db68c780527d60958f148fd4.png)
 

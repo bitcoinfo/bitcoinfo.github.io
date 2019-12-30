@@ -180,7 +180,7 @@ The nothing to hide argument states that government surveillance programs do not
 
 Beam. Scalable Confidential Cryptocurrency. A Mimblewimble implementation - beam-mw/beam
 
-[https://avatars1.githubusercontent.com/u/37414225?s=400&v=4](https://avatars1.githubusercontent.com/u/37414225?s=400&v=4)
+
 
 
 

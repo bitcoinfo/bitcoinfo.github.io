@@ -13,7 +13,7 @@ Today, with the swipe of a credit card, I purchased a delightful matcha green te
 
 [zawy12/difficulty-algorithms](https://github.com/zawy12/difficulty-algorithms/issues)
 
-See the Issues for difficulty algorithms. Contribute to zawy12/difficulty-algorithms development by creating an account on GitHub.
+See the Issues for difficulty algorithms. .
 
 [Randomness in Blockchains (Part 1) – Mechanism Labs – Medium](https://medium.com/mechanism-labs/randomness-in-blockchains-part-1-79192b173816)
 
@@ -42,7 +42,7 @@ A quick classification of cryptocurrency consensus types
 
 Zoom out of time for a while and imagine how the antlers of a magnificent moose buck evolved into being.
 [dgryski/awesome-consensus](https://github.com/dgryski/awesome-consensus)
-Awesome list for Paxos and friends. Contribute to dgryski/awesome-consensus development by creating an account on GitHub.
+Awesome list for Paxos and friends. .
 
 [Web 3 Consensus Mechanisms – imbrexBlog – Medium](https://medium.com/imbrexblog/web-3-consensus-mechanisms-2dcfb7bfaadb)
 

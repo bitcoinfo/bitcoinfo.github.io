@@ -9,7 +9,7 @@ permalink: /technical/bitcoin-core/
 
 * [Who Controls Bitcoin Core?](https://blog.lopp.net/who-controls-bitcoin-core-/)
 * [The Bitcoin Game #51: Jonas Schnelli, The Bitcoin Core Project Explained](https://www.youtube.com/watch?v=5VVIybc8APk&feature=youtu.be)
-  >The Bitcoin Game is an audio podcast available at The Bitcoin Game.com. Episode 51 is an edited talk by Bitcoin Core developer Jonas Schnelli, given on October 17, 2017, at the Los Angeles Bitcoin Meetup Group. Photo courtesy Brooke @BitcoinMom.
+  >The Bitcoin Game is an audio podcast available at The Bitcoin Game.com. Episode 51 is an  talk by Bitcoin Core developer Jonas Schnelli, given on October 17, 2017, at the Los Angeles Bitcoin Meetup Group. Photo courtesy Brooke @BitcoinMom.
 * [Bitcoin Optech Newsletter #13](https://bitcoinops.org/en/newsletters/2018/09/18/)
   >This week’s newsletter includes action items related to the security release of Bitcoin Core 0.16.3 and Bitcoin Core 0.17RC4, the newly-proposed BIP322, and Optech’s upcoming Paris workshop; a link to the C-Lightning 0.6.1 release, more information about BIP322, and some ...
 * [Francis Pouliot ⚡️ (@francispouliot_)](https://twitter.com/francispouliot_/status/1027729881541632000)

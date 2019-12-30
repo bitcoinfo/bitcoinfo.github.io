@@ -45,7 +45,7 @@ Ledger Channels and Virtual Channels
 The Solution to Scaling Blockchain Now
 
 
-"State Channel Education for Everyone" [https://learnchannels.org/](https://learnchannels.org/) (edited)
+"State Channel Education for Everyone" [https://learnchannels.org/](https://learnchannels.org/) 
 
 [State Channels - an explanation](https://www.jeffcoleman.ca/state-channels)
 State channels are a way of moving blockchain interactions into high-speed, low-cost "dedicated highways" between a set of defined participants.
@@ -101,7 +101,7 @@ After my initial list of Top Writers on Medium for 2018, I will continue to brea
 
 A cryptocurrency podcast hosted by @K1llerWh4le @CryptoDale & @13Prince31 | We interview interesting guests about crypto | Business Inq: TCSP@protonmail.com
 
-[https://epicenter.tv/](https://epicenter.tv/) - Podcast since 2012 (edited)
+[https://epicenter.tv/](https://epicenter.tv/) - Podcast since 2012 
 
 Enjoy weekly interviews with some of the brightest and most influential minds driving the blockchain and distributed technology revolution.
 
@@ -247,7 +247,7 @@ Here’s a list of crypto readings and resources. It’s organized from buildin
 ## 101
 
 [kilimchoi/cryptocurrency](https://github.com/kilimchoi/cryptocurrency)
-Overview of top cryptocurrencies. Contribute to kilimchoi/cryptocurrency development by creating an account on GitHub.
+Overview of top cryptocurrencies. .
 
 [Blockchain 101: Randomness and Random Beacons with Justin Drake](https://www.zeroknowledge.fm/74)
 In this week's episode, we sit down with Justin Drake to discuss randomness in blockchain, how it can be created and what adversarial models exist. We also discuss the random beacon and how that concept has evolved in the development of ETH2.0
@@ -391,7 +391,95 @@ When the going gets weird, the weird turn pro.
 
 ![https://cdn.discordapp.com/attachments/486744084761935872/526276860904996864/Ds_UCJdWoAAV2KJ.png](https://cdn.discordapp.com/attachments/486744084761935872/526276860904996864/Ds_UCJdWoAAV2KJ.png)
 
-## Books
+## literature
 
 [https://library.cryptotradercentral.com/](https://library.cryptotradercentral.com/)
 
+[BlockChain Technology - Beyond Bitcoin](https://scet.berkeley.edu/wp-content/uploads/BlockchainPaper.pdf)
+  > A blockchain is essentially a distributed database of records or public ledger of all transactions or
+digital events that have been executed and shared among participating parties. Each transaction in
+the public ledger is verified by consensus of a majority of the participants in the system. And, once
+entered, information can never be erased. The blockchain contains a certain and verifiable record of
+every single transaction ever made. Bitcoin, the decentralized peer­to­peer digital currency, is the
+most popular example that uses blockchain technology. The digital currency bitcoin itself is highly
+controversial but the underlying blockchain technology has worked flawlessly and found wide range of
+applications in both financial and non­financial world.
+
+[Marlowe: financial contracts on blockchain — a domain specific language](https://files.zotero.net/9545272979/Seijas%2520and%2520Thompson%2520-%2520Marlowe%2520financial%2520contracts%2520on%2520blockchain.pdf) 
+
+[Vitalik Buterin's website](https://vitalik.ca/)
+
+[IOHK - Research](https://iohk.io/research/)
+Decentralization imposes major technical challenges to financial systems worldwide and IOHK Research is interested in every single one of them. The traditional approach to the financial world has always been centralization, where banks and financial institutions play the main...
+
+[Blockchain government - a next form of infrastructure for the twenty-f](https://link.springer.com/article/10.1186/s40852-018-0086-3)
+Today, more than 100 blockchain projects created to transform government systems are being conducted in more than 30 countries. What leads countries rapidly initiate blockchain projects? I argue that...
+
+[Deployment of a Blockchain-Based Self-Sovereign Identity](https://arxiv.org/pdf/1806.01926.pdf)
+
+[Blockchains and Data Protection in the European Union by Michèle ...](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3080322)
+This paper examines data protection on blockchains and other forms of distributed ledger technology (‘DLT’). Transactional data stored on a blockchain, whether
+
+[Chris Auld (@Chris_Auld)](https://twitter.com/Chris_Auld/status/1028368962688442368)
+  > Canadian economist suspended without pay for publishing peer-reviewed journal article documenting, and investigating effects of, publication in predatory journals at his institution. Newspaper story: [https://t.co/bfmKcdXhIx](https://t.co/bfmKcdXhIx) Paper: [https://t.co/ZCHmXR6u2a](https://t.co/ZCHmXR6u2a)
+
+
+[https://savantspecter.github.io/research/A_DISCOURSE_ON_TOKEN_VALUATION.pdf](https://savantspecter.github.io/research/A_DISCOURSE_ON_TOKEN_VALUATION.pdf)
+
+
+[Blockchain Research Network](http://www.blockchainresearchnetwork.org/)
+An independent and international community of cryptocurrency and blockchain researchers. Join today to view and contribute to the latest research!
+
+A platform for scholarly publishing and peer review that empowers researchers with the Autonomy to pursue their passions, Authority to develop and disseminate their work, and Access to engage with the international community of scholars. [https://researchers.one/](https://researchers.one/)
+
+[The RESEARCHERS.ONE mission](https://www.researchers.one/article/2018-07-1)
+This article describes our motivation behind the development of RESEARCHERS.ONE, our mission, and how the new platform will fulfull this mission. We also compare our approach with other recent reform initiatives such as post-publication peer review and open access publications.
+
+[Liberal Radicalism: Formal Rules for a Society Neutral Among Commu...](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3243656)
+
+We propose a design for philanthropic or publicly-funded seeding to allow (near) optimal provision of a decentralized, self-organizing ecosystem of public goods
+
+[In Europe, scientists need to share their research for free if the...](https://futurism.com/open-access-science-europe)
+Subscriptions journals may want to start rethinking their business models.
+
+[Formal Barriers to Longest-Chain Proof-of-Stake Protocols](https://arxiv.org/pdf/1809.06528.pdf)
+
+[Study: Shorting Difficulties and Heterogeneous Beliefs Drive Specu...](https://www.dashforcenews.com/study-shorting-difficulties-and-heterogeneous-beliefs-drive-speculative-cryptocurrency-prices/)
+Wang Chun Wei, Ph.D. and a finance lecturer at the University of Queensland in Australia, argues in a new working paper that a significant portion of cryptocurrency values come from the heterogeneo…
+
+[Verifiable Delay Functions](https://eprint.iacr.org/2018/601.pdf)
+
+
+
+[Let’s Publish Everything](https://news.ycombinator.com/item?id=20137283)
+
+
+[Bytom Blockchain](https://bytom.io/wp-content/themes/freddo/book/tensority-v1.2.pdf)
+A digital asset layer protocol is the infrastructure of asset Internet.
+
+[New journal for controversial academics](https://www.bbc.co.uk/news/education-46146766)
+A new journal will allow academics to publish controversial articles under a pseudonym.
+
+[CATEGORY: ACADEMIC PUBLICATIONS](https://blockchainlibrary.org/category/academic-publications/)
+
+
+[Non-Financial Applications of Blockchains: Systematizing the Knowledge](https://www.frontiersin.org/research-topics/8748/non-financial-applications-of-blockchains-systematizing-the-knowledge)
+
+
+[The best free research papers on fintech and blockchain | BankNXT](https://banknxt.com/55778/research-fintech-blockchain/)
+Chris Skinner provides a convenient selection of research articles that talk about fintech, blockchain, bitcoin, payments and security.
+
+["Trustchain"](http://msn.iecs.fcu.edu.tw/report/download.php?id=287) 
+
+[Ethereum holdings in the ICO treasury accounts](https://blog.bitmex.com/ethereum-holdings-in-the-ico-treasury-accounts)
+
+
+[Social relationships more important than hard evidence in partisan...](https://phys.org/news/2018-11-social-relationships-important-hard-evidence.html)
+The basic human need to get along with others results in the formation of extreme political groupings, according to a study from Dartmouth College.
+
+[Jeremy Howard (@jeremyphoward)](https://twitter.com/jeremyphoward/status/1139259318052638720?s=12)
+  > A curated list of decision, classification and regression tree research papers from the last 30 years with implementations. It covers NeurIPS, ICML, ICLR, KDD, ICDM, CIKM, AAAI etc. [https://t.co/JDj6bkTYth](https://t.co/JDj6bkTYth)
+
+[xasos/awesome-decentralized-papers](https://github.com/xasos/awesome-decentralized-papers)
+
+Influential papers in decentralized systems (cryptocurrencies, contracts, consensus, etc.) - xasos/awesome-decentralized-papers

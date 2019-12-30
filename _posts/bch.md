@@ -157,7 +157,7 @@ Note: “This analysis is an adaptation from the work of Mati Greenspan, Senior
 
 A curated list of awesome things related to Bitcoin Cash. Contribute yourself: - dsmurrell/awesome-bitcoin-cash
 
-[https://avatars1.githubusercontent.com/u/4035854?s=400&v=4](https://avatars1.githubusercontent.com/u/4035854?s=400&v=4)
+
 
 
 

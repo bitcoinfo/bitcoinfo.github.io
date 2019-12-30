@@ -78,7 +78,7 @@ Audio for Hundreds of Essential Bitcoin Articles. @TheCryptoconomy - Guy Swan…
 
 ⧉infominer 22-Jul-19 03:16 AM
 
-[https://www.bitcoin.kn](https://www.bitcoin.kn/) (edited)
+[https://www.bitcoin.kn](https://www.bitcoin.kn/) 
 
 [The Bitcoin Knowledge Podcast](https://www.bitcoin.kn/)
 
