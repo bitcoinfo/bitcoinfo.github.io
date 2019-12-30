@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: 🌽-info-btc
+title: info-btc
 published: false
 ---
 

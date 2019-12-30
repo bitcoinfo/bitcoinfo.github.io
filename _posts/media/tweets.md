@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: 🌽-tweets
+title: tweets
 published: false
 ---
 

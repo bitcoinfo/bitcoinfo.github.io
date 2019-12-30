@@ -47,13 +47,6 @@ published: true
   >For if Bitcoin becomes centralized, the first thing to follow is inflation.
 
 
----
-layout: page-fullwidth
-title: 🗃-resources-btc
-published: false
----
-
-
 [Bitcoin Resources | dergigi.com](https://dergigi.com/bitcoin/resources/)
   > Books, articles, podcasts, and other curated Bitcoin resources.
 

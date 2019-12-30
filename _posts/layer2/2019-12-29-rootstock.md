@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: 🔩-rootstock
+title: rootstock
 permalink: "/layer2/rootstock/"
 ---
 

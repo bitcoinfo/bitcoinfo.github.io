@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: 📦-tech-btc
+title: tech-btc
 published: true
 permalink: /technical/
 ---

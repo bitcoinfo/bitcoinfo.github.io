@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: 📦-scaling-lyr1
+title: scaling-lyr1
 permalink: technical/scaling/
 ---
 

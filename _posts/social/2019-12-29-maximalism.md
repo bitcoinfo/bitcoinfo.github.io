@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: 🌽-maximalism
+title: maximalism
 permalink: /social/maximalism/
 ---
 

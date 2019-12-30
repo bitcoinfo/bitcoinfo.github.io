@@ -38,6 +38,10 @@ permalink: /finance/enterprise/
 * [California Passes Bill Defining Blockchain and Crypto Terms](https://news.bitcoin.com/california-passes-bill-defining-blockchain-and-crypto-terms)
   >A draft law designed to amend California’s legislation to create legal grounds for the implementation of crypto-related technologies has been passed by the state’s legislature. Assembly Bill 2658 contains important definitions of some key blockchain and crypto terms.
 
+[A Short Introduction to the World of Cryptocurrencies](https://files.stlouisfed.org/files/htdocs/publications/review/2018/01/10/a-short-introduction-to-the-world-of-cryptocurrencies.pdf) - Federal Reserve Bank of St. Louis Review, First Quarter 2018
+  > In this article, we give a short introduction to cryptocurrencies and blockchain technology. The focus of the introduction is on Bitcoin, but many elements are shared by other blockchain implementations and alternative cryptoassets. The article covers the original idea and motivation, the mode of operation and possible applications of cryptocurrencies, and blockchain technology. We conclude that Bitcoin has a wide range of interesting applications and that cryptoassets are well suited to become an important asset class. (JEL G23, E50, E59)
+
+
 ### Cryptoconomy QuickReads - Regulatory
 * CryptoQuikRead_005 - [SEC Chair's Written Testimony](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_005---SEC-Chairs-Written-Testimony-e2ndum) - 03/01/18
 * CryptoQuikRead_012 - [Wyoming House Unanimously Approves Two Pro-Blockchain Bills](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_012---Wyoming-House-Unanimously-Approves-Two-Pro-Blockchain-Bills-e2ndug)

@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: 🗃-video-btc
+title: video-btc
 published: false
 ---
 

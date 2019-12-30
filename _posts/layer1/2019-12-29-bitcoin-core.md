@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: 📦-bitcoin-core
+title: bitcoin-core
 permalink: /technical/bitcoin-core/
 ---
 

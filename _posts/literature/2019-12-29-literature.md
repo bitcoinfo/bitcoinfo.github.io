@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: 🧾-literature
+title: literature
 permalink: /literature/
 ---
 
@@ -43,6 +43,9 @@ permalink: /literature/
 
 * [Delphi Digital | THE STATE OF BITCOIN](https://www.delphidigital.io/bitcoin)
 * [Delphi Digital | UTXO](https://www.delphidigital.io/utxo)
+
+[Research - Smith + Crown](https://www.smithandcrown.com/research/)
+  > Since 2013 we have been studying the breadth of the public blockchain space with a focus on global trends, industry intelligence, and cryptoeconomic systems
 
 
 ### Iterative Capital Thesis

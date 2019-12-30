@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: 🔩-drivechain
+title: drivechain
 permalink: /layer2/drivechain/
 ---
 
