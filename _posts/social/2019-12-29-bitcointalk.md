@@ -2,6 +2,7 @@
 layout: page-fullwidth
 title: "Bitcointalk Forum - Resources"
 permalink: /social/bitcointalk/
+categories: ["Social"]
 ---
 
 [[GUIDES] on Bitcointalk. Index thread (until there is a dedicated subforum?)](https://bitcointalk.org/index.php?topic=4928968.0)

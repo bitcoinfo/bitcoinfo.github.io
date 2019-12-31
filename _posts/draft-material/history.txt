@@ -1,0 +1,38 @@
+* [Bitcoin’s Tech Trends of 2018: What This Year Brought Us (Part 1)](https://bitcoinmagazine.com/articles/bitcoins-tech-trends-2018-what-year-brought-us-part-1/)
+  >Where 2017’s dizzying price highs embedded “hodl” into the public consciousness, 2018 was the year in which “buidl" became a trend in the crypto-industry — and Bitcoin was no exception.
+* [Bitcoin’s Tech Trends of 2018: What This Year Brought Us (Part 2)](https://bitcoinmagazine.com/articles/bitcoins-tech-trends-2018-what-year-brought-us-part-2/)
+  >Bitcoin technologies made great progress in 2018. In part two of our series, we look at advances in privacy, sidechains and Schnorr signatures.
+* [Sebastien Guillemot (@SebastienGllmt)](https://twitter.com/SebastienGllmt/status/1060744966618529793)
+  >Wow this is awesome! Check out this slide deck about the Bitcoin Backbone Model. The math used in this paper is reused in a bunch of papers about crypto (including Cardano) so understanding this will help you understand all the other papers! https://t.co/lUb3NVaOi4
+
+
+## Verge
+
+[![](https://imgur.com/cRWuNOr.png)](https://blog.theabacus.io/the-verge-hack-explained-7942f63a3017)
+
+* CryptoQuikRead_076 - [The Verge Hack, Explained](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_076---The-Verge-Hack--Explained-e2nds5)
+* CryptoQuikRead_094 - [Let's Do the Time Warp Again, Verge Hack Part Deux](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_094---Lets-Do-the-Time-Warp-Again--Verge-Hack-Part-Deux-e2ndrm)
+* CryptoChat_001 with Daniel Goldman - [Verge, Digital Gold, Forks, and Going Down the Rabbit Hole](https://anchor.fm/thecryptoconomy/episodes/CryptoChat_001-with-Daniel-Goldman---Verge--Digital-Gold--Forks--and-Going-Down-the-Rabbit-Hole-e2ndr9)
+
+## 
+[notsofast (@notsofast)](https://twitter.com/notsofast)
+  > If you're new(er), look up some of these (anti)heroes from $crypto past. Shadow_runner presstab The Story Of Bob Surplus Wolong OTOH Kazonomics IGotSpots
+
+
+* [The Skeptics - A Tribute to Bold Assertions](https://nakamotoinstitute.org/the-skeptics/)
+
+
+* CryptoQuikRead_016 - [Bitcoin 0.16.0 is Released: Here's What's New](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_016---Bitcoin-0-16-0-is-Released-Heres-Whats-New-e2nduc)
+* CryptoQuikRead_107 - [If Bitcoin Had a First Draft, Wei Dai's B-Money Was It](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_107---If-Bitcoin-Had-a-First-Draft--Wei-Dais-B-Money-Was-It-e2ndra)
+* CryptoQuikRead_120 - [Visions of Bitcoin](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_120---Visions-of-Bitcoin-e2ndqq)
+
+[Nick Szabo 🔑 (@NickSzabo4)](https://twitter.com/NickSzabo4/status/1012373493252419584)
+  > @CobraBitcoinCsh My bit gold design in 1998 was 2-layer: bit gold for settlement, Chaumian e-cash for a privacy-enhanced payments layer. I've always thought of Bitcoin as evolving into a settlements-and-large-payments layer that in the long term needed a layer 2 for consu...
+
+[halfin (@halfin)](https://twitter.com/halfin/status/1110302988)
+  > Running bitcoin
+
+
+[Most Cited Darknet Market Publications](https://blockchainlibrary.org/2017/11/most-cited-darknet-market-publications)
+Decentralized currencies have supported marketplaces that sell items, data, or services that cannot purchased through banking or payment system networks. Ironically, the most popular currency to do…
+

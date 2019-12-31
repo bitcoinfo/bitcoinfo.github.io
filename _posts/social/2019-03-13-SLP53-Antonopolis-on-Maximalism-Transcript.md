@@ -8,12 +8,10 @@ header:
   teaser: "/images/antonop-livera-maximalism.png"
   caption: "[SLP53 ANDREAS M. ANTONOPOULOS – ON BITCOIN MAXIMALISM](https://stephanlivera.com/episode/53)"
 last_modified_at: 2019-04-20T11:22:33-23:00
-categories: ["Transcripts","Bitcoin"]
 tags:
-  - Stephan Livera
-  - Andreas Antonopolous
-  - Bitcoin Maximalism
-permalink: '/social/SLP53-Antonopolis-Maximalism-Transcript/'
+  - "Transcript"
+permalink: '/social/SLP53_-_Livera-and-Antonopolis-on-Maximalism/'
+categories: ["Social"]
 
 ---
 

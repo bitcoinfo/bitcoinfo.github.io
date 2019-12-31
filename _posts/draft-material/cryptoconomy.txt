@@ -1,0 +1,48 @@
+
+
+
+* CryptoQuikRead_020 - [There is a Bitcoin Patent War Going On](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_020---There-is-a-Bitcoin-Patent-War-Going-On-e2ndu8)
+
+* CryptoQuikRead_196 - [Understanding the Technical Side of Bitcoin](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_196---Understanding-the-Technical-Side-of-Bitcoin-e2ndo6)
+* CryptoQuikRead_115 - [Announcing Bitcoin OpTech](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_115---Announcing-Bitcoin-OpTech-e2ndr0)
+* CryptoQuikRead_084 - [Analysis of Batching in Bitcoin](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_084---Analysis-of-Batching-in-Bitcoin-e2nds0)
+* CryptoQuikRead_147 - [How to Critique Bitcoin, A Guide](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_147---How-to-Critique-Bitcoin--A-Guide-e2ndpt)
+* CryptoQuikRead_159 - [Bitcoin, Chance, and Randomness [Part 2]](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_159---Bitcoin--Chance--and-Randomness-Part-2-e2ndpi)
+* CryptoChat_006 - [TheOneVortex on Building for Bitcoin](https://anchor.fm/thecryptoconomy/episodes/CryptoChat_006---TheOneVortex-on-Building-for-Bitcoin-e2ndpq)
+* CryptoQuikRead_175 - [Open Sourcing Subzero](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_175---Open-Sourcing-Subzero-e2ndot)
+  >Alok Menghrajani, security engineer at Square, details their Multisig & Hardware key management system for the cold storage of customer's Cash app Bitcoin balances. 
+* CryptoQuikRead_213 - [MuSig, A New MultiSignature Standard](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_213---MuSig--A-New-MultiSignature-Standard-e38hv5)
+* CryptoQuikRead_226 - [Schnorr Signatures & The Inevitability of Privacy in Bitcoin](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_226---Schnorr-Signatures--The-Inevitability-of-Privacy-in-Bitcoin-e3jfhi)
+
+* CryptoQuikRead_260 - [Why America Can't Regulate Bitcoin](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_260---Why-America-Cant-Regulate-Bitcoin-e4b4s8)
+
+
+* CryptoQuikRead_118 - [Securing Property with Owner Authority](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_118---Securing-Property-with-Owner-Authority-e2ndqs)
+
+
+* CryptoQuikRead_134 - [Welcome to Bitcoin Island](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_134---Welcome-to-Bitcoin-Island-e2ndqb)
+
+* CryptoQuikRead_181 - [Bitcoin's Existential Crisis](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_181---Bitcoins-Existential-Crisis-e2ndok)
+* CryptoQuikRead_160 - [Bitcoin, Blockade Runner of the Information Age](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_160---Bitcoin--Blockade-Runner-of-the-Information-Age-e2ndpf)
+* CryptoChat_005 - [Brady Swenson on Being an Informed Bitcoin Citizen](https://anchor.fm/thecryptoconomy/episodes/CryptoChat_005---Brady-Swenson-on-Being-an-Informed-Bitcoin-Citizen-e2ndq1)
+* CryptoQuikRead_204 - [Bitcoin, Winner Takes All, or Winner Takes Most?](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_204---Bitcoin--Winner-Takes-All--or-Winner-Takes-Most-e30vht)
+* CryptoQuikRead_212 - [5 Things I've Learned After a Year in Bitcoin](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_212---5-Things-Ive-Learned-After-a-Year-in-Bitcoin-e3683j)
+
+
+* GuysTake_007 - [Happy Birthday Bitcoin, Looking Back on 10 Insane Years](https://anchor.fm/thecryptoconomy/episodes/GuysTake_007---Happy-Birthday-Bitcoin--Looking-Back-on-10-Insane-Years-e2sh1j)
+* CryptoQuikRead_202 - [Dan Hedl thinks Satoshi's Vision is a Silly Endeavor](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_202---Dan-Hedl-thinks-Satoshis-Vision-is-a-Silly-Endeavor-e2v0j1)
+
+* CryptoQuikRead_218 - [The Resolution of the Big Block Experiment](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_218---The-Resolution-of-the-Big-Block-Experiment-e3g7ms)
+* CryptoQuikRead_148 - [Bitcoin as a Conflict Prevention Protocol](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_148---Bitcoin-as-a-Conflict-Prevention-Protocol-e2ndps)
+* CryptoQuikRead_225 - [Bitcoin & the Promise of Independent Property Rights](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_225---Bitcoin--the-Promise-of-Independent-Property-Rights-e3j6b8)
+* [My Favorite Bitcoin Holidays? A Walk with Guy Through Bitcoin History](https://anchor.fm/thecryptoconomy/episodes/My-Favorite-Bitcoin-Holidays--A-Walk-with-Guy-Through-Bitcoin-History-e3kgpp)
+* CryptoChat_010 - [Guy & the PayPod on How Bitcoin Will Change the World](https://anchor.fm/thecryptoconomy/episodes/CryptoChat_010---Guy--the-PayPod-on-How-Bitcoin-Will-Change-the-World-e3kpfs)
+* CryptoQuikRead_245 - [Bitcoin's Gravity](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_245---Bitcoins-Gravity-e3urjl)
+* CryptoQuikRead_246 - [Errors in Satoshi's Whitepaper](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_246---Errors-in-Satoshis-Whitepaper-e3v701)
+* GuysTake_012 - [Full Nodes or Nothing, The Story of Validation [Part 1]](https://anchor.fm/thecryptoconomy/episodes/GuysTake_012---Full-Nodes-or-Nothing--The-Story-of-Validation-Part-1-e3vk1s)
+* GuysTake_013 - [Nodes vs Miners, Who Defines Bitcoin?](https://anchor.fm/thecryptoconomy/episodes/GuysTake_013---Nodes-vs-Miners--Who-Defines-Bitcoin-e3vttt)
+* CryptoQuikRead_247 - [The Ancient Sin of Debt; How Bitcoin Can Make Amends](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_247---The-Ancient-Sin-of-Debt-How-Bitcoin-Can-Make-Amends-e41e3m)
+* CryptoQuikRead_249 - [Bitcoin Has No Intrinsic Value, & That's Great!](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_249---Bitcoin-Has-No-Intrinsic-Value---Thats-Great-e43bcm)
+* CryptoQuikRead_254 - [Bitcoin & Software Reliability](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_254---Bitcoin--Software-Reliability-e46lnu)
+* CryptoQuikRead_255 - [Bitcoin An Accounting Revolution](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_255---Bitcoin-An-Accounting-Revolution-e473tj)
+* GuysTake_017 - [Erlay, Dandelion, & BitcoinOps](https://anchor.fm/thecryptoconomy/episodes/GuysTake_017---Erlay--Dandelion---BitcoinOps-e491ec)

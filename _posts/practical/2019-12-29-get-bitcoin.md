@@ -2,6 +2,8 @@
 title: Get Bitcoin
 layout: page-fullwidth
 permalink: /practical/get-bitcoin/
+categories: ["Practical"]
+
 ---
 
 ### 💱 Earn

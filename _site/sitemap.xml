@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 26 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 25 links with priority=0.3, changefreq=monthly -->
 
 	
 	<url>
 	<loc>http://localhost:4000/404.html</loc>
 	
-		<lastmod>2019-12-29T12:11:31-05:00</lastmod>
+		<lastmod>2019-12-31T07:59:50-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -22,7 +22,7 @@
 	<url>
 	<loc>http://localhost:4000/feed/archive/</loc>
 	
-		<lastmod>2019-12-29T12:11:31-05:00</lastmod>
+		<lastmod>2019-12-31T07:59:50-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -39,7 +39,7 @@
 	<url>
 	<loc>http://localhost:4000/atom.xml</loc>
 	
-		<lastmod>2019-12-29T12:11:31-05:00</lastmod>
+		<lastmod>2019-12-31T07:59:50-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -56,7 +56,7 @@
 	<url>
 	<loc>http://localhost:4000/feed.xml</loc>
 	
-		<lastmod>2019-12-29T12:11:31-05:00</lastmod>
+		<lastmod>2019-12-31T07:59:50-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -71,7 +71,7 @@
 	<url>
 	<loc>http://localhost:4000/humans.txt</loc>
 	
-		<lastmod>2019-12-29T12:11:31-05:00</lastmod>
+		<lastmod>2019-12-31T07:59:50-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -86,7 +86,7 @@
 	<url>
 	<loc>http://localhost:4000/feed/</loc>
 	
-		<lastmod>2019-12-29T12:11:31-05:00</lastmod>
+		<lastmod>2019-12-31T07:59:50-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -101,7 +101,7 @@
 	<url>
 	<loc>http://localhost:4000/</loc>
 	
-		<lastmod>2019-12-29T12:11:31-05:00</lastmod>
+		<lastmod>2019-12-31T07:59:50-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -116,7 +116,7 @@
 	<url>
 	<loc>http://localhost:4000/info/</loc>
 	
-		<lastmod>2019-12-29T12:11:31-05:00</lastmod>
+		<lastmod>2019-12-31T07:59:50-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -131,7 +131,7 @@
 	<url>
 	<loc>http://localhost:4000/redirect-page/</loc>
 	
-		<lastmod>2019-12-29T12:11:31-05:00</lastmod>
+		<lastmod>2019-12-31T07:59:50-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -146,7 +146,7 @@
 	<url>
 	<loc>http://localhost:4000/robots.txt</loc>
 	
-		<lastmod>2019-12-29T12:11:31-05:00</lastmod>
+		<lastmod>2019-12-31T07:59:50-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -165,7 +165,7 @@
 	<url>
 	<loc>http://localhost:4000/search/</loc>
 	
-		<lastmod>2019-12-29T12:11:31-05:00</lastmod>
+		<lastmod>2019-12-31T07:59:50-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -180,7 +180,7 @@
 	<url>
 	<loc>http://localhost:4000/sitemap.xml</loc>
 	
-		<lastmod>2019-12-29T12:11:31-05:00</lastmod>
+		<lastmod>2019-12-31T07:59:50-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -197,7 +197,7 @@
 	<url>
 	<loc>http://localhost:4000/feed/</loc>
 	
-		<lastmod>2019-12-29T12:11:31-05:00</lastmod>
+		<lastmod>2019-12-31T07:59:50-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -212,7 +212,7 @@
 	<url>
 	<loc>http://localhost:4000/feed/</loc>
 	
-		<lastmod>2019-12-29T12:11:31-05:00</lastmod>
+		<lastmod>2019-12-31T07:59:50-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -227,7 +227,7 @@
 	<url>
 	<loc>http://localhost:4000/feed/</loc>
 	
-		<lastmod>2019-12-29T12:11:31-05:00</lastmod>
+		<lastmod>2019-12-31T07:59:50-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -242,7 +242,7 @@
 	<url>
 	<loc>http://localhost:4000/feed/</loc>
 	
-		<lastmod>2019-12-29T12:11:31-05:00</lastmod>
+		<lastmod>2019-12-31T07:59:50-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -257,7 +257,7 @@
 	<url>
 	<loc>http://localhost:4000/feed/</loc>
 	
-		<lastmod>2019-12-29T12:11:31-05:00</lastmod>
+		<lastmod>2019-12-31T07:59:50-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -272,22 +272,7 @@
 	<url>
 	<loc>http://localhost:4000/feed/</loc>
 	
-		<lastmod>2019-12-29T12:11:31-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/feed/</loc>
-	
-		<lastmod>2019-12-29T12:11:31-05:00</lastmod>
+		<lastmod>2019-12-31T07:59:50-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -303,13 +288,13 @@
 	
 
 
-<!-- Posts: 36 links with priority=0.5, changefreq=monthly -->
+<!-- Posts: 31 links with priority=0.5, changefreq=monthly -->
 
 	
 	<url>
-	<loc>http://localhost:4000/social/twitter/</loc>
+	<loc>http://localhost:4000/practical/security/</loc>
 	
-		<lastmod>2019-12-29T00:00:00-05:00</lastmod>
+		<lastmod>2019-12-31T00:00:00-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -322,7 +307,82 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/social/maximalism/</loc>
+	<loc>http://localhost:4000/articles/</loc>
+	
+		<lastmod>2019-12-31T00:00:00-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/swag/</loc>
+	
+		<lastmod>2019-12-30T00:00:00-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/memes-art/</loc>
+	
+		<lastmod>2019-12-30T00:00:00-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/social/governance/</loc>
+	
+		<lastmod>2019-12-30T00:00:00-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/audio-video/</loc>
+	
+		<lastmod>2019-12-30T00:00:00-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/social/</loc>
 	
 		<lastmod>2019-12-29T00:00:00-05:00</lastmod>
 	
@@ -338,51 +398,6 @@
 	
 	<url>
 	<loc>http://localhost:4000/social/bitcointalk/</loc>
-	
-		<lastmod>2019-12-29T00:00:00-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/practical/development/scripting/</loc>
-	
-		<lastmod>2019-12-29T00:00:00-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/practical/development/libraries/</loc>
-	
-		<lastmod>2019-12-29T00:00:00-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/practical/development/</loc>
 	
 		<lastmod>2019-12-29T00:00:00-05:00</lastmod>
 	
@@ -487,6 +502,21 @@
 
 	
 	<url>
+	<loc>http://localhost:4000/practical/development/</loc>
+	
+		<lastmod>2019-12-29T00:00:00-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
 	<loc>http://localhost:4000/practical/data-analytics/</loc>
 	
 		<lastmod>2019-12-29T00:00:00-05:00</lastmod>
@@ -517,7 +547,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/literature/</loc>
+	<loc>http://localhost:4000/technical/</loc>
 	
 		<lastmod>2019-12-29T00:00:00-05:00</lastmod>
 	
@@ -532,7 +562,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/literature/white-paper/</loc>
+	<loc>http://localhost:4000/literature/</loc>
 	
 		<lastmod>2019-12-29T00:00:00-05:00</lastmod>
 	
@@ -562,7 +592,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/layer2/rootstock/</loc>
+	<loc>http://localhost:4000/layer-2/</loc>
 	
 		<lastmod>2019-12-29T00:00:00-05:00</lastmod>
 	
@@ -577,157 +607,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/layer2/liquid-sidechain/</loc>
-	
-		<lastmod>2019-12-29T00:00:00-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/layer2/</loc>
-	
-		<lastmod>2019-12-29T00:00:00-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/technical/</loc>
-	
-		<lastmod>2019-12-29T00:00:00-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/technical/scaling/</loc>
-	
-		<lastmod>2019-12-29T00:00:00-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/pow/</loc>
-	
-		<lastmod>2019-12-29T00:00:00-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/mining/</loc>
-	
-		<lastmod>2019-12-29T00:00:00-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/layer1/forks/</loc>
-	
-		<lastmod>2019-12-29T00:00:00-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/technical/bitcoin-core/</loc>
-	
-		<lastmod>2019-12-29T00:00:00-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/finance/economics/cash/</loc>
-	
-		<lastmod>2019-12-29T00:00:00-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/finance/austrian/</loc>
-	
-		<lastmod>2019-12-29T00:00:00-05:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/finance/tether/</loc>
+	<loc>http://localhost:4000/layer-1/</loc>
 	
 		<lastmod>2019-12-29T00:00:00-05:00</lastmod>
 	
@@ -772,6 +652,36 @@
 
 	
 	<url>
+	<loc>http://localhost:4000/decentralization/</loc>
+	
+		<lastmod>2019-12-29T00:00:00-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/literature/white-paper/</loc>
+	
+		<lastmod>2019-12-29T00:00:00-05:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
 	<loc>http://localhost:4000/101/</loc>
 	
 		<lastmod>2019-12-29T00:00:00-05:00</lastmod>
@@ -787,7 +697,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/practical/</loc>
+	<loc>http://localhost:4000/utilities/</loc>
 	
 		<lastmod>2019-08-01T00:00:00-04:00</lastmod>
 	
@@ -832,7 +742,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/social/SLP53-Antonopolis-Maximalism-Transcript/</loc>
+	<loc>http://localhost:4000/social/SLP53_-_Livera-and-Antonopolis-on-Maximalism/</loc>
 	
 		<lastmod>2019-03-13T00:00:00-04:00</lastmod>
 	

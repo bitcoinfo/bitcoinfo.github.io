@@ -1,0 +1,47 @@
+I"|<h3 id="-explorers">🗃 Explorers</h3>
+
+<ul>
+  <li><a href="http://blockstream.info">blockstream.info</a></li>
+  <li><a href="https://blockchain.com/">blockchain.com/</a>
+    <blockquote>
+      <p>Blockchain is the world’s most trusted all-in-one crypto company. We’re connecting the world to the future of finance through our suite of products including the leading crypto wallet, bitcoin explorer, and market information.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.blocktrail.com/BTC">blocktrail.com/BTC</a></li>
+  <li><a href="https://blockexplorer.com/">blockexplorer.com/</a></li>
+  <li><a href="https://www.smartbit.com.au/">smartbit.com.au/</a></li>
+  <li><a href="https://bitkit.live/">bitkit.live/</a></li>
+  <li><a href="https://oxt.me/">OXT</a>
+    <blockquote>
+      <p>OXT is a tool designed for Exploratory Blockchain Analysis of the bitcoin ledger.
+OXT is the “Other eXploration Tool” and it should become the “Open eXploration Tool” in the future.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h3 id="-fees">🗃 Fees</h3>
+
+<ul>
+  <li><a href="https://transactionfee.info/">transactionfee.info</a>
+    <blockquote>
+      <p>Check the fee efficiency of your last transaction!</p>
+    </blockquote>
+  </li>
+  <li><a href="https://bitcoinfees.earn.com/">bitcoinfees.earn.com</a></li>
+  <li><a href="b10c.me/A-list-of-public-feerate-estimator-APIs/">b10c.me/A-list-of-public-feerate-estimator-APIs/</a></li>
+  <li><a href="statoshi.info/dashboard/db/fee-estimates">statoshi.info/dashboard/db/fee-estimates</a></li>
+  <li><a href="bitcoiner.live/">bitcoiner.live/</a></li>
+  <li><a href="bitcoinfees.earn.com/">bitcoinfees.earn.com/</a></li>
+  <li><a href="fees.truelevel.io/#/btc">fees.truelevel.io/#/btc</a></li>
+  <li><a href="whatthefee.io/">whatthefee.io/</a></li>
+</ul>
+
+<h3 id="-visualizations">🗃 Visualizations</h3>
+
+<ul>
+  <li><a href="https://github.com/xpfio/awesome-blockchain-visualisation">xpfio/awesome-blockchain-visualisation</a></li>
+  <li><a href="https://github.com/bitcoin-vr/bitcoin-vr">bitcoin-vr/bitcoin-vr</a></li>
+  <li><a href="https://github.com/KevinSmall/blockchain3d">KevinSmall/blockchain3d</a></li>
+</ul>
+
+:ET

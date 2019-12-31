@@ -2,9 +2,12 @@
 layout: page-fullwidth
 title: Bitcoin Data and Analytics
 permalink: /practical/data-analytics/
+categories: ["Practical"]
+
 ---
 
-[Blockchain Analysis Is About to Get Harder as P2EP Enters Testing Phase](https://bitcoinmagazine.com/articles/blockchain-analysis-about-get-harder-p2ep-enters-testing-phase)
+[Bitcoin Charts (no TA) (@ChartsBtc)](https://twitter.com/ChartsBtc/media)
+[BitcoinVisuals.com ️ (@BitcoinVisuals)](https://twitter.com/BitcoinVisuals)
 
 ## ⧉ Data
 * [bitdb.network/](https://bitdb.network/)
@@ -48,7 +51,33 @@ Fast import of the blockchain into PostgreSQL.
   > A tiny API to explore unspent bitcoin transactions 
 
 
+
+[Zombie-3000/Bitfinex-historical-data](https://github.com/Zombie-3000/Bitfinex-historical-data)
+
+historical 1-minute candles from bitfinex-exchange - Zombie-3000/Bitfinex-historical-data
+
+[API Overview - BitMEX](https://www.bitmex.com/app/apiOverview)
+BitMEX is the world's most advanced P2P crypto-products trading platform and API. Trade with up to 100x leverage with only Bitcoin as collateral.
+
+[10 Years of Blockchain Data Science](https://panelpicker.sxsw.com/vote/91245)
+tl;dr; Bitcoin turns 10 years old in 2019 and has been continuously recording data in its blockchain the whole time. In this talk, I will present the most beautiful visualizations and fascinating analyses of this and other blockchains made by data scientists such as myself. ...
+
+[Blockchair](https://blockchair.com/)
+Blockchair is a blockchain search and analytics engine featuring Bitcoin, Bitcoin Cash, Ethereum, and Litecoin explorers, as well as full-text search over blockchain data.
+
+[Nearly One Trillion Dollars Worth of Bitcoin Has Been Transferred in 2018, Close to Half a Trillion For Ethereum](https://www.trustnodes.com/2018/08/16/nearly-one-trillion-dollars-worth-bitcoin-transferred-2018-close-half-trillion-ethereum)
+
+[Bitcoin Investors and Speculators Hold Their Positions over the Summer](https://blog.chainalysis.com/reports/money-supply-q3)
+The cryptocurrency monetary aggregates have been updated for the summer months and show that the market continues to stabilize, in spite of price declines.
+
+[Allen Day - Google’s Mission to Provide Open Datasets for Public...](https://epicenter.tv/episode/254)
+We're joined by Allen Day, Science Advocate at Google. Earlier this year, he and his team released both Bitcoin and Ethereum as public datasets in Big Query, Google big data IaaS offering.
+
+
+
 ### 📊 Chainanalysis
+
+[Blockchain Analysis Is About to Get Harder as P2EP Enters Testing Phase](https://bitcoinmagazine.com/articles/blockchain-analysis-about-get-harder-p2ep-enters-testing-phase)
 
 * [animeshbchowdhury/bitcoinCodeRepos](https://github.com/animeshbchowdhury/bitcoinCodeRepos)
   > Bitcoin Code Written for Long Chain Analysis. 

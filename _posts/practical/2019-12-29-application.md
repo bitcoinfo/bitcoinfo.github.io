@@ -2,6 +2,8 @@
 layout: page-fullwidth
 title: Applications leveraging the Bitcoin Blockchain
 permalink: /practical/application/
+categories: ["Practical"]
+
 ---
 
 
