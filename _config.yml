@@ -109,7 +109,7 @@ defaults:
       comments: false
       author: infominer    # Default author for pages
       header:
-          image_fullwidth: "header-light.png"
+          image_fullwidth: "header-medium.png"
   -
     scope:
       path: '_posts'
@@ -121,7 +121,7 @@ defaults:
       comments: false
       author: infominer     # Default author for posts
       header:
-          image_fullwidth: "header-light.png"
+          image_fullwidth: "header-medium.png"
   -
     scope:
       path: '_drafts'

@@ -3,8 +3,6 @@ layout: page
 title: "About Bitcoinfo"
 subheadline: "Bitcoin 'Mostly'"
 permalink: "/info/"
-header:
-    image_fullwidth: "header-light.png"
 ---
 
 
