@@ -1,6 +1,6 @@
 ---
 title: "Assorted Articles, Tweets, and Short-Form"
-permalink: /articles/
+permalink: /info/articles/
 categories: ["Info"]
 
 ---

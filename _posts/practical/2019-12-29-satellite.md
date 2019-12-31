@@ -3,6 +3,7 @@ title: 🛰️ Satellite
 layout: page-fullwidth
 permalink: /practical/satellite/
 categories: ["Practical"]
+tags: ["Tech Info"]
 
 ---
 

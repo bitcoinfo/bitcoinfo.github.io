@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: Bitcoin Development - Resources
 permalink: /practical/development/
 categories: ["Practical"]
-
+tags: ["Tech Info"]
 
 ---
 

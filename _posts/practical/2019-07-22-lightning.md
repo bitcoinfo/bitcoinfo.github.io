@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: "Lightning Network Info: Wallets, Applications, Guides and Development"
 description: A curated list related to using the Lightning Network.
 excerpt: Apps, tools, howtos, and other resources for using the Lightning network.
-permalink: /layer2/lightning/practical/
+permalink: /layer-2/lightning/practical/
 header:
   image: "/images/lightning-network-trustchain.png"
   og_image: "/images/jack-dorsey-lightning-network-torch-710x458.jpg"

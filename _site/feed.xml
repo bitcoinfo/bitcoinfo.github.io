@@ -9,8 +9,8 @@
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Bitcoin Related Security Info + Best Practices</title>
-				<link>http://localhost:4000/practical/security/</link>
+				<title>Bitcoin Security Info + Best Practices</title>
+				<link>http://localhost:4000/info/security/</link>
 				<pubDate>Tue, 31 Dec 2019 00:00:00 -0500</pubDate>
 				<description>&lt;p&gt;&lt;a href=&quot;https://github.com/jlopp/physical-bitcoin-attacks&quot;&gt;jlopp/physical-bitcoin-attacks&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
@@ -200,12 +200,12 @@ Listen to The Privacy, Security, &amp;amp; OSINT Show episodes free, on demand. 
   &lt;li&gt;&lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/The-Bitcoin-Threat-Model-e35f5r&quot;&gt;The Bitcoin Threat Model&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/practical/security/</guid>
+				<guid isPermaLink="true">http://localhost:4000/info/security/</guid>
 			</item>
 		
 			<item>
 				<title>Assorted Articles, Tweets, and Short-Form</title>
-				<link>http://localhost:4000/articles/</link>
+				<link>http://localhost:4000/info/articles/</link>
 				<pubDate>Tue, 31 Dec 2019 00:00:00 -0500</pubDate>
 				<description>&lt;p&gt;CryptoQuikRead_130 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_130---Media-Coverage-of-Bitcoin-is-Still-a-Total-Disaster-e2ndqf&quot;&gt;Media Coverage of Bitcoin is Still a Total Disaster&lt;/a&gt;&lt;/p&gt;
 
@@ -445,7 +445,7 @@ Listen to The Privacy, Security, &amp;amp; OSINT Show episodes free, on demand. 
   &lt;li&gt;CryptoChat_003 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoChat_003---Nik-Bhatia-on-The-Future-of-Bitcoin-Financial-Markets-e2ndqv&quot;&gt;Nik Bhatia on The Future of Bitcoin Financial Markets&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/articles/</guid>
+				<guid isPermaLink="true">http://localhost:4000/info/articles/</guid>
 			</item>
 		
 			<item>
@@ -773,7 +773,7 @@ Seems appropriate..&lt;/p&gt;
 		
 			<item>
 				<title>Bitcoin Media: Blogs, Podcasts, Video Channels, etc</title>
-				<link>http://localhost:4000/audio-video/</link>
+				<link>http://localhost:4000/info/audio-video/</link>
 				<pubDate>Mon, 30 Dec 2019 00:00:00 -0500</pubDate>
 				<description>&lt;h2 id=&quot;podcasts&quot;&gt;Podcasts&lt;/h2&gt;
 
@@ -924,7 +924,7 @@ Good Morning Cyberspace! Introducing a new weekly show where @lopp, @AlenaSatosh
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/_joerodgers/status/1142889975270248454?s=20&quot;&gt;Joe Rodgers (@_joerodgers)&lt;/a&gt;
 All hail the king… of curation, @nlw! Crypto happens fast. If you want weekly crypto industry news and conversations, sign up for this man’s newsletter. Congrats on 1 year of dedicated curation. Looking forward to what’s next and how you will push content delivery for…&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/audio-video/</guid>
+				<guid isPermaLink="true">http://localhost:4000/info/audio-video/</guid>
 			</item>
 		
 			<item>
@@ -1118,10 +1118,12 @@ Bitcoin is a slow-burning but potent nonviolent rebellion.&lt;/li&gt;
 			</item>
 		
 			<item>
-				<title>⧉ Wallets</title>
-				<link>http://localhost:4000/practical/wallets/</link>
+				<title>Wallets and Utilities</title>
+				<link>http://localhost:4000/layer-1/wallets-utilities/</link>
 				<pubDate>Sun, 29 Dec 2019 00:00:00 -0500</pubDate>
-				<description>&lt;blockquote&gt;
+				<description>&lt;h2 id=&quot;wallets&quot;&gt;Wallets&lt;/h2&gt;
+
+&lt;blockquote&gt;
   &lt;ul&gt;
     &lt;li&gt;Do not use wallets that don’t give you recovery data; these wallets are likely controlling your keys.&lt;/li&gt;
     &lt;li&gt;Do not use paper wallets unless you’re an advanced user who understands all the risks.&lt;/li&gt;
@@ -1427,8 +1429,74 @@ Bitcoin thin client for iOS &amp;amp; Android. Built with React Native - BlueWal
   &lt;li&gt;&lt;a href=&quot;https://github.com/dbasch/bitcoin-paper-wallet&quot;&gt;dbasch/bitcoin-paper-wallet&lt;/a&gt; - Generate a Bitcoin paper wallet offline as a png file, no need for a browser. - dbasch/bitcoin-paper-wallet&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/nurupo/paper-store&quot;&gt;nurupo/paper-store&lt;/a&gt; - Cold store small files on paper as QR codes – PGP keys, Bitcoin keys, Tox keys or any other small files in general. - nurupo/paper-store&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h2 id=&quot;utilities&quot;&gt;Utilities&lt;/h2&gt;
+
+&lt;h3 id=&quot;escrow&quot;&gt;Escrow&lt;/h3&gt;
+
+&lt;p&gt;Escrow Agents should be impartial and trusted intermediaries who hold custody of buyer’s funds until pre-defined conditions are met. With the help of public key encryption, parties who don’t know or trust each-other can engage in commerce, online.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bitrated.com/&quot;&gt;bitrated.com&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Bitcoin Trust Platform - Identity &amp;amp; reputation management, multi-signature smart contracts and consumer protection for Bitcoin and other cryptocurrencies.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://jobs4btc-escrow.appspot.com/&quot;&gt;jobs4btc-escrow.appspot.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://web-work.tools/practical-public-key-crypto/&quot;&gt;Using PGP and Cryptocurrency Keysignatures&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Asymmetric Encryption: Phil Zimmerman, PGP, Bitcoin and Ethereum key-signatures, Escrow, SSL, Various Apps and Resourses.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;explorers&quot;&gt;Explorers&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blockstream.info&quot;&gt;blockstream.info&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blockchain.com/&quot;&gt;blockchain.com/&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Blockchain is the world’s most trusted all-in-one crypto company. We’re connecting the world to the future of finance through our suite of products including the leading crypto wallet, bitcoin explorer, and market information.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.blocktrail.com/BTC&quot;&gt;blocktrail.com/BTC&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blockexplorer.com/&quot;&gt;blockexplorer.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smartbit.com.au/&quot;&gt;smartbit.com.au/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bitkit.live/&quot;&gt;bitkit.live/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://oxt.me/&quot;&gt;OXT&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;OXT is a tool designed for Exploratory Blockchain Analysis of the bitcoin ledger.
+OXT is the “Other eXploration Tool” and it should become the “Open eXploration Tool” in the future.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;fees&quot;&gt;Fees&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://transactionfee.info/&quot;&gt;transactionfee.info&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Check the fee efficiency of your last transaction!&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bitcoinfees.earn.com/&quot;&gt;bitcoinfees.earn.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;b10c.me/A-list-of-public-feerate-estimator-APIs/&quot;&gt;b10c.me/A-list-of-public-feerate-estimator-APIs/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;statoshi.info/dashboard/db/fee-estimates&quot;&gt;statoshi.info/dashboard/db/fee-estimates&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;bitcoiner.live/&quot;&gt;bitcoiner.live/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;bitcoinfees.earn.com/&quot;&gt;bitcoinfees.earn.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;fees.truelevel.io/#/btc&quot;&gt;fees.truelevel.io/#/btc&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;whatthefee.io/&quot;&gt;whatthefee.io/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;visualizations&quot;&gt;Visualizations&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/xpfio/awesome-blockchain-visualisation&quot;&gt;xpfio/awesome-blockchain-visualisation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/bitcoin-vr/bitcoin-vr&quot;&gt;bitcoin-vr/bitcoin-vr&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/KevinSmall/blockchain3d&quot;&gt;KevinSmall/blockchain3d&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 </description>
-				<guid isPermaLink="true">http://localhost:4000/practical/wallets/</guid>
+				<guid isPermaLink="true">http://localhost:4000/layer-1/wallets-utilities/</guid>
 			</item>
 		
 			<item>

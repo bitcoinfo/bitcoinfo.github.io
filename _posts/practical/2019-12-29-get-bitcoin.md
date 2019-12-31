@@ -25,16 +25,6 @@ categories: ["Practical"]
 * [earn-bitcoins.com](http://earn-bitcoins.com)
 
 
-### 🗃 Escrow
-
-
-Escrow Agents should be impartial and trusted intermediaries who hold custody of buyer's funds until pre-defined conditions are met. With the help of public key encryption, parties who don't know or trust each-other can engage in commerce, online.
-* [bitrated.com](https://www.bitrated.com/)  
-  > Bitcoin Trust Platform - Identity & reputation management, multi-signature smart contracts and consumer protection for Bitcoin and other cryptocurrencies.
-* [jobs4btc-escrow.appspot.com](http://jobs4btc-escrow.appspot.com/) 
-* [Using PGP and Cryptocurrency Keysignatures](https://web-work.tools/practical-public-key-crypto/)
-  > Asymmetric Encryption: Phil Zimmerman, PGP, Bitcoin and Ethereum key-signatures, Escrow, SSL, Various Apps and Resourses.
-
 
 ### 💱 Buy
 

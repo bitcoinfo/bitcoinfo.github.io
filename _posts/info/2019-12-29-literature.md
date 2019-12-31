@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: "Bitcoin Literature"
 permalink: /literature/
 categories: ["Info"]
-
+tags: ["Literature"]
 ---
 
 * [Essays on Bitcoin - eBook - Tuur Demeester, Andreas M Antonopoulos, Jimmy Song, Daniel Krawisz, Saifedean Ammous, Konrad S. Graf and Pierre Rochard](https://www.essaysonbitcoin.com/uploads/3/4/9/6/3496353/essaysonbitcoinv7.pdf)

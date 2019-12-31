@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: "Bitcoin Media: Blogs, Podcasts, Video Channels, etc"
-permalink: /audio-video/
+permalink: /info/audio-video/
 categories: ["Info"]
 
 ---

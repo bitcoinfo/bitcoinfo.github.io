@@ -1,11 +1,10 @@
 ---
 layout: page-fullwidth
-title: "BitcoiNFo"
-description: Bitcoin solves the problem of internet payments without an intermediary. introduced to the world concerned about . Below you'll find curated educational resources and information about Bitcoin.
-excerpt: Bitcoin is a revolutionary system that is quite complex and has a steep learning curve. Below you'll find curated educational resources and information about Bitcoin.
+title: "Bitcoin Whitepaper -  Resources"
 last_modified_at: 2019-12-08T11:22:33-23:00
 permalink: /literature/white-paper/
 categories: ["Info"]
+tags: ["Literature"]
 ---
 
 * [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)

@@ -2,32 +2,79 @@
   url: "/"
   side: left
 
-- title: #"Header Styles"
-  url: #"/headers/"
-  side: #left
-  dropdown:
-  - title: #"Header with Full-Width-Image"
-    url: #"/design/header-full-width-image/"
-  - title: #"Header with Image and Pattern"
-    url: #"/design/header-image-pattern/"
-  - title: #"Header with image and color"
-    url: #"/design/header-image-color/"
-  - title: #"Header Only With Logo"
-    url: #"/design/header-logo-only/"
-  - title: #"Header With Text"
-    url: #"/design/header-with-text/"
-  - title: #"No Header"
-    url: #"/design/no-header/"
-  - title: #"No Header but Image"
-    url: #"/design/no-header-but-image/"
-
-- title: Blog
-  url: "/feed/"
+- title: "Info"
+  url: "/info/"
   side: left
   dropdown:
-  - title: "Archive"
-    url: "/feed/archive/"
+  - title: "Resources"
+    url: "/info/resources/"
+  - title: "101 - Getting Started"
+    url: "/info/101/"
+  - title: "Bitcoin White Paper"
+    url: "/literature/white-paper/"
+  - title: "Literature"
+    url: "/literature/"
+  - title: "Audio / Video"
+    url: "/info/audio-video/"
+  - title: "Assorted Articles and Tweets"
+    url: "/info/articles/"
+  - title: "Finance"
+    url: "/info/finance/"
 
-- title: #"Search"
-  url: #"/search/"
-  side: #right
+- title: "Tech Info"
+  url: "/tech/"
+  side: left
+  dropdown:
+  - title: "Privacy"
+    url: "/info/privacy/"
+  - title: "Security"
+    url: "/info/security/"
+  - title: "Layer 1"
+    url: "/layer-1/"
+  - title: "Layer 2"
+    url: "/layer-2/"
+  - title: "Lightning Network Info"
+    url: "/layer-2/lightning/"
+  - title: "Decentralization"
+    url: "/tech/decentralization/"
+
+- title: "Practical"
+  url: "/practical/"
+  side: right
+  dropdown:
+  - title: "Get Bitcoin"
+    url: "/practical/get-bitcoin/"
+  - title: "Wallets and Utilities"
+    url: "/layer-1/wallets-utilities/"
+  - title: "Full Node"
+    url: /layer-1/full-node/
+  - title: "Applications"
+    url: /layer-1/applications/
+  - title: "Full Node"
+    url: /layer-1/full-node/
+  - title: "Lightning Network"
+    url: /layer-2/lightning/practical/
+  - title: "Satellite"
+    url: /practical/satellite/
+  - title: "Development"
+    url: /practical/development/
+  - title: "Trading"
+    url: /practical/trading/
+
+- title: "Social"
+  url: /social/
+  side: right
+  dropdown:
+  - title: "Memes / Art"
+    url: "/memes-art/"
+  - title: "Swag"
+    url: "/swag/"
+  - title: "Governance"
+    url: "/social/governance/"
+  - title: "Bitcointalk Forum - Info"
+    url: "/social/bitcointalk/"
+
+
+- title: "Search"
+  url: "/search/"
+  side: right

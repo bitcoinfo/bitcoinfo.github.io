@@ -3,6 +3,7 @@ layout: page-fullwidth
 title: Bitcoin Data and Analytics
 permalink: /practical/data-analytics/
 categories: ["Practical"]
+tags: ["Data"]
 
 ---
 
