@@ -21,7 +21,7 @@ widget3:
   title: "Technical Info"
   url: '/tech/'
   image: bitcoin-503581_small.jpg
-  text: 'Blurp Bleep Bloop'
+  text: 'Bleep Blurp Bloop'
 #
 # Use the call for action to show a button on the frontpage
 #
