@@ -33,7 +33,7 @@ improve_content: https://github.com/bitcoinfo/bitcoinfo.github.io/blob/master
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://bitcoinfo.xyz/assets/images/'
+urlimg: 'https://bitcoinfo.xyz/images/'
 
 
 # Logo size is 600x80 pixels
