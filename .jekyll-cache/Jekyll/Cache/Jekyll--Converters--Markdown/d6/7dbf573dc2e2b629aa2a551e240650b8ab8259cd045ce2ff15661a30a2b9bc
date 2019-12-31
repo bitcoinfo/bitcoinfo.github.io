@@ -1,4 +1,4 @@
-I"^2<p>On the Technical Side of things… largely unsorted… :)</p>
+I"�6<p>On the Technical Side of things… largely unsorted… :)</p>
 
 <ul>
   <li><a href="https://medium.com/@jeremyrubin/8-problems-with-bitcoin-to-solve-before-block-size-6b4d35e0c6f9">8 Problems for the Bitcoin Community to Solve Before Block Size:</a>
@@ -160,4 +160,34 @@
     </blockquote>
   </li>
 </ul>
+
+<h2 id="category-listing-tech-info">Category Listing: Tech Info</h2>
+
+<ul class="side-nav">
+
+  
+
+    
+      <li><a href="http://localhost:4000/info/security/"><strong>Bitcoin Security Info + Best Practices</strong></a></li>
+    
+      <li><a href="http://localhost:4000/practical/satellite/"><strong>🛰️ Satellite</strong></a></li>
+    
+      <li><a href="http://localhost:4000/practical/development/"><strong>Bitcoin Development - Resources</strong></a></li>
+    
+      <li><a href="http://localhost:4000/tech/"><strong>Assorted Technical Topics</strong></a></li>
+    
+      <li><a href="http://localhost:4000/info/privacy/"><strong>Privacy and Bitcoin</strong></a></li>
+    
+      <li><a href="http://localhost:4000/layer-2/lightning/"><strong>Lightning - Info</strong></a></li>
+    
+      <li><a href="http://localhost:4000/layer-2/"><strong>Bitcoin - Layer 2 - Lightning, Liquid and Beyond</strong></a></li>
+    
+      <li><a href="http://localhost:4000/layer-1/"><strong>Bitcoin's Base Layer - Info</strong></a></li>
+    
+      <li><a href="http://localhost:4000/tech/decentralization/"><strong>Decentralization</strong></a></li>
+    
+
+  
+</ul>
+
 :ET

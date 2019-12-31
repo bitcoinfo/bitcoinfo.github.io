@@ -89,3 +89,8 @@ Bitcoin Improvement Proposals.
 * [WebOfTrustInfo/rwot2-id2020 - Smarter Signatures](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/draft-documents/smarter-signatures.md)
 * [ElementsProject/simplicity](https://github.com/ElementsProject/simplicity)
   > Simplicity is a blockchain programming language designed as an alternative to Bitcoin script. - ElementsProject/simplicity
+
+
+## Category Listing: Tech Info
+
+{% include list-posts tag='Tech Info' %}

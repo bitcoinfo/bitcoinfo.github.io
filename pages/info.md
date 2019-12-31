@@ -14,6 +14,6 @@ Primarily my focus has been on Bitcoin History.  So what I wanted was to build a
 
 idk.. this is a bit of a mess, but... it's a good start, and now I have somewhere to publish histories and other information related to Bitcoin.
 
-## Category: Info
+## Category Listing: Info
 
 {% include list-posts category='Info' %}
