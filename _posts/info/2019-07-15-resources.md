@@ -60,3 +60,7 @@ categories: ["Info"]
 * [Crypto Words // A journal of Bitcoin commentary](https://cryptowords.github.io/)
 * [ProofOfWork - News](https://proofofwork.news/)
 
+
+## Related Posts
+
+{% include list-posts category='Info' %}

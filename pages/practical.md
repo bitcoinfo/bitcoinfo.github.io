@@ -5,6 +5,6 @@ permalink: /practical/
 ---
 
 
-## Category Listing: Practical
+## Post Listing: Practical
 
 {% include list-posts category='Practical' %}

@@ -928,756 +928,675 @@ All hail the king… of curation, @nlw! Crypto happens fast. If you want weekly 
 			</item>
 		
 			<item>
-				<title>The Social Layer of Bitcoin</title>
-				<link>http://localhost:4000/social/</link>
+				<title>Assorted Technical Topics</title>
+				<link>http://localhost:4000/tech/</link>
+				<pubDate>Sun, 29 Dec 2019 00:00:00 -0500</pubDate>
+				<description>&lt;p&gt;On the Technical Side of things… largely unsorted… :)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@jeremyrubin/8-problems-with-bitcoin-to-solve-before-block-size-6b4d35e0c6f9&quot;&gt;8 Problems for the Bitcoin Community to Solve Before Block Size:&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Recently the debate around block size has been getting a huge amount of attention, and it is easy to think this is the most important issue…&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@pierre_rochard/bitcoin-governance-37e86299470f&quot;&gt;Bitcoin Governance - Pierre Rochard - Medium&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/digitalassetresearch/a-guide-to-bitcoins-technical-brilliance-for-non-programmers-e28211e797c0&quot;&gt;A Guide To Bitcoin’s Technical Brilliance (For Non-Programmers)&lt;/a&gt; - 18 minutes is all that it takes to understand Bitcoin better than most people.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@pierre_rochard/understanding-the-technical-side-of-bitcoin-2c212dd65c09&quot;&gt;Understanding the Technical Side of Bitcoin - Pierre Rochard - Medium&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/xavi_xsb&quot;&gt;XSB 💾 (@xavi_xsb)&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;To my surprise the last @bitcoinoptech newsletter mentions a very small pull request I made that recently got merged into LND. Bitcoin Optech Newsletter is by far the best source of information for the latest fixes and features. Subscribe if you manage Bitcoin nodes.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bitcoinops.org/&quot;&gt;Bitcoin Optech&lt;/a&gt; - (&lt;a href=&quot;https://twitter.com/bitcoinoptech&quot;&gt;@bitcoinoptech&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://bitcointechweekly.com/&quot;&gt;Bitcoin Tech Weekly&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Lx9zgZCMqXE&quot;&gt;How Bitcoin Works Under the Hood&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;A somewhat technical explanation of how Bitcoin works. Want more? Check out my new in-depth course on the latest in Bitcoin, Blockchain, and a survey of the …&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://noded.org/podcast/noded-010-with-david-harding/&quot;&gt;Noded 0.1.0 with David Harding&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Michael Goldstein and Pierre Rochard have a conversation with David Harding about hard forks, Ethereum, MAST, Simplicity, and Scaling Bitcoin.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://noded.org/podcast/noded-0490-with-andrew-poelstra/&quot;&gt;Noded 0.49.0 with Andrew Poelstra&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Michael Goldstein and Pierre Rochard talk with Andrew Poelstra from Blockstream about Miniscript, Liquid, Schnorr, Taproot, and other Bitcoin voodoo.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/SebastienGllmt/status/1060744966618529793&quot;&gt;Sebastien Guillemot (@SebastienGllmt)&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Wow this is awesome! Check out this slide deck about the Bitcoin Backbone Model. The math used in this paper is reused in a bunch of papers about crypto (including Cardano) so understanding this will help you understand all the other papers! https://t.co/lUb3NVaOi4&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Lx9zgZCMqXE&quot;&gt;How Bitcoin Works Under the Hood&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;A somewhat technical explanation of how Bitcoin works. Want more? Check out my new in-depth course on the latest in Bitcoin, Blockchain, and a survey of the&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eprint.iacr.org/2015/578.pdf&quot;&gt;Tampering with the Delivery of Blocks and Transactions in Bitcoin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/system-security-group-dam/research/publications/pub2015/tissec15_karame.pdf&quot;&gt;Misbehavior in Bitcoin: A Study of Double-Spending and Accountability&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@nopara73/stealing-satoshis-bitcoins-cc4d57919a2b&quot;&gt;Who Will Steal Satoshi’s Bitcoins? – nopara73&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;I woke up in the middle of the night so I fired up Twitter and I encountered two well-known cryptographers’ conversation about quantum…&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/0*GWRYyGRclAs1rC4K.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://m.apograf.io/articles/13486&quot;&gt;Okamoto Beats Schnorr: On the Provable Security of Multi-Signatures&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;The insecurity discussion starts near the bottom of page 2 of the paper The security issues the paper discusses are pretty simple to solve theoretically, but they all increase the communication complexity of the signing schemes from O(n^2) to O(n^3) Which means there’s that many more points at which the multisig can be sabotaged or an error of some sort can occur Which basically means that all of those schemes are useless for large numbers of participants Not that they were that useful for any significant number of participants with a complexity of O(n^2)&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/Bitcoin/comments/adddja/the_weird_nonce_pattern/&quot;&gt;r/Bitcoin - The weird nonce pattern&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://external-preview.redd.it/tRXRLScPWuo9RGJ6m_AOX_1PvvMsOkfYJSVMZznw19Y.jpg?auto=webp&amp;amp;s=fdb00a52ceb4db3f69cb5e6006e4b426410c48a9&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=YSUVRj8iznU&quot;&gt;Taproot, and Schnorr, and SIGHASH_NOINPUT, oh my!&lt;/a&gt; - Pieter Wuille, Bitcoin Core developer and Blockstream co-founder, spoke about Taproot, Schnorr, and SIGHASH_NOINPUT.
+    &lt;blockquote&gt;
+      &lt;p&gt;In this talk Pieter went into the benefits of these ideas and discussed an upcoming proposal for a first step that combines a subset of these ideas. Some ideas will be left for future extensions, in order to avoid complexity and limiting the design space. Yet, this would bring privacy and flexibility benefits to Bitcoin, as well as moderate scaling advantages. The main focus is Taproot, which has the potential to make all outputs look identical, by merging pay-to-pubkey and pay-to-scripthash into one - but other changes will be needed to make it widely applicable and efficient.”&lt;/p&gt;
+    &lt;/blockquote&gt;
+    &lt;ul&gt;
+      &lt;li&gt;[Slides](https://prezi.com/view/YkJwE7LYJzAzJw9g1bWV/&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/Bitcoin/comments/979jhq/to_everyone_rushing_back_into_btc_from_altcoins/&quot;&gt;To everyone rushing back into BTC from altcoins: What matters is that you learn why Bitcoin needs to be conservative in its development.&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Over the past year, the prevailing thought among many in the cryptocurrency communities is that bitcoin is not keeping up with other coins. That somehow bitcoin was being intentionally crippled, or that the developers did not know what they were doing. As we are seeing with the bitcoin dominance going up, that prevailing thought was wrong. The coins who were supposedly going to kill bitcoin have been all but abandoned in many cases. Many others are in the process of dying a slow death (which may take years to fully play out).&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1UthKYsC7B7uD0V32beZ1puC0n0vzHg2SYFcTBqdbiOM/edit?fbclid=IwAR3QTY6N4o-D7ihJS0pEWvCzQUkH3bAVdwQ7O7zbRhjNMxSese9gnj4-A50#slide=id.p&quot;&gt;The Blockchain Backbone Model&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Today I gave a talk about the &lt;a href=&quot;https://twitter.com/dionyziz/status/1060646354068930561&quot;&gt;Bitcoin Backbone model&lt;/a&gt;, the first mathematical theory to prove bitcoin is secure, invented by @sol3gga, Nikos Leonardos and Juan Garay. [&lt;a href=&quot;https://twitter.com/SebastienGllmt/status/1060744966618529793&quot;&gt;*&lt;/a&gt;]&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;block-size&quot;&gt;Block Size&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@jeremyrubin/8-problems-with-bitcoin-to-solve-before-block-size-6b4d35e0c6f9&quot;&gt;8 Problems for the Bitcoin Community to Solve Before Block Size&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Recently the debate around block size has been getting a huge amount of attention, and it is easy to think this is the most important…&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;bips&quot;&gt;BIPs&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://coindoo.com/what-is-a-bip-the-most-famous-bitcoin-improvement-proposals/&quot;&gt;https://coindoo.com/what-is-a-bip-the-most-famous-bitcoin-improvement-proposals/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://coindoo.com/author/vladimirciobica/&quot;&gt;Vladimir Ciobica&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;[What Is a BIP?&lt;/td&gt;
+      &lt;td&gt;The Most Famous Bitcoin Improvement Proposals - C…](https://coindoo.com/what-is-a-bip-the-most-famous-bitcoin-improvement-proposals/)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;There are some that argue that these BIPs can and will eventually lead to more forks in the network which is generally considered to be a bag thing in the cryptocurrency community at large.&lt;/p&gt;
+
+&lt;p&gt;⧉infominer 22-Jul-19 03:34 AM&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/bitcoin/bips/blob/master/bip-0042.mediawiki&quot;&gt;https://github.com/bitcoin/bips/blob/master/bip-0042.mediawiki&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/bitcoin/bips/blob/master/bip-0042.mediawiki&quot;&gt;bitcoin/bips&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Bitcoin Improvement Proposals.&lt;/p&gt;
+
+&lt;h2 id=&quot;scripting&quot;&gt;Scripting&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://fc16.ifca.ai/bitcoin/papers/MES16.pdf&quot;&gt;Bitcoin Covenants&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Abstract.This paper presents an extension to Bitcoin’s script language enabling covenants, a primitive that allows transactions to restrict howthe value they transfer is used in the future. Covenants expand the set offinancial instruments expressible in Bitcoin, and enable new powerful andnovel use cases. We illustrate two novel security constructs built usingcovenants.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bitcoinmagazine.com/articles/yes-bitcoin-can-do-smart-contracts-and-particl-demonstrates-how/&quot;&gt;Yes, Bitcoin Can Do Smart Contracts and Particl Demonstrates How&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;The Bitcoin blockchain is not known for its ability to enable smart contracts. In fact, most developers creating smart contracts use a different blockchain, like Ethereum. But the truth is that the Bitcoin protocol can be used to create smart contracts. Particl.io, the blockc…&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bitcoinmagazine.com/articles/scriptless-scripts-how-bitcoin-can-support-smart-contracts-without-smart-contracts/&quot;&gt;Bitcoin Magazine - Scriptless Scripts: How Bitcoin Can Support Smart Contracts&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Bitcoin’s capacity is limited. Meanwhile, smart contracts can be resource intensive. So even though Bitcoin has always supported basic smart contract functionality, the two have never been a natural match.But a recent topic of research spearheaded by Blockstream mathematici…&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/lopp/status/1072156493116518400&quot;&gt;Jameson Lopp (@lopp)&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;&lt;a href=&quot;https://t.co/etW1yP65Zr&quot;&gt;https://t.co/etW1yP65Zr&lt;/a&gt; has a neat animated Bitcoin script interpreter and debugger for those who want to better understand script execution. &lt;a href=&quot;https://t.co/5TAkdoPU7b&quot;&gt;https://t.co/5TAkdoPU7b&lt;/a&gt; &lt;a href=&quot;https://t.co/6UkzUGu4dK&quot;&gt;https://t.co/6UkzUGu4dK&lt;/a&gt;&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/liuhongchao/bitcoin4s&quot;&gt;liuhongchao/bitcoin4s&lt;/a&gt;- A Bitcoin Script interpreter and debugger in Scala - liuhongchao/bitcoin4s&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/ChristopherA/status/1154460495279058944?s=20&quot;&gt;Christopher Allen (@ChristopherA)&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;I’m not suggesting that Russel’s Simplicity toolchain is for securing Unix bootstrap, instead focus is to secure future blockchain script languages. However, it does seem that it too can support Scheme-like script atoms, and lessons from it could be leveraged beyond bl…&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/ChristopherA/status/1154457284078030849?s=20&quot;&gt;Christopher Allen (@ChristopherA)&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Interesting, some of these approaches toward “Reduced Binary Seed” make use of minimized Scheme, which is also a potential target for Russel O’Connor’s of @Blockstream’s provable Simplicy toolchain, which can maybe probably secure each of the Scheme atoms. &lt;a href=&quot;https://t/&quot;&gt;https://t&lt;/a&gt;….&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/final-documents/smart-signatures.pdf&quot;&gt;WebOfTrustInfo/rwot1-sf - Smart Signatures&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/draft-documents/smarter-signatures.md&quot;&gt;WebOfTrustInfo/rwot2-id2020 - Smarter Signatures&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/ElementsProject/simplicity&quot;&gt;ElementsProject/simplicity&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Simplicity is a blockchain programming language designed as an alternative to Bitcoin script. - ElementsProject/simplicity&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;related-posts-tech-info&quot;&gt;Related Posts: Tech Info&lt;/h2&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/info/security/&quot;&gt;&lt;strong&gt;Bitcoin Security Info + Best Practices&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/tech/&quot;&gt;&lt;strong&gt;Assorted Technical Topics&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/info/privacy/&quot;&gt;&lt;strong&gt;Privacy and Bitcoin&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/layer-2/lightning/&quot;&gt;&lt;strong&gt;Lightning - Info&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/layer-2/&quot;&gt;&lt;strong&gt;Bitcoin - Layer 2 - Lightning, Liquid and Beyond&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/layer-1/&quot;&gt;&lt;strong&gt;Bitcoin Layer 1 - Info&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/tech/decentralization/&quot;&gt;&lt;strong&gt;Decentralization&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;http://localhost:4000/feed/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+
+
+  
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">http://localhost:4000/tech/</guid>
+			</item>
+		
+			<item>
+				<title>Privacy and Bitcoin</title>
+				<link>http://localhost:4000/info/privacy/</link>
 				<pubDate>Sun, 29 Dec 2019 00:00:00 -0500</pubDate>
 				<description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@BrandonQuittem/bitcoin-is-a-social-creature-mushroom-part-2-3-6a05c3abe8f0&quot;&gt;Bitcoin is a Social Creature (Mushroom) — Part 2/3&lt;/a&gt; - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_224---Bitcoin-is-a-Social-Creature--Mycelium-Part-2-e3iq3u&quot;&gt;CryptoQuikRead_224&lt;/a&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.coincache.net/2019/01/02/bitcoin-anonymity-guide-2019-how-to-use-btc-like-a-straight-up-g/?v=3e8d115eb4b3&quot;&gt;Bitcoin Anonymity Guide 2019: How to use BTC like a straight up G&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gir.pub/deepdotweb/jolly-rogers-security-guide-for-beginners/&quot;&gt;Jolly Roger’s Security Guide for Beginners - Deep Dot Web&lt;/a&gt; (old, but, perhaps still worth a read)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://99bitcoins.com/buy-bitcoin/anonymously-without-id/&quot;&gt;Buying and Using Bitcoin Anonymously Without ID (2019 Updated)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://link.medium.com/hYHYNewq9Y&quot;&gt;Bitcoin Security Brief Volume 1 with Dhruv Bansal&lt;/a&gt;
     &lt;blockquote&gt;
-      &lt;p&gt;Exploring Hype Cycles, Ethnomycology, and the Cult of Satoshi&lt;/p&gt;
+      &lt;p&gt;One of the most often overlooked aspects to owning Bitcoin is how to safely secure and store it. Most people have their own best practices…&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.bitcoin.it/wiki/Privacy&quot;&gt;en.bitcoin.it/wiki/Privacy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/6102bitcoin/FAQ/blob/master/hodl-privacy.md&quot;&gt;Privacy for HODLers @6102Bitcoin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.openbitcoinprivacyproject.org/&quot;&gt;Open Bitcoin Privacy Project - Accelerating Progress to Our Financial Future&lt;/a&gt;
+The Open Bitcoin Privacy Project is an open source, global organization whose mission is to improve financial privacy within the Bitcoin ecosystem.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://news.bitcoin.com/how-to-buy-bitcoin-without-disclosing-your-identity&quot;&gt;How to Buy Bitcoin Without Disclosing Your Identity - Bitcoin News&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Privacy preservation is one of cryptocurrency’s defining characteristics. Digital assets such as bitcoin provide a far higher degree of anonymity and surety than traditional online payment methods such as credit card or Paypal. There’s just one problem: buying bitcoin wit…&lt;/p&gt;
     &lt;/blockquote&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*ekAy4hmsfFv1NOyo6bQuzg.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;info&quot;&gt;Info&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://techcrunch.com/2019/01/19/bitcoin-social-layer/&quot;&gt;The social layer is ironically key to Bitcoin’s security&lt;/a&gt;
+  &lt;li&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thebitcoinnews.com/cypherpunk-essentials-a-beginners-guide-to-crypto-privacy&quot;&gt;Cypherpunk Essentials: A Beginner’s Guide to Crypto Privacy - Th…&lt;/a&gt;
     &lt;blockquote&gt;
-      &lt;p&gt;A funny thing happened in the second half of 2018. At some moment, all the people active in crypto looked around and realized there weren’t very many of us. The friends we’d convinced during the last holiday season were no longer speaking to us. They had stopped checking …&lt;/p&gt;
+      &lt;p&gt;The following op-ed on crypto privacy was written by Reuben Yap. He is the Chief Operations Officer of Zcoin. A corporate lawyer for ten years, specializing in institutional frameworks, Reuben founded one of SE Asia’s top VPN companies, bolehvpn.net. He graduated with a LL…&lt;/p&gt;
     &lt;/blockquote&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/s/story/bitcoins-social-contract-1f8b05ee24a9&quot;&gt;Unpacking Bitcoin’s Social Contract – Member Feature Stories&lt;/a&gt; - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_198---Unpacking-Bitcoins-Social-Contract-e2oct5&quot;&gt;CryptoQuikRead_198&lt;/a&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@thecryptoconomy/dandelions-and-a-bright-future-for-bitcoin-privacy-712dbc4b1ec5&quot;&gt;Dandelions, and a Bright Future for Bitcoin Privacy&lt;/a&gt; - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_100---Dandelions-and-a-Bright-Future-for-Bitcoin-Privacy-e2ndrg&quot;&gt;CryptoQuikRead_100&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bitcoinmagazine.com/articles/bitcoin-privacycoin-tech-making-bitcoin-more-private/&quot;&gt;Bitcoin Magazine - Bitcoin as a Privacycoin: This Tech is Making Bitcoin More Private&lt;/a&gt; - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_149---Bitcoin-as-a-PrivacyCoin-e2ndpr&quot;&gt;CryptoQuikRead_149&lt;/a&gt;
     &lt;blockquote&gt;
-      &lt;p&gt;All monetary systems rely on social contracts, and Bitcoin’s no exception. The difference is who holds the power: the government, or the people.&lt;/p&gt;
+      &lt;p&gt;Bitcoin is not really private - but these projects are making significant improvements to Bitcoin privacy.&lt;/p&gt;
     &lt;/blockquote&gt;
   &lt;/li&gt;
-  &lt;li&gt;CryptoQuikRead_066 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_066---Money--Blockchains--and-Social-Scalability-e2ndsj&quot;&gt;Money, Blockchains, and Social Scalability&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@nic__carter/a-most-peaceful-revolution-8b63b64c203e&quot;&gt;A most peaceful revolution&lt;/a&gt;
-Bitcoin is a slow-burning but potent nonviolent rebellion.&lt;/li&gt;
-  &lt;li&gt;CryptoQuikRead_006 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_006---What-You-May-Not-Understand-About-Crypto-Millionaires-e2ndul&quot;&gt;What You May Not Understand About Crypto Millionaires&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;anarchy&quot;&gt;Anarchy&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://medium.com/@zackvoell/sorry-bitcoin-is-still-anarchist-3e995d2fbbf1&quot;&gt;Sorry, Bitcoin is still Anarchist - Zack Voell - Medium&lt;/a&gt; - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_185---Sorry-Bitcoin-is-Still-Anarchist-e2ndof&quot;&gt;CryptoQuikRead_185&lt;/a&gt; - Using Bitcoin is monetary anarchist politicking.
-&lt;a href=&quot;https://twitter.com/thefrankbraun/status/1185181004027322368?s=12&quot;&gt;Frank Braun (@thefrankbraun)&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;1/9 Cryptoanarchy is the realization of anarchy (as in “no ruler/coercion”) by means of cryptography, it undermines observation and attribution, and is ultimately subversive. Technologies of non-attribution, untraceability, opaqueness and confidentiality are its political…&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;CryptoQuikRead_025 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_025---Bitcoins-Anarchy-is-a-Feature--Not-a-Bug-e2ndu3&quot;&gt;Bitcoin’s Anarchy is a Feature, Not a Bug&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;CryptoQuikRead_104 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_104---Crypto-Incrementalism-vs-Crypto-Anarchy-e2ndrd&quot;&gt;Crypto-Incrementalism vs Crypto-Anarchy&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;maximalism&quot;&gt;Maximalism&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@ferdousbhai/post-bitcoin-maximalism-19f392610d67&quot;&gt;Post-Bitcoin-Maximalism - HackerNoon.com - Medium&lt;/a&gt; - A call for embracing the currency competition&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.truthcoin.info/blog/bitcoin-post-maximalism/&quot;&gt;Bitcoin Post-Maximalism&lt;/a&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/mdudas/status/1165745781862780929?s=12&quot;&gt;Mike Dudas (@mdudas)&lt;/a&gt;
     &lt;blockquote&gt;
-      &lt;p&gt;Has something happened to “Bitcoin Maximalism”? Is Bitcoin “Qwerty” (established and standardized) or “Esperanto” (impractical and perfectionistic)?&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/StopAndDecrypt/status/1064212157414334464&quot;&gt;🎀𝒮𝓉𝑜𝓅𝒜𝓃𝒹𝒟𝑒𝒸𝓇𝓎𝓅𝓉🎀 [not a Bacon Bot] (@StopAndDecrypt)&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Maximalists: Summarize your take on what Bitcoin maximalism is or explain why you self identify as one, in a single tweet. I’m working on something with this so your input is appreciated.&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.forbes.com/sites/francescoppola/2018/12/30/bitcoin-maximalists-impossible-dream/&quot;&gt;Bitcoin Maximalists’ Impossible Dream&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Bitcoin itself shows us why it can never replace all government-issued currencies.&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://stephanlivera.com/episode/53&quot;&gt;Stephan Livera with Andreas Antonopoulos - On Bitcoin Maximalism&lt;/a&gt; - &lt;a href=&quot;https://sourcecrypto.pub/transcripts/SLP53-Livera-Antonopolis-Maximalism-Transcript/&quot;&gt;Transcript&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://noded.org/podcast/noded-0150-with-zack-voell/&quot;&gt;Noded 0.15.0 with Zack Voell&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Michael Goldstein and Pierre Rochard chat on The Coin Pod with Zack Voell about Bitcoin maximalism and Twitter echo chambers.&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://noded.org/podcast/noded-0140-with-giacomo-zucco/&quot;&gt;Noded 0.14.0 with Giacomo Zucco&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Michael Goldstein and Pierre Rochard chat with Giacomo Zucco about Bitcoin maximalism and political attack vectors.&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/bull-bitcoin/my-path-to-bitcoin-maximalism-c77c53466cb5?&quot;&gt;My Path To Bitcoin Maximalism&lt;/a&gt; - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_280---My-Path-to-Bitcoin-Maximalism-e4sb87&quot;&gt;Guy Swann⚡ (@TheCryptoconomy)&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;One of the biggest criticisms I hear when it comes to my Bitcoin maximalist beliefs is that I’m being closed minded. Detractors tend to say that being dismissive of all other protocols shows stubbornness and an unwillingness to learn. Quite to the contrary, I’ve found that as I’ve built my knowledge base over the years I’ve been able to compile a simple list of criteria that no coin other than Bitcoin has held a candle to. Today I’m going to break down that list.&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/Excellion/status/1133658356697014273?s=20&quot;&gt;Samson Mow (@Excellion)&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;12/ During the Bitcoin Civil War (XT, Classic, BU) almost every CEO trying to hard-fork Bitcoin was trying to silence me by getting me fired as COO at BTCC. Why? Because I was speaking against them &amp;amp; sticking up for devs like Matt. They’d even email our investors like Ligh…&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/nwoodfine/status/1132138203769581568?s=20&quot;&gt;Neil Woodfine (@nwoodfine)&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;1/ Bitcoin deals with money. Separating money from the state. Managing people’s life savings. People’s livelihoods depend on it. The path of civilisation is altered by the money its built on. Dangerous, risky stuff. A lot is on the line.&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://diyhpl.us/wiki/transcripts/bit-block-boom/2019/how-to-meme-bitcoin-to-the-moon/&quot;&gt;How to meme bitcoin to the moon&lt;/a&gt; - Michael Goldstein (bitstein)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.forbes.com/sites/francescoppola/2018/12/30/bitcoin-maximalists-impossible-dream/#7b96179f543b&quot;&gt;Bitcoin Maximalists’ Impossible Dream&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Bitcoin itself shows us why it can never replace all government-issued currencies.&lt;/p&gt;
+      &lt;p&gt;Using transaction data, investigators trace dark-web transaction using bitcoin to defendant’s exchange address and district court orders detention &lt;a href=&quot;https://t.co/Il3gdNkvLq&quot;&gt;https://t.co/Il3gdNkvLq&lt;/a&gt; via @NelsonMRosario&lt;/p&gt;
     &lt;/blockquote&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;social-media&quot;&gt;Social Media&lt;/h2&gt;
+&lt;h3 id=&quot;cryptoconomy-quickreads&quot;&gt;Cryptoconomy QuickReads&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://bitcoinhackers.org/about&quot;&gt;Bitcoin Mastodon&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;A mastodon instance for Bitcoiners No Scams, no impersonation, no begging, and no illegal content Keep it civil and we should all survive :)&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/Bitcoin/comments/cse3mw/uhmm/?utm_source=amp&amp;amp;utm_medium=&amp;amp;utm_content=tp_title&quot;&gt;r/Bitcoin - Uhmm..&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;&lt;img src=&quot;https://i.redd.it/6cav33id6dh31.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
+  &lt;li&gt;CryptoQuikRead_085 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_085---Increasing-Bitcoin-Privacy-Using-the-Lightning-Network-e2ndru&quot;&gt;Increasing Bitcoin Privacy Using the Lightning Network&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;CryptoQuikRead_165 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_165---Why-Privacy-Matters-e2ndp9&quot;&gt;Why Privacy Matters&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;CryptoChat_12 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoChat_12---Talking-Privacy--Bitcoin--the-New-Economy-with-the-Raleigh-Bitcoin-Meetup-e4ar2g&quot;&gt;Talking Privacy, Bitcoin &amp;amp; the New Economy with the Raleigh Bitcoin Meetup&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;CryptoQuikRead_227 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_227---Bitcoin-is-a-Hedge-Against-the-Cashless-Society-e3l5ne&quot;&gt;Bitcoin is a Hedge Against the Cashless Society&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;twitter&quot;&gt;Twitter&lt;/h2&gt;
+&lt;h2 id=&quot;wallets&quot;&gt;Wallets&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/lukechilds/coinflict-of-interest&quot;&gt;lukechilds/coinflict-of-interest&lt;/a&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@nopara73/wasabi-privacy-focused-bitcoin-wallet-for-desktop-3962d567045a&quot;&gt;Wasabi: Privacy Focused Bitcoin Wallet for Desktop – nopara73 …&lt;/a&gt;
     &lt;blockquote&gt;
-      &lt;p&gt;Browser extension to show user biases on Crypto Twitter. - lukechilds/coinflict-of-interest&lt;/p&gt;
+      &lt;p&gt;A few days ago I gave a talk at the Building on Bitcoin conference, where I unveiled Wasabi Wallet that will bring Bitcoin Privacy to a…&lt;/p&gt;
     &lt;/blockquote&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/bitcoinoptech&quot;&gt;Bitcoin Optech (@bitcoinoptech)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/lopp/status/1134483815437668352?s=12&quot;&gt;Jameson Lopp (@lopp)&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Pseudonymous Bitcoiner #FollowFriday @alpacasw @BashCo &lt;em&gt;@Beautyon&lt;/em&gt; @cryptograffiti @ecurrencyhodler @hasufl @IamNomad @LightningK0ala @lowBTC @lowstrife @MediumSqueeze @midmagic @MrHodl @notgrubles @notsofast @phneep @SamouraiDev @Seccour_FR @StopAndDecrypt @theonevortex @…&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
+  &lt;li&gt;CryptoQuikRead_112 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_112---Wasabi-Privacy-Focused-Bitcoin-Wallet-e2ndr4&quot;&gt;Wasabi Privacy Focused Bitcoin Wallet&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;lists&quot;&gt;Lists&lt;/h3&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/CryptoCobain?ref_src=twsrc%5Etfw&quot;&gt;@CryptoCobain&lt;/a&gt; &lt;a href=&quot;https://twitter.com/AngeloBTC?ref_src=twsrc%5Etfw&quot;&gt;@AngeloBTC&lt;/a&gt; &lt;a href=&quot;https://twitter.com/Cryptopathic?ref_src=twsrc%5Etfw&quot;&gt;@Cryptopathic&lt;/a&gt; &lt;a href=&quot;https://twitter.com/IamNomad?ref_src=twsrc%5Etfw&quot;&gt;@IamNomad&lt;/a&gt; &lt;a href=&quot;https://twitter.com/DJThistle01?ref_src=twsrc%5Etfw&quot;&gt;@DJThistle01&lt;/a&gt; &lt;a href=&quot;https://twitter.com/CryptoRogue?ref_src=twsrc%5Etfw&quot;&gt;@CryptoRogue&lt;/a&gt; &lt;a href=&quot;https://twitter.com/CryptOrca?ref_src=twsrc%5Etfw&quot;&gt;@CryptOrca&lt;/a&gt; &lt;a href=&quot;https://twitter.com/KingBTC?ref_src=twsrc%5Etfw&quot;&gt;@kingbtc&lt;/a&gt; &lt;a href=&quot;https://twitter.com/ActualAdviceBTC?ref_src=twsrc%5Etfw&quot;&gt;@ActualAdviceBTC&lt;/a&gt; &lt;a href=&quot;https://twitter.com/CryptoMessiah?ref_src=twsrc%5Etfw&quot;&gt;@CryptoMessiah&lt;/a&gt; &lt;a href=&quot;https://twitter.com/loomdart?ref_src=twsrc%5Etfw&quot;&gt;@loomdart&lt;/a&gt; &lt;a href=&quot;https://twitter.com/inversebrah?ref_src=twsrc%5Etfw&quot;&gt;@inversebrah&lt;/a&gt; @StartaleTV &lt;a href=&quot;https://twitter.com/jebus911?ref_src=twsrc%5Etfw&quot;&gt;@jebus911&lt;/a&gt; &lt;a href=&quot;https://twitter.com/MediumSqueeze?ref_src=twsrc%5Etfw&quot;&gt;@MediumSqueeze&lt;/a&gt; &lt;br /&gt;The ones i can get from the top my head, theres more but kept strict &amp;#39;13 &amp;#39;14 crew.&lt;/p&gt;&amp;mdash; TheMask (@TheCrypt0Mask) &lt;a href=&quot;https://twitter.com/TheCrypt0Mask/status/1075179092125868033?ref_src=twsrc%5Etfw&quot;&gt;December 19, 2018&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;h3 id=&quot;mixers&quot;&gt;Mixers&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/theonevortex/lists/bitcoin&quot;&gt;@theonevortex/Bitcoin&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/twobitidiot/lists/bitcoin-ballers&quot;&gt;@twobitidiot/Bitcoin Ballers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/lopp/lists/bitcoin-developers&quot;&gt;@lopp/Bitcoin Developers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/lopp/lists/lightning-developers&quot;&gt;@lopp/Lightning Developers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/_cypherpunks_/lists/cryptoprivacy&quot;&gt;@cypherpunks/cryptoprivacy&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/JuanSGalt/lists/pioneers&quot;&gt;@JuanSGalt/pioneers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/JuanSGalt/lists/blockchain-devs&quot;&gt;@JuanSGalt/Blockchain Devs&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/JuanSGalt/lists/info-security-authorities&quot;&gt;@JuanSGalt/Info Security Authorities&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/BTCsessions/lists/maximalists&quot;&gt;@BTCsessions/Maximalists&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/PsychedelicBart/lists/bitcoin-only1&quot;&gt;@PsychedelicBart/Bitcoin-Only&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thebitcoinnews.com/bestmixer-ios-bitcoin-blender-aims-to-bring-anonymity-back-to-crypto/&quot;&gt;BestMixer.io’s Bitcoin Blender Aims to Bring Anonymity Back to C…&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;The BestMixer.io development team has introduced their next generation bitcoin blender in an effort aimed at disrupting the quickening pace of blockchain analysis firms such as Chainalysis. The reason behind the move is simple: cryptocurrency is not anonymous but it pretends …&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/Bitcoin/comments/az9rap/bitcoin_mixers/&quot;&gt;r/Bitcoin - Bitcoin mixers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@nopara73/samourai-vs-wasabi-mixing-architecture-18b92b3ca17b&quot;&gt;Samourai vs Wasabi Mixing Architecture&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;You have 3.5BTC that you want to mix with either Whirlpool or with Wasabi. For the sake of comparison, I assume 1BTC base denominations…&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/6102bitcoin/status/1187623411343867905?s=20&quot;&gt;6102Bitcoin (@6102bitcoin)&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;@nopara73 Take your time. Read these articles. + “Diving head first into Whirlpool Anonymity Sets.” by Samourai Wallet &lt;a href=&quot;https://t.co/sckMsP2tyI&quot;&gt;https://t.co/sckMsP2tyI&lt;/a&gt; + “Tracking the PlusToken Whale: Attempted Bitcoin Mixing and Its Impact on Wasabi Wallet” by ErgoBTC &lt;a href=&quot;https://t.co/hAev&quot;&gt;https://t.co/hAev&lt;/a&gt;…&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;CryptoQuikRead_138 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_138---Traditional-Bitcoin-Mixers-e2ndq5&quot;&gt;Traditional Bitcoin Mixers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thebitcoinnews.com/bestmixer-ios-bitcoin-blender-aims-to-bring-anonymity-back-to-crypto/&quot;&gt;BestMixer.io’s Bitcoin Blender Aims to Bring Anonymity Back to C…&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;The BestMixer.io development team has introduced their next generation bitcoin blender in an effort aimed at disrupting the quickening pace of blockchain analysis firms such as Chainalysis. The reason behind the move is simple: cryptocurrency is not anonymous but it pretends …&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leastauthority.com/blog/mixnet-intro/&quot;&gt;Introduction to Mix Networks and Anonymous Communication Networks …&lt;/a&gt;
+Least Authority was formed in 2011 to create freedom-compatible technologies. We are a small team who believe that freedom matters in Internet technology. You can take advantage of online services while retaining control over your own data. We’re here to make it easy.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/bitcoin-privacy.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;digital-privacy&quot;&gt;Digital Privacy&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Not Specific to Bitcoin&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/SarahJamieLewis/status/1026340294818582533&quot;&gt;Sarah Jamie Lewis (@SarahJamieLewis)&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;If you are waiting for a government to give you meaningful privacy from surveillance you are going to be waiting a long time. Privacy is consent. Consent is, unfortunately, something that you sometimes have to enforce.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/lopp/status/1026139157125640192&quot;&gt;Jameson Lopp (@lopp)&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;The cost of maintaining one’s privacy continues to rise as the cost of surveillance technology continues to fall. Most folks have neither the time nor the money to properly protect their privacy these days. Cypherpunks are the intolerant minority, the Spartans defending th…&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://research.stlouisfed.org/publications/review/2018/07/16/payment-systems-and-privacy&quot;&gt;Payment Systems and Privacy&lt;/a&gt;  by Charles Kahn - 2018-07-16
+    &lt;blockquote&gt;
+      &lt;p&gt;Abstract: Privacy in payments is desired not just for illegal transactions, but also for protection from malfeasance or negligence by counterparties or by the payments system provider itself. Proposals to abolish cash take inadequate account of these legitimate demands for privacy. While central banks can play a useful role in setting standards for payments privacy, they are unlikely to have a comparative advantage at providing privacy. Therefore the replacement of cash by central bank electronic money is likely to spur demand for alternative means of payments to solve specific privacy problems.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.privacytools.io/&quot;&gt;Privacy Tools | Encryption against global mass surveillance&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;You are being watched! Knowledge, encryption and privacy tools to protect you against global mass surveillance.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.aclu.org/blog/national-security/secrecy/you-may-have-nothing-hide-you-still-have-something-fear&quot;&gt;You May Have ‘Nothing to Hide’ But You Still Have Something to Fear&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;This post was first published on MSNBC.com.In the wake of recent news that the NSA is spying on Americans, I have been particularly struck by the argument that “if you’ve got nothing to hide, you’ve got nothing to fear.”At first blush, this argument might seem sound – after…&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Nothing_to_hide_argument&quot;&gt;Nothing to hide argument - wikipedia&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;The nothing to hide argument states that government surveillance programs do not threaten privacy unless they uncover illegal activities, and that if they do uncover illegal activities, the person committing these activities does not have the right to keep them private. Hence…&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/lopp/status/1048382404459724800&quot;&gt;Jameson Lopp (@lopp)&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;“It’s possible to measure the scalability of a system, but it’s impossible to empirically evaluate privacy - we have to resort to thought experiments. As such, it’s quite challenging to decide upon privacy and scalability trade-offs.” - @secparam #ScalingBitcoin&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/errorinn/status/1048723006271381504&quot;&gt;Erinn Atwater (@errorinn)&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;i want an internet where my privacy can’t be invaded by third parties, but also i don’t have to run my own damn server for everything. just got step one working: send a file! p2p with bidirectional authentication, metadata resistance, and easy verified contact management&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ryerson.ca/pbdce/certification/seven-foundational-principles-of-privacy-by-design&quot;&gt;The Seven Foundational Principles of Privacy by Design&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Privacy by Design is a concept Dr. Ann Cavoukian developed back in the 90’s, to address the ever-growing and systemic effects of Information and Communication Technologies, and of large-scale networked data systems.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/ChristopherA/status/1090791869313736704&quot;&gt;Christopher Allen (@ChristopherA)&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;I highly suggest more of the #RebootingWebOfTrust community, the W3C Credentials CG, and the broader decentralized web community read this book and support @SarahJamieLewis by paying for a copy. But read it! Being LGBTA may not be your reason for privacy, but similar probl…&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ghacks.net/&quot;&gt;gHacks Technology News&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Ghacks Technology News is a tech blog that reviews software, apps, Internet services, and offers tips and tricks about Windows, Android, and other systems.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/piratebeachbum/status/1136023941703770117?s=12&quot;&gt;Pirate Beachbum (@piratebeachbum)&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;For all you privacy freaks, here is a must read that validates any sense of privacy we think we have has been compromised the last 20 plus years. It’s worse than you ever imagined!&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=20206536&quot;&gt;The CIA Spied on People Through Their Smart TVs, Leaked Documents Reveal (2017)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=20267562&quot;&gt;When Myspace Was King, Employees Abused a Tool Called ‘Overlord’ to Spy on Users&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/esultanik/status/1129026681291911168?s=12&quot;&gt;Evan Sultanik (@ESultanik)&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Telegram is &lt;em&gt;never&lt;/em&gt; the solution. Friends don’t let friends use Telegram. This’ll be a thread! &lt;a href=&quot;https://t.co/ogHmNZkOg4&quot;&gt;https://t.co/ogHmNZkOg4&lt;/a&gt;&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://caitlin-long.com/2018/06/28/supreme-court-and-digital-privacy-should-blockchain-companies-challenge-the-bank-secrecy-act/&quot;&gt;Supreme Court and Digital Privacy: Should Blockchain Companies Cha…&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Digital privacy law experts predict a flood of litigation testing the constitutionality of government data collection practices after the Supreme Court’s Carpenter decision on cell phone data…&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://brave.com/vpn0-a-privacy-preserving-distributed-virtual-private-network/&quot;&gt;VPN⁰: A Privacy-Preserving Distributed Virtual Private Network |…&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Distributed virtual private networks (dVPNs) are a new form of VPN with no central authority. In a dVPN, users are both VPN clients and relay/exit nodes as in a Peer-to-Peer (P2P) network. While dVPNs make strong privacy claims, they also carry the risk that a user will inadv…&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=21169768&quot;&gt;VPN⁰: A Privacy-Preserving Distributed VPN&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000/social/</guid>
+				<guid isPermaLink="true">http://localhost:4000/info/privacy/</guid>
 			</item>
 		
 			<item>
-				<title>Bitcointalk Forum - Resources</title>
-				<link>http://localhost:4000/social/bitcointalk/</link>
+				<title>Lightning - Info</title>
+				<link>http://localhost:4000/layer-2/lightning/</link>
 				<pubDate>Sun, 29 Dec 2019 00:00:00 -0500</pubDate>
-				<description>&lt;p&gt;&lt;a href=&quot;https://bitcointalk.org/index.php?topic=4928968.0&quot;&gt;[GUIDES] on Bitcointalk. Index thread (until there is a dedicated subforum?)&lt;/a&gt;&lt;/p&gt;
+				<description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/NickSzabo4/status/846492284036145152&quot;&gt;Nick Szabo⚡️ (@NickSzabo4)&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;“Bitcoin .. needs .. a secondary level of payment[s] which is lighter weight.” – Hal Finney 2010 https://t.co/tIbkVF2ezc ht @rextar4444&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@timevalueofbtc/the-bitcoin-second-layer-d503949d0a06&quot;&gt;The Bitcoin Second Layer – Nik Bhatia – Medium The Lightning Network Reference Rate&lt;/a&gt;, Part 1 of 4&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/danheld/status/1033044447842336768&quot;&gt;Dan Hedl (@danheld)&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;1/ A complete debunking of top Lightning FUD claims:&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://web.archive.org/web/20180820184635/https://the-lightning-times.ongoodbits.com/2018/08/20/issue-1&quot;&gt;The Lightning Times - Issue #1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/pierre_rochard/status/1055159992733626368&quot;&gt;Pierre Rochard [⚡️] (@pierre_rochard)&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;The LND node software now runs from within the Excel plugin. With neutrino, that means that a Windows + Excel user can be making and receiving LN payments with a few clicks. https://t.co/qeP2dCJSqp&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/btc/status/1052973003867271168&quot;&gt;#Bitcoin doesn’t compete with Visa. #Lightning does. ⚡️⚡️⚡️&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/wbobeirne/status/1131989707389329408?s=12&quot;&gt;Will O’Beirne (@wbobeirne)&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Need plans for the long weekend? Why not get started on making your own Lightning App! Over the next couple of weeks I’ll be posting a 5 part series on building a modern web app that takes lightning payments, and how to host it securely. https://t.co/gDsAAUKrnj&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/fulmolightning/status/1035183579196743680&quot;&gt;Fulmo ⚡ @fulmolightning&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Get ready to rumble! The latest batch of 20 #RaspiBlitz, a full #Bitcoin and #LightningNetwork node running on a Raspberry Pi, is ready to be picked up and plugged in at the #LightningHackday! If you can’t attend in person, you can build one yourself:&lt;/p&gt;
+    &lt;/blockquote&gt;
+    &lt;ul&gt;
+      &lt;li&gt;https://github.com/rootzoll/raspiblitz
+&lt;img src=&quot;https://imgur.com/edaW3pO.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://bitcointalk.org/index.php?topic=2534500.msg25841174&quot;&gt;Comprehensive guide to Bitcointalk. Newbie friendly + calculator and infographic&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://bitcointalk.org/index.php?topic=703657.0&quot;&gt;Unofficial list of (official) Bitcointalk.org rules, guidelines, FAQ&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://bitcointalk.org/index.php?topic=1689727.0&quot;&gt;Newbies - Read before posting&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://bitcointalk.org/index.php?topic=996318.0&quot;&gt;Stake your Bitcoin address here&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://bitcointalk.org/index.php?topic=990345.0&quot;&gt;How to sign a message?!&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://bitcointalk.org/index.php?topic=4920096.0&quot;&gt;[Guide] Bitcointalk account security&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1khSA28Ab6miwyknp3JvStcL0Yu05SIbGBDZDKcOLO6s/&quot;&gt;Rank and Activity points calculator, v2 - Bitcointalk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://blog.lightning.engineering/posts/2018/05/30/routing.html&quot;&gt;Exploring Lightning Network Routing&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-  &lt;p&gt;Sheet1 NOTE! After the introducing the Merit Points System the actual Rank Up date cannot be confirmed, read below in red Calculate your Activity Registration date:,Activity points,2 Week period starts on ,Rank,Required Merit,Ranking system: Enter your reg. date here,1,03/08…&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/QL6LVbCLwuMuv1ow7wdlihKKBDotsOVb8iSqAeRwJic6BbCp01jfIZtuGAa2m5177cudlw=w1200-h630-p&quot; alt=&quot;https://lh3.googleusercontent.com/QL6LVbCLwuMuv1ow7wdlihKKBDotsOVb8iSqAeRwJic6BbCp01jfIZtuGAa2m5177cudlw=w1200-h630-p&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://bitcointalk.org/index.php?topic=178608.0&quot;&gt;Forum ranks/positions/badges (What do those shiny coins under my name mean?)&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://bitcointalk.org/index.php?topic=2818350.0&quot;&gt;Merit &amp;amp; new rank requirements&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://bitcointalk.org/index.php?topic=3127909.0&quot;&gt;[Tips] Guide for forum search&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://bitcointalk.org/index.php?topic=102944.msg1128795&quot;&gt;Topic title style guide&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://bitcointalk.org/index.php?topic=964593.0&quot;&gt;BitCoinTalk hidden pages - undocumented features&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://bitcointalk.org/index.php?topic=4322078.0&quot;&gt;The most iconic bitcointalk threads. History on Bitcointalk.&lt;/a&gt; - The most iconic bitcointalk threads. History on Bitcointalk.&lt;/p&gt;
-</description>
-				<guid isPermaLink="true">http://localhost:4000/social/bitcointalk/</guid>
-			</item>
-		
-			<item>
-				<title>Wallets and Utilities</title>
-				<link>http://localhost:4000/layer-1/wallets-utilities/</link>
-				<pubDate>Sun, 29 Dec 2019 00:00:00 -0500</pubDate>
-				<description>&lt;h2 id=&quot;wallets&quot;&gt;Wallets&lt;/h2&gt;
-
-&lt;blockquote&gt;
+  &lt;p&gt;When we last left our hero Carol, she had successfully joined the Lightning Network and started making Lightning transactions. As she’s become familiar with the user experience side of Lightning, she’s also started to become more interested in Lightning from a technical standpoint. She’s even thinking about running a Lightning routing node herself, with the goal of earning enough in routing fees to pay for her monthly BitFlix subscription.&lt;/p&gt;
   &lt;ul&gt;
-    &lt;li&gt;Do not use wallets that don’t give you recovery data; these wallets are likely controlling your keys.&lt;/li&gt;
-    &lt;li&gt;Do not use paper wallets unless you’re an advanced user who understands all the risks.&lt;/li&gt;
-    &lt;li&gt;Do not store large amounts of value in single signature wallets.&lt;/li&gt;
-    &lt;li&gt;Make sure your heirs know how to recover your wallets without you!
-Note that it is NOT recommended that novices use the Bitcoin Core wallet. If you want to use a wallet backed by a fully validating node you run, read &lt;a href=&quot;https://blog.lopp.net/securing-your-financial-sovereignty/&quot;&gt;Securing Your Financial Sovereignty&lt;/a&gt;.&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://twitter.com/stephanlivera/status/1028079725460111360&quot;&gt;Stephan Livera (@stephanlivera)&lt;/a&gt; -(&lt;a href=&quot;https://open.spotify.com/episode/7eq7H9t54IvnLo4QKA9rrb&quot;&gt;spotify&lt;/a&gt;)
+SLP9 - Lightning UX and Routing, with @bvu VP, Product of @lightning We discuss: - Lightning User Experience - Lightning Routing - Benefits for users, merchants and exchanges - Autopilot, watchtowers, AMP, splicing listen, subscribe, share!&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://medium.com/casa/announcing-the-casa-lightning-node-596df7a7427&quot;&gt;Announcing the Casa Lightning Node – Casa Blog – Medium&lt;/a&gt; -The easiest way to use Lightning available today.&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://twitter.com/Ragnarly/status/1039113181023490050&quot;&gt;𝑅𝑎𝑔𝑛𝑎𝑟 𝐿𝑖𝑓𝑡ℎ𝑟𝑎𝑠𝑖𝑟 🏴 (@Ragnarly)&lt;/a&gt; -Some of the best tools in bitcoin have been built by without raising capital from VCs: @BtcpayServer, @SamouraiWallet, @OPENDIME and @COLDCARDwallet, and most software wallets. Did I miss any?&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://twitter.com/Beautyon_/status/1062100915925213185&quot;&gt;Beautyon (@Beautyon_)&lt;/a&gt; -SUPER INTERESTING: “The 8333.io platform provides tooling, apps &amp;amp; services on top of any bip32 compatible Bitcoin wallet. It’s a service layer on top of the Bitcoin network, offering powerful utilities for users and/or developpers.” https://8333.io/&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://shea.io/lightning-in-2018&quot;&gt;Lightning in 2018&lt;/a&gt;
+-Below is an archived and reformatted tweetstorm from Nov 29, 2018. Enjoy! #1 Lightning Network is on fire lately 12500 channels (up 3…&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://stephanlivera.com/episode/37&quot;&gt;SLP37 Rene Pickhardt – Bitcoin Lightning Education &amp;amp; Lightning S…&lt;/a&gt;
+Rene Pickhardt, a Bitcoin/Lightning educator, and rising star in the world of Lightning joins me to talk about the Lightning Network. We discuss: How he got into Lightning Involvement in the Pirate…&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.coindesk.com/blockstream-boosts-bitcoin-satellite-service-with-lightning-payments&quot;&gt;Blockstream Boosts Bitcoin Satellite Service With Lightning Payments&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://medium.com/@melik_87377/lightning-network-enables-unicast-transactions-in-bitcoin-lightning-is-bitcoins-tcp-ip-stack-8ec1d42c14f5&quot;&gt;Lightning Network enables Unicast Transactions in Bitcoin.&lt;/a&gt;
+It has recently come to my attention that there is a great deal of confusion revolving around the Lightning Network within the Bitcoin and…&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://twitter.com/realLudvigArt/status/1037592389529919488&quot;&gt;Melik Manukyan ⚡️ ludvigart.com (@realLudvigArt)&lt;/a&gt;
+1)I am seeing an increasing number of people under the impression that #lightning as an overlay bridge network for #blockchains (via atomic swaps) is a great thing for alts. And they can not be more wrong. In reality, Lightning is where #altcoins will come in droves only…&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.scipioerp.com/2018/12/12/is-lightning-ready-for-commerce/&quot;&gt;Is the Lightning network ready for commerce?&lt;/a&gt;
+We have been experimenting with Lightning (Bitcoin) payments. But is it ready for commerce applications? Here’s what we think…&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://twitter.com/alexbosworth/status/1078353292768403456&quot;&gt;Alex Bosworth ☇ (@alexbosworth)&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;Ways I can tell LN routing is not a mature market yet: - I’m charging 25x more than anyone and routing more than ever before - The largest capacity owner assigns capacity at random - Almost no one charges any fees at all for routing - Most public nodes aren’t even reli…&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://twitter.com/timevalueofbtc/status/1078337607493332992&quot;&gt;Nik Bhatia (@timevalueofbtc)&lt;/a&gt; 
+Recent interviews given by @roasbeef @bitconner and tweets by @alexbosworth confirm my initial theory about the potential for operating a profitable Lightning node: payment channel management skill is the primary driver of profits. Merely staking capital ensures nothing.&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lists.linuxfoundation.org/pipermail/lightning-dev/2018-December/001752.html&quot;&gt;[Lightning-dev] An Argument For Single-Asset Lightning Network&lt;/a&gt;
+In theory, the Lightning Network could potentially perform “seamless” currency conversions, allowing a payer to spend one currency to pay a payee requesting for another currency.&lt;/li&gt;
   &lt;/ul&gt;
+
+  &lt;p&gt;However, a significant technical barrier prevents implementation of such feature as of current designs (late 2018) for Lightning.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://bitcoin.org/en/choose-your-wallet?step=5&quot;&gt;Choose your wallet here - bitcoin.org&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://btcinformation.org/en/choose-your-wallet&quot;&gt;Choose your wallet here - btcinformation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://bitcoin-only.com/#wallets&quot;&gt;bitcoin-only.com - Wallets&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://bitcoincore.org/&quot;&gt;Bitcoin Core&lt;/a&gt; Full node &amp;amp; Bitcoin wallet. Desktop&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://samouraiwallet.com/&quot;&gt;Samourai Wallet&lt;/a&gt; The most feature rich and advanced bitcoin wallet available on Android today. Android&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://wasabiwallet.io/&quot;&gt;Wasabi Wallet&lt;/a&gt; Privacy focused Bitcoin wallet, that implements trustless coin shuffling Desktop&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://electrum.org/#home&quot;&gt;Electrum&lt;/a&gt; The most feature rich bitcoin desktop wallet available today. Desktop &amp;amp; Android&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blockstream.com/green/&quot;&gt;Blockstream Green&lt;/a&gt; Easy to use wallet. Use Google Authentication not Email/Phone. iOS &amp;amp; Android&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/greenaddress/WalletElectron/releases/tag/v0.1.04&quot;&gt;GreenAddress&lt;/a&gt; Desktop companion to Blockstream Green mobile wallet. Deskop&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://muun.com/&quot;&gt;Muun Wallet&lt;/a&gt; Relatively new wallet with novel multi-sig 2-of-2 spending. Android&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hodlwallet.co/&quot;&gt;Hodl Wallet&lt;/a&gt; Relatively new wallet with simple UI. iOS &amp;amp; Android&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.bitcoinarmory.com/&quot;&gt;Armory&lt;/a&gt; Cold Storage &amp;amp; Multisig Desktop - &lt;a href=&quot;https://www.youtube.com/user/JellyBaby68/videos&quot;&gt;howto video&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://abco.re/en/releases/&quot;&gt;ABCore&lt;/a&gt; Bitcoin Core Full Node for Android Android&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://samouraiwallet.com/&quot;&gt;Samourai Wallet&lt;/a&gt;)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://en.bitcoin.it/wiki/How_to_set_up_a_secure_offline_savings_wallet&quot;&gt;en.bitcoin.it/wiki/How_to_set_up_a_secure_offline_savings_wallet&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://bitcointalk.org/index.php?topic=17240.0&quot;&gt;HOWTO: create a 100% secure wallet&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://bitcointalk.org/index.php?topic=1631151.0&quot;&gt;[General] Bitcoin Wallets - Which, what, why?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/BlueWallet/BlueWallet&quot;&gt;BlueWallet/BlueWallet&lt;/a&gt;
-Bitcoin thin client for iOS &amp;amp; Android. Built with React Native - BlueWallet/BlueWallet&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;-blockstream-green&quot;&gt;👛 Blockstream-green&lt;/h3&gt;
+&lt;h3 id=&quot;-info&quot;&gt;💡 info&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://docs.blockstream.com/green/getting-started/getting-started-index.html&quot;&gt;docs.blockstream.com/green/getting-started/getting-started-index.html&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blockstream.com/green/&quot;&gt;Blockstream Green&lt;/a&gt;
+  &lt;li&gt;&lt;a href=&quot;https://coincenter.org/entry/making-sense-of-lightning-network-nodes-and-money-transmission-licensing&quot;&gt;Making sense of Lightning network nodes and money transmission licensing&lt;/a&gt;
     &lt;blockquote&gt;
-      &lt;p&gt;Blockstream Green is our industry-leading Bitcoin wallet, providing Bitcoin users with an unrivaled blend of security and ease-of-use.&lt;/p&gt;
+      &lt;p&gt;An update on Coin Center’s work to avoid unnecessary regulatory burdens on technologists.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/lightning-power-users/windows-macos-lightning-network-284bd5034340&quot;&gt;Easiest Bitcoin Lightning Guide!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@The1Brand7/lightning-faq-67bd2b957d70&quot;&gt;#Bitcoin Lightning Network FAQ&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Q 1: What is the Lightning Network?&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ion.radar.tech/&quot;&gt;Radar ION - Your guide to the Lightning Network&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Master the Lightning Network with our app and wallet recommendations, developer and troubleshooting tools, Lightning wiki, getting started tutorials, and more!&lt;/p&gt;
     &lt;/blockquote&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;-wasabi&quot;&gt;👛 Wasabi&lt;/h3&gt;
+&lt;h3 id=&quot;-media&quot;&gt;💡 media&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://wasabiwallet.io/&quot;&gt;wasabiwallet.io/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=JtDY7Gb-L5s&quot;&gt;MIT Bitcoin Expo 2019 - Wasabi Wallet: Unfairly Private&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/zkSNACKs/WalletWasabi&quot;&gt;zkSNACKs/WalletWasabi&lt;/a&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/djseeds/lncast&quot;&gt;djseeds/lncast&lt;/a&gt;
     &lt;blockquote&gt;
-      &lt;p&gt;Open-source, non-custodial, privacy-focused Bitcoin wallet, that implements trustless coin shuffling with mathematically provable anonymity - Chaumian CoinJoin.&lt;/p&gt;
+      &lt;p&gt;LNCast - Lightning Network Podcatcher.&lt;/p&gt;
     &lt;/blockquote&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/zkSNACKs/WalletWasabi/blob/master/WalletWasabi.Documentation/FAQ.md&quot;&gt;WalletWasabi.Documentation/FAQ.md&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/zkSNACKs/WalletWasabi/blob/master/WalletWasabi.Community/Dojo.md&quot;&gt;WalletWasabi.Community/Dojo.md&lt;/a&gt;
-&lt;a href=&quot;https://docs.wasabiwallet.io/building-wasabi/Dojo.html&quot;&gt;Dojo - Wasabi Docs&lt;/a&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lncast.com/&quot;&gt;LNCast&lt;/a&gt;
+Lightning Network Podcasts&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://noded.org/podcast/&quot;&gt;noded.org/podcast&lt;/a&gt;
     &lt;blockquote&gt;
-      &lt;p&gt;The Dojo is the place where all the many Wasabikas get together and collaborate. Here we honor those who have already earned their belts, and celebrate those who get promoted. This is the Wasabi documentation, an archive of knowledge about the open-source, non-custodial and p…&lt;/p&gt;
+      &lt;p&gt;Bitcoin current events, technical news, and commentary with Pierre Rochard and Michael Goldstein.&lt;/p&gt;
     &lt;/blockquote&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://docs.wasabiwallet.io/building-wasabi/TechnicalOverview.html#abstract&quot;&gt;docs.wasabiwallet.io/building-wasabi/TechnicalOverview.html#abstract&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=zPKpC9cRcZo&amp;amp;list=PLmoQ11MXEmahCG1nkbKK6DiAwVx9giJCi&quot;&gt;402 Payment Required - Wasabi wallet - 1 Download &amp;amp; Setup (Linux)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/WasabiWallet/comments/aqlyia/how_to_connect_wasabi_wallet_to_my_own_full/&quot;&gt;reddit.com/r/WasabiWallet/comments/aqlyia/how_to_connect_wasabi_wallet_to_my_own_full/&lt;/a&gt;
-&lt;a href=&quot;https://www.reddit.com/r/WasabiWallet/comments/axk36n/how_can_i_know_wasabi_connected_to_my_local_node/&quot;&gt;reddit.com/r/WasabiWallet/comments/axk36n/how_can_i_know_wasabi_connected_to_my_local_node/&lt;/a&gt;
-&lt;a href=&quot;https://www.reddit.com/r/WasabiWallet/comments/btl4ly/wasabi_with_personal_bitcoin_node/&quot;&gt;reddit.com/r/WasabiWallet/comments/btl4ly/wasabi_with_personal_bitcoin_node/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=DUc9A76rwX4&quot;&gt;How to Update Wasabi Wallet to v 1.1.1 with Bitcoin Core Integrati…&lt;/a&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stephanlivera.com/episodes&quot;&gt;stephanlivera.com/episodes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://talesfromthecrypt.libsyn.com/&quot;&gt;Tales from the Crypt: A Bitcoin Podcast&lt;/a&gt;
     &lt;blockquote&gt;
-      &lt;p&gt;Release Summary: + If you have a full node running, from now on Wasabi will ask blocks from it instead of random peers. This is the first step towards comple…&lt;/p&gt;
+      &lt;p&gt;Tales from the Crypt is a podcast hosted by Marty Bent about Bitcoin. Join Marty, Editor in Chief of “the best newsletter in crypto”, as he sits down to discuss Bitcoin with interesting people.&lt;/p&gt;
     &lt;/blockquote&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@nopara73/bitcoin-core-vs-wasabi-wallet-network-level-privacy-bdca1d501387&quot;&gt;Bitcoin Core vs Wasabi Wallet — Network Level Privacy&lt;/a&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.spotify.com/show/5raGruI7FqmwCKY0l2sSuR&quot;&gt;The Coin Pod&lt;/a&gt;
     &lt;blockquote&gt;
-      &lt;p&gt;Bitcoin Core, more specifically full nodes are considered to be the pinnacle of network level privacy in Bitcoin wallets that no other…&lt;/p&gt;
+      &lt;p&gt;A series of conversations about Bitcoin with people who build, study, and use it, hosted weekly by Zack Voell. by The YMB Network&lt;/p&gt;
     &lt;/blockquote&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://podcasts.apple.com/us/podcast/bitcoin-takeover-podcast/id1451766883?i=1000443139074&quot;&gt;Bitcoin Takeover Podcast, Ep S2 E2: Udi Wertheimer on Being a Bitcoiner&lt;/a&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.whatbitcoindid.com/lightning-network-special&quot;&gt;Lightning Network Special: What Bitcoin Did&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@ACINQ&quot;&gt;ACINQ – Medium&lt;/a&gt;
     &lt;blockquote&gt;
-      &lt;p&gt;Jun 28, 2019 (Discusses privacy w wasabi/coinjoin vs chainanylists in the first half)&lt;/p&gt;
+      &lt;p&gt;Read writing from ACINQ on Medium. We are building an implementation of Lightning, a scalable instant payment network built on top of the Bitcoin blockchain.&lt;/p&gt;
     &lt;/blockquote&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/WasabiWallet/comments/a4q0tc/private_full_node_configuration/&quot;&gt;reddit.com/r/WasabiWallet/comments/a4q0tc/private_full_node_configuration/&lt;/a&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/meetbitfury/tagged/lightning-network&quot;&gt;Lightning Network – Meet Bitfury – Medium&lt;/a&gt;
     &lt;blockquote&gt;
-      &lt;p&gt;I’ve got a full node running on my machine connected to mainnet through tor network. I think it’s common configuration among privacy conscious…&lt;/p&gt;
+      &lt;p&gt;Read writing about Lightning Network in Meet Bitfury. Learn more about Bitfury, the leading full-service blockchain technology company.&lt;/p&gt;
     &lt;/blockquote&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/zkSNACKs/WalletWasabi/pull/1197&quot;&gt;[WIP] Full node integration - hybrid mode by lontivero · Pull Re…&lt;/a&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blockstream.com/categories/lightning-network/&quot;&gt;blockstream.com/categories/lightning-network&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/lightning-resources&quot;&gt;Lightning Resources – Medium&lt;/a&gt;
     &lt;blockquote&gt;
-      &lt;p&gt;This PR contains a first approach for the full integration with bitcoin core nodes. At initialization time it tries to connect with the local node and in case it succeed then use it for everything …&lt;/p&gt;
-
-      &lt;p&gt;One of the key points in Wasabi is that you don’t need to run a full node to protect your privacy. Wasabi is the first light wallet that doesn’t leak information to third parties and protects you against blockchain (thanks to its built-in coinjoin feature, built-in chain analyzer and the coin control ) and network analysis.&lt;/p&gt;
+      &lt;p&gt;An information page about the Lightning Network protocol, a scalable transaction cache layer for Bitcoin.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.lopp.net/lightning-information.html&quot;&gt;Jameson Lopp’s Lightning Network Resources&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;A comprehensive guide to educational Lightning Network information &amp;amp; resources.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@rusty_lightning&quot;&gt;Rusty Russell – Medium&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Read writing from Rusty Russell on Medium. Rusty is a Linux kernel dev who wandered into Blockstream, and is currently trying to produce a prototype and spec for bitcoin lightning. Hodls bitcoin (only).&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://podcasts.apple.com/us/podcast/the-dyor-podcast-blockchain-bitcoin-cryptocurrency/id1469404703?i=1000442180425&quot;&gt;‎The DYOR Podcast - Blockchain, Bitcoin &amp;amp; Cryptocurrency: Lightn…&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;‎Show The DYOR Podcast - Blockchain, Bitcoin &amp;amp; Cryptocurrency, Ep Lightning Network, Private Keys and Bitcoin Nodes with Jameson Lopp- DYOR 002 - Jun 19, 2019&lt;/p&gt;
     &lt;/blockquote&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;-samourai&quot;&gt;👛 Samourai&lt;/h3&gt;
+&lt;h3 id=&quot;cryptoconomy-podcast&quot;&gt;Cryptoconomy Podcast&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/@melik_87377/lightning-network-enables-unicast-transactions-in-bitcoin-lightning-is-bitcoins-tcp-ip-stack-8ec1d42c14f5&quot;&gt;&lt;img src=&quot;https://imgur.com/k55OjEO.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCb4Y89L9Bokuo6OWqjAhMoA&quot;&gt;youtube.com/channel/UCb4Y89L9Bokuo6OWqjAhMoA&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.samourai.wallet&quot;&gt;Samourai Wallet - Apps on Google Play&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Samourai Wallet is the most feature rich and advanced bitcoin wallet available on Android today. It has been created from the ground up by privacy activists to be extremely portable, highly secure, and lead the pack in protecting the privacy of bitcoin users. - Full Segwit S…&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/Samourai-Wallet/boltzmann&quot;&gt;Samourai-Wallet/boltzmann&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;A python script computing the entropy of Bitcoin transactions and the linkability of their inputs and outputs. - Samourai-Wallet/boltzmann&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
+  &lt;li&gt;CryptoQuikRead_011 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_011---Lightning-Enables-Unicast-Transactions-in-Bitcoin-e2nduh&quot;&gt;Lightning Enables Unicast Transactions in Bitcoin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;CryptoQuikRead_027 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_027---The-Barely-Discussed--Incredible-Benefit-of-the-Lightning-Network-e2ndu1&quot;&gt;The Barely Discussed, Incredible Benefit of the Lightning Network&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;CryptoQuikRead_047 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_047---Understanding-The-Lightning-Network-Part-1-e2ndtd&quot;&gt;Understanding The Lightning Network Part 1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;CryptoQuikRead_048 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_048---Understanding-The-Lightning-Network-Part-2-e2ndt4&quot;&gt;Understanding The Lightning Network Part 2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;CryptoQuikRead_049 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_049---Understanding-The-Lightning-Network-Part-3-e2ndtc&quot;&gt;Understanding The Lightning Network Part 3&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;CryptoQuikRead_061 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_061---Eltoo---A-Simplified-Update-Mechanism-for-Lightning-e2ndso&quot;&gt;Eltoo - A Simplified Update Mechanism for Lightning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;CryptoQuikRead_062 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_062---This-New-Scaling-Layer-Could-Make-Lightning-More-Effective-e2ndsn&quot;&gt;This New Scaling Layer Could Make Lightning More Effective&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;CryptoQuikRead_063 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_063---Atomic-Swaps--How-the-Lightning-Network-Extends-to-Altcoins-e2ndsm&quot;&gt;Atomic Swaps, How the Lightning Network Extends to Altcoins&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;CryptoQuikRead_064 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_064---The-Future-of-Bitcoin---What-Lightning-Could-Look-Like-e2ndsk&quot;&gt;The Future of Bitcoin - What Lightning Could Look Like&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;CryptoQuikRead_065 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_065---Lightning-User-Experience--A-Day-in-the-Life-of-Carol-e2ndsl&quot;&gt;Lightning User Experience, A Day in the Life of Carol&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;CryptoQuikRead_082 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_082---Exploring-Lightning-Network-Routing-e2nds3&quot;&gt;Exploring Lightning Network Routing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;CryptoQuikRead_099 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_099---Announcing-C-Lightning-0-6-e2ndrh&quot;&gt;Announcing C-Lightning 0.6&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;CryptoQuikRead_136 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_136---The-Panama-Canal-and-The-Bitcoin-Lightning-Network-e2ndq9&quot;&gt;The Panama Canal and The Bitcoin Lightning Network&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;CryptoQuikRead_139 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_139---Lightning-Network-2-0-Part1-e2ndq7&quot;&gt;Lightning Network 2.0 [Part1]&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;CryptoQuikRead_140 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_140---Lightning-Network-2-0-Part-2-e2ndq6&quot;&gt;Lightning Network 2.0 [Part 2]&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;CryptoQuikRead_142 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_142---Chaincodes-Residency-Program-Is-Back--This-Time-With-Lightning-e2ndq3&quot;&gt;Chaincode’s Residency Program Is Back, This Time With Lightning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;GuysTake_002 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/GuysTake_002---The-Lightning-App-I-Want-to-Use-e2ndp6&quot;&gt;The Lightning App I Want to Use&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;CryptoQuikRead_169 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_169---Neutrino-The-Lighter-Side-of-Lightning-e2ndp4&quot;&gt;Neutrino: The Lighter Side of Lightning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;CryptoQuikRead_183 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_183---Custody-in-the-Age-of-Digital-Assets-e2ndoi&quot;&gt;Custody in the Age of Digital Assets&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;CryptoQuikRead_199 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_199---Confidential-Auditing-by-Nick-Szabo-e2oqkk&quot;&gt;Confidential Auditing by Nick Szabo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;CryptoQuikRead_200 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_200---Why-Bitcoins-Lightning-Network-is-Ingenious-e2plij&quot;&gt;Why Bitcoin’s Lightning Network is Ingenious&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;CryptoChat_008 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoChat_008---Under-the-Lightning-Hood-with-petoveritas--Crypt0PuraVida---CoinBeezy-e2q4gf&quot;&gt;Under the Lightning Hood with @petoveritas, @Crypt0PuraVida, &amp;amp; @CoinBeezy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;CryptoQuikRead_206 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_206---Reckless-to-Wumbology--The-Lightning-Network-Infrastructural-Build-Out-e3235m&quot;&gt;#Reckless to Wumbology, The Lightning Network Infrastructural Build-Out&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;GuysTake_008 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/GuysTake_008---The-Lightning-of-my-TCP--or-How-the-Internet-is-Too-Complex-to-Work-e32omd&quot;&gt;The Lightning of my TCP, or How the Internet is Too Complex to Work&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;CryptoChat_009 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoChat_009---Holding-the-Lightning-Torch-on-the-Rollo--Slappy-Show-e36t53&quot;&gt;Holding the Lightning Torch on the Rollo &amp;amp; Slappy Show&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;CryptoChat_011 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoChat_011---Lightning--Paywall-Link---the-Bootstrap-Bandit-e3smfp&quot;&gt;Lightning, Paywall.Link, &amp;amp; the Bootstrap Bandit&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;GuysTake_011 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/GuysTake_011---Why-Lightning-Sucks-e3r95t&quot;&gt;Why Lightning Sucks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;GuysTake_014 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/GuysTake_014---The-What--Why---How-of-Lightning-e41pbe&quot;&gt;The What, Why, &amp;amp; How of Lightning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;CryptoQuikRead_248 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_248---Bitrefills-Hottest-Lightning-Tech-of-2019-e426ph&quot;&gt;Bitrefill’s Hottest Lightning Tech of 2019!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;CryptoQuikRead_259 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_259---Lightning-at-the-End-of-the-Tunnel-e4a35k&quot;&gt;Lightning at the End of the Tunnel&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;-electrum&quot;&gt;👛 Electrum&lt;/h3&gt;
+&lt;h3 id=&quot;lapps&quot;&gt;LApps&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://dev.lightning.community/lapps/&quot;&gt;&lt;img src=&quot;https://imgur.com/qs08w40.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://electrum.org/&quot;&gt;electrum.org/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://docs.electrum.org/en/latest/&quot;&gt;docs.electrum.org/en/latest/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://bitcoinelectrum.com/&quot;&gt;bitcoinelectrum.com&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://bitcointalk.org/index.php?topic=4573616.0&quot;&gt;bitcointalk.org/index.php?topic=4573616.0&lt;/a&gt; - great way to safely “watch” the status of your (offline) cold-storage wallet.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://bitcointalk.org/index.php?topic=4573616.0&quot;&gt;[Guide] How to Create a Watch-only Wallet (for Electrum)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/bitcoinkoala/status/1178053504386129921?s=12&quot;&gt;twitter.com/bitcoinkoala/status/1178053504386129921?s=12&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;-Got electrs (Electrum server) running on my #RaspiBlitz node thanks to @openoms tutorial [&lt;a href=&quot;https://github.com/openoms/bitcoin-tutorials/blob/master/electrs/README.md&quot;&gt;openoms/bitcoin-tutorials/electrs&lt;/a&gt;] and now connected to my @ShiftCryptoHQ #BitBox app. BitBox02 &amp;amp; BitBox app + RaspiBlitz &amp;amp; Electrum&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/spesmilo/electrum&quot;&gt;spesmilo/electrum&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;CryptoQuickRead_031.5 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuickRead_031-5---Lapp-1---FileBazaar-e2ndts&quot;&gt;Lapp 1 - FileBazaar&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;CryptoQuikRead_032.5 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_032-5---Lapp-2---Lightning-Publisher-e2ndtq&quot;&gt;Lapp 2 - Lightning Publisher&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;CryptoQuikRead_033.5 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_033-5---LApp-3---NanoTip-e2ndto&quot;&gt;LApp 3 - NanoTip&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;CryptoQuikRead_034.5 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_034-5---LApp-4---PayPerCall-e2ndtm&quot;&gt;LApp 4 - PayPerCall&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;CryptoQuikRead_035.5 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_035-5---LApp-5---Nanopos-for-Simple-Point-of-Sale-e2ndtk&quot;&gt;LApp 5 - Nanopos for Simple Point-of-Sale&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;CryptoQuikRead_036.5 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_036-5---LApp-6---Ifpaytt-Brings-Lightning-Payments-to-IFTTT-e2ndth&quot;&gt;LApp 6 - Ifpaytt Brings Lightning Payments to IFTTT&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;CryptoQuikRead_037.5 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_037-5---Lapp-7---The-Lightning-Jukebox-e2ndti&quot;&gt;Lapp 7 - The Lightning Jukebox&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;Electrum; Bitcoin thin client.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Ubuntu Install:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;instructions from electrum.org, augmented for ubuntu&lt;/em&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://electrum.org/#download&quot;&gt;electrum.org/#download&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;em&gt;Install dependencies:&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;sudo apt-get install python3-pyqt5&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Download package:&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;wget https://download.electrum.org/3.3.8/Electrum-3.3.8.tar.gz&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Verify signature:&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;wget https://download.electrum.org/3.3.8/Electrum-3.3.8.tar.gz.asc&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://electrum.readthedocs.io/en/latest/gpg-check.html&quot;&gt;electrum.readthedocs.io/en/latest/gpg-check.html&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;gpg --keyserver keys.gnupg.net --recv-keys 6694D8DE7BE8EE5631BED9502BD5824B7F9470E&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;gpg --verify Electrum-3.3.8.tar.gz.asc&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Unpack:&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;tar -xvf Electrum-3.3.8.tar.gz&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Install Python:&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;sudo apt-get install python3-setuptools python3-pip&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Run with PIP:&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;python3 Electrum-3.3.8/run_electrum&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Install:&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;python3 -m pip install --user Electrum-3.3.8.tar.gz[fast]&lt;/code&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://unix.stackexchange.com/questions/534640/command-electrum-not-found&quot;&gt;unix.stackexchange.com/questions/534640/command-electrum-not-found&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;em&gt;Add Symlink:&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;sudo ln -s ~/.local/bin/electrum /usr/local/bin/electrum&lt;/code&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;--electrum-personal-server&quot;&gt;- electrum-personal-server&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/Bitcoin/comments/7w6a9k/electrum_personal_server_the_best_way_to_connect/&quot;&gt;reddit.com/r/Bitcoin/comments/7w6a9k/electrum_personal_server_the_best_way_to_connect/&lt;/a&gt; r/Bitcoin - Electrum Personal Server - The best way to connect you… basically, electrum personal server is the more sovereign way to run the electrum wallet… analogous to using the bitcoin-core wallet with the complete blockchain.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://bitcointalk.org/index.php?topic=2664747.msg27179198&quot;&gt;Electrum Server Gateways&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/chris-belcher/electrum-personal-server&quot;&gt;chris-belcher/electrum-personal-server&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;It is an implementation of the Electrum server protocol which fulfills the specific need of using the Electrum wallet backed by a full node, but without the heavyweight server backend, for a single user. It allows the user to benefit from all of Bitcoin Core’s resource-saving features like pruning, blocksonly and disabled txindex. All of Electrum’s feature-richness like hardware wallet integration, multisignature wallets, offline signing, seed recovery phrases, coin control and so on can still be used, but connected only to the user’s own full node. Full node wallets are important in bitcoin because they are an big part of what makes the system be trustless. No longer do people have to trust a financial institution like a bank or paypal, they can run software on their own computers. If bitcoin is digital gold, then a full node wallet is your own personal goldsmith who checks for you that received payments are genuine. Full node wallets are also important for privacy. Using Electrum under default configuration requires it to send (hashes of) all your bitcoin addresses to some server. That server can then easily spy on your transactions. Full node wallets like Electrum Personal Server would download the entire blockchain and scan it for the user’s own addresses, and therefore don’t reveal to anyone else which bitcoin addresses they are interested in.&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/Bitcoin/comments/bgyluw/alright_guys_this_is_it_electrum_personal_server/&quot;&gt;reddit.com/r/Bitcoin/comments/bgyluw/alright_guys_this_is_it_electrum_personal_server/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/Bitcoin/comments/7w6a9k/electrum_personal_server_the_best_way_to_connect/&quot;&gt;reddit.com/r/Bitcoin/comments/7w6a9k/electrum_personal_server_the_best_way_to_connect/&lt;/a&gt; electrum personal server - a full node for your electrum wallet&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;-bitgo&quot;&gt;👛 Bitgo&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.bitgo.com/&quot;&gt;bitgo.com/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;[bitgo.github.io/bitgo-docs/](https://bitgo.github.io/bitgo-docs/&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://static1.squarespace.com/static/5956707b6b49988d1df0001a/t/5ae161608a922d28394af452/1524719979322/BitGo+User+Guide042518.pdf&quot;&gt;static1.squarespace.com/static/5956707b6b49988d1df0001a/t/5ae161608a922d28394af452/1524719979322/BitGo+User+Guide042518.pdf&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;This document provides step-by-step details about how to use the non-custodial BitGo servicethrough the Web interface as well as how to administer the service and configure policies.&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;-hardware&quot;&gt;👛 Hardware&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://bitcoin-only.com/#hardware&quot;&gt;bitcoin-only.com - Other Hardware&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://revealer.cc/author/radmin/&quot;&gt;radmin&lt;/a&gt; &lt;a href=&quot;https://revealer.cc/&quot;&gt;revealer&lt;/a&gt; -Optical Seed Encryption Tool&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://coldcardwallet.com/&quot;&gt;ColdCard&lt;/a&gt; Hardware Wallet&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://opendime.com/&quot;&gt;Opendime&lt;/a&gt; Bitcoin Bearer Bond&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.bitpiggys.com/&quot;&gt;Bitpiggys&lt;/a&gt; Piggybank + Opendime&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://docs.wasabiwallet.io/building-wasabi/HardwareWalletTestingGuide.html&quot;&gt;docs.wasabiwallet.io/building-wasabi/HardwareWalletTestingGuide.html -Integration Testing - Wasabi&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://news.bitcoin.com/bitcoin-bank-less-thirty-minutes-usb-drive/&quot;&gt;news.bitcoin.com/bitcoin-bank-less-thirty-minutes-usb-drive/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;--trezor&quot;&gt;- Trezor&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://shop.trezor.io/&quot;&gt;shop.trezor.io/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://wiki.trezor.io/User_manual&quot;&gt;wiki.trezor.io/User_manual&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://youtu.be/K7fqbNGgTXU&quot;&gt;How to transfer bitcoin from Coinbase to Trezor hardware wallet&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://bitcointalk.org/index.php?topic=5136349.0&quot;&gt;bitcointalk.org/index.php?topic=5136349.0&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=lab9_L61ZY0&quot;&gt;youtube.com/watch?v=lab9_L61ZY0&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/romanz/trezor-agent&quot;&gt;romanz/trezor-agent&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCg15NoSwXILVTQn3kujRN0g&quot;&gt;Bitadd&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://bitcointalk.org/index.php?topic=5136349.0&quot;&gt;Send Bitcoin to Multiple Addresses in One Transaction Only - TREZOR&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UC7fx8Z6y5QOpU6Yvzdk3D_w&quot;&gt;OJ Jordan&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=lab9_L61ZY0&quot;&gt;NEW 2019 TREZOR model T - Complete Setup, Backup and Restore Tutorial&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;This is my new, updated 2019 complete Setup, Restore, Backup tutorial for the Trezor device Model T The device is touchscreen and has a few recent upgrades t…&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/trezor/trezor-firmware&quot;&gt;trezor/trezor-firmware&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/trezor/trezor-hw&quot;&gt;trezor/trezor-hw&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/trezor/trezor-android&quot;&gt;trezor/trezor-android&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/martin-lizner/trezor-ssh-agent&quot;&gt;martin-lizner/trezor-ssh-agent&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Trezor SSH Agent for Windows (Putty, WinSCP and more) + KeepKey supported! - martin-lizner/trezor-ssh-agent&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;--casa-keymaster&quot;&gt;- Casa-keymaster&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://keys.casa/keymaster/&quot;&gt;keys.casa/keymaster/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.keys.casa/casa-keymaster-security-mobile-key-overview/&quot;&gt;Casa Keymaster Security: Mobile Key Overview&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;In this post, we review the security architecture of the Mobile Key on the new Casa Keymaster app, and how we’ve carefully designed a better backup solution.&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCgqxjfkJI65huAsJkMiExeQ&quot;&gt;Casa - Youtube&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=B-JpOC1Knx8&quot;&gt;Setting up Keymaster by Casa (Basic Multisig)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;--ledger&quot;&gt;- Ledger&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://shop.ledger.com/pages/ledger-nano-x&quot;&gt;Ledger Nano X - Secure your crypto&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=lHzFY4ucTYQ&quot;&gt;LEDGER NANO X BEST SET-UP GUIDE, UNBOXING AND STEP BY STEP TUTORIA…&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Brand New Ledger Nano X Step By STep Guide. Unboxing and Complete Set-up Guide from start to finish. This is my fifth tutorial on the Ledger Devices, I’ve be…&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;--cold-card&quot;&gt;- Cold Card&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://coldcardwallet.com/&quot;&gt;coldcardwallet.com&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://coldcardwallet.com/docs/quick&quot;&gt;coldcardwallet.com/docs/quick&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://coldcardwallet.com/docs/#guides-by-others&quot;&gt;coldcardwallet.com/docs/#guides-by-others&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=f8dBNrlwJ0k&amp;amp;list=PLmoQ11MXEmahiHdXhOIUM0ja3Hzf_hVvc&amp;amp;index=2&quot;&gt;youtube.com/watch?v=f8dBNrlwJ0k&amp;amp;list=PLmoQ11MXEmahiHdXhOIUM0ja3Hzf_hVvc&amp;amp;index=2&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/Coldcard&quot;&gt;Coldcard&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;-cold-storage&quot;&gt;👛 Cold Storage&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/@timevalueofbtc/the-business-of-bitcoin-cold-storage-148fba7f1255&quot;&gt;medium.com/@timevalueofbtc/the-business-of-bitcoin-cold-storage-148fba7f1255&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Bitcoin is digital gold, and this continues to be its most appropriate and concise metaphor. I recently discussed some parallels between…&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/square/subzero&quot;&gt;square/subzero&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Square’s Bitcoin Cold Storage solution.&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/Overtorment/cli-cold-wallet&quot;&gt;Overtorment/cli-cold-wallet&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Make a cold storage for your coins right in terminal, offline - Overtorment/cli-cold-wallet&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;-paper&quot;&gt;👛 Paper&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://en.bitcoin.it/wiki/Paper_wallet&quot;&gt;en.bitcoin.it/wiki/Paper_wallet&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/p4fg/secure-paper-wallet&quot;&gt;p4fg/secure-paper-wallet&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/pointbiz/bitaddress.org&quot;&gt;pointbiz/bitaddress.org&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/dbasch/bitcoin-paper-wallet&quot;&gt;dbasch/bitcoin-paper-wallet&lt;/a&gt; - Generate a Bitcoin paper wallet offline as a png file, no need for a browser. - dbasch/bitcoin-paper-wallet&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/nurupo/paper-store&quot;&gt;nurupo/paper-store&lt;/a&gt; - Cold store small files on paper as QR codes – PGP keys, Bitcoin keys, Tox keys or any other small files in general. - nurupo/paper-store&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;utilities&quot;&gt;Utilities&lt;/h2&gt;
-
-&lt;h3 id=&quot;escrow&quot;&gt;Escrow&lt;/h3&gt;
-
-&lt;p&gt;Escrow Agents should be impartial and trusted intermediaries who hold custody of buyer’s funds until pre-defined conditions are met. With the help of public key encryption, parties who don’t know or trust each-other can engage in commerce, online.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.bitrated.com/&quot;&gt;bitrated.com&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Bitcoin Trust Platform - Identity &amp;amp; reputation management, multi-signature smart contracts and consumer protection for Bitcoin and other cryptocurrencies.&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://jobs4btc-escrow.appspot.com/&quot;&gt;jobs4btc-escrow.appspot.com&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://web-work.tools/practical-public-key-crypto/&quot;&gt;Using PGP and Cryptocurrency Keysignatures&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Asymmetric Encryption: Phil Zimmerman, PGP, Bitcoin and Ethereum key-signatures, Escrow, SSL, Various Apps and Resourses.&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;explorers&quot;&gt;Explorers&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://blockstream.info&quot;&gt;blockstream.info&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blockchain.com/&quot;&gt;blockchain.com/&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Blockchain is the world’s most trusted all-in-one crypto company. We’re connecting the world to the future of finance through our suite of products including the leading crypto wallet, bitcoin explorer, and market information.&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.blocktrail.com/BTC&quot;&gt;blocktrail.com/BTC&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blockexplorer.com/&quot;&gt;blockexplorer.com/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.smartbit.com.au/&quot;&gt;smartbit.com.au/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://bitkit.live/&quot;&gt;bitkit.live/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://oxt.me/&quot;&gt;OXT&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;OXT is a tool designed for Exploratory Blockchain Analysis of the bitcoin ledger.
-OXT is the “Other eXploration Tool” and it should become the “Open eXploration Tool” in the future.&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;fees&quot;&gt;Fees&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://transactionfee.info/&quot;&gt;transactionfee.info&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Check the fee efficiency of your last transaction!&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://bitcoinfees.earn.com/&quot;&gt;bitcoinfees.earn.com&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;b10c.me/A-list-of-public-feerate-estimator-APIs/&quot;&gt;b10c.me/A-list-of-public-feerate-estimator-APIs/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;statoshi.info/dashboard/db/fee-estimates&quot;&gt;statoshi.info/dashboard/db/fee-estimates&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;bitcoiner.live/&quot;&gt;bitcoiner.live/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;bitcoinfees.earn.com/&quot;&gt;bitcoinfees.earn.com/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;fees.truelevel.io/#/btc&quot;&gt;fees.truelevel.io/#/btc&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;whatthefee.io/&quot;&gt;whatthefee.io/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;visualizations&quot;&gt;Visualizations&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/xpfio/awesome-blockchain-visualisation&quot;&gt;xpfio/awesome-blockchain-visualisation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/bitcoin-vr/bitcoin-vr&quot;&gt;bitcoin-vr/bitcoin-vr&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/KevinSmall/blockchain3d&quot;&gt;KevinSmall/blockchain3d&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
 </description>
-				<guid isPermaLink="true">http://localhost:4000/layer-1/wallets-utilities/</guid>
+				<guid isPermaLink="true">http://localhost:4000/layer-2/lightning/</guid>
 			</item>
 		
 			<item>
-				<title>Trading</title>
-				<link>http://localhost:4000/practical/trading/</link>
+				<title>Bitcoin - Layer 2 - Lightning, Liquid and Beyond</title>
+				<link>http://localhost:4000/layer-2/</link>
 				<pubDate>Sun, 29 Dec 2019 00:00:00 -0500</pubDate>
-				<description>&lt;p&gt;&lt;a href=&quot;https://blog.goodaudience.com/bitcoin-network-momentum-a42346b2f0ce&quot;&gt;Bitcoin Network Momentum - Good Audience&lt;/a&gt; - A new leading indicator for Bitcoin price during its major market cycles
-&lt;a href=&quot;https://tucsky.github.io/SignificantTrades/&quot;&gt;SignificantTrades&lt;/a&gt;&lt;/p&gt;
+				<description>&lt;ul&gt;
+  &lt;li&gt;CryptoQuikRead_093 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_093---The-Importance-of-Layer-2-e2ndrp&quot;&gt;The Importance of Layer 2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;CryptoQuikRead_132 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_132---The-Bitcoin-Second-Layer-e2ndqd&quot;&gt;The Bitcoin Second Layer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;CryptoQuikRead_022 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_022---Sidechains---Why-These-Researchers-Think-They-Solved-a-Key-Piece-of-the-Puzzle-e2ndu6&quot;&gt;Sidechains - Why These Researchers Think They Solved a Key Piece of the Puzzle&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;-liquid&quot;&gt;🚧 Liquid&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://elementsproject.org/how-it-works&quot;&gt;elementsproject.org/how-it-works&lt;/a&gt;
+Elements - an open source, sidechain-capable blockchain platform.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/Blockstream/liquid&quot;&gt;Blockstream/liquid&lt;/a&gt; - Liquid daemon and cli.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/ElementsProject/elements&quot;&gt;ElementsProject/elements&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/hackernoon/getting-started-with-the-liquid-network-c87e2cb5996b&quot;&gt;Getting started with the Liquid Network&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/blockstream/getting-started-with-lightning-on-the-liquid-network-8b5682752ffe&quot;&gt;Getting started with Lighning on the Liquid Network&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;CryptoQuikRead_166 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_166---Liquid-Network-Launch-and-Thoughts-from-LucasNuzzi-e2ndp8&quot;&gt;Liquid Network Launch and Thoughts from @LucasNuzzi&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;CryptoQuikRead_167 - &lt;a href=&quot;https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_167---Deep-Dive-into-Strong-Federations--Foundations-of-Liquid-e2ndp7&quot;&gt;Deep Dive into Strong Federations &amp;amp; Foundations of Liquid&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/podcast/the-bitcoin-knowledge-podcast/id301670981?mt=2&amp;amp;i=1000429693505&quot;&gt;Legendary guest Dr. Adam Back updates his Bitcoin observations. The Bitcoin Knowledge Podcast&lt;/a&gt; «&amp;lt;good overview lightning and liquid&lt;/p&gt;
 &lt;blockquote&gt;
-  &lt;p&gt;“shows big orders short/long of BTC it’s quite entertaining to watch, better than 1m chart”&lt;/p&gt;
+  &lt;p&gt;Legendary guest Dr. Adam Back, cofounder and CEO of Blockstream, gives his latest observations of the Bitcoin ecosystem.
+&lt;a href=&quot;https://www.theblockcrypto.com/2018/10/17/crypto-simplified-explaining-sidechains/&quot;&gt;Crypto Simplified: Explaining Sidechains - The Block&lt;/a&gt;
+The launch of Blockstream’s Liquid Network brings with it a resurgence of questions surrounding sidechains. As with everything we do here at The Block we are going to take a “Crypto Simplified” approach at explaining sidechains. What are sidechains? In simplest terms, s…
+&lt;a href=&quot;https://twitter.com/BlockstreamHelp/status/1159210378255110150?s=20&quot;&gt;Blockstream Help (@BlockstreamHelp)&lt;/a&gt;
+Liquid is temporarily unavailable due to a scheduled upgrade that requires additional functionary action. This upgrade will complete in the next 12 hours. All funds in Liquid are secure during this outage. We apologize for any inconvenience.
+&lt;a href=&quot;https://www.forbes.com/sites/francescoppola/2018/10/11/blockstreams-new-solution-to-bitcoins-liquidity-problem-looks-oddly-familiar/&quot;&gt;Blockstream’s New Solution To Bitcoin’s Liquidity Problem Looks Od…&lt;/a&gt;
+Blockstream’s Liquid sidechain purports to be an innovative solution to Bitcoin’s chronic illiquidity. But it inadvertently replicates something with which we are all too familiar.
+&lt;a href=&quot;https://bitcoinmagazine.com/articles/blockstreams-liquid-network-high-value-bitcoin-payments-live/&quot;&gt;Blockstream’s Liquid Network for “High Value” Bitcoin Paymen…&lt;/a&gt;
+Blockstream’s COO Samson Mow explains how “Liquid is designed to facilitate fast and reliable high value transfers” of bitcoin (and other cryptocurrencies – eventually.)
+&lt;a href=&quot;https://twitter.com/Truthcoin/status/1044744031824015360&quot;&gt;Paul Sztorc (@Truthcoin)&lt;/a&gt;
+Yes, it is true! You can now run our testnet, and send BTC to and from the first P2P sidechain: “Sidechain One”. We will have LargeBlock and HugeBlock sidechains up soon, and of course the super-alpha of my futarchy project @BitcoinHivemind !! &lt;a href=&quot;https://www.coindesk.com/bitcoin-just-took-a-step-toward-becoming-a-multi-network-cryptocurrency&quot;&gt;Bitcoin Takes a Step Toward Becoming a ‘Multi-Network’ Cryptocurrency&lt;/a&gt;
+&lt;a href=&quot;https://twitter.com/messarinews/status/1173652436592005120?s=12&quot;&gt;Messari News (@MessariNews)&lt;/a&gt;
+Bull Bitcoin joins Blockstream’s Liquid exchange network &lt;a href=&quot;https://t.co/lGyIh46gs7&quot;&gt;https://t.co/lGyIh46gs7&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id=&quot;-trading&quot;&gt;📊 trading&lt;/h3&gt;
+&lt;h2 id=&quot;drivechain&quot;&gt;Drivechain&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.drivechain.info/&quot;&gt;drivechain.info&lt;/a&gt;
+&lt;a href=&quot;http://www.drivechain.info/blog/first-release/&quot;&gt;Drivechain Release Announcement&lt;/a&gt;
+&lt;a href=&quot;https://news.bitcoin.com/drivechain-project-sees-an-influx-of-development-since-launch&quot;&gt;Drivechain Project Sees an Influx of Development Since Launch - Bi…&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Software developer Paul Sztorc revealed on Sept. 24 the launch of his first iteration of Drivechain, a sidechain concept that enables a cross-chain Since Drivechain has launched, the project has added a slew of sidechain tools and another chain that resembles the Bitcoin Cash…&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;rootstock&quot;&gt;Rootstock&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/ccxt/ccxt&quot;&gt;ccxt/ccxt&lt;/a&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.rootstock.io/&quot;&gt;rootstock.io&lt;/a&gt;
     &lt;blockquote&gt;
-      &lt;p&gt;A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges - ccxt/ccxt&lt;/p&gt;
+      &lt;p&gt;RSK, bitcoin´s smart contract platform.&lt;/p&gt;
     &lt;/blockquote&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/askmike/gekko&quot;&gt;askmike/gekko&lt;/a&gt;
-&lt;a href=&quot;https://gekko.wizb.it/&quot;&gt;gekko.wizb.it/&lt;/a&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/rsksmart/tutorials/wiki&quot;&gt;rsksmart/tutorials/wiki&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bitcoin.stackexchange.com/questions/54036/can-someone-show-me-an-example-rootstock-smart-contract-that-is-the-equivalent-o&quot;&gt;Can someone show me an example rootstock smart contract that is th…&lt;/a&gt;
     &lt;blockquote&gt;
-      &lt;p&gt;A bitcoin trading bot written in node&lt;/p&gt;
+      &lt;p&gt;Coming from Ethereum, is there an example rootstock smart contract code that is the equivalent of an Ethereum smart contract code?&lt;/p&gt;
     &lt;/blockquote&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/bbfamily/abu&quot;&gt;bbfamily/abu&lt;/a&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/rsksmart/tutorials/wiki&quot;&gt;rsksmart/tutorials&lt;/a&gt;
     &lt;blockquote&gt;
-      &lt;p&gt;阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构 - bbfamily/abu&lt;/p&gt;
+      &lt;p&gt;Tutorials about how to get started coding for RSK. 
+&lt;a href=&quot;https://twitter.com/sdlerner/status/1075506026114371584?s=12&quot;&gt;Sergio Demian Lerner (@SDLerner)&lt;/a&gt;
+After reading @AaronvanW ‘s excellent review of Bitcoin and @RSKSmart growth in 2018, I decided do provide actual statistics of RSK growth in 2018 .. so here is the tweet thread !&lt;/p&gt;
     &lt;/blockquote&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/butor/blackbird&quot;&gt;butor/blackbird&lt;/a&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/JWWeatherman_/status/1069232488604729344&quot;&gt;JW Weatherman - mathbot.com (@JWWeatherman_)&lt;/a&gt;
     &lt;blockquote&gt;
-      &lt;p&gt;Blackbird Bitcoin Arbitrage: a long/short market-neutral strategy&lt;/p&gt;
+      &lt;p&gt;#rsk #rootstock https://t.co/dmwA7j7U3K Is still planning to introduce a security flaw they call “drive chains” If they get enough fools to put bitcoin on this flawed side chain it will resulting a massive theft of #bitcoin Defend bitcoin by alerting people of the …&lt;/p&gt;
     &lt;/blockquote&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/michaelgrosner/tribeca&quot;&gt;michaelgrosner/tribeca&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;A high frequency, market making cryptocurrency trading platform in node.js - michaelgrosner/tribeca&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/freqtrade/freqtrade&quot;&gt;freqtrade/freqtrade&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Free, open source crypto trading bot.&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/jakubroztocil/cointrol&quot;&gt;jakubroztocil/cointrol&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;฿ Bitcoin trading bot with a real-time dashboard for Bitstamp.&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/shobrook/BitVision&quot;&gt;shobrook/BitVision&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Terminal dashboard for Bitcoin trading, forecasting, and charting - shobrook/BitVision&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/BitcoinExchangeFH/BitcoinExchangeFH&quot;&gt;BitcoinExchangeFH/BitcoinExchangeFH&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Cryptocurrency exchange market data feed handler.&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/manu354/cryptocurrency-arbitrage&quot;&gt;manu354/cryptocurrency-arbitrage&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;A cryptocurrency arbitrage opportunity calculator. Over 800 currencies and 50 markets. - manu354/cryptocurrency-arbitrage&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/bitrinjani/r2&quot;&gt;bitrinjani/r2&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;R2 Bitcoin Arbitrager is an automatic arbitrage trading system powered by Node.js + TypeScript. - bitrinjani/r2&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/0x13a/bitcoin-trading-dca&quot;&gt;0x13a/bitcoin-trading-dca&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Bitcoin investing using Dollar Cost Averaging.&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/lionsharecapital/lionshare-desktop&quot;&gt;lionsharecapital/lionshare-desktop&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Simple cryptocurrency price and portfolio monitor for macOS - lionsharecapital/lionshare-desktop&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/samre12/deep-trading-agent&quot;&gt;samre12/deep-trading-agent&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Deep Reinforcement Learning based Trading Agent for Bitcoin - samre12/deep-trading-agent&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/philipperemy/deep-learning-bitcoin&quot;&gt;philipperemy/deep-learning-bitcoin&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Exploiting Bitcoin prices patterns with Deep Learning. - philipperemy/deep-learning-bitcoin&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/panditanvita/BTCpredictor&quot;&gt;panditanvita/BTCpredictor&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Bitcoin price prediction algorithm using bayesian regression techniques - panditanvita/BTCpredictor&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/PiSimo/BitcoinForecast&quot;&gt;PiSimo/BitcoinForecast&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Predict bitcoin price with deep learning.&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/philsong/bitcoin-broker&quot;&gt;philsong/bitcoin-broker&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;BTC trading market broker, smart route the orders to multiple exchange. - philsong/bitcoin-broker&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/stavros0/bitcoin-price-prediction&quot;&gt;stavros0/bitcoin-price-prediction&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Bayesian regression for latent source model and Bitcoin - stavros0/bitcoin-price-prediction&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/maxim5/time-series-machine-learning&quot;&gt;maxim5/time-series-machine-learning&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Machine learning models for time series analysis.&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/harishpuvvada/BitCoin-Value-Predictor&quot;&gt;harishpuvvada/BitCoin-Value-Predictor&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Predicting Bit coin price using Time series analysis and sentiment analysis of tweets on bitcoin - harishpuvvada/BitCoin-Value-Predictor&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/Ekliptor/WolfBot&quot;&gt;Ekliptor/WolfBot&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Crypto currency trading bot written in TypeScript for NodeJS - Ekliptor/WolfBot&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/chrisiaut/phptrader&quot;&gt;chrisiaut/phptrader&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;A simple php powered Bitcoin and Ethereum trading bot - chrisiaut/phptrader&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/madnight/bitcoin-chart-cli&quot;&gt;madnight/bitcoin-chart-cli&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Bitcoin chart for the terminal as command line util - madnight/bitcoin-chart-cli&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/freqtrade/freqtrade-strategies&quot;&gt;freqtrade/freqtrade-strategies&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Free trading strategies for Freqtrade bot.&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/ctubio/tribeca&quot;&gt;ctubio/tribeca&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Self-hosted crypto trading bot (automated high frequency market making) in node.js, angular, typescript and c++ - ctubio/tribeca&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/AlexITC/crypto-coin-alerts&quot;&gt;AlexITC/crypto-coin-alerts&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;An application that let you set alerts for the prices of several cryptocurrencies - AlexITC/crypto-coin-alerts&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/samre12/gym-cryptotrading&quot;&gt;samre12/gym-cryptotrading&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;OpenAI Gym Environment API based Bitcoin trading environment - samre12/gym-cryptotrading&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/jr-minnaar/bitrader&quot;&gt;jr-minnaar/bitrader&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Bitcoin Arbitrage utilities.&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/libcryptomarket/libcryptomarket&quot;&gt;libcryptomarket/libcryptomarket&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;Powerful cryptocurrency market analysis toolkit.&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/XiaoboHe/XTrader&quot;&gt;XiaoboHe/XTrader&lt;/a&gt;
-    &lt;blockquote&gt;
-      &lt;p&gt;XTrader is a robot for cryptocurrency trading on exchange platform.&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.bitcoinmarketjournal.com/bitcoin-investment-apps/&quot;&gt;bitcoinmarketjournal.com/bitcoin-investment-apps/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;-google-sheets&quot;&gt;📊 Google Sheets&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/cryptofinance-ai/cryptofinance-google-sheets-add-on&quot;&gt;cryptofinance-ai/cryptofinance-google-sheets-add-on&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/practical/trading/</guid>
+				<guid isPermaLink="true">http://localhost:4000/layer-2/</guid>
 			</item>
 		
 	</channel>
