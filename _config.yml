@@ -10,7 +10,7 @@
 # Title of your website
 title: Bitcoinfo
 slogan: Curated Bitcoin Info
-description: "Bitcoin is a difficult subject, requiring much background knowledge, to begin understanding. Bitcoinfo breaks down it's varieties into a navigable structure."
+description: "Bitcoin is a little complicated. Bitcoinfo is meant to break down its varieties into a navigable structure."
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created with &hearts; by <a href="https://infominer.xyz">infominer</a>, with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
