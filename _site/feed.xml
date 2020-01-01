@@ -4,7 +4,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Bitcoinfo</title>
-		<description>Bitcoin is a difficult subject, requiring much background knowledge, to begin understanding. Bitcoinfo breaks down it's varieties into a navigable structure.</description>
+		<description>Bitcoin is a little complicated. Bitcoinfo is meant to break down the varieties into a navigable structure.</description>
 		<link>http://localhost:4000/</link>
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		

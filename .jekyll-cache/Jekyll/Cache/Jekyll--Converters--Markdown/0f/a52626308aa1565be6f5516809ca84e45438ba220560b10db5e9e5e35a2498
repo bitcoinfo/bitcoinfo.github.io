@@ -1,21 +1,13 @@
-I"}<h2 id="no-problem">No problem!</h2>
-
-<p>Try…<br />
-…to start over on the <a href="/">home page</a>;<br />
-…to <strong>search</strong> below;<br />
-if you can’t find it, <a href="/contact/">ask about it</a>.</p>
-
-<h3 id="search">Search</h3>
-
+I"o
 <div class="search-searchbar"></div>
 <div class="search-hits"></div>
 
 <!-- Including InstantSearch.js library and styling -->
-<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.4/dist/instantsearch.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/instantsearch.js/dist/instantsearch.min.js"></script>
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.4/dist/instantsearch.min.css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.js/dist/instantsearch.min.css" />
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.4/dist/instantsearch-theme-algolia.min.css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.js/dist/instantsearch-theme-algolia.min.css" />
 
 <script>
 
