@@ -1,13 +1,6 @@
-I"ã
+I"ñ
 <div class="search-searchbar"></div>
 <div class="search-hits"></div>
-
-<!-- Including InstantSearch.js library and styling -->
-<link rel="stylesheet" type="text/css" integrity="a4d4a8cde666559f12c1836e18ba5772" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.4/dist/instantsearch.min.css" />
-
-<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.4"></script>
-
-<link rel="stylesheet" type="text/css" integrity="a4d4a8cde666559f12c1836e18ba5772" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.4/dist/instantsearch-theme-algolia.min.css" />
 
 <script>
 // Instanciating InstantSearch.js with Algolia credentials

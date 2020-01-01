@@ -1,4 +1,4 @@
-I"Ü<h2 id="no-problem">No problem!</h2>
+I"ê<h2 id="no-problem">No problem!</h2>
 
 <p>Tryâ€¦<br />
 â€¦to start over on the <a href="/">home page</a>;<br />
@@ -9,13 +9,6 @@ if you canâ€™t find it, <a href="/contact/">ask about it</a>.</p>
 
 <div class="search-searchbar"></div>
 <div class="search-hits"></div>
-
-<!-- Including InstantSearch.js library and styling -->
-<link rel="stylesheet" type="text/css" integrity="a4d4a8cde666559f12c1836e18ba5772" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.4/dist/instantsearch.min.css" />
-
-<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.4"></script>
-
-<link rel="stylesheet" type="text/css" integrity="a4d4a8cde666559f12c1836e18ba5772" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.4/dist/instantsearch-theme-algolia.min.css" />
 
 <script>
 // Instanciating InstantSearch.js with Algolia credentials
