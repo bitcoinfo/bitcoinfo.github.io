@@ -17,7 +17,7 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
     eventmachine (1.2.7)
-    faraday (0.15.4)
+    faraday (1.0.0)
       multipart-post (>= 1.2, < 3)
     ffi (1.11.3)
     filesize (0.2.0)
