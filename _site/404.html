@@ -430,20 +430,66 @@ if you can’t find it, <a href="/contact/">ask about it</a>.</p>
 
 <h3 id="search">Search</h3>
 
-<script language="Javascript" type="text/javascript">
-	function google_search() {
-		var query = document.getElementById("google-search").value;
-		window.open("https://www.google.com/search?q=" + query + "+site:" + "http%3A%2F%2Flocalhost%3A4000%2F");
-	}
-</script>
+<div class="search-searchbar"></div>
+<div class="search-hits"></div>
 
-<form id="search" onsubmit="google_search(); return false;">
-	<input type="text" id="google-search" placeholder="Enter search term and hit enter" />
-</form>
-<noscript>
-	Search <a href="https://www.google.com/search?q=site:http%3A%2F%2Flocalhost%3A4000%2F" target="_blank">Google</a> for:
-	<pre><code>search-term site:http://localhost:4000/</code></pre>
-</noscript>
+<!-- Including InstantSearch.js library and styling -->
+<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.4/dist/instantsearch.min.js"></script>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.4/dist/instantsearch.min.css" />
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.4/dist/instantsearch-theme-algolia.min.css" />
+
+<script>
+
+// Instanciating InstantSearch.js with Algolia credentials
+const search = instantsearch({
+  appId: 'UUFM36IZM9',
+  apiKey: 'a4d4a8cde666559f12c1836e18ba5772',
+  indexName: 'bitcoinfo',
+  searchParameters: {
+    restrictSearchableAttributes: [
+      'title',
+      'content'
+    ]
+  }
+});
+
+const hitTemplate = function(hit) {
+  const url = hit.url;
+  const title = hit._highlightResult.title.value;
+  const content = hit._highlightResult.html.value;
+
+  return `
+    <div class="list__item">
+      <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+        <h2 class="archive__item-title" itemprop="headline"><a href="${url}">${title}</a></h2>
+        <div class="archive__item-excerpt" itemprop="description">${content}</div>
+      </article>
+    </div>
+  `;
+}
+
+// Adding searchbar and results widgets
+search.addWidget(
+  instantsearch.widgets.searchBox({
+    container: '.search-searchbar',
+    poweredBy: true,
+    placeholder: 'Enter your search term...'
+  })
+);
+search.addWidget(
+  instantsearch.widgets.hits({
+    container: '.search-hits',
+    templates: {
+      item: hitTemplate
+    }
+  })
+);
+
+// Starting the search
+search.start();
+</script>
 
 
 			</div>

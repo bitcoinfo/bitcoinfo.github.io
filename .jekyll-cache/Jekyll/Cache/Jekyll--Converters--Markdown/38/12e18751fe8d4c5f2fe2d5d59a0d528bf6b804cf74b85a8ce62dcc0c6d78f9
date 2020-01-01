@@ -1,20 +1,29 @@
+I"}<h2 id="no-problem">No problem!</h2>
+
+<p>Try…<br />
+…to start over on the <a href="/">home page</a>;<br />
+…to <strong>search</strong> below;<br />
+if you can’t find it, <a href="/contact/">ask about it</a>.</p>
+
+<h3 id="search">Search</h3>
 
 <div class="search-searchbar"></div>
 <div class="search-hits"></div>
 
-
 <!-- Including InstantSearch.js library and styling -->
 <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.4/dist/instantsearch.min.js"></script>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.4/dist/instantsearch.min.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.4/dist/instantsearch-theme-algolia.min.css">
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.4/dist/instantsearch.min.css" />
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.4/dist/instantsearch-theme-algolia.min.css" />
 
 <script>
 
 // Instanciating InstantSearch.js with Algolia credentials
 const search = instantsearch({
-  appId: '{{ site.algolia.application_id }}',
-  apiKey: '{{ site.algolia.search_only_api_key }}',
-  indexName: '{{ site.algolia.index_name }}',
+  appId: 'UUFM36IZM9',
+  apiKey: 'a4d4a8cde666559f12c1836e18ba5772',
+  indexName: 'bitcoinfo',
   searchParameters: {
     restrictSearchableAttributes: [
       'title',
@@ -31,7 +40,7 @@ const hitTemplate = function(hit) {
   return `
     <div class="list__item">
       <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-        <h2 class="archive__item-title" itemprop="headline"><a href="{{ site.baseurl }}${url}">${title}</a></h2>
+        <h2 class="archive__item-title" itemprop="headline"><a href="${url}">${title}</a></h2>
         <div class="archive__item-excerpt" itemprop="description">${content}</div>
       </article>
     </div>
@@ -42,8 +51,8 @@ const hitTemplate = function(hit) {
 search.addWidget(
   instantsearch.widgets.searchBox({
     container: '.search-searchbar',
-    {% unless site.algolia.powered_by == false %}poweredBy: true,{% endunless %}
-    placeholder: '{{ site.data.ui-text[site.locale].search_placeholder_text | default: "Enter your search term..." }}'
+    poweredBy: true,
+    placeholder: 'Enter your search term...'
   })
 );
 search.addWidget(
@@ -58,3 +67,5 @@ search.addWidget(
 // Starting the search
 search.start();
 </script>
+
+:ET

@@ -35,6 +35,12 @@ improve_content: https://github.com/bitcoinfo/bitcoinfo.github.io/blob/master
 #
 urlimg: 'https://bitcoinfo.xyz/images/'
 
+algolia:
+  application_id: UUFM36IZM9
+  index_name: bitcoinfo
+  search_only_api_key    : a4d4a8cde666559f12c1836e18ba5772
+  powered_by             : true # false
+  nodes_to_index         : 'p,blockquote,li,h3,h4'
 
 # Logo size is 600x80 pixels
 logo: "bitcoinfo.png"
