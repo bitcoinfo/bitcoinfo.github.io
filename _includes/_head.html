@@ -68,7 +68,8 @@
 
 
 	<!-- Twitter -->
-	<meta name="twitter:card" content="summary_large_image">
+	{% if page.twitter.summary %}<meta name="twitter:card" content="summary">{% else %}
+	<meta name="twitter:card" content="summary_large_image">{% endif %}
 	<meta name="twitter:site" content="@infominer33">
 	<meta name="twitter:creator" content="@infominer33">
 	<meta name="twitter:title" content="{{ title }}">
