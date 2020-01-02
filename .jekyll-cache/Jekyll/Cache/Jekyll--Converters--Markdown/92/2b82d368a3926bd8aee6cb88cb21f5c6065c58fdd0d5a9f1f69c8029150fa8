@@ -1,4 +1,4 @@
-I"Õ	<h2 id="no-problem">No problem!</h2>
+I"Í	<h2 id="no-problem">No problem!</h2>
 
 <p>Tryâ€¦<br />
 â€¦to start over on the <a href="/">home page</a>;<br />
@@ -23,16 +23,13 @@ const search = instantsearch({
   apiKey: 'a4d4a8cde666559f12c1836e18ba5772',
   indexName: 'bitcoinfo'
 });
-
 const hitTemplate = function(hit) {
   let date = '';
   if (hit.date) {
     date = moment.unix(hit.date).format('MMM D, YYYY');
   }
   let url = `${hit.url}#${hit.anchor}`;
-
   const title = hit._highlightResult.title.value;
-
   let breadcrumbs = '';
   if (hit._highlightResult.headings) {
     breadcrumbs = hit._highlightResult.headings.map(match => {
@@ -40,7 +37,6 @@ const hitTemplate = function(hit) {
     }).join(' > ')
   }
   const content = hit._highlightResult.html.value;
-
   return `
     <div class="post-item">
       <span class="post-meta">${date}</span>
@@ -50,8 +46,6 @@ const hitTemplate = function(hit) {
     </div>
   `;
 }
-
-
 search.addWidget(
   instantsearch.widgets.searchBox({
     container: '#search-searchbar',
@@ -59,7 +53,6 @@ search.addWidget(
     poweredBy: true
   })
 );
-
 search.addWidget(
   instantsearch.widgets.hits({
     container: '#search-hits',
@@ -68,7 +61,6 @@ search.addWidget(
     }
   })
 );
-
 search.start();
 </script>
 

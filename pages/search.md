@@ -21,5 +21,4 @@ sitemap: false
     {% endfor %}
   </div>
 
-
 {% include _google_search.html %}

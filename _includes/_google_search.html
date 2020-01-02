@@ -10,16 +10,13 @@ const search = instantsearch({
   apiKey: '{{ site.algolia.search_only_api_key }}',
   indexName: '{{ site.algolia.index_name }}'
 });
-
 const hitTemplate = function(hit) {
   let date = '';
   if (hit.date) {
     date = moment.unix(hit.date).format('MMM D, YYYY');
   }
   let url = `{{ site.baseurl }}${hit.url}#${hit.anchor}`;
-
   const title = hit._highlightResult.title.value;
-
   let breadcrumbs = '';
   if (hit._highlightResult.headings) {
     breadcrumbs = hit._highlightResult.headings.map(match => {
@@ -27,7 +24,6 @@ const hitTemplate = function(hit) {
     }).join(' > ')
   }
   const content = hit._highlightResult.html.value;
-
   return `
     <div class="post-item">
       <span class="post-meta">${date}</span>
@@ -37,8 +33,6 @@ const hitTemplate = function(hit) {
     </div>
   `;
 }
-
-
 search.addWidget(
   instantsearch.widgets.searchBox({
     container: '#search-searchbar',
@@ -46,7 +40,6 @@ search.addWidget(
     poweredBy: true
   })
 );
-
 search.addWidget(
   instantsearch.widgets.hits({
     container: '#search-hits',
@@ -55,7 +48,6 @@ search.addWidget(
     }
   })
 );
-
 search.start();
 </script>
 
@@ -93,4 +85,3 @@ search.start();
   display: none;
 }
 </style>
-
