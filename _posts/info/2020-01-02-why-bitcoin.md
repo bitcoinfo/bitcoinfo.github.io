@@ -7,7 +7,11 @@ categories: ["Info"]
 {% include _improve_content.html %}
 
 
-##### This page will grow to include the many reasons for owning Bitcoin.
+## ...to include the many reasons 
+
+For me, the most important reason, is its deflationary nature, the fixed nature of its money supply, and that it's decentralized to the extent that changing it is difficult.
+
+Some other cryptocurrency efforts are interesting to me for other reasons. However, in my opinion, none of them solve this fundamental problem of global currencies in the way that Bitcoin does. 
 
 [Pierre Rochard (@pierre_rochard)](https://twitter.com/pierre_rochard/status/988403000682139649)  
   > Why I’m focused on Bitcoin: • Schelling point consensus • p2p network governance with full nodes • proof-of-work secure timestamping • Lindy effect / first mover advantage • fixed issuance schedule • prudent engineering culture • promising research: lightni...
@@ -17,10 +21,6 @@ categories: ["Info"]
 
 [Why Own Bitcoin](https://blog.xapo.com/why-own-bitcoin)
   > 1- Take 1% of what you have, and buy Bitcoin (all at once and at the market price) 2- Carry it at cost 3- Do not touch it for 10 years
-
-For me, the most important reason, is its deflationary nature, the fixed nature of its money supply, and that it's decentralized nature makes it difficult to changing or tampering with it.
-
-Some other cryptocurrency efforts are interesting to me for other reasons. However, none of them solve this fundamental problem of global currencies. 
 
 ## Central Banks Deflate Global Currencies at an Alarming Rate
 

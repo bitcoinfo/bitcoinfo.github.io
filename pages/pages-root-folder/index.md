@@ -14,8 +14,8 @@ widget1:
   image: bitcoin-image.jpg
 widget2:
   title: "Running Bitcoin"
-  url: '/practical/'
-  text: "Tools, guides and other resources for practical application of the Bitcoin blockchain."
+  url: '/layer-1/full-node/'
+  text: "Tools, guides and other resources for running a Bitcoin Full-Node."
   image: bitcoin-accepted-here_small_thelastminute_flickr.jpg
 widget3:
   title: "Technical Info"
