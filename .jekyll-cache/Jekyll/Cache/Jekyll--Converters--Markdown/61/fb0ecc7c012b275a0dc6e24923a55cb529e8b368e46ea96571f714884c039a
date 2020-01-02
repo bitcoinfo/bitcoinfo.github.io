@@ -1,4 +1,4 @@
-I"{É<ul>
+I"çÉ<ul>
   <li><a href="https://github.com/ChristopherA/Learning-Bitcoin-from-the-Command-Line">github.com/ChristopherA/Learning-Bitcoin-from-the-Command-Line</a></li>
   <li><a href="https://bitcoin.org/en/developer-guide">bitcoin.org/en/developer-guide</a></li>
   <li><a href="https://bitcoin.org/en/developer-reference">bitcoin.org/en/developer-reference</a></li>
@@ -564,11 +564,7 @@ Java Microlibrary implementation of BIP0039.</li>
       <p>Python Bitcoin tools.</p>
     </blockquote>
   </li>
-  <li><a href="https://github.com/julienr/ipynb_playground">julienr/ipynb_playground</a>
-    <blockquote>
-      <p>Various ipython notebooks.</p>
-    </blockquote>
-  </li>
+  <li><a href="https://github.com/julienr/ipynb_playground/blob/master/bitcoin/dumbcoin/dumbcoin.ipynb">Dumbcoin</a> - An educational python implementation of a bitcoin-like blockchain</li>
   <li><a href="https://github.com/ofek/bit">ofek/bit</a>
     <blockquote>
       <p>Bitcoin made easy.</p>

@@ -6,6 +6,9 @@ categories: ["Practical"]
 
 ---
 
+[Chelsea Palmer (@IMmsGNU)](https://twitter.com/IMmsGNU/status/1048803584605794304)
+  > [...] make sure to visually check that the addresses match after opening. In $btc the standard is compare first & last 4 characters in the address string but can't be too careful.
+
 ### 💱 Earn
 
 * [bitcoin-only.com/#get-bitcoin](https://bitcoin-only.com/#get-bitcoin) 
@@ -23,8 +26,6 @@ categories: ["Practical"]
 * [bitcoinget.com](https://www.bitcoinget.com)
 * [bitfortip.com](https://www.bitfortip.com)
 * [earn-bitcoins.com](http://earn-bitcoins.com)
-
-
 
 ### 💱 Buy
 

@@ -303,8 +303,7 @@ Java Microlibrary implementation of BIP0039.
   > Python-based Bitcoin and alt-coin utility library. - richardkiss/pycoin
 * [sr-gi/bitcoin_tools](https://github.com/sr-gi/bitcoin_tools)
   > Python Bitcoin tools. 
-* [julienr/ipynb_playground](https://github.com/julienr/ipynb_playground)
-  > Various ipython notebooks. 
+* [Dumbcoin](https://github.com/julienr/ipynb_playground/blob/master/bitcoin/dumbcoin/dumbcoin.ipynb) - An educational python implementation of a bitcoin-like blockchain
 * [ofek/bit](https://github.com/ofek/bit)
   > Bitcoin made easy. 
 * [chainside/btcpy](https://github.com/chainside/btcpy)

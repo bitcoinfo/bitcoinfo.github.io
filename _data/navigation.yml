@@ -8,6 +8,8 @@
   dropdown:
   - title: "Resources"
     url: "/info/resources/"
+  - title: "Why Bitcoin?"
+    url: "/info/why-bitcoin/"
   - title: "101 - Getting Started"
     url: "/info/101/"
   - title: "Bitcoin White Paper"

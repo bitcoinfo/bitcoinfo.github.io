@@ -102,33 +102,24 @@ I'm skeptical about most of them, each book has it's pros and cons, while everyo
 
 [![B is for Bitcoin - Book](http://static1.squarespace.com/static/5b69e41ff407b4e1862d3cdc/t/5b87e54dc2241beb3123306b/1535632727785/final-01.png?format=1000w)](https://www.bisforbitcoinbook.com/)
 
-[Eric Meltzer (@wheatpond)](https://twitter.com/wheatpond/status/1031921153110159360)
+* [Eric Meltzer (@wheatpond)](https://twitter.com/wheatpond/status/1031921153110159360)
   > Must read scifi for crypto people, will add to this (and please reply with your own recs!) William Gibson: Sprawl trilogy and Bridge Trilogy Neal Stephenson: Diamond Age, Snow Crash, Cryptonomicon Bruce Sterling: Mirrorshades shorts collection
-
-[Pierre Rochard (@pierre_rochard)](https://twitter.com/pierre_rochard/status/1030505188711444480?s=19)
+* [Pierre Rochard (@pierre_rochard)](https://twitter.com/pierre_rochard/status/1030505188711444480?s=19)
   > @rweisbein @saifedean My biased opinion re: books 1. The Bitcoin Standard 2. Mastering Bitcoin 3. Sovereign Individual
-
-[Yorick de Mombynes (@ydemombynes)](https://twitter.com/ydemombynes/status/985560599248756736)
+* [Yorick de Mombynes (@ydemombynes)](https://twitter.com/ydemombynes/status/985560599248756736)
   > Here are my favorite quotes from [the Bitcoin Standard] this amazing book. #THREAD
-
-[Misir Mahmudov (@misir_mahmudov)](https://twitter.com/misir_mahmudov/status/1037067407288926208)
+* [Misir Mahmudov (@misir_mahmudov)](https://twitter.com/misir_mahmudov/status/1037067407288926208)
   > Mandatory Bitcoin reading: - "The Bitcoin Standard" by @saifedean - "The Sovereign Individual" by James Dale Davidson - "Mastering Bitcoin" by @aantonop - "What Has Government Done to Our Money?" by Murray Rothbard - "The Ethics of Money Production" by Jörg Guido Hülsma...
-
-[Ari Paul (@AriDavidPaul)](https://twitter.com/AriDavidPaul/status/1041238664934813696)
+* [Ari Paul (@AriDavidPaul)](https://twitter.com/AriDavidPaul/status/1041238664934813696)
   > I have to tip my hat to the cyberpunk sci-fi writers like Neil Stephenson. They nailed the world we're rapidly heading towards before the internet was really a thing. [https://t.co/k8JWtmE2XZ](https://t.co/k8JWtmE2XZ)
-
-[The Death of the Gods](https://books.google.com/books/about/The_Death_of_the_Gods.html?id=3RxADwAAQBAJ)
-
-[cappa (@bitconsultLLC)](https://twitter.com/bitconsultLLC/status/1047574091992129537)
+* [The Death of the Gods](https://books.google.com/books/about/The_Death_of_the_Gods.html?id=3RxADwAAQBAJ)
+* [cappa (@bitconsultLLC)](https://twitter.com/bitconsultLLC/status/1047574091992129537)
   > in those 10 months, ive read 25 "bitcoin related" books. I use that term loosely (or maybe not). These books cover economics, technology, liberty, anthropology, information theory, bitcoin, sci-fi, comp sci, psychedelics, entrepreneurship, consciousness, systems engineering
-
-[Vinay Gupta (@leashless)](https://twitter.com/leashless/status/1066892843548069889)
+* [Vinay Gupta (@leashless)](https://twitter.com/leashless/status/1066892843548069889)
   > Read this. It was written in 1975. [https://t.co/MFa48Y0jtk](https://t.co/MFa48Y0jtk) It's basically the secret key to most of the really heavy thinking in tech futurism; in particular, it's almost certainly where Julian Assange got the idea from Wikileaks from. Full of vision of the most penetratin...
-
-[Ten Great Books on Bitcoin | NewsBTC](https://www.newsbtc.com/bitcoin-book/)
+* [Ten Great Books on Bitcoin | NewsBTC](https://www.newsbtc.com/bitcoin-book/)
   > In the list bellow you will find ten of the most interesting bitcoin book ever written.
-
-[https://antonopoulos.com/books/](https://antonopoulos.com/books/)
+* [https://antonopoulos.com/books/](https://antonopoulos.com/books/)
 
 
 ### *from: [Xel/Blockchain-stuff](https://github.com/Xel/Blockchain-stuff)*
@@ -145,16 +136,3 @@ These aren't exactly recommendations, as much as left here for me to sort throug
 * [Understanding Bitcoin: Cryptography, Engineering and Economics](https://www.amazon.com/Understanding-Bitcoin-Cryptography-Engineering-Economics/dp/1119019168/) - Pedro Franco
 * [Virtual Billions: The Genius, the Drug Lord, and the Ivy League Twins behind the Rise of Bitcoin](https://www.amazon.com/Virtual-Billions-Genius-League-Bitcoin/dp/163388144X/) - Eric Geissinger
 * [Wildcat Currency](https://www.amazon.com/Wildcat-Currency-Virtual-Revolution-Transforming/dp/0300186134/) - Edward Castronova
-
-## DAO
-
-* [Most Cited Decentralized Autonomous Organization Publications](https://blockchainlibrary.org/2017/10/most-cited-decentralized-autonomous-organization-publications)
-Last updated October 26, 2017. “Blockchain: Blueprint for a new economy”. M Swan. 2015. books.google.com . 274 cites. “Blockchain Revolution: How the technology behind Bitc…
-* [Drew Hinkes (@propelforward)](https://twitter.com/propelforward/status/1066789728043839488)
-  > some links: https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/
-  > https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3082055
-  > https://bitcoinmagazine.com/articles/bootstrapping-a-decentralized-autonomous-corporation-part-i-1379644274/
-  > maybe chapter by Deegan in: https://amazon.com/Bitcoin-Burning-Man-Beyond-Identity/dp/1937146588
-  > [Bootstrapping A Decentralized Autonomous Corporation: Part I](https://bitcoinmagazine.com/articles/bootstrapping-a-decentralized-autonomous-corporation-part-i-1379644274)
-
-

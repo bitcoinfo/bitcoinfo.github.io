@@ -43,3 +43,12 @@ permalink: /
 #
 homepage: true
 ---
+
+
+Welcome!  I mean for this to become a comprehensive review of the various information systems related to Bitcoin.
+
+For the moment, it's a pretty rough and tumble pull of all the links I've collected about Bitcoin over the past couple years, which were previously mixed together with the crypto information I've been gathering at the same time.
+
+It's all links I gathered passively, primarily while browsing my twitter feed, which I've categorized as best as I am able. Now my task is to treat Bitcoin in a more systematic fashion. 
+
+I've done such systematic study of its history, and have made pages for that over on [SourceCrypto](https://sourcecrypto.pub/posts/history/). Now that I have a site dedicated to Bitcoin, over all the rest, all of that Bitcoin History can live here. Once I get the foundation better prepared.
