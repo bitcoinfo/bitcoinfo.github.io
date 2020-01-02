@@ -5,6 +5,9 @@ permalink: /social/bitcointalk/
 categories: ["Social"]
 ---
 
+{% include _improve_content.html %}
+
+
 [[GUIDES] on Bitcointalk. Index thread (until there is a dedicated subforum?)](https://bitcointalk.org/index.php?topic=4928968.0)
 
 [Comprehensive guide to Bitcointalk. Newbie friendly + calculator and infographic](https://bitcointalk.org/index.php?topic=2534500.msg25841174)

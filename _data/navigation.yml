@@ -60,6 +60,8 @@
     url: /practical/development/
   - title: "Trading"
     url: /practical/trading/
+  - title: "Data"
+    url: /practical/data-analytics/
 
 - title: "The Social Layer"
   url: /social/

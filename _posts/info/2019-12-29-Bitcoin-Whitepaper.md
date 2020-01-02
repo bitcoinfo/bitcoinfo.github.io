@@ -8,7 +8,7 @@ tags: ["Literature"]
 ---
 
 <div class="row">
-<div class="medium-4 medium-push-8 columns" markdown="1">
+<div class="medium-3 medium-push-9 columns" markdown="1">
 <div class="panel radius" markdown="1">
 **Contents**
 {: #toc }
@@ -17,54 +17,60 @@ tags: ["Literature"]
 </div>
 </div><!-- /.medium-4.columns -->
 
-
-
-<div class="medium-8 medium-pull-4 columns" markdown="1">
+<div class="medium-9 medium-pull-3 columns" markdown="1">
 {% include _improve_content.html %}
 
+## Whitepaper 
+
 [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
-
-[wbnns/bitcoinwhitepaper](https://github.com/wbnns/bitcoinwhitepaper)
-  > This repository contains the Bitcoin white paper. Pull requests with translated versions of this white paper are welcome. - wbnns/bitcoinwhitepaper
-
 [Bitcoin.org- White Paper](https://bitcoin.org/en/bitcoin-paper)
-  * [Bahasa Indonesia](https://bitcoin.org/files/bitcoin-paper/bitcoin_id.pdf)
-  * [Deutsch](https://bitcoin.org/files/bitcoin-paper/bitcoin_de.pdf)
-  * [Español (España)](https://bitcoin.org/files/bitcoin-paper/bitcoin_es.pdf)
-  * [Español (Latinoamericano)](https://bitcoin.org/files/bitcoin-paper/bitcoin_es_latam.pdf)
-  * [Français](https://bitcoin.org/files/bitcoin-paper/bitcoin_fr.pdf) 
-  * [Italiano](https://bitcoin.org/files/bitcoin-paper/bitcoin_it.pdf) 
-  * [Lietuvių Kalba](https://bitcoin.org/files/bitcoin-paper/bitcoin_lt.pdf) 
-  * [Magyar Nyelv](https://bitcoin.org/files/bitcoin-paper/bitcoin_hu.pdf) 
-  * [Nederlands](https://bitcoin.org/files/bitcoin-paper/bitcoin_nl.pdf) 
-  * [Português](https://bitcoin.org/files/bitcoin-paper/bitcoin_pt.pdf)
-  * [Português Brasileiro](https://bitcoin.org/files/bitcoin-paper/bitcoin_pt_br.pdf)
-  * [Slovenščina](https://bitcoin.org/files/bitcoin-paper/bitcoin_sk.pdf)
-  * [Svenska](https://bitcoin.org/files/bitcoin-paper/bitcoin_se.pdf) 
-  * [ελληνικά](https://bitcoin.org/files/bitcoin-paper/bitcoin_gr.pdf)
-  * [Русский](https://bitcoin.org/files/bitcoin-paper/bitcoin_ru.pdf)
-  * [Tiếng Việt](https://bitcoin.org/files/bitcoin-paper/bitcoin_vi.pdf)
-  * [Yкраїнська](https://bitcoin.org/files/bitcoin-paper/bitcoin_uk.pdf)
-  * [العربية](https://bitcoin.org/files/bitcoin-paper/bitcoin_ar.pdf)
-  * [한국어](https://bitcoin.org/files/bitcoin-paper/bitcoin_kr.pdf)
-  * [日本語](https://bitcoin.org/files/bitcoin-paper/bitcoin_jp.pdf)
-  * [ภาษาไทย](https://bitcoin.org/files/bitcoin-paper/bitcoin_th.pdf)
-  * [简化字](https://bitcoin.org/files/bitcoin-paper/bitcoin_zh_cn.pdf)
+
+## Translations
+
+* [Bahasa Indonesia](https://bitcoin.org/files/bitcoin-paper/bitcoin_id.pdf)
+* [Deutsch](https://bitcoin.org/files/bitcoin-paper/bitcoin_de.pdf)
+* [Español (España)](https://bitcoin.org/files/bitcoin-paper/bitcoin_es.pdf)
+* [Español (Latinoamericano)](https://bitcoin.org/files/bitcoin-paper/bitcoin_es_latam.pdf)
+* [Français](https://bitcoin.org/files/bitcoin-paper/bitcoin_fr.pdf) 
+* [Italiano](https://bitcoin.org/files/bitcoin-paper/bitcoin_it.pdf) 
+* [Lietuvių Kalba](https://bitcoin.org/files/bitcoin-paper/bitcoin_lt.pdf) 
+* [Magyar Nyelv](https://bitcoin.org/files/bitcoin-paper/bitcoin_hu.pdf) 
+* [Nederlands](https://bitcoin.org/files/bitcoin-paper/bitcoin_nl.pdf) 
+* [Português](https://bitcoin.org/files/bitcoin-paper/bitcoin_pt.pdf)
+* [Português Brasileiro](https://bitcoin.org/files/bitcoin-paper/bitcoin_pt_br.pdf)
+* [Slovenščina](https://bitcoin.org/files/bitcoin-paper/bitcoin_sk.pdf)
+* [Svenska](https://bitcoin.org/files/bitcoin-paper/bitcoin_se.pdf) 
+* [ελληνικά](https://bitcoin.org/files/bitcoin-paper/bitcoin_gr.pdf)
+* [Русский](https://bitcoin.org/files/bitcoin-paper/bitcoin_ru.pdf)
+* [Tiếng Việt](https://bitcoin.org/files/bitcoin-paper/bitcoin_vi.pdf)
+* [Yкраїнська](https://bitcoin.org/files/bitcoin-paper/bitcoin_uk.pdf)
+* [العربية](https://bitcoin.org/files/bitcoin-paper/bitcoin_ar.pdf)
+* [한국어](https://bitcoin.org/files/bitcoin-paper/bitcoin_kr.pdf)
+* [日本語](https://bitcoin.org/files/bitcoin-paper/bitcoin_jp.pdf)
+* [ภาษาไทย](https://bitcoin.org/files/bitcoin-paper/bitcoin_th.pdf)
+* [简化字](https://bitcoin.org/files/bitcoin-paper/bitcoin_zh_cn.pdf)
+
+### Annotated
+
+* [Fermat's Library - Bitcoin: A Peer-to-Peer Electronic Cash System](https://fermatslibrary.com/s/bitcoin) - Annotated - Fermat's Library is a platform for illuminating academic papers.
+* [Satoshi Nakamoto (Ft. Coinbase) – Bitcoin: A Peer-to-Peer Elec...](https://genius.com/Satoshi-nakamoto-bitcoin-a-peer-to-peer-electronic-cash-system-annotated)
+  >On October 31st, the programmer/programmers known as Satoshi Nakamoto published this paper through a metzdowd.com cryptography mailing list that describes the Bitcoin currency and
+
+
+## Info
 
 * [bitcoin-paper-errata-and-details.md](https://gist.github.com/harding/dabea3d83c695e6b937bf090eddf2bb3)
   >A description of known problems in Satoshi Nakamoto's paper, "Bitcoin: A Peer-to-Peer Electronic Cash System", as well as notes on terminology changes and how Bitcoin's implementation differs from that described in the paper.
-* [giyom (@giyom)](https://twitter.com/giyom/status/888251611272798208)
-  >1/ the bitcoin whitepaper does not mention censorship resistance once but mentions the goal of removing trusted 3rd parties
-* [Bitcoin's White Paper Gave Us Liberty – Let's Not Give](https://www.coindesk.com/bitcoins-white-paper-gave-us-liberty-lets-not-give-it-back/)
+* [Bitcoin's White Paper Gave Us Liberty – Let's Not Give it Back](https://www.coindesk.com/bitcoins-white-paper-gave-us-liberty-lets-not-give-it-back/)
   >Charlie Shrem, one of bitcoin's earliest entrepreneurs, believes Satoshi's white paper is about more than just technology.
 * [The Bitcoin White Paper References – Nelson M. Rosario – Medium](https://medium.com/@nelsonmrosario/the-bitcoin-white-paper-references-857f001f4878)
   >Today is the ten year anniversary of Satoshi Nakamoto publishing the Bitcoin white paper to the Cypherpunk mailing list on October 31…
 * [Giyom Lebleu (@giyom)](https://twitter.com/giyom/status/888251611272798208)
   > 1/ the bitcoin whitepaper does not mention censorship resistance once but mentions the goal of removing trusted 3rd parties
-* [Bitcoin's White Paper Gave Us Liberty – Let's Not Give It Back -...](https://www.coindesk.com/bitcoins-white-paper-gave-us-liberty-lets-not-give-it-back/)
-  > Charlie Shrem, one of bitcoin's earliest entrepreneurs, believes Satoshi's white paper is about more than just technology.
 * [Satoshi Nakamoto (Ft. Coinbase) – Bitcoin: A Peer-to-Peer Elec...](https://genius.com/Satoshi-nakamoto-bitcoin-a-peer-to-peer-electronic-cash-system-annotated) 
   > On October 31st, the programmer/programmers known as Satoshi Nakamoto published this paper through a metzdowd.com cryptography mailing list that describes the Bitcoin currency and
+* [How Accurate Was The Bitcoin White Paper?](https://cryptodaily.co.uk/2018/10/how-accurate-was-the-bitcoin-white-paper)
+  > Welcome to Crypto Daily News, this news piece "How Accurate Was The Bitcoin White Paper?" is breaking news from the Crypto sector.
 * [Jameson Lopp (@lopp)](https://twitter.com/lopp/status/1023689161096785920)
   > Bitcoin whitepaper purists should take note that the following things are NOT described in the whitepaper:
   > 
@@ -76,18 +82,18 @@ tags: ["Literature"]
   > * HD address generation
   > * best chain = cumulative PoW, not longest chain
   > and much, much more...
-* [How Accurate Was The Bitcoin White Paper?](https://cryptodaily.co.uk/2018/10/how-accurate-was-the-bitcoin-white-paper)
-  > Welcome to Crypto Daily News, this news piece "How Accurate Was The Bitcoin White Paper?" is breaking news from the Crypto sector.
+* [giyom (@giyom)](https://twitter.com/giyom/status/888251611272798208)
+  >1/ the bitcoin whitepaper does not mention censorship resistance once but mentions the goal of removing trusted 3rd parties
 
 
-### Whitepaper - Annotated
+## Source
 
-* [Fermat's Library - Bitcoin: A Peer-to-Peer Electronic Cash System](https://fermatslibrary.com/s/bitcoin) - Annotated - Fermat's Library is a platform for illuminating academic papers.
-* [Satoshi Nakamoto (Ft. Coinbase) – Bitcoin: A Peer-to-Peer Elec...](https://genius.com/Satoshi-nakamoto-bitcoin-a-peer-to-peer-electronic-cash-system-annotated)
-  >On October 31st, the programmer/programmers known as Satoshi Nakamoto published this paper through a metzdowd.com cryptography mailing list that describes the Bitcoin currency and
+[Where can I find the Bitcoin white paper in plain text markdown format?](https://bitcoin.stackexchange.com/questions/42462/where-can-i-find-the-bitcoin-white-paper-in-plain-text-markdown-format) - Bitcoin Stack Exchange
+  * [wbnns/bitcoinwhitepaper](https://github.com/wbnns/bitcoinwhitepaper)
+    > This repository contains the Bitcoin white paper. Pull requests with translated versions of this white paper are welcome. - wbnns/bitcoinwhitepaper
 
 
-## Bitcoin: A Peer-to-Peer Electronic Cash System
+## A Peer-to-Peer Electronic Cash System
 
 Satoshi Nakamoto  
 satoshin@gmx.com  
@@ -103,19 +109,19 @@ What is needed is an electronic payment system based on cryptographic proof inst
 ### Transactions
 We define an electronic coin as a chain of digital signatures. Each owner transfers the coin to the next by digitally signing a hash of the previous transaction and the public key of the next owner and adding these to the end of the coin. A payee can verify the signatures to verify the chain of ownership.
 
-![transactions](img/transactions.png)
+![transactions](/images/whitepaper/transactions.png)
 
 The problem of course is the payee can't verify that one of the owners did not double-spend the coin. A common solution is to introduce a trusted central authority, or mint, that checks every transaction for double spending. After each transaction, the coin must be returned to the mint to issue a new coin, and only coins issued directly from the mint are trusted not to be double-spent. The problem with this solution is that the fate of the entire money system depends on the company running the mint, with every transaction having to go through them, just like a bank. We need a way for the payee to know that the previous owners did not sign any earlier transactions. For our purposes, the earliest transaction is the one that counts, so we don't care about later attempts to double-spend. The only way to confirm the absence of a transaction is to be aware of all transactions. In the mint based model, the mint was aware of all transactions and decided which arrived first. To accomplish this without a trusted party, transactions must be publicly announced [1], and we need a system for participants to agree on a single history of the order in which they were received. The payee needs proof that at the time of each transaction, the majority of nodes agreed it was the first received.
 
 ### Timestamp Server
 The solution we propose begins with a timestamp server. A timestamp server works by taking a hash of a block of items to be timestamped and widely publishing the hash, such as in a newspaper or Usenet post [2-5]. The timestamp proves that the data must have existed at the time, obviously, in order to get into the hash. Each timestamp includes the previous timestamp in its hash, forming a chain, with each additional timestamp reinforcing the ones before it.
 
-![timestamp server](img/timestamp.png)
+![timestamp server](/images/whitepaper/timestamp.png)
 
 ### Proof-of-Work
 To implement a distributed timestamp server on a peer-to-peer basis, we will need to use a proof-of-work system similar to Adam Back's Hashcash [6], rather than newspaper or Usenet posts. The proof-of-work involves scanning for a value that when hashed, such as with SHA-256, the hash begins with a number of zero bits. The average work required is exponential in the number of zero bits required and can be verified by executing a single hash. For our timestamp network, we implement the proof-of-work by incrementing a nonce in the block until a value is found that gives the block's hash the required zero bits. Once the CPU effort has been expended to make it satisfy the proof-of-work, the block cannot be changed without redoing the work. As later blocks are chained after it, the work to change the block would include redoing all the blocks after it.
 
-![pow](img/proof-of-work.png)
+![pow](/images/whitepaper/proof-of-work.png)
 
 The proof-of-work also solves the problem of determining representation in majority decision making. If the majority were based on one-IP-address-one-vote, it could be subverted by anyone able to allocate many IPs. Proof-of-work is essentially one-CPU-one-vote. The majority decision is represented by the longest chain, which has the greatest proof-of-work effort invested in it. If a majority of CPU power is controlled by honest nodes, the honest chain will grow the fastest and outpace any competing chains. To modify a past block, an attacker would have to redo the proof-of-work of the block and all blocks after it and then catch up with and surpass the work of the honest nodes. We will show later that the probability of a slower attacker catching up diminishes exponentially as subsequent blocks are added. To compensate for increasing hardware speed and varying interest in running nodes over time, the proof-of-work difficulty is determined by a moving average targeting an average number of blocks per hour. If they're generated too fast, the difficulty increases.
 
@@ -141,28 +147,28 @@ The incentive may help encourage nodes to stay honest. If a greedy attacker is a
 ### Reclaiming Disk Space
 Once the latest transaction in a coin is buried under enough blocks, the spent transactions before it can be discarded to save disk space. To facilitate this without breaking the block's hash, transactions are hashed in a Merkle Tree [7][2][5], with only the root included in the block's hash. Old blocks can then be compacted by stubbing off branches of the tree. The interior hashes do not need to be stored.
 
-![disk](img/reclaiming-disk.png)
+![disk](/images/whitepaper/reclaiming-disk.png)
 
 A block header with no transactions would be about 80 bytes. If we suppose blocks are generated every 10 minutes, 80 bytes * 6 * 24 * 365 = 4.2MB per year. With computer systems typically selling with 2GB of RAM as of 2008, and Moore's Law predicting current growth of 1.2GB per year, storage should not be a problem even if the block headers must be kept in memory.
 
 ### Simplified Payment Verification
 It is possible to verify payments without running a full network node. A user only needs to keep a copy of the block headers of the longest proof-of-work chain, which he can get by querying network nodes until he's convinced he has the longest chain, and obtain the Merkle branch linking the transaction to the block it's timestamped in. He can't check the transaction for himself, but by linking it to a place in the chain, he can see that a network node has accepted it, and blocks added after it further confirm the network has accepted it.
 
-![spv](img/spv.png)
+![spv](/images/whitepaper/spv.png)
 
 As such, the verification is reliable as long as honest nodes control the network, but is more vulnerable if the network is overpowered by an attacker. While network nodes can verify transactions for themselves, the simplified method can be fooled by an attacker's fabricated transactions for as long as the attacker can continue to overpower the network. One strategy to protect against this would be to accept alerts from network nodes when they detect an invalid block, prompting the user's software to download the full block and alerted transactions to confirm the inconsistency. Businesses that receive frequent payments will probably still want to run their own nodes for more independent security and quicker verification.
 
 ### Combining and Splitting Value
 Although it would be possible to handle coins individually, it would be unwieldy to make a separate transaction for every cent in a transfer. To allow value to be split and combined, transactions contain multiple inputs and outputs. Normally there will be either a single input from a larger previous transaction or multiple inputs combining smaller amounts, and at most two outputs: one for the payment, and one returning the change, if any, back to the sender.
 
-![combining-splitting](img/combining-splitting.png)
+![combining-splitting](/images/whitepaper/combining-splitting.png)
 
 It should be noted that fan-out, where a transaction depends on several transactions, and those transactions depend on many more, is not a problem here. There is never the need to extract a complete standalone copy of a transaction's history.
 
 ### Privacy
 The traditional banking model achieves a level of privacy by limiting access to information to the parties involved and the trusted third party. The necessity to announce all transactions publicly precludes this method, but privacy can still be maintained by breaking the flow of information in another place: by keeping public keys anonymous. The public can see that someone is sending an amount to someone else, but without information linking the transaction to anyone. This is similar to the level of information released by stock exchanges, where the time and size of individual trades, the "tape", is made public, but without telling who the parties were.
 
-![privacy](img/privacy.png)
+![privacy](/images/whitepaper/privacy.png)
 
 As an additional firewall, a new key pair should be used for each transaction to keep them from being linked to a common owner. Some linking is still unavoidable with multi-input transactions, which necessarily reveal that their inputs were owned by the same owner. The risk is that if the owner of a key is revealed, linking could reveal other transactions that belonged to the same owner.
 
@@ -177,7 +183,7 @@ p = probability an honest node finds the next block
 q = probability the attacker finds the next block  
 q<sub>z</sub> = probability the attacker will ever catch up from z blocks behind
 
-![eq1](img/eq1.png)
+![eq1](/images/whitepaper/eq1.png)
 
 Given our assumption that p > q, the probability drops exponentially as the number of blocks the attacker has to catch up with increases. With the odds against him, if he doesn't make a lucky lunge forward early on, his chances become vanishingly small as he falls further behind.
 
@@ -187,15 +193,15 @@ The receiver generates a new key pair and gives the public key to the sender sho
 
 The recipient waits until the transaction has been added to a block and z blocks have been linked after it. He doesn't know the exact amount of progress the attacker has made, but assuming the honest blocks took the average expected time per block, the attacker's potential progress will be a Poisson distribution with expected value:
 
-![eq2](img/eq2.png)
+![eq2](/images/whitepaper/eq2.png)
 
 To get the probability the attacker could still catch up now, we multiply the Poisson density for each amount of progress he could have made by the probability he could catch up from that point:
 
-![eq3](img/eq3.png)
+![eq3](/images/whitepaper/eq3.png)
 
 Rearranging to avoid summing the infinite tail of the distribution...
 
-![eq4](img/eq4.png)
+![eq4](/images/whitepaper/eq4.png)
 
 Converting to C code...
 

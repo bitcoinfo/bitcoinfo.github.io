@@ -5,6 +5,22 @@ permalink: /tech/
 categories: ["Tech Info"]
 ---
 
+
+<div class="row">
+<div class="medium-3 medium-push-9 columns" markdown="1">
+<div class="panel radius" markdown="1">
+**Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+</div><!-- /.medium-4.columns -->
+
+
+
+<div class="medium-9 medium-pull-3 columns" markdown="1">
+{% include _improve_content.html %}
+
 On the Technical Side of things... largely unsorted... :)
 
 * [8 Problems for the Bitcoin Community to Solve Before Block Size:](https://medium.com/@jeremyrubin/8-problems-with-bitcoin-to-solve-before-block-size-6b4d35e0c6f9)
@@ -90,6 +106,9 @@ Bitcoin Improvement Proposals.
   > Simplicity is a blockchain programming language designed as an alternative to Bitcoin script. - ElementsProject/simplicity
 
 
-## Related Posts: Tech Info
+## Related Posts
 
 {% include list-posts category='Tech Info' %}
+
+</div>
+</div>

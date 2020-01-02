@@ -1,0 +1,157 @@
+I"
+!
+<div class="row">
+	<div class="small-12 columns">
+	<div class="panel radius" style="padding-bottom: 21px;">
+			<a class="button left r15 tiny radius" href="https://github.com/bitcoinfo/bitcoinfo.github.io/blob/master/_posts/practical/2019-12-29-data-analytics.md">Source</a>
+			<p style="margin-top: 3px;">
+			This content is open source.
+			<a href="https://github.com/bitcoinfo/bitcoinfo.github.io/blob/master/_posts/practical/2019-12-29-data-analytics.md">Help improve it</a>.</p>
+		</div>
+	</div>
+</div>
+
+<p><a href="https://twitter.com/ChartsBtc/media">Bitcoin Charts (no TA) (@ChartsBtc)</a>
+<a href="https://twitter.com/BitcoinVisuals">BitcoinVisuals.com ️ (@BitcoinVisuals)</a></p>
+
+<h2 id="-data">⧉ Data</h2>
+<ul>
+  <li><a href="https://bitdb.network/">bitdb.network/</a></li>
+  <li><a href="https://bitdb.network/">bitdb</a> - The Random Access Memory for Bitcoin</li>
+  <li><a href="http://dumps.webbtc.com/bitcoin/">dumps.webbtc.com/bitcoin/</a></li>
+  <li><a href="https://github.com/ladimolnar/BitcoinDatabaseGenerator">ladimolnar/BitcoinDatabaseGenerator</a>
+    <blockquote>
+      <p>A high performance data transfer tool that can be used to transfer data from Bitcoin Core blockchain files to a SQL Server database - ladimolnar/BitcoinDatabaseGenerator</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/mcdee/blockparser">mcdee/blockparser</a>
+    <blockquote>
+      <p>Fast, quick and dirty bitcoin blockchain parser.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/bitcoin-abe/bitcoin-abe">bitcoin-abe/bitcoin-abe</a>
+    <blockquote>
+      <p>Abe: block browser for Bitcoin and similar currencies - bitcoin-abe/bitcoin-abe</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/MetacoSA/NBitcoin.Indexer">MetacoSA/NBitcoin.Indexer</a>
+    <blockquote>
+      <p>Scalable and fault-tolerant block chain indexer for Azure cloud platform.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/straumat/blockchain2graph">straumat/blockchain2graph</a>
+Blockchain2graph extracts blockchain data (bitcoin) and insert them into a graph database (neo4j). - straumat/blockchain2graph</li>
+  <li><a href="https://www.cryptodatadownload.com/data/">cryptodatadownload.com/data/</a></li>
+  <li><a href="https://tardis.dev/">Historical tick-level cryptocurrency market data replay API</a>
+    <blockquote>
+      <p>High precision raw historical data for cryptocurrency markets — full order book depth snapshots and incremental updates, tick-by-tick trades, quotes, liquidations and more available via HTTP and WebSocket API. BitMEX, Binance, Deribit, Bitfinex, Bitstamp, Crypto Facilities,…</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/ZuInnoTe/hadoopcryptoledger">ZuInnoTe/hadoopcryptoledger</a>
+    <blockquote>
+      <p>Hadoop Crypto Ledger - Analyzing CryptoLedgers, such as Bitcoin Blockchain, on Big Data platforms, such as Hadoop/Spark/Flink/Hive - ZuInnoTe/hadoopcryptoledger</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/bitcoinjs/fast-dat-parser">bitcoinjs/fast-dat-parser</a>
+    <blockquote>
+      <p>Superfast blockchain parser for stats.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/dakk/bitcoinml">dakk/bitcoinml</a></li>
+  <li><a href="https://github.com/neocogent/sqlchain">neocogent/sqlchain</a>
+    <blockquote>
+      <p>A Compact SQL Layer Over The Blockchain. .</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/Zombie-3000/Bitfinex-historical-data">Zombie-3000/Bitfinex-historical-data</a></li>
+  <li><a href="https://github.com/blkchain/blkchain">blkchain/blkchain</a>
+Fast import of the blockchain into PostgreSQL.</li>
+  <li><a href="https://github.com/coinmetrics-io/haskell-tools">coinmetrics-io/haskell-tools</a>
+    <blockquote>
+      <p>Tools for exporting blockchain data to analytical databases - coinmetrics-io/haskell-tools</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/sr-gi/bitcoin_tools">sr-gi/bitcoin_tools</a>
+    <blockquote>
+      <p>Python Bitcoin tools.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/eklitzke/utxodump">eklitzke/utxodump</a></li>
+  <li><a href="https://github.com/proger/utxo-dump">proger/utxo-dump</a>
+    <blockquote>
+      <p>Bitcoind chainstate UTXOs to CSV.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/qshuai/utxo-stats">qshuai/utxo-stats</a>
+    <blockquote>
+      <p>Data Analysis for bitcoin utxo using leveldb tool library - qshuai/utxo-stats</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/ragestack/Bitcoin-UTXO-extractor">ragestack/Bitcoin-UTXO-extractor</a>
+    <blockquote>
+      <p>Bitcoin UTXO extractor and calculation of the balance of each address. - ragestack/Bitcoin-UTXO-extractor</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/genericmethod/java-bitcoin-utxo-explorer">genericmethod/java-bitcoin-utxo-explorer</a>
+    <blockquote>
+      <p>A tiny API to explore unspent bitcoin transactions</p>
+    </blockquote>
+  </li>
+</ul>
+
+<p><a href="https://github.com/Zombie-3000/Bitfinex-historical-data">Zombie-3000/Bitfinex-historical-data</a></p>
+
+<p>historical 1-minute candles from bitfinex-exchange - Zombie-3000/Bitfinex-historical-data</p>
+
+<p><a href="https://www.bitmex.com/app/apiOverview">API Overview - BitMEX</a>
+BitMEX is the world’s most advanced P2P crypto-products trading platform and API. Trade with up to 100x leverage with only Bitcoin as collateral.</p>
+
+<p><a href="https://panelpicker.sxsw.com/vote/91245">10 Years of Blockchain Data Science</a>
+tl;dr; Bitcoin turns 10 years old in 2019 and has been continuously recording data in its blockchain the whole time. In this talk, I will present the most beautiful visualizations and fascinating analyses of this and other blockchains made by data scientists such as myself. …</p>
+
+<p><a href="https://blockchair.com/">Blockchair</a>
+Blockchair is a blockchain search and analytics engine featuring Bitcoin, Bitcoin Cash, Ethereum, and Litecoin explorers, as well as full-text search over blockchain data.</p>
+
+<p><a href="https://www.trustnodes.com/2018/08/16/nearly-one-trillion-dollars-worth-bitcoin-transferred-2018-close-half-trillion-ethereum">Nearly One Trillion Dollars Worth of Bitcoin Has Been Transferred in 2018, Close to Half a Trillion For Ethereum</a></p>
+
+<p><a href="https://blog.chainalysis.com/reports/money-supply-q3">Bitcoin Investors and Speculators Hold Their Positions over the Summer</a>
+The cryptocurrency monetary aggregates have been updated for the summer months and show that the market continues to stabilize, in spite of price declines.</p>
+
+<p><a href="https://epicenter.tv/episode/254">Allen Day - Google’s Mission to Provide Open Datasets for Public…</a>
+We’re joined by Allen Day, Science Advocate at Google. Earlier this year, he and his team released both Bitcoin and Ethereum as public datasets in Big Query, Google big data IaaS offering.</p>
+
+<h3 id="-chainanalysis">📊 Chainanalysis</h3>
+
+<p><a href="https://bitcoinmagazine.com/articles/blockchain-analysis-about-get-harder-p2ep-enters-testing-phase">Blockchain Analysis Is About to Get Harder as P2EP Enters Testing Phase</a></p>
+
+<ul>
+  <li><a href="https://github.com/animeshbchowdhury/bitcoinCodeRepos">animeshbchowdhury/bitcoinCodeRepos</a>
+    <blockquote>
+      <p>Bitcoin Code Written for Long Chain Analysis.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/tomasvanagas/ArbitraryDataInBitcoin">tomasvanagas/ArbitraryDataInBitcoin</a>
+    <blockquote>
+      <p>Tool to search for arbitrary data in bitcoin blockchain - tomasvanagas/ArbitraryDataInBitcoin</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/citp/BlockSci">citp/BlockSci</a>
+    <blockquote>
+      <p>A high-performance tool for blockchain science and exploration - citp/BlockSci</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/spooktheducks/local-blockchain-parser">spooktheducks/local-blockchain-parser</a>
+    <blockquote>
+      <p>Searches for hidden files in local blockchain .DAT files. - spooktheducks/local-blockchain-parser</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/himahimahima/chain-analysis">himahimahima/chain-analysis</a>
+    <blockquote>
+      <p>Analysis tool for the bitcoin blockchain.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/ga245004/blocked">ga245004/blocked</a>
+bitcoin blockchain analysis.</li>
+</ul>
+
+:ET

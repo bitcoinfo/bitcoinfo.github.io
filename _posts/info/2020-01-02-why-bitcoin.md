@@ -4,7 +4,10 @@ permalink: /info/why-bitcoin/
 categories: ["Info"]
 ---
 
-This page will grow to include the many reasons for owning Bitcoin.
+{% include _improve_content.html %}
+
+
+##### This page will grow to include the many reasons for owning Bitcoin.
 
 [Pierre Rochard (@pierre_rochard)](https://twitter.com/pierre_rochard/status/988403000682139649)  
   > Why I’m focused on Bitcoin: • Schelling point consensus • p2p network governance with full nodes • proof-of-work secure timestamping • Lindy effect / first mover advantage • fixed issuance schedule • prudent engineering culture • promising research: lightni...
@@ -159,9 +162,3 @@ this website has so much information
 * [Why the whole banking system is a scam - Godfrey Bloom MEP](https://www.youtube.com/watch?v=hYzX3YZoMrs)
 * [crypto retreat (@cryptoretreat)](https://twitter.com/cryptoretreat/status/1175267997201494022?s=21)
   > /r/bitcoin: why bitcoin? this is why. a must watch. [The developed world is on the brink of a financial, economic, social and political crisis](https://www.youtube.com/watch?v=3WclYu5l4G0&feature=youtu.be)
-
-
-
-
-
-

@@ -7,6 +7,23 @@ tags: ["Layer 2", "Lightning"]
 
 ---
 
+
+<div class="row">
+<div class="medium-3 medium-push-9 columns" markdown="1">
+<div class="panel radius" markdown="1">
+**Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+</div><!-- /.medium-4.columns -->
+
+
+
+<div class="medium-9 medium-pull-3 columns" markdown="1">
+{% include _improve_content.html %}
+
+
 * [Nick Szabo⚡️ (@NickSzabo4)](https://twitter.com/NickSzabo4/status/846492284036145152)
   >"Bitcoin .. needs .. a secondary level of payment[s] which is lighter weight." -- Hal Finney 2010 https://t.co/tIbkVF2ezc ht @rextar4444
 * [The Bitcoin Second Layer – Nik Bhatia – Medium The Lightning Network Reference Rate](https://medium.com/@timevalueofbtc/the-bitcoin-second-layer-d503949d0a06), Part 1 of 4
@@ -139,3 +156,10 @@ Lightning Network Podcasts
 * CryptoQuikRead_035.5 - [LApp 5 - Nanopos for Simple Point-of-Sale](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_035-5---LApp-5---Nanopos-for-Simple-Point-of-Sale-e2ndtk)
 * CryptoQuikRead_036.5 - [LApp 6 - Ifpaytt Brings Lightning Payments to IFTTT](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_036-5---LApp-6---Ifpaytt-Brings-Lightning-Payments-to-IFTTT-e2ndth)
 * CryptoQuikRead_037.5 - [Lapp 7 - The Lightning Jukebox](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_037-5---Lapp-7---The-Lightning-Jukebox-e2ndti)
+
+## Related Posts
+
+{% include list-posts category='Tech Info' %}
+
+</div>
+</div>

@@ -7,7 +7,7 @@ tags: ["Layer 1"]
 ---
 
 <div class="row">
-<div class="medium-4 medium-push-8 columns" markdown="1">
+<div class="medium-3 medium-push-9 columns" markdown="1">
 <div class="panel radius" markdown="1">
 **Contents**
 {: #toc }
@@ -18,7 +18,7 @@ tags: ["Layer 1"]
 
 
 
-<div class="medium-8 medium-pull-4 columns" markdown="1">
+<div class="medium-9 medium-pull-3 columns" markdown="1">
 {% include _improve_content.html %}
 
 

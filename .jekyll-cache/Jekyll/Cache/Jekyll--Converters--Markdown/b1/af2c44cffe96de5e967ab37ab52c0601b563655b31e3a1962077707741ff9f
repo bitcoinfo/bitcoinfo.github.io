@@ -1,0 +1,186 @@
+I"� 
+<div class="row">
+	<div class="small-12 columns">
+	<div class="panel radius" style="padding-bottom: 21px;">
+			<a class="button left r15 tiny radius" href="https://github.com/bitcoinfo/bitcoinfo.github.io/blob/master/_posts/practical/2019-12-29-trading.md/#excerpt">Source</a>
+			<p style="margin-top: 3px;">
+			This content is open source.
+			<a href="https://github.com/bitcoinfo/bitcoinfo.github.io/blob/master/_posts/practical/2019-12-29-trading.md/#excerpt">Help improve it</a>.</p>
+		</div>
+	</div>
+</div>
+
+<p><a href="https://blog.goodaudience.com/bitcoin-network-momentum-a42346b2f0ce">Bitcoin Network Momentum - Good Audience</a> - A new leading indicator for Bitcoin price during its major market cycles
+<a href="https://tucsky.github.io/SignificantTrades/">SignificantTrades</a></p>
+<blockquote>
+  <p>“shows big orders short/long of BTC it’s quite entertaining to watch, better than 1m chart”</p>
+</blockquote>
+
+<h3 id="-trading">📊 trading</h3>
+
+<ul>
+  <li><a href="https://github.com/ccxt/ccxt">ccxt/ccxt</a>
+    <blockquote>
+      <p>A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges - ccxt/ccxt</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/askmike/gekko">askmike/gekko</a>
+<a href="https://gekko.wizb.it/">gekko.wizb.it/</a>
+    <blockquote>
+      <p>A bitcoin trading bot written in node</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/bbfamily/abu">bbfamily/abu</a>
+    <blockquote>
+      <p>阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构 - bbfamily/abu</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/butor/blackbird">butor/blackbird</a>
+    <blockquote>
+      <p>Blackbird Bitcoin Arbitrage: a long/short market-neutral strategy</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/michaelgrosner/tribeca">michaelgrosner/tribeca</a>
+    <blockquote>
+      <p>A high frequency, market making cryptocurrency trading platform in node.js - michaelgrosner/tribeca</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/freqtrade/freqtrade">freqtrade/freqtrade</a>
+    <blockquote>
+      <p>Free, open source crypto trading bot.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/jakubroztocil/cointrol">jakubroztocil/cointrol</a>
+    <blockquote>
+      <p>฿ Bitcoin trading bot with a real-time dashboard for Bitstamp.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/shobrook/BitVision">shobrook/BitVision</a>
+    <blockquote>
+      <p>Terminal dashboard for Bitcoin trading, forecasting, and charting - shobrook/BitVision</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/BitcoinExchangeFH/BitcoinExchangeFH">BitcoinExchangeFH/BitcoinExchangeFH</a>
+    <blockquote>
+      <p>Cryptocurrency exchange market data feed handler.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/manu354/cryptocurrency-arbitrage">manu354/cryptocurrency-arbitrage</a>
+    <blockquote>
+      <p>A cryptocurrency arbitrage opportunity calculator. Over 800 currencies and 50 markets. - manu354/cryptocurrency-arbitrage</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/bitrinjani/r2">bitrinjani/r2</a>
+    <blockquote>
+      <p>R2 Bitcoin Arbitrager is an automatic arbitrage trading system powered by Node.js + TypeScript. - bitrinjani/r2</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/0x13a/bitcoin-trading-dca">0x13a/bitcoin-trading-dca</a>
+    <blockquote>
+      <p>Bitcoin investing using Dollar Cost Averaging.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/lionsharecapital/lionshare-desktop">lionsharecapital/lionshare-desktop</a>
+    <blockquote>
+      <p>Simple cryptocurrency price and portfolio monitor for macOS - lionsharecapital/lionshare-desktop</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/samre12/deep-trading-agent">samre12/deep-trading-agent</a>
+    <blockquote>
+      <p>Deep Reinforcement Learning based Trading Agent for Bitcoin - samre12/deep-trading-agent</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/philipperemy/deep-learning-bitcoin">philipperemy/deep-learning-bitcoin</a>
+    <blockquote>
+      <p>Exploiting Bitcoin prices patterns with Deep Learning. - philipperemy/deep-learning-bitcoin</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/panditanvita/BTCpredictor">panditanvita/BTCpredictor</a>
+    <blockquote>
+      <p>Bitcoin price prediction algorithm using bayesian regression techniques - panditanvita/BTCpredictor</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/PiSimo/BitcoinForecast">PiSimo/BitcoinForecast</a>
+    <blockquote>
+      <p>Predict bitcoin price with deep learning.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/philsong/bitcoin-broker">philsong/bitcoin-broker</a>
+    <blockquote>
+      <p>BTC trading market broker, smart route the orders to multiple exchange. - philsong/bitcoin-broker</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/stavros0/bitcoin-price-prediction">stavros0/bitcoin-price-prediction</a>
+    <blockquote>
+      <p>Bayesian regression for latent source model and Bitcoin - stavros0/bitcoin-price-prediction</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/maxim5/time-series-machine-learning">maxim5/time-series-machine-learning</a>
+    <blockquote>
+      <p>Machine learning models for time series analysis.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/harishpuvvada/BitCoin-Value-Predictor">harishpuvvada/BitCoin-Value-Predictor</a>
+    <blockquote>
+      <p>Predicting Bit coin price using Time series analysis and sentiment analysis of tweets on bitcoin - harishpuvvada/BitCoin-Value-Predictor</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/Ekliptor/WolfBot">Ekliptor/WolfBot</a>
+    <blockquote>
+      <p>Crypto currency trading bot written in TypeScript for NodeJS - Ekliptor/WolfBot</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/chrisiaut/phptrader">chrisiaut/phptrader</a>
+    <blockquote>
+      <p>A simple php powered Bitcoin and Ethereum trading bot - chrisiaut/phptrader</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/madnight/bitcoin-chart-cli">madnight/bitcoin-chart-cli</a>
+    <blockquote>
+      <p>Bitcoin chart for the terminal as command line util - madnight/bitcoin-chart-cli</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/freqtrade/freqtrade-strategies">freqtrade/freqtrade-strategies</a>
+    <blockquote>
+      <p>Free trading strategies for Freqtrade bot.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/ctubio/tribeca">ctubio/tribeca</a>
+    <blockquote>
+      <p>Self-hosted crypto trading bot (automated high frequency market making) in node.js, angular, typescript and c++ - ctubio/tribeca</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/AlexITC/crypto-coin-alerts">AlexITC/crypto-coin-alerts</a>
+    <blockquote>
+      <p>An application that let you set alerts for the prices of several cryptocurrencies - AlexITC/crypto-coin-alerts</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/samre12/gym-cryptotrading">samre12/gym-cryptotrading</a>
+    <blockquote>
+      <p>OpenAI Gym Environment API based Bitcoin trading environment - samre12/gym-cryptotrading</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/jr-minnaar/bitrader">jr-minnaar/bitrader</a>
+    <blockquote>
+      <p>Bitcoin Arbitrage utilities.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/libcryptomarket/libcryptomarket">libcryptomarket/libcryptomarket</a>
+    <blockquote>
+      <p>Powerful cryptocurrency market analysis toolkit.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/XiaoboHe/XTrader">XiaoboHe/XTrader</a>
+    <blockquote>
+      <p>XTrader is a robot for cryptocurrency trading on exchange platform.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.bitcoinmarketjournal.com/bitcoin-investment-apps/">bitcoinmarketjournal.com/bitcoin-investment-apps/</a></li>
+</ul>
+
+<h3 id="-google-sheets">📊 Google Sheets</h3>
+
+<ul>
+  <li><a href="https://github.com/cryptofinance-ai/cryptofinance-google-sheets-add-on">cryptofinance-ai/cryptofinance-google-sheets-add-on</a></li>
+</ul>
+:ET

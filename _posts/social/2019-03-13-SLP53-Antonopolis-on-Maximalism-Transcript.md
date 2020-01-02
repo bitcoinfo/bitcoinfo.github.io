@@ -3,10 +3,7 @@ layout: page-fullwidth
 title: "Transcript - Stephan Livera and Andreas Antonopolous, on Bitcoin Maximalism - SLP53"
 description: Transcript of Stephan Livera with Andreas Antonopoulos - On Bitcoin Maximalism
 excerpt: "..the term was coined by Vitalik return who used it to criticize the position that only Bitcoin matters or only Bitcoin will survive and I think that might be perhaps overstating it. but it was very quickly embraced by quite a few people who who found it to be a very comfortable position to take, and didn't see that as a provocation by Vitalik."
-header: 
-  image: "/images/antonop-livera-maximalism-header.png"
-  teaser: "/images/antonop-livera-maximalism.png"
-  caption: "[SLP53 ANDREAS M. ANTONOPOULOS – ON BITCOIN MAXIMALISM](https://stephanlivera.com/episode/53)"
+og_image: "antonop-livera-maximalism.png"
 last_modified_at: 2019-04-20T11:22:33-23:00
 tags:
   - "Transcript"
@@ -15,39 +12,33 @@ categories: ["Social"]
 
 ---
 
-**Stephan Livera and Andreas M. Antonopoulos - On Bitcoin Maximalism**
 
-<a href="https://stephanlivera.com/episode/53"><img src="https://i.imgur.com/7HFlgoJ.png"/></a>
+<div class="row">
+<div class="medium-3 medium-push-9 columns" markdown="1">
+<div class="panel radius" markdown="1">
+**Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+</div><!-- /.medium-4.columns -->
+
+
+
+<div class="medium-9 medium-pull-3 columns" markdown="1">
+{% include _improve_content.html %}
+
+
+**Stephan Livera and Andreas M. Antonopoulos - On Bitcoin Maximalism**
 
 [https://stephanlivera.com/episode/53](https://stephanlivera.com/episode/53)
 
 
-
-## Description
-
-[https://www.youtube.com/watch?v=b9i21sSOImo](https://www.youtube.com/watch?v=b9i21sSOImo)
-
-Andreas M. Antonopoulos (best-selling author, speaker and bitcoin educator) joins me in this episode to talk about his views on Bitcoin Maximalism as contrasted with a multicoin view. Andreas and I disagree and present clashing visions. We also discuss other points such as whether Bitcoin challenges central banking more specifically, or banking generally.
-Andreas M. Antonopoulos links:
-
-Twitter: <a href="https://twitter.com/aantonop">https://twitter.com/aantonop</a><br/>
-Youtube: <a href="https://www.youtube.com/user/aantonop">https://www.youtube.com/user/aantonop</a><br/>
-Website: <a href="https://antonopoulos.com/">https://antonopoulos.com</a> 
-
-Episode Sponsor BUIDL Bootcamp:
-
-Website: <a href="https://buidlbootcamp.com/">https://buidlbootcamp.com</a>
-
-Stephan Livera links:
-
-Twitter: <a href="https://twitter.com/@stephanlivera">https://twitter.com/@stephanlivera</a><br/>
-Website: <a href="https://stephanlivera.com/">https://stephanlivera.com</a>
+<div class="video-responsive">
+  <iframe width="640" height="385" src="https://www.youtube-nocookie.com/embed/b9i21sSOImo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Transcript
-
-<div class="video-responsive">
-  <iframe width="853" height="505" src="https://www.youtube-nocookie.com/embed/b9i21sSOImo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 Hi and welcome to the Stephan Livera podcast focused on Bitcoin and Austrian economics. 
 
@@ -64,6 +55,7 @@ You get daily video and exercises to complete where they suggested 20 hours per 
 I'm a student myself moving through the course material and I get a lot of value out of it. Justin is a great teacher. personally I believe that Bitcoin will only become more important in our society, and so it's important to learn and understand it more deeply. 
 
 Justin has received a lot of positive feedback on the course so I recommend you check it out. The website is buidlbootcamp.com and if you want to hear more about the course check out my earlier episode 36 with Justin and follow him on twitter @ underscore justin moon underscore 
+
 
 ### Introduction
 
@@ -379,3 +371,6 @@ let me know if there's more topics you'd like to hear me cover with Andreas and 
 
 If you enjoyed that subscribe to the podcast by searching Stephan Livera podcast on your podcast platform Apple, pocket casts, podbean, Spotify etc.. don't forget to share it around with friends or on social media that's it from me thanks guys and I'll speak to you soon\
 [Music]
+
+</div>
+</div>

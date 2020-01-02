@@ -4,6 +4,7 @@ permalink: /tech/decentralization/
 categories: ["Tech Info"]
 ---
 
+{% include _improve_content.html %}
 
 * CryptoQuikRead_201 - [Bitcoin is a Decentralized Organism - Mycelium [Part 1]](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_201---Bitcoin-is-a-Decentralized-Organism---Mycelium-Part-1-e2sarg)
 * CryptoQuikRead_073 - [Introducing TxTenna: Decentralizing the Last Mile in Bitcoin](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_073---Introducing-TxTenna-Decentralizing-the-Last-Mile-in-Bitcoin-e2ndsc)
@@ -93,3 +94,7 @@ an awesome list of decentralized services.
 
 [Kate Sills (@kate_sills)](https://twitter.com/kate_sills/status/924728954178564097?s=12)
   > I had known that ancient greeks used random selection (sortition) to elect people to political office, but I was curious how they did it 1/
+
+## Related Posts
+
+{% include list-posts category='Tech Info' %}

@@ -11,6 +11,9 @@ image:
     caption_url: "https://hackernoon.com/building-your-own-bitcoin-satellite-node-6061d3c93e7"
 ---
 
+
+{% include _improve_content.html %}
+
 * [hackernoon.com/building-your-own-bitcoin-satellite-node-6061d3c93e7](https://hackernoon.com/building-your-own-bitcoin-satellite-node-6061d3c93e7)
 * [Building Your Own Bitcoin Satellite Node](https://hackernoon.com/building-your-own-bitcoin-satellite-node-6061d3c93e7)
 * [blockstream.com/satellite/#satellite-resources](https://blockstream.com/satellite/#satellite-resources)
@@ -27,3 +30,4 @@ image:
 * [Completely Offline Bitcoin Transactions](https://medium.com/hackernoon/completely-offline-bitcoin-transactions-4e58324637bd)
 * [Build Your Own Wireless Bitcoin Service Provider — Complete With Blockstream Satellite Backhaul](https://medium.com/blockstream/build-your-own-wireless-bitcoin-service-provider-complete-with-blockstream-satellite-backhaul-165469036658)
 * [Jeff Garzik: Metronome – Of Bitcoin Satellites and Built-to-Last Chain-Hopping Tokens](https://podcasts.apple.com/us/podcast/epicenter-learn-about-blockchain-ethereum-bitcoin-distributed/id792338939?i=1000437367000)
+

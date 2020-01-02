@@ -1,0 +1,216 @@
+I"k@<p><a href="https://github.com/jlopp/physical-bitcoin-attacks">jlopp/physical-bitcoin-attacks</a></p>
+<blockquote>
+  <p>Known Physical Bitcoin Attacks</p>
+  <ul>
+    <li>A list of known attacks against Bitcoin / crypto asset owning entities that occurred in meatspace. NOTE: this list is not comprehensive; many attacks are not publicly reported.</li>
+  </ul>
+
+  <p>Readers may be interested in this relevant presentation: “<a href="https://vimeo.com/365979416#t=24m50s">The Hodlguard- a primer on physical security in Bitcoin</a>” and <a href="https://prezi.com/view/P46hHguLiPvqA7aZ7gYR">slides</a>.</p>
+</blockquote>
+
+<p><a href="https://github.com/nongiach/awesome-cryptocurrency-security">nongiach/awesome-cryptocurrency-security</a>
+Curated list about cryptocurrency security (reverse / exploit / fuzz..) - nongiach/awesome-cryptocurrency-security</p>
+
+<p><a href="https://twitter.com/crymeaCOIN/status/1055373440713142272">justfive (pepefull for #FreeStardust) (@crymeaCOIN)</a></p>
+<blockquote>
+  <p>0/ This is a thread with basic steps that you can take to secure yourself on a very basic level. Yes, these are very basic and there are ways that tech gurus go beyond that to secure themselves. It has also been done before so not much new here. Lets begin:</p>
+</blockquote>
+
+<p><a href="https://btcmanager.com/making-bitcoin-transactions-untraceable-with-the-wasabi-wallet">Making Bitcoin Transactions Untraceable with the Wasabi Wallet | B…</a></p>
+<blockquote>
+  <p>In the cryptocurrency ecosystem, a wallet is an essential component, as it is used to receive, send and store cryptocurrencies. It operates in the crypto verse just like the banks do in the traditional financial system. As the crypto sector is continuously growing with more a…</p>
+</blockquote>
+
+<p><a href="https://twitter.com/lopp/status/1080231724104044544">Jameson Lopp (@lopp)</a>
+Libbitcoin developer @evoskuil on risk and security. <a href="https://t.co/eu7w1rNMPo">https://t.co/eu7w1rNMPo</a></p>
+
+<p><a href="https://www.zerohedge.com/news/2018-07-26/i-just-got-robbed-bank-woman-finds-her-bofa-safe-deposit-box-has-vanished">“I Was In Shock”: Woman Finds Her BofA Safe Deposit Box Has Vanished</a></p>
+<blockquote>
+  <p>“I just got robbed from the bank. They just took my stuff.”</p>
+</blockquote>
+
+<p><a href="https://www.cnbc.com/amp/2018/08/15/cryptocurrency-investor-sues-att-for-224-million-over-loss-of-digita.html">Cryptocurrency investor robbed via his cellphone account sues AT&amp;T…</a>
+A U.S. investor files a $224 million lawsuit against AT&amp;T accusing the telecommunications giant of negligence that allegedly caused the California resident to lose roughly $24 million in cryptocurrency.</p>
+
+<p><a href="http://diyhpl.us/wiki/transcripts/baltic-honeybadger/2018/extreme-opsec-for-the-modern-cypherpunk/">Extreme opsec for the modern cypherpunk</a> - Jameson Lopp (lopp) jameson@team.casa</p>
+
+<p><a href="https://bitcointalk.org/index.php?topic=327767.0">GHash.IO and double-spending against BetCoin Dice</a>
+GHash.IO and double-spending against BetCoin Dice</p>
+
+<p><a href="https://nakamotoinstitute.org/trusted-third-parties/">Trusted Third Parties are Security Holes</a></p>
+
+<p><a href="https://www.ccn.com/op-ed-how-air-gap-technology-has-and-will-secure-our-cryptocurrency-assets">Op-Ed: How Air Gap Technology Can Secure Our Cryptocurrency Assets</a>
+The truth is that anything connected to the internet can be hacked – even cryptocurrency wallets. However, hacking wasn’t always a problem.</p>
+
+<p><a href="https://twitter.com/lwsnbaker/status/1048060801880223744">lawson baker : 88发 babafa (@lwsnbaker)</a>
+Holy crap. I knew hardware attacks were a very real risk. However, when it’s on every significant sever motherboard around (e.g. AWS, Apple, and NSA), you realize how screwed we are. Must read</p>
+
+<p><a href="https://twitter.com/nopara73/status/1048268011856187399">nopara73 (@nopara73)</a></p>
+<blockquote>
+  <p>1/ My software recommendations to optimize your privacy. I just took control over the Wasabi website and originally I wanted to create a section there, but I am lazy, so this’ll only be a tweetstorm.</p>
+</blockquote>
+
+<p><a href="https://twitter.com/spencernoon/status/1051096114886270976">Spencer Noon 🕛 (@spencernoon)</a></p>
+<blockquote>
+  <p>Online Security Pro Tips Mandatory —Delete phone number for 2FA —Google Authenticator or similar for 2FA Basic —Use a password manager —VPN for public WiFi Expert —Secret burner phone for mandatory text 2FA —Secure 2FA device (e.g. Yubikey) God Mode …</p>
+</blockquote>
+
+<p><a href="https://www.hackers-arise.com/post/2016/05/23/getting-started-with-kali-linux">Getting Started with Kali Linux</a></p>
+
+<p><a href="https://twitter.com/danheld/status/1090317203239460864">Dan Hedl (@danheld)</a>
+Really excited to learn more about best in class private key management practices at the “Simple Cold Storage &amp; Self-Custody” workshop with the pros: @anguschampion @ChristopherA @kanzure #SmartCustody</p>
+
+<ul>
+  <li><a href="https://twitter.com/nlw/status/1090716062222635010">Nathaniel Whittemore (@nlw)</a>
+    <blockquote>
+      <p>What will it take to convince people that privacy is something that they have a right to?</p>
+    </blockquote>
+    <ul>
+      <li><a href="https://twitter.com/soonaorlater/status/1090704760963969024">Soona - @soonaorlater</a>
+        <blockquote>
+          <p>A popular metaphor: you dont close your house door bc youre doing something illegal you need to hide</p>
+
+          <p>Im a fan of the closed-door-in-your-home example. Its familiar. Its easy to understand. We practically live online so positioning the internet as a kinda 2nd abode isnt a stretch</p>
+        </blockquote>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<p><a href="https://twitter.com/wiz/status/1132538612317245441?s=12">wiz (@wiz)</a></p>
+<blockquote>
+  <p>Unpopular Opinion: @signalapp sucks for both security and privacy because it uses phone numbers for identification and authentication. IMO the best chat app is @KeybaseIO which uses a cryptographic based identity system. They just need to add Bitcoin and remove the Shitc…</p>
+</blockquote>
+
+<p><a href="https://twitter.com/wbm312/status/1140718569258287105?s=12">Whitney Merrill (@wbm312)</a></p>
+<blockquote>
+  <p>I want to do a privacy &amp; security training made up of tweets from the security &amp; privacy community commenting on bad privacy &amp; data security practices they see in real life. Anyone have good examples of old tweets? (e.g. this person was doing sensitive company stuff on a p…</p>
+</blockquote>
+
+<p><a href="https://news.ycombinator.com/item?id=20404933">Tell HN: I came up with an interesting way to do decentralized account recovery</a></p>
+<blockquote>
+  <p>Thought I’d share this with the HN community.Link to the Escrovery paper: <a href="https://github.com/pickhardt/escrovery/blob/master/escrovery...I">https://github.com/pickhardt/escrovery/blob/master/escrovery…I</a> came up with an interesting way to do totally decentralized account recovery. Why might this be useful? Suppose you have some account on …</p>
+</blockquote>
+
+<p><a href="https://twitter.com/SarahJamieLewis/status/1076267258064756738">Sarah Jamie Lewis (@SarahJamieLewis)</a></p>
+<blockquote>
+  <p>There is something to be said about the idea that technology has evolved in such a way that corporate &amp; government surveillance is easy, but personal quantification is difficult.</p>
+</blockquote>
+
+<p><a href="https://twitter.com/nomeata/status/1097513606491660290">Joachim Breitner (@nomeata)</a>
+Together with @nadiaheninger, just presented our work on biased nonces revealing secret keys in #bitcoin, #ethereum and #ripple at Financial Crypto #fc19. <a href="https://t.co/kMqQc7bJbL">https://t.co/kMqQc7bJbL</a> (photo by @zooko)</p>
+
+<p><a href="https://www.schneier.com/">Schneier on Security</a></p>
+
+<p><a href="https://twitter.com/ChristopherA/status/1086160862035902464">Christopher Allen - @ChristopherA</a></p>
+<blockquote>
+  <p>find these points a root concern of mine for many blockchain &amp; identity projects as well. Bitcoin-core somehow avoids it, but I’m not sure how to bring some of that particular security culture elsewhere. It certainly can’t happen in #MVP &amp; #Agile startup cultures. Alternatives?</p>
+</blockquote>
+
+<p><a href="https://twitter.com/ChristopherA/status/1087216585499017216">Christopher Allen (@ChristopherA)</a></p>
+<blockquote>
+  <p>”arguments that quality bugs &amp; security bugs ‘have equal value’, that security testing &amp; QA are ‘the same thing’, that security testing should ‘just be performed by QA’ &amp; that ‘there’s no specific skillset’ required to do security testing versus…</p>
+</blockquote>
+
+<p><a href="http://hackingdistributed.com/2018/05/30/choose-your-own-security-disclosure-adventure">Choose-Your-Own-Security-Disclosure-Adventure</a>
+In this Choose Your Own Adventure Game, you navigate the process of warning the world about an exploit you have uncovered in a large software project.</p>
+
+<p><a href="https://medium.com/@masonic_tweets/minimum-viable-security-32e61d10aee4">Minimum Viable Security</a>
+The least you can do to frustrate would-be hackers.</p>
+
+<p><a href="https://www.qubes-os.org/doc/certified-hardware">Certified Hardware - qubes-os</a>
+Certified Hardware Important Information There is currently no specific hardware (e.g., specific laptop model) that the Qubes team recommends for individual users. However, we’re working hard to make a “reasonably secure laptop” a reality, and we look forward to sharing…</p>
+
+<h2 id="tor---onion-routing">TOR - Onion Routing</h2>
+
+<p><a href="https://www.cnet.com/news/brave-advances-browser-privacy-with-tor-powered-tabs/">Brave now protects your browsing activity with Tor-powered tabs</a>
+Onion routing is the way to go. It’s all about the layers of encryption.</p>
+
+<p><a href="https://twitter.com/notgrubles/status/1028319690937036805">grubles (@notgrubles)</a>
+A Tor Hidden Service Mastodon instance, you say?</p>
+
+<p><a href="https://twitter.com/torproject/status/1035609722844585984">The Tor Project (@torproject)</a>
+if you have basic command-line experience, you can become one of the thousands of relay operators powering the Tor network and protecting millions from tracking, surveillance, and censorship. Our guide can show you how: <a href="https://t.co/iBEVP1tUO6">https://t.co/iBEVP1tUO6</a></p>
+
+<p><a href="https://www.whonix.org/wiki/Onion_Services">Onion Services</a>
+Anonymously host any server with Whonix and Tor onion services</p>
+
+<p><a href="https://blog.torproject.org/new-guide-running-tor-relay">The New Guide to Running a Tor Relay | Tor Blog</a>
+Have you considered running a relay, but didn’t know where to start? You can become one of the many thousands of relay operators powering the Tor network, if you have some basic command-line experience.</p>
+
+<p><a href="https://www.whoishostingthis.com/blog/2014/11/17/who-funded-tor/">Who Pays For Tor? (Hint: You Do)</a>
+Thanks to the Silk Road’s notoriety, Tor has quite the sinister reputation. The online black market is famous for facilitating the sale of anything from illegal drugs to murderers for hire. But there’s much more to</p>
+
+<p><a href="https://twitter.com/neil_neilzone/status/1046726283047194624">Neil Brown (@neil_neilzone)</a>
+I hadn’t seen @BriarApp until today - decentralised, p2p, e2e messaging via Tor. <a href="https://t.co/hSEJTSrslW">https://t.co/hSEJTSrslW</a></p>
+
+<p><a href="https://twitter.com/torproject/status/1073318560188022784">The Tor Project (@torproject)</a>
+If Tor disappeared, what would happen? Not only would millions lose access, but the diverse ecosystem of privacy, security, and anti-censorship applications that rely on the Tor network would cease to function. An entire ecosystem relies on Tor. <a href="https://t.co/XVp1ajbFoz">https://t.co/XVp1ajbFoz</a></p>
+
+<p><a href="https://twitter.com/kylesamani/status/1138469712180809728?s=12">Kyle Samani (@KyleSamani)</a>
+Who are all of the teams working on economically incentived distributed VPN/Tor? Orchid, Mysterium, who else?</p>
+
+<p><a href="https://twitter.com/aaronvanw/status/1138896611206160384?s=12">Aaron van Wirdum (@AaronvanW)</a></p>
+<blockquote>
+  <p>“the fight against online drug sales is starting to resemble the war on drugs in the physical world: There are raids. Sites are taken down; a few people are arrested. And after a while the trade and markets pop up somewhere else.” Gee. (HT @chainalysis) <a href="https://t.co/t5z">https://t.co/t5z</a>…</p>
+</blockquote>
+
+<p><a href="https://archive.is/KKr8d">bible/buyer/about/before - DarkNetMarketsNoobs</a></p>
+
+<p><a href="https://news.ycombinator.com/item?id=20485514">Hackers breach FSB contractor, expose Tor deanonymization project</a></p>
+
+<p><a href="http://bitcoinprimitives.libsyn.com/tor-project">Bitcoin Primitives: S1:E8 TOR Project</a></p>
+<blockquote>
+  <p>The goal of onion routing was to have a way to use the internet with as much privacy as possible, and the idea was to route traffic through multiple servers and encrypt it each step of the way. This is still a simple explanation for how Tor works today. <a href="https://support.tor/">https://support.tor</a>…</p>
+</blockquote>
+
+<p><a href="https://www.theguardian.com/technology/audio/2012/apr/24/tech-weekly-podcast-tor-anonymity">Aleks Krotoski talks to Andrew Lewman on Tor and anonymity online</a></p>
+
+<p>Aleks Krotoski talks to Andrew Lewman on Tor and anonymity online</p>
+
+<p><a href="https://theaverageguy.tv/2016/06/07/tor-and-anonymity-an-academic-introduction-to-the-dark-web-cf028/">Tor and Anonymity: An Academic Introduction to the Dark Web – CF028</a>
+Listen Mobile: Cyber Frontiers is all about Exploring Cyber security, Big Data, and the Technologies Shaping the Future Through an Academic Perspective! Christian Johnson, a student at the University of Maryland will bring fresh and relevant topics to the show bas…</p>
+
+<p><a href="https://www.stitcher.com/podcast/michael-bazzell/the-complete-privacy-security-podcast">The Privacy, Security, &amp; OSINT Show</a>
+Listen to The Privacy, Security, &amp; OSINT Show episodes free, on demand. Your weekly dose of privacy, digital security, and open source intelligence (OSINT) news and opinion. The easiest way to listen to podcasts on your iPhone, iPad, Android, PC, smart speaker – and even in…</p>
+
+<h2 id="bitcoin-threat-model">Bitcoin Threat Model</h2>
+
+<p><a href="https://github.com/JWWeatherman"><img src="https://imgur.com/pfCQUAa.png" alt="" /></a></p>
+
+<ul>
+  <li>CryptoQuikRead_208 - <a href="https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_208---The-Bitcoin-Threat-Model-Part-1-e33vc0">The Bitcoin Threat Model [Part 1]</a></li>
+  <li>CryptoQuikRead_209 - <a href="https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_209---The-Bitcoin-Threat-Model-Part-2-e34ah8">The Bitcoin Threat Model [Part 2]</a></li>
+  <li>CryptoQuikRead_210 - <a href="https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_210---Human-Threat-Model-Part-1-e352ah">Human Threat Model [Part 1]</a></li>
+  <li>CryptoQuikRead_211 - <a href="https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_211---Human-Threat-Model-Part-2-e35ejd">Human Threat Model [Part 2]</a></li>
+  <li><a href="https://anchor.fm/thecryptoconomy/episodes/The-Bitcoin-Threat-Model-e35f5r">The Bitcoin Threat Model</a></li>
+</ul>
+
+<h2 id="related-posts">Related Posts</h2>
+
+<ul class="side-nav">
+
+  
+
+    
+      <li><a href="http://localhost:4000/info/security/"><strong>Bitcoin Security Info + Best Practices</strong></a></li>
+    
+      <li><a href="http://localhost:4000/tech/"><strong>Assorted Technical Topics</strong></a></li>
+    
+      <li><a href="http://localhost:4000/info/privacy/"><strong>Privacy and Bitcoin</strong></a></li>
+    
+      <li><a href="http://localhost:4000/layer-2/lightning/"><strong>Lightning - Info</strong></a></li>
+    
+      <li><a href="http://localhost:4000/layer-2/"><strong>Bitcoin - Layer 2 - Lightning, Liquid and Beyond</strong></a></li>
+    
+      <li><a href="http://localhost:4000/layer-1/"><strong>Bitcoin Layer 1 - Info</strong></a></li>
+    
+      <li><a href="http://localhost:4000/tech/decentralization/"><strong>Decentralization</strong></a></li>
+    
+      <li class="text-right"><a href="http://localhost:4000/feed/archive/"><strong>More ›</strong></a></li>
+
+
+  
+</ul>
+
+:ET

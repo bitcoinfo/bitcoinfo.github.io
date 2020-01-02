@@ -6,6 +6,9 @@ categories: ["Info"]
 
 ---
 
+
+{% include _improve_content.html %}
+
 ## Podcasts
 
 * [The Cryptoconomy Podcast - Guy Swann](https://sourcecrypto.pub/blog/thecryptoconomy-podcast-deep-dive/)
@@ -112,3 +115,5 @@ The official website of the animated series Bitcoin & Friends!
 Good Morning Cyberspace! Introducing a new weekly show where @lopp, @AlenaSatoshi, and @jeremyrwelch give a fast 10min rundown of the week's top stories in cybersecurity. Find out more here: [https://t.co/HcFbnnEQc4](https://t.co/HcFbnnEQc4)
 * [Joe Rodgers (@_joerodgers)](https://twitter.com/_joerodgers/status/1142889975270248454?s=20)
 All hail the king... of curation, @nlw! Crypto happens fast. If you want weekly crypto industry news and conversations, sign up for this man's newsletter. Congrats on 1 year of dedicated curation. Looking forward to what's next and how you will push content delivery for...
+
+</div>

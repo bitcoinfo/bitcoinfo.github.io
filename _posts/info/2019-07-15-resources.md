@@ -7,6 +7,7 @@ permalink: /info/resources/
 categories: ["Info"]
 ---
 
+{% include _improve_content.html %}
 
 * [bitcoin.*org*](https://bitcoin.org/)
 * [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin/) - [download](https://bitcoin.org/en/download) 
@@ -56,4 +57,4 @@ categories: ["Info"]
 
 ## Related Posts
 
-{% include list-posts category='Info' %}
+</div>
