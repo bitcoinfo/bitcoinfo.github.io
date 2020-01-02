@@ -1,8 +1,17 @@
+I"�<h2 id="no-problem">No problem!</h2>
+
+<p>Try…<br />
+…to start over on the <a href="/">home page</a>;<br />
+…to <strong>search</strong> below;<br />
+if you can’t find it, <a href="/contact/">ask about it</a>.</p>
+
+<h3 id="search">Search</h3>
+
 <script>
   const search = instantsearch({
-    appId: '{{ site.algolia.application_id }}',
-    apiKey: '{{ site.algolia.search_only_api_key }}',
-    indexName: '{{ site.algolia.index_name }}'
+    appId: 'UUFM36IZM9',
+    apiKey: 'a4d4a8cde666559f12c1836e18ba5772',
+    indexName: 'bitcoinfo'
   });
   
   const hitTemplate = function(hit) {
@@ -11,7 +20,7 @@
       date = moment.unix(hit.date).format('MMM D, YYYY');
     }
   
-    let url = `{{ site.baseurl }}${hit.url}#${hit.anchor}`;
+    let url = `${hit.url}#${hit.anchor}`;
   
     const title = hit._highlightResult.title.value;
   
@@ -28,7 +37,7 @@
       <div class="post-item">
         <span class="post-meta">${date}</span>
         <h2><a class="post-link" href="${url}">${title}</a></h2>
-        {{#breadcrumbs}}<a href="${url}" class="post-breadcrumbs">${breadcrumbs}</a>{{/breadcrumbs}}
+        <a href="${url}" class="post-breadcrumbs">${breadcrumbs}</a>
         <div class="post-snippet">${content}</div>
       </div>
     `;
@@ -54,8 +63,8 @@
   
   search.start();
   </script>
-  
-  <style>
+
+<style>
   .ais-search-box {
     max-width: 100%;
     margin-bottom: 15px;
@@ -89,3 +98,5 @@
     display: none;
   }
   </style>
+
+:ET

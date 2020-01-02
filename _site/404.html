@@ -24,11 +24,10 @@
 		<link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic%7CVolkhov' rel='stylesheet' type='text/css'>
 	</noscript>
 
-    <!-- Including InstantSearch.js library and styling -->
-    <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch.min.js"></script>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch.min.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch-theme-algolia.min.css">
-
+	<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.6.0/dist/instantsearch.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.20.1/moment.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.6.0/dist/instantsearch.min.css">
+	<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.6.0/dist/instantsearch-theme-algolia.min.css">
 
 	<!-- Search Engine Optimization -->
 	<meta name="description" content="Maybe the webpage was moved or deleted; or did you maybe mistype the link?">
@@ -436,63 +435,97 @@ if you can’t find it, <a href="/contact/">ask about it</a>.</p>
 
 <h3 id="search">Search</h3>
 
-<div class="search-searchbar">
-
-</div>
-
-<div class="search-hits">
-
-</div>
-
 <script>
-// Instanciating InstantSearch.js with Algolia credentials
-const search = instantsearch({
-  appId: 'UUFM36IZM9',
-  apiKey: 'a4d4a8cde666559f12c1836e18ba5772',
-  indexName: 'bitcoinfo',
-  searchParameters: {
-    restrictSearchableAttributes: [
-      'title',
-      'content'
-    ]
-  }
-});
-
-const hitTemplate = function(hit) {
-  const url = hit.url;
-  const title = hit._highlightResult.title.value;
-  const content = hit._highlightResult.html.value;
-
-  return `
-    <div class="list__item">
-      <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-        <h2 class="archive__item-title" itemprop="headline"><a href="${url}">${title}</a></h2>
-        <div class="archive__item-excerpt" itemprop="description">${content}</div>
-      </article>
-    </div>
-  `;
-}
-
-// Adding searchbar and results widgets
-search.addWidget(
-  instantsearch.widgets.searchBox({
-    container: '.search-searchbar',
-    poweredBy: true,
-    placeholder: 'Enter your search term...'
-  })
-);
-search.addWidget(
-  instantsearch.widgets.hits({
-    container: '.search-hits',
-    templates: {
-      item: hitTemplate
+  const search = instantsearch({
+    appId: 'UUFM36IZM9',
+    apiKey: 'a4d4a8cde666559f12c1836e18ba5772',
+    indexName: 'bitcoinfo'
+  });
+  
+  const hitTemplate = function(hit) {
+    let date = '';
+    if (hit.date) {
+      date = moment.unix(hit.date).format('MMM D, YYYY');
     }
-  })
-);
+  
+    let url = `${hit.url}#${hit.anchor}`;
+  
+    const title = hit._highlightResult.title.value;
+  
+    let breadcrumbs = '';
+    if (hit._highlightResult.headings) {
+      breadcrumbs = hit._highlightResult.headings.map(match => {
+        return `<span class="post-breadcrumb">${match.value}</span>`
+      }).join(' > ')
+    }
+  
+    const content = hit._highlightResult.html.value;
+  
+    return `
+      <div class="post-item">
+        <span class="post-meta">${date}</span>
+        <h2><a class="post-link" href="${url}">${title}</a></h2>
+        <a href="${url}" class="post-breadcrumbs">${breadcrumbs}</a>
+        <div class="post-snippet">${content}</div>
+      </div>
+    `;
+  }
+  
+  
+  search.addWidget(
+    instantsearch.widgets.searchBox({
+      container: '#search-searchbar',
+      placeholder: 'Search into posts...',
+      poweredBy: true // This is required if you're on the free Community plan
+    })
+  );
+  
+  search.addWidget(
+    instantsearch.widgets.hits({
+      container: '#search-hits',
+      templates: {
+        item: hitTemplate
+      }
+    })
+  );
+  
+  search.start();
+  </script>
 
-// Starting the search
-search.start();
-</script>
+<style>
+  .ais-search-box {
+    max-width: 100%;
+    margin-bottom: 15px;
+  }
+  .post-item {
+    margin-bottom: 30px;
+  }
+  .post-link .ais-Highlight {
+    color: #111;
+    font-style: normal;
+    text-decoration: underline;
+  }
+  .post-breadcrumbs {
+    color: #424242;
+    display: block;
+  }
+  .post-breadcrumb {
+    font-size: 18px;
+    color: #424242;
+  }
+  .post-breadcrumb .ais-Highlight {
+    font-weight: bold;
+    font-style: normal;
+  }
+  .post-snippet .ais-Highlight {
+    color: #2a7ae2;
+    font-style: normal;
+    font-weight: bold;
+  }
+  .post-snippet img {
+    display: none;
+  }
+  </style>
 
 
 			</div>
