@@ -1,4 +1,4 @@
-I"–<ul>
+I"þ<ul>
   <li><a href="https://bitcoin.org/">bitcoin.<em>org</em></a></li>
   <li><a href="https://github.com/bitcoin/bitcoin/">bitcoin/bitcoin</a> - <a href="https://bitcoin.org/en/download">download</a></li>
   <li><a href="https://en.bitcoin.it/wiki/Main_Page">en.bitcoin.it/wiki/Main_Page</a></li>
@@ -69,6 +69,8 @@
 
   
 
+    
+      <li><a href="http://localhost:4000/info/why-bitcoin/"><strong>Why Bitcoin?</strong></a></li>
     
       <li><a href="http://localhost:4000/info/articles/"><strong>Assorted Articles, Tweets, and Short-Form</strong></a></li>
     
