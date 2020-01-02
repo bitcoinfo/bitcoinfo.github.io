@@ -45,7 +45,9 @@ homepage: true
 ---
 
 
-Welcome!  I mean for this to become a comprehensive review of the various information systems related to Bitcoin.
+## Welcome!  
+
+I mean for this to become a comprehensive review of the various information systems related to Bitcoin.
 
 For the moment, it's a pretty rough and tumble pull of all the links I've collected about Bitcoin over the past couple years, which were previously mixed together with the crypto information I've been gathering at the same time.
 

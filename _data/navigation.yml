@@ -52,8 +52,6 @@
     url: /layer-1/full-node/
   - title: "Applications"
     url: /layer-1/applications/
-  - title: "Full Node"
-    url: /layer-1/full-node/
   - title: "Lightning Network"
     url: /layer-2/lightning/practical/
   - title: "Satellite"
