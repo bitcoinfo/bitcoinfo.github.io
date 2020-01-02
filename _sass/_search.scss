@@ -11,7 +11,7 @@
 .search__toggle {
   margin-left: 1rem;
   margin-right: 1rem;
-  height: $nav-toggle-height;
+  height: 2rem;
   border: 0;
   outline: none;
   color: $primary-color;
@@ -42,14 +42,10 @@
     margin-right: auto;
     padding-left: 1em;
     padding-right: 1em;
-    -webkit-animation: $intro-transition;
-    animation: $intro-transition;
+    -webkit-animation: 0.3s;
+    animation: 0.3s;
     -webkit-animation-delay: 0.15s;
     animation-delay: 0.15s;
-
-    @include breakpoint($x-large) {
-      max-width: $max-width;
-    }
   }
 
   .search-input {
@@ -60,15 +56,7 @@
     outline: none;
     box-shadow: none;
     background-color: transparent;
-    font-size: $type-size-3;
-
-    @include breakpoint($large) {
-      font-size: $type-size-2;
-    }
-
-    @include breakpoint($x-large) {
-      font-size: $type-size-1;
-    }
+    font-size: 1.563em;
   }
 
   &.is--visible {
@@ -83,20 +71,14 @@
 
   .results__found {
     margin-top: 0.5em;
-    font-size: $type-size-6;
+    font-size: 0.75em;
   }
 
   .archive__item {
     margin-bottom: 2em;
 
-    @include breakpoint($large) {
-      width: 75%;
     }
 
-    @include breakpoint($x-large) {
-      width: 50%;
-    }
-  }
 
   .archive__item-title {
     margin-top: 0;
