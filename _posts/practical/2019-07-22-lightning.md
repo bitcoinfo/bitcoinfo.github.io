@@ -214,7 +214,7 @@ Off-Chain Bitcoin payments using smart contracts * [www.moneni.com/mcb/nodematch
   > Lightning Node Match – maximize te number of nodes reached in a minimum number of hops.
 * [Lightning Payment Request Decoder](https://lndecode.com/)
   >For decoding lightning network payment requests as defined in BOLT #11
-* [Lightning Decoder | Decode Lightning Network BOLT11 Invoices](https://lightningdecoder.com/)
+* [Lightning Decoder - Decode Lightning Network BOLT11 Invoices](https://lightningdecoder.com/)
 Lightning Decoder is a utility for decoding lightning network payment requests (BOLT11).
 * [darwin/simverse](https://github.com/darwin/simverse)
 Need a LN simnet? This tool can generate one for you.

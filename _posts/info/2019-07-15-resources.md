@@ -25,7 +25,7 @@ categories: ["Info"]
 
 ## Info
 
-* [99Bitcoins | Buy Bitcoin, Bitcoin Guides & Reviews for Bitcoin Newbies](https://99bitcoins.com/)
+* [99Bitcoins - Buy Bitcoin, Bitcoin Guides & Reviews for Bitcoin Newbies](https://99bitcoins.com/)
   > 99Bitcoins supplies video and text tutorial on how to buy Bitcoins with Paypal, Credit Card, debit card and more. We also supply you with your first Bitcoin
 * [Bitcoin Resources](https://bitcoin-resources.com)
 * [Answers to frequently asked Bitcoin questions](https://www.weusecoins.com/en/questions/) - [weusecoins/weusecoins](https://github.com/weusecoins/weusecoins)

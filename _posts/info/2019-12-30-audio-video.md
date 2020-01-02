@@ -22,7 +22,7 @@ categories: ["Info"]
 * [Bitcoin & Co. - Introducing the philosophy, ideas and people behind Bitcoin.](https://bitcoincopodcast.com/)
   * [Andreas M. Antonopoulos on Bitcoin, privacy, human rights and the ...](https://bitcoinundco.com/en/andreas-antonopoulos-future/)
     > Andreas M. Antonopoulos is one of the rare bitcoin and open blockchain experts who approaches the subject from an educational, political, cultural, and human perspective - not only discussing the technology in investment terms. We discuss Bitcoin in the context of human righ...
-* [Home | Lets Talk Bitcoin](https://letstalkbitcoin.com/)
+* [Home - Lets Talk Bitcoin](https://letstalkbitcoin.com/)
   > The LTB Network provides a tokenized platform for podcasts, articles, and forums about the ideas, people, and projects building the new digital economy and the future of money.
 * [Stephan Livera Podcast](https://stephanlivera.com/)
 * [Tales from the Crypt: A Bitcoin Podcast](https://talesfromthecrypt.libsyn.com/)
@@ -31,7 +31,7 @@ categories: ["Info"]
 On Untold Stories, host Charlie Shrem dives deep into the lives and personal histories of some of crypto's most influential leaders
 * [What Bitcoin Did - Bitcoin Podcast, Interviews and Resources](https://www.whatbitcoindid.com/) 
   >Listen to Interviews with leaders in Bitcoin and Cryptocurrencies with The What Bitcoin Did Podcast.
-* [Episodes | Citizen Bitcoin](https://citizenbitcoin.world/episodes)
+* [Episodes - Citizen Bitcoin](https://citizenbitcoin.world/episodes)
   > Podcasting my journey learning bitcoin hoping it makes yours a bit easier.
 * [The Bitcoin Knowledge Podcast](https://www.bitcoin.kn/)
   > To help you better understand Bitcoin the top people in the Bitcoin industry are interviewed by Trace Mayer for the Bitcoin Knowledge Podcast.
@@ -60,7 +60,7 @@ On Untold Stories, host Charlie Shrem dives deep into the lives and personal his
   > Live and recorded video from the largest Bitcoin meetup in the United States, in San Francisco, California. Learn from the various speakers we host about top...
 [The Bitcoin Foundation](https://www.youtube.com/user/BitcoinFoundation/videos)
   > We approach that mission with Bitcoin's technology and community as our focus. There is tremendous potential in Bitcoin—from the opportunities it creates for...
-[Episodes | Citizen Bitcoin](https://citizenbitcoin.world/episodes)
+[Episodes - Citizen Bitcoin](https://citizenbitcoin.world/episodes)
 
 
 ## Assorted

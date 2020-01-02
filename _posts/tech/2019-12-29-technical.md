@@ -73,7 +73,7 @@ On the Technical Side of things... largely unsorted... :)
 
 [Vladimir Ciobica](https://coindoo.com/author/vladimirciobica/)
 
-[What Is a BIP? | The Most Famous Bitcoin Improvement Proposals - C...](https://coindoo.com/what-is-a-bip-the-most-famous-bitcoin-improvement-proposals/)
+[What Is a BIP? - The Most Famous Bitcoin Improvement Proposals - C...](https://coindoo.com/what-is-a-bip-the-most-famous-bitcoin-improvement-proposals/)
 
 There are some that argue that these BIPs can and will eventually lead to more forks in the network which is generally considered to be a bag thing in the cryptocurrency community at large.
 

@@ -54,8 +54,8 @@ Our mission is to provide a digital library and archive of resources on blockcha
 
 ## Reports
 
-* [Delphi Digital | THE STATE OF BITCOIN](https://www.delphidigital.io/bitcoin)
-* [Delphi Digital | UTXO](https://www.delphidigital.io/utxo)
+* [Delphi Digital - THE STATE OF BITCOIN](https://www.delphidigital.io/bitcoin)
+* [Delphi Digital - UTXO](https://www.delphidigital.io/utxo)
 * [Research - Smith + Crown](https://www.smithandcrown.com/research/)
   > Since 2013 we have been studying the breadth of the public blockchain space with a focus on global trends, industry intelligence, and cryptoeconomic systems
 
@@ -135,7 +135,7 @@ I'm skeptical about most of them, each book has it's pros and cons, while everyo
   > in those 10 months, ive read 25 "bitcoin related" books. I use that term loosely (or maybe not). These books cover economics, technology, liberty, anthropology, information theory, bitcoin, sci-fi, comp sci, psychedelics, entrepreneurship, consciousness, systems engineering
 * [Vinay Gupta (@leashless)](https://twitter.com/leashless/status/1066892843548069889)
   > Read this. It was written in 1975. [https://t.co/MFa48Y0jtk](https://t.co/MFa48Y0jtk) It's basically the secret key to most of the really heavy thinking in tech futurism; in particular, it's almost certainly where Julian Assange got the idea from Wikileaks from. Full of vision of the most penetratin...
-* [Ten Great Books on Bitcoin | NewsBTC](https://www.newsbtc.com/bitcoin-book/)
+* [Ten Great Books on Bitcoin - NewsBTC](https://www.newsbtc.com/bitcoin-book/)
   > In the list bellow you will find ten of the most interesting bitcoin book ever written.
 * [https://antonopoulos.com/books/](https://antonopoulos.com/books/)
 

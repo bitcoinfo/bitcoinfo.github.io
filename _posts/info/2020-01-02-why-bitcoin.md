@@ -38,9 +38,9 @@ Of course, shit rolls down hill, so private banks make use of similar practices,
   > Innumerable economists, investors, commentators, and authors have learned from this book through the decades. After fifty years, it remains the best book in print on the topic, a real manifesto of sound money.
   > 
   > Rothbard boils down the Austrian theory to its essentials. The book also made huge theoretical advances. Rothbard was the first to prove that the government, and only the government, can destroy money on a mass scale, and he showed exactly how they go about this dirty deed. But just as importantly, it is beautifully written. He tells a thrilling story because he loves the subject so much.
-* [Origins of the Federal Reserve | Murray N. Rothbard](https://mises.org/library/origins-federal-reserve)
+* [Origins of the Federal Reserve - Murray N. Rothbard](https://mises.org/library/origins-federal-reserve)
   > The financial elites were responsible for putting through the Fed as a governmentally created and sanctioned cartel device to enable the nation's banks to inflate the money supply in a coordinated fashion.
-* [The Institutional Risk Analyst | Update: The Financial Repression Index](https://www.theinstitutionalriskanalyst.com/single-post/2018/06/09/Update-The-Financial-Repression-Index)
+* [The Institutional Risk Analyst - Update: The Financial Repression Index](https://www.theinstitutionalriskanalyst.com/single-post/2018/06/09/Update-The-Financial-Repression-Index)
   > Back in April we published a comment, "[Bank Earnings & Financial Repression](http://www.theinstitutionalriskanalyst.com/single-post/2018/04/04/Bank-Earnings-Financial-Repression)," that introduced the concept of the Financial Repression Index.
   > 
   > In a related working paper available on SSRN, "[The Financial Repression Index: U.S Banking System Since 1984](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=3155370)," we define the index, which essentially shows the distribution of bank interest income between debt investors and bank shareholders.
