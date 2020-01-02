@@ -6,6 +6,22 @@ categories: ["Practical"]
 tags: ["Layer 1"]
 ---
 
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1">
+<div class="panel radius" markdown="1">
+**Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+</div><!-- /.medium-4.columns -->
+
+
+
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+{% include _improve_content.html %}
+
+
 ## Wallets
 
 > * Do not use wallets that don't give you recovery data; these wallets are likely controlling your keys.
@@ -265,3 +281,5 @@ OXT is the "Other eXploration Tool" and it should become the "Open eXploration T
 * [KevinSmall/blockchain3d](https://github.com/KevinSmall/blockchain3d)
 
 
+</div>
+</div>

@@ -123,6 +123,8 @@ CryptoQuikRead_130 - [Media Coverage of Bitcoin is Still a Total Disaster](https
   ![](https://cdn-images-1.medium.com/max/1200/1*545rq_Hfo9G2vAupqDAKfQ.png)
 * [Dan Hedl (@danheld)](https://twitter.com/danheld/status/1055499653930672129) 
   >1/ Bitcoin’s origin is akin to planting a tree. It wasn’t just Satoshi’s selection of the species (code), but the season (timing), soil (distribution), and gardening (community) that were essential to its success Part 1: Species https://t.co/mfgMaDx70Z Thread 👇
+
+  
 ## CryptoQuickReads
 
 * CryptoQuikRead_014 - [Bulletproofs, Faster Rangeproofs, and Much More](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_014---Bulletproofs--Faster-Rangeproofs--and-Much-More-e2ndue)

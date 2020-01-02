@@ -42,7 +42,7 @@
 
 - title: "Practical"
   url: "/practical/"
-  side: right
+  side: left
   dropdown:
   - title: "Get Bitcoin"
     url: "/practical/get-bitcoin/"
@@ -63,18 +63,20 @@
   - title: "Trading"
     url: /practical/trading/
 
-- title: "Social"
+- title: "The Social Layer"
   url: /social/
-  side: right
+  side: left
   dropdown:
+  - title: "Bitcointalk Forum"
+    url: "/social/bitcointalk/"
+  - title: "Bitcoin Twitter"
+    url: "/social/twitter/"
+  - title: "Governance"
+    url: "/social/governance/"
   - title: "Memes / Art"
     url: "/memes-art/"
   - title: "Swag"
     url: "/swag/"
-  - title: "Governance"
-    url: "/social/governance/"
-  - title: "Bitcointalk Forum - Info"
-    url: "/social/bitcointalk/"
 
 
 - title: #"Search"

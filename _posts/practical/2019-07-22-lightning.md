@@ -4,15 +4,37 @@ title: "Lightning Network Info: Wallets, Applications, Guides and Development"
 description: A curated list related to using the Lightning Network.
 excerpt: Apps, tools, howtos, and other resources for using the Lightning network.
 permalink: /layer-2/lightning/practical/
-header:
-  image: "/images/lightning-network-trustchain.png"
-  og_image: "/images/jack-dorsey-lightning-network-torch-710x458.jpg"
-  teaser: "/images/jack-dorsey-lightning-network-torch-710x458.jpg"
-  caption: "[Coingecko 2019 Q1 Report](https://www.slideshare.net/coingecko/coingecko-2019-q1-cryptoasset-report)"
+header: no
+image:
+    title: "lightning-network-trustchain.png"
+    caption: "Coingecko 2019 Q1 Report"
+    caption_url: "https://www.slideshare.net/coingecko/coingecko-2019-q1-cryptoasset-report"
+    thumb: "jack-dorsey-lightning-network-torch-710x458.jpg"
+og_image: "/images/jack-dorsey-lightning-network-torch-710x458.jpg"
+  
 last_modified_at: 2019-12-08T11:22:33-23:00
 categories: ["Practical"]
 tags: ["Lightning", "Layer 2"]
 ---
+
+
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1">
+<div class="panel radius" markdown="1">
+**Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+</div><!-- /.medium-4.columns -->
+
+
+
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+{% include _improve_content.html %}
+
+
 
 *See Also: [Lightni*N*g*Fo* - Practical](https://docs.google.com/spreadsheets/d/1Z3Ofa4P8097VWV70Z_bMqIMladngvm-Ck24ot9TDNmw/edit#gid=794843569) on Google Sheets*
 
@@ -723,3 +745,7 @@ Testnet Slack Tipping Bot
 ### 🧙 lapp-dev
 * [twitter.com/wbobeirne/status/1131989707389329408?s=12](https://twitter.com/wbobeirne/status/1131989707389329408?s=12)
   > Need plans for the long weekend? Why not get started on making your own Lightning App! Over the next couple of weeks I'll be posting a 5 part series on building a modern web app that takes lightning payments, and how to host it securely. [Making a Lightning Web-App Part1](https://medium.com/@wbobeirne/making-a-lightning-web-app-part-1-4a13c82f3f78)
+
+
+</div>
+</div>

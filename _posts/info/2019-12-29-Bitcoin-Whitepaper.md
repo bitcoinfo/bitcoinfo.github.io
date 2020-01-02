@@ -7,6 +7,20 @@ categories: ["Info"]
 tags: ["Literature"]
 ---
 
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1">
+<div class="panel radius" markdown="1">
+**Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+</div><!-- /.medium-4.columns -->
+
+
+
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+{% include _improve_content.html %}
 
 [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 
@@ -257,3 +271,6 @@ We have proposed a system for electronic transactions without relying on trust. 
 http://www.hashcash.org/papers/hashcash.pdf, 2002.  
 [7] R.C. Merkle, "Protocols for public key cryptosystems," In *Proc. 1980 Symposium on Security and Privacy*, IEEE Computer Society, pages 122-133, April 1980.  
 [8] W. Feller, "An introduction to probability theory and its applications," 1957.
+
+</div>
+</div>

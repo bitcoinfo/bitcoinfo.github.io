@@ -8,6 +8,21 @@ tags: ["Layer 1"]
 ---
 
 
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1">
+<div class="panel radius" markdown="1">
+**Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+</div><!-- /.medium-4.columns -->
+
+
+
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+{% include _improve_content.html %}
+
 
 
 ## ⧉ Payments
@@ -101,3 +116,7 @@ tags: ["Layer 1"]
 * [r/OpenBazaar](https://www.reddit.com/r/OpenBazaar/)
 * [A STEP-BY-STEP GUIDE FOR BUYING IN OPENBAZAAR - The Green Mile](https://tgmweed.co.uk/a-step-by-step-guide-for-buying-in-openbazaar/)
   > Openbazaar is a marketplace for Bitcoin users where they can trade different stuffs in exchange for the cryptocurrency. What makes it different from other ecommerce is they offer a software for users to download in order to trade. Instead of users visiting a website, they wil...
+
+
+</div>
+</div>

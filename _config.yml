@@ -33,7 +33,7 @@ improve_content: https://github.com/bitcoinfo/bitcoinfo.github.io/blob/master
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://bitcoinfo.xyz/images/'
+urlimg: '/images/'
 
 algolia:
   application_id: UUFM36IZM9

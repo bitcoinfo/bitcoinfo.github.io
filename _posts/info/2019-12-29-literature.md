@@ -6,6 +6,24 @@ categories: ["Info"]
 tags: ["Literature"]
 ---
 
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1">
+<div class="panel radius" markdown="1">
+**Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+</div><!-- /.medium-4.columns -->
+
+
+
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+{% include _improve_content.html %}
+
+
+
 * [Essays on Bitcoin - eBook - Tuur Demeester, Andreas M Antonopoulos, Jimmy Song, Daniel Krawisz, Saifedean Ammous, Konrad S. Graf and Pierre Rochard](https://www.essaysonbitcoin.com/uploads/3/4/9/6/3496353/essaysonbitcoinv7.pdf)
   >These essays represent varying viewpoints on what Bitcoin is to each participant. The common thread is a long time horizon, deep knowledge on the topic and some historical context. The idea is to provide a contrast to the increasingly short term focus that other platforms and businesses seem to precipitate. I hope you enjoy the series.
 * [Crypto Words // A journal of Bitcoin commentary](https://cryptowords.github.io/)
@@ -136,3 +154,7 @@ These aren't exactly recommendations, as much as left here for me to sort throug
 * [Understanding Bitcoin: Cryptography, Engineering and Economics](https://www.amazon.com/Understanding-Bitcoin-Cryptography-Engineering-Economics/dp/1119019168/) - Pedro Franco
 * [Virtual Billions: The Genius, the Drug Lord, and the Ivy League Twins behind the Rise of Bitcoin](https://www.amazon.com/Virtual-Billions-Genius-League-Bitcoin/dp/163388144X/) - Eric Geissinger
 * [Wildcat Currency](https://www.amazon.com/Wildcat-Currency-Virtual-Revolution-Transforming/dp/0300186134/) - Edward Castronova
+
+
+</div>
+</div>

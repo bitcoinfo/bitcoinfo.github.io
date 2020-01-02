@@ -6,6 +6,23 @@ categories: ["Practical"]
 
 ---
 
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1">
+<div class="panel radius" markdown="1">
+**Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+</div><!-- /.medium-4.columns -->
+
+
+
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+{% include _improve_content.html %}
+
+
 [Chelsea Palmer (@IMmsGNU)](https://twitter.com/IMmsGNU/status/1048803584605794304)
   > [...] make sure to visually check that the addresses match after opening. In $btc the standard is compare first & last 4 characters in the address string but can't be too careful.
 
@@ -75,3 +92,6 @@ categories: ["Practical"]
 * [Amber - Features](https://getamber.io/features.html)
   > The easiest way to buy Bitcoin with the use of transaction round-ups, automatically recurring purchasing and one-off purchases in one application that takes advantage of dollar cost averaging and micro-investing. Available in Australia on iOS and Android.
 * [btcmarkets.net](https://www.btcmarkets.net/)
+
+</div>
+</div>

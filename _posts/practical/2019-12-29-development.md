@@ -7,6 +7,26 @@ tags: ["Tech Info"]
 
 ---
 
+
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1">
+<div class="panel radius" markdown="1">
+**Contents***
+{: #toc }
+*  TOC
+{:toc}
+</div>
+</div><!-- /.medium-4.columns -->
+
+
+
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+{% include _improve_content.html %}
+
+
+## Resources
+
 * [github.com/ChristopherA/Learning-Bitcoin-from-the-Command-Line](https://github.com/ChristopherA/Learning-Bitcoin-from-the-Command-Line) 
 * [bitcoin.org/en/developer-guide](https://bitcoin.org/en/developer-guide)
 * [bitcoin.org/en/developer-reference](https://bitcoin.org/en/developer-reference)
@@ -353,3 +373,6 @@ Java Microlibrary implementation of BIP0039.
   > Bitcoin Core RPC compatible, battle-tested .NET library and RPC wrapper for Bitcoin and Altcoins
 * [tomasvdw/bitcrust](https://github.com/tomasvdw/bitcrust)
   > Bitcoin software suite. 
+
+</div>
+</div>
