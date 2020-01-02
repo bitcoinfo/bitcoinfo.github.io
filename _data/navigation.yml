@@ -75,6 +75,6 @@
     url: "/social/bitcointalk/"
 
 
-- title: "Search"
-  url: "/search/"
-  side: right
+- title: #"Search"
+  url: #"/search/"
+  side: #right
