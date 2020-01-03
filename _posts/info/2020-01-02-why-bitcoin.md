@@ -14,7 +14,7 @@ Bitcoin has a fixed supply schedule, and is difficult to change. The only reason
 
 No other blockchain or cryptocurrency fulfils that need. 
 
-Even if you aren't too concerned about that, there are plenty of reasons, "Why Bitcoin?" However, that is plenty enough for me... To me, the rest of the reasons people have for why, are more about "How" Bitcoin will succeed. 
+Even if you aren't too concerned about that, there are plenty of reasons, "Why Bitcoin?" However, that is plenty enough for me... the rest of the reasons people have for why are, to me, more about "How" Bitcoin will succeed. 
 
 It's fixed supply schedule does imply some dramatic increases in its price for the future. However, I'm not an investor, becuause I don't have any money. So it's fluctuations in price have minimal impact, upon myself.
 
