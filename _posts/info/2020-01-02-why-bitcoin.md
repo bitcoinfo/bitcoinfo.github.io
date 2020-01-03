@@ -2,16 +2,27 @@
 title: "Why Bitcoin?"
 permalink: /info/why-bitcoin/
 categories: ["Info"]
+excerpt: "The root problem with conventional currency is all the trust that's required to make it work. The central bank must be trusted not to debase the currency, but the history of fiat currencies is full of breaches of that trust. Banks must be trusted to hold our money and transfer it electronically, but they lend it out in waves of credit bubbles with barely a fraction in reserve. We have to trust them with our privacy, trust them not to let identity thieves drain our accounts."
 ---
 
 {% include _improve_content.html %}
 
 
-## ...to include the many reasons 
+> The root problem with conventional currency is all the trust that's required to make it work. The central bank must be trusted not to debase the currency, but the history of fiat currencies is full of breaches of that trust. Banks must be trusted to hold our money and transfer it electronically, but they lend it out in waves of credit bubbles with barely a fraction in reserve. We have to trust them with our privacy, trust them not to let identity thieves drain our accounts. - [Satoshi Nakamoto](https://satoshi.nakamotoinstitute.org/posts/p2pfoundation/1/)
 
-For me, the most important reason, is its deflationary nature, the fixed nature of its money supply, and that it's decentralized to the extent that changing it is difficult.
+Bitcoin has a fixed supply schedule, and is difficult to change. The only reason it still exists is because it's leaderless and decentralized, so that it would be exceedingly difficult for governments to shut it down. 
 
-Some other cryptocurrency efforts are interesting to me for other reasons. However, in my opinion, none of them solve this fundamental problem of global currencies in the way that Bitcoin does. 
+No other blockchain or cryptocurrency fulfils that need. 
+
+Even if you aren't too concerned about that, there are plenty of reasons, "Why Bitcoin?" However, that is plenty enough for me... To me, the rest of the reasons people have for why, are more about "How" Bitcoin will succeed. 
+
+It's fixed supply schedule does imply some dramatic increases in its price for the future. However, I'm not an investor, becuause I don't have any money. So it's fluctuations in price have minimal impact, upon myself.
+
+I'm more concerned with it's ability to solve, what I see as, a moral problem. 
+
+I just love that there is a choice, and a possibility for me to earn a living, without the necessity of a purposfully broken currency.  I'm not there yet, but it's a dream.
+
+## ...to, eventually, include the many reason why 
 
 [Pierre Rochard (@pierre_rochard)](https://twitter.com/pierre_rochard/status/988403000682139649)  
   > Why I’m focused on Bitcoin: • Schelling point consensus • p2p network governance with full nodes • proof-of-work secure timestamping • Lindy effect / first mover advantage • fixed issuance schedule • prudent engineering culture • promising research: lightni...
@@ -22,7 +33,7 @@ Some other cryptocurrency efforts are interesting to me for other reasons. Howev
 [Why Own Bitcoin](https://blog.xapo.com/why-own-bitcoin)
   > 1- Take 1% of what you have, and buy Bitcoin (all at once and at the market price) 2- Carry it at cost 3- Do not touch it for 10 years
 
-## Central Banks Deflate Global Currencies at an Alarming Rate
+## Central Banks Deflate the Value of Global Currency
 
 In the United States, that began around the time the Federal Reserve was enstated, 1913.  They do this by creating dollars with no underlying value, but are treated the same as all other dollars in circulation. The immediate result is apparent prosperity, as was seen during the roaring '20. However, the crash is sure to follow. 
 
