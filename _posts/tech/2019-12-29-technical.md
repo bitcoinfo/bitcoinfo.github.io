@@ -46,6 +46,12 @@ On the Technical Side of things... largely unsorted... :)
 * [Misbehavior in Bitcoin: A Study of Double-Spending and Accountability](https://www.ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/system-security-group-dam/research/publications/pub2015/tissec15_karame.pdf)
 * [Who Will Steal Satoshi’s Bitcoins? – nopara73](https://medium.com/@nopara73/stealing-satoshis-bitcoins-cc4d57919a2b)
   >I woke up in the middle of the night so I fired up Twitter and I encountered two well-known cryptographers’ conversation about quantum…
+* [Demystifying Bitcoin's peers.dat](https://raghavsood.com/blog/2018/05/20/demystifying-peers-dat)
+  > Bitcoin uses a custom format to store peer information. Although the inbuilt JSON-RPC provides a helpful getpeerinfo method to list your active connections, it offers no method to query, dump, or otherwise access the information in peers.dat, which contains far more than just your active connections. Having access to the information in this file can be helpful for a number of reasons, such as finding out information about the network and finding more nodes than just your connections to broadcast transactions to.
+  > 
+  > My interest in this was piqued by this post on the Bitcoin StackExchange. This blog post is an attempt to answer that question (and cover some gaps in my personal crypto tools) by building a utility that can read and query peers.dat. The post will go step by step, as I am writing this while building the utility.
+
+
 
 ![](https://cdn-images-1.medium.com/max/1200/0*GWRYyGRclAs1rC4K.jpg)
 
