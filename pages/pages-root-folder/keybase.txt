@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/infominer
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://bitcoinfo.xyz
+  * I am infominer (https://keybase.io/infominer) on keybase.
+  * I have a public key ASAv08730AX3EcVNr0ikTdA5Xs99Xhha_rFSDTtsXcrlKgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d7bf039feb3878e9867ab447a24fa885d14548369ca0768cb15d5e94514ccabe0a",
+      "host": "keybase.io",
+      "kid": "01202fd3cef7d005f711c54daf48a44dd0395ecf7d5e185afeb1520d3b6c5dcae52a0a",
+      "uid": "c39f629d68ee7e4ce8e6c96b74c29c19",
+      "username": "infominer"
+    },
+    "merkle_root": {
+      "ctime": 1580253208,
+      "hash": "b59e3b5e0816e89ba1bf2faa2615120a1a38ceeea9f9533a334654ccc21506f5576046820da1021a2fdc98e269745fc38f8016655709519ab881a5a345148dd6",
+      "hash_meta": "ec0e10598cc1283cb3c33b6470b860a0f3f657b129720b03855b5d0587b02cb8",
+      "seqno": 14400264
+    },
+    "service": {
+      "entropy": "NzdGXJ5t6q3dvuB96B9FGXzj",
+      "hostname": "bitcoinfo.xyz",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.1"
+  },
+  "ctime": 1580253216,
+  "expire_in": 504576000,
+  "prev": "be5677a9e79ff41e9a4f41af34b4f2baca4e77b3cfa3f536a58186ac85383c8a",
+  "seqno": 82,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgL9PO99AF9xHFTa9IpE3QOV7PfV4YWv6xUg07bF3K5SoKp3BheWxvYWTESpcCUsQgvlZ3qeef9B6aT0GvNLTyuspOd7PPo/U2pYGGrIU4PIrEINtKMHpk/k9TfxpgBuC6688U55bC6nppDcBRNFodoRLDAgHCo3NpZ8RALacKeEWLcLF+ZfkvNs1pkjkGK/Et2aF+b8ZsoXHEm1zHF7wf4uADHvO/cZdHv8G4jLo2Dm8NInIRsCw1CjXcC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIH7kWJhcZ9bCKBXF0lFleWLVDiJTLoS5O5YNNc4PxQyMo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/infominer
+
+==================================================================
