@@ -79,6 +79,38 @@
     url: "/swag/"
 
 
-- title: #"Search"
-  url: #"/search/"
-  side: #right
+- title: "History"
+  url: "/history/"
+  side: right
+  dropdown:
+  - title: "Bitcoin History"
+    url: "/history/bitcoin/"
+  - title: "Satoshi Nakamoto"
+    url: "/satoshi-nakamoto/"
+  - title: "Cryptography"
+    url: "/history/cypherpunks/"
+  - title: "Cypherpunks"
+    url: "/history/cypherpunks/"
+  - title: "Electronic cash"
+    url: "/history/electronic-cash/"
+  - title: "Darknet Markets"
+    url: "/history/darknet-markets/"
+  - title: "Rare Pepe and Counterparty"
+    url: "/history/rare-pepe-counterparty/"
+  - title: "Smart Contracts"
+    url: "/history/smart-contracts/"
+  
+- title: "More History"
+  side: right
+  dropdown:
+  - title: "Early Internet"
+    url: "/history/early-internet/"
+  - title: "Cyberpunk"
+    url: "/history/early-internet/cyberpunk/"
+  - title: "Hacker Culture"
+    url: "/history/early-internet/hacker-culture/"
+  - title: "Peer to Peer"
+    url: "/history/peer-to-peer/"
+  - title: "Money"
+    url: "/history/money/"
+
