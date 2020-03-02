@@ -58,6 +58,7 @@ Our mission is to provide a digital library and archive of resources on blockcha
 * [Delphi Digital - UTXO](https://www.delphidigital.io/utxo)
 * [Research - Smith + Crown](https://www.smithandcrown.com/research/)
   > Since 2013 we have been studying the breadth of the public blockchain space with a focus on global trends, industry intelligence, and cryptoeconomic systems
+* [Delphi Digital - BITCOIN OUTLOOK](https://www.delphidigital.io/btc)
 
 ## Papers
 
