@@ -106,7 +106,7 @@ defaults:
   -
     scope:
       path: 'pages' 				# an empty string here means all files in the project
-      type: 'page'
+      type: 'pages'
     values:
       show_meta: true 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
@@ -117,7 +117,7 @@ defaults:
   -
     scope:
       path: '_posts'
-      type: 'post'
+      type: 'posts'
     values:
       layout: page-fullwidth
       show_meta: true   # Show metadata for all posts
