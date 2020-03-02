@@ -23,7 +23,7 @@
   - title: "Finance"
     url: "/info/finance/"
 
-- title: "Tech Info"
+- title: "Tech"
   url: "/tech/"
   side: left
   dropdown:
