@@ -99,6 +99,13 @@
     url: "/history/rare-pepe-counterparty/"
   - title: "Smart Contracts"
     url: "/history/smart-contracts/"
+
+- title: "People"
+  url: /history/people/
+  side: right
+  dropdown:
+  - title: "Satoshi Nakamoto"
+    url: "/satoshi-nakamoto/"
   
 - title: "More History"
   side: right

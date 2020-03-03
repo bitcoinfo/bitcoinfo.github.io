@@ -7,8 +7,6 @@ categories: ["Social"]
 ---
 
 
-{% include _improve_content.html %}
-
 ![](https://cdn-images-1.medium.com/max/1200/1*ekAy4hmsfFv1NOyo6bQuzg.png)
 * [Bitcoin is a Social Creature (Mushroom) — Part 2/3](https://medium.com/@BrandonQuittem/bitcoin-is-a-social-creature-mushroom-part-2-3-6a05c3abe8f0) - [CryptoQuikRead_224](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_224---Bitcoin-is-a-Social-Creature--Mycelium-Part-2-e3iq3u)
   > Exploring Hype Cycles, Ethnomycology, and the Cult of Satoshi
@@ -110,7 +108,8 @@ Bitcoin is a slow-burning but potent nonviolent rebellion.
 * [@PsychedelicBart/Bitcoin-Only](https://twitter.com/PsychedelicBart/lists/bitcoin-only1)
 
 
-## Related Posts: Social
+## Related Posts
 
 {% include list-posts category='Social' %}
 
+{% include _improve_content.html %}

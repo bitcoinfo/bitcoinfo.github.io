@@ -23,6 +23,12 @@ categories: ["Tech Info"]
 
 On the Technical Side of things... largely unsorted... :)
 
+* [Sebastien Guillemot (@SebastienGllmt)](https://twitter.com/SebastienGllmt/status/1060744966618529793)
+  > Wow this is awesome! Check out this slide deck about the Bitcoin Backbone Model. The math used in this paper is reused in a bunch of papers about crypto (including Cardano) so understanding this will help you understand all the other papers! [https://t.co/lUb3NVaOi4](https://t.co/lUb3NVaOi4)
+* [jashmenn/bitcoin-reading-list](https://github.com/jashmenn/bitcoin-reading-list)
+  > a reading list for learning to program Bitcoin transactions
+* [reiver/blockchain-reading-list](https://github.com/reiver/blockchain-reading-list)
+  > A reading list on blockchain and related technologies, targeted at technical people who want a deep understanding of those topics.
 * [8 Problems for the Bitcoin Community to Solve Before Block Size:](https://medium.com/@jeremyrubin/8-problems-with-bitcoin-to-solve-before-block-size-6b4d35e0c6f9)
   > Recently the debate around block size has been getting a huge amount of attention, and it is easy to think this is the most important issue…
 * [Bitcoin Governance - Pierre Rochard - Medium](https://medium.com/@pierre_rochard/bitcoin-governance-37e86299470f)
@@ -50,8 +56,6 @@ On the Technical Side of things... largely unsorted... :)
   > Bitcoin uses a custom format to store peer information. Although the inbuilt JSON-RPC provides a helpful getpeerinfo method to list your active connections, it offers no method to query, dump, or otherwise access the information in peers.dat, which contains far more than just your active connections. Having access to the information in this file can be helpful for a number of reasons, such as finding out information about the network and finding more nodes than just your connections to broadcast transactions to.
   > 
   > My interest in this was piqued by this post on the Bitcoin StackExchange. This blog post is an attempt to answer that question (and cover some gaps in my personal crypto tools) by building a utility that can read and query peers.dat. The post will go step by step, as I am writing this while building the utility.
-
-
 
 ![](https://cdn-images-1.medium.com/max/1200/0*GWRYyGRclAs1rC4K.jpg)
 
