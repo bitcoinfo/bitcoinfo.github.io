@@ -3,10 +3,10 @@
   class: icon-github
   title: Code und mehr...
 
-- name: Twitter
-  url: http://twitter.com/infominer33
-  class: icon-twitter
-  title: "Find Infominer on Twitter"
+# - name: Twitter
+#  url: http://twitter.com/infominer33
+#  class: icon-twitter
+#  title: "Find Infominer on Twitter"
 
 # - name: Facebook
 #   url: http://www.facebook.com/
