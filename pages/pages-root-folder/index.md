@@ -9,7 +9,7 @@ header:
   image_fullwidth: bitcoin-1923207.png
 widget1:
   title: "Cypherpunks and the Crypto Wars"
-  url: '/history/cypherpunk/'
+  url: '/history/cypherpunks/'
   text: "Public key crypto, CryptoAnarchy, and the quest for digital privacy"
   image: history/Cypherpunk-bitcoinwiki.jpeg
 widget2:
