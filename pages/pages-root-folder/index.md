@@ -11,7 +11,7 @@ widget1:
   title: "Cypherpunks and the Crypto Wars"
   url: '/history/cypherpunk/'
   text: "Public key crypto, CryptoAnarchy, and the quest for digital privacy"
-  image: bitcoin-image.jpg
+  image: history/Cypherpunk-bitcoinwiki.jpeg
 widget2:
   title: "Running Bitcoin"
   url: '/layer-1/full-node/'
@@ -20,8 +20,8 @@ widget2:
 widget3:
   title: "David Chaum"
   url: '/history/people/david-chaum/'
-  image: bitcoin-503581_small.jpg
-  text: 'Discovered digital cryptography'
+  image: chaum.png
+  text: 'Discovered digital cryptography, invented digital currency, etc.'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -35,7 +35,7 @@ widget3:
 callforaction:
   url: https://tinyletter.com/bitcoinfo
   text: Inform me about new updates and features ›
-  style: alert
+  style: 
 permalink: /
 #
 # This is a nasty hack to make the navigation highlight
