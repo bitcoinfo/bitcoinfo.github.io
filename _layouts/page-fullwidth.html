@@ -31,6 +31,10 @@ format: page-fullwidth
 			{% endif %}
 
 			{{ content }}
+
+			{% if page.show_meta == true %}
+			{% include _meta_information.html %}
+			{% endif %}
 		</article>
 	</div><!-- /.medium-12.columns -->
 </div><!-- /.row -->
