@@ -20,7 +20,7 @@ widget2:
 widget3:
   title: "David Chaum"
   url: '/history/people/david-chaum/'
-  image: chaum.png
+  image: history/chaum.png
   text: 'Discovered digital cryptography, invented digital currency, etc.'
 #
 # Use the call for action to show a button on the frontpage
