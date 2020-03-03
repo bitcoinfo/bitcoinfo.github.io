@@ -8,9 +8,9 @@ layout: frontpage
 header:
   image_fullwidth: bitcoin-1923207.png
 widget1:
-  title: "Resources"
-  url: '/info/resources/'
-  text: "A page of top level resources for *everything* Bitcoin"
+  title: "Cypherpunks and the Crypto Wars"
+  url: '/history/cypherpunk/'
+  text: "Public key crypto, CryptoAnarchy, and the quest for digital privacy"
   image: bitcoin-image.jpg
 widget2:
   title: "Running Bitcoin"
@@ -18,10 +18,10 @@ widget2:
   text: "Tools, guides and other resources for running a Bitcoin Full-Node."
   image: bitcoin-accepted-here_small_thelastminute_flickr.jpg
 widget3:
-  title: "Technical Info"
-  url: '/tech/'
+  title: "David Chaum"
+  url: '/history/people/david-chaum/'
   image: bitcoin-503581_small.jpg
-  text: 'Bleep Blurp Bloop'
+  text: 'Discovered digital cryptography'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -47,10 +47,4 @@ homepage: true
 
 ## Welcome!  
 
-I mean for this to become a comprehensive review of the various information systems related to Bitcoin.
-
-For the moment, it's a pretty rough and tumble pull of all the links I've collected about Bitcoin over the past couple years, which were previously mixed together with the crypto information I've been gathering at the same time.
-
-It's all links I gathered passively, primarily while browsing my twitter feed, which I've categorized as best as I am able. Now my task is to treat Bitcoin in a more systematic fashion. 
-
-I've done such systematic study of its history, and have made pages for that over on [SourceCrypto](https://sourcecrypto.pub/posts/history/). Now that I have a site dedicated to Bitcoin, over all the rest, all of that Bitcoin History can live here. Once I get the foundation better prepared.
+This site is just beginning to come together. I hope you find what you're looking for. 
