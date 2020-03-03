@@ -2,9 +2,46 @@
   url: "/"
   side: left
 
+
+- title: "History"
+  url: "/history/"
+  side: left
+  dropdown:
+  - title: "Bitcoin History"
+    url: "/history/bitcoin/"
+  - title: "Satoshi Nakamoto"
+    url: "/satoshi-nakamoto/"
+  - title: "Cryptography"
+    url: "/history/cypherpunks/"
+  - title: "Cypherpunks"
+    url: "/history/cypherpunks/"
+  - title: "Electronic cash"
+    url: "/history/electronic-cash/"
+  - title: "Darknet Markets"
+    url: "/history/darknet-markets/"
+  - title: "Rare Pepe and Counterparty"
+    url: "/history/rare-pepe-counterparty/"
+  - title: "Smart Contracts"
+    url: "/history/smart-contracts/"
+ 
+- title: "More History"
+  side: left
+  dropdown:
+  - title: "Early Internet"
+    url: "/history/early-internet/"
+  - title: "Cyberpunk"
+    url: "/history/early-internet/cyberpunk/"
+  - title: "Hacker Culture"
+    url: "/history/early-internet/hacker-culture/"
+  - title: "Peer to Peer"
+    url: "/history/peer-to-peer/"
+  - title: "Money"
+    url: "/history/money/"
+
+
 - title: "Info"
   url: "/info/"
-  side: left
+  side: right
   dropdown:
   - title: "Resources"
     url: "/info/resources/"
@@ -25,7 +62,7 @@
 
 - title: "Tech"
   url: "/tech/"
-  side: left
+  side: right
   dropdown:
   - title: "Privacy"
     url: "/info/privacy/"
@@ -42,7 +79,7 @@
 
 - title: "Practical"
   url: "/practical/"
-  side: left
+  side: right
   dropdown:
   - title: "Get Bitcoin"
     url: "/practical/get-bitcoin/"
@@ -65,7 +102,7 @@
 
 - title: "The Social Layer"
   url: /social/
-  side: left
+  side: right
   dropdown:
   - title: "Bitcointalk Forum"
     url: "/social/bitcointalk/"
@@ -77,47 +114,4 @@
     url: "/memes-art/"
   - title: "Swag"
     url: "/swag/"
-
-
-- title: "History"
-  url: "/history/"
-  side: right
-  dropdown:
-  - title: "Bitcoin History"
-    url: "/history/bitcoin/"
-  - title: "Satoshi Nakamoto"
-    url: "/satoshi-nakamoto/"
-  - title: "Cryptography"
-    url: "/history/cypherpunks/"
-  - title: "Cypherpunks"
-    url: "/history/cypherpunks/"
-  - title: "Electronic cash"
-    url: "/history/electronic-cash/"
-  - title: "Darknet Markets"
-    url: "/history/darknet-markets/"
-  - title: "Rare Pepe and Counterparty"
-    url: "/history/rare-pepe-counterparty/"
-  - title: "Smart Contracts"
-    url: "/history/smart-contracts/"
-
-- title: "People"
-  url: /history/people/
-  side: right
-  dropdown:
-  - title: "Satoshi Nakamoto"
-    url: "/satoshi-nakamoto/"
-  
-- title: "More History"
-  side: right
-  dropdown:
-  - title: "Early Internet"
-    url: "/history/early-internet/"
-  - title: "Cyberpunk"
-    url: "/history/early-internet/cyberpunk/"
-  - title: "Hacker Culture"
-    url: "/history/early-internet/hacker-culture/"
-  - title: "Peer to Peer"
-    url: "/history/peer-to-peer/"
-  - title: "Money"
-    url: "/history/money/"
 
