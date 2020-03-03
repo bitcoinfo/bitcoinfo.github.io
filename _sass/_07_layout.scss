@@ -249,7 +249,7 @@ body.video cite { color: #fff; }
 ------------------------------------------------------------------- */
 
 #up-to-top {
-    padding: 160px 0 10px 0;
+    padding: 100px 0 10px 0;
 }
 #up-to-top a {
     font-size: 24px;
@@ -267,12 +267,12 @@ body.video cite { color: #fff; }
 
 #footer-content p,
 #footer-content li {
-    font-size: rem-calc(13);
+    font-size: rem-calc(14);
     font-weight: 300;
 }
 
 #footer {
-    padding-top: 30px;
+    padding-top: 20px;
     padding-bottom: 20px;
     background: $footer-bg;
     color: $footer-color;
@@ -285,7 +285,7 @@ body.video cite { color: #fff; }
     #footer h5 {
         letter-spacing: 1px;
         color: #fff;
-        text-transform: uppercase;
+        text-transform: none;
     }
 
 
@@ -296,7 +296,7 @@ body.video cite { color: #fff; }
 #subfooter {
     background: $subfooter-bg;
     color: $subfooter-color;
-    padding-top: 30px;
+    padding-top: 20px;
 }
 
 #subfooter-left ul.inline-list {
@@ -306,7 +306,7 @@ body.video cite { color: #fff; }
 .credits a {
     color: $subfooter-link-color;
     border: 0;
-    text-transform: uppercase;
+    text-transform: none;
     &:hover {
         color: #fff;
   }
