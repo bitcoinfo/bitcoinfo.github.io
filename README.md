@@ -1,4 +1,8 @@
+[![](/assets/img/bitcoinfo.png)](https://bitcoinfo.xyz)
+
 # [Bitcoinfo.xyz](https://bitcoinfo.xyz)
+
+
 
 I've built this site as part of my effort to understand Bitcoin, while also learning the [tools of web-workers](https://web-work.tools).
 
