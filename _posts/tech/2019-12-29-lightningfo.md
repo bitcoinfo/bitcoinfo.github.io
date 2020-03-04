@@ -69,7 +69,7 @@ tags: ["Layer 2", "Lightning"]
 
 
 
-### 💡 info
+### info
 
 * [Making sense of Lightning network nodes and money transmission licensing](https://coincenter.org/entry/making-sense-of-lightning-network-nodes-and-money-transmission-licensing) 
   > An update on Coin Center’s work to avoid unnecessary regulatory burdens on technologists.
@@ -79,7 +79,7 @@ tags: ["Layer 2", "Lightning"]
 * [Radar ION - Your guide to the Lightning Network](https://ion.radar.tech/)
   > Master the Lightning Network with our app and wallet recommendations, developer and troubleshooting tools, Lightning wiki, getting started tutorials, and more!
 
-### 💡 media
+### media
 
 * [djseeds/lncast](https://github.com/djseeds/lncast)
   > LNCast - Lightning Network Podcatcher. 

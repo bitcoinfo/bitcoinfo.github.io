@@ -60,7 +60,7 @@ tags: ["Tech Info"]
 * [chaincodelabs/bitcoin-curriculum](https://github.com/chaincodelabs/bitcoin-curriculum)  *!!!!!!!!*
 * [MrHash/bitcoin-dev-stack](https://github.com/MrHash/bitcoin-dev-stack)
 
-### 🚧 Read
+### Read
 
 * [aantonop/bitcoinbook](https://github.com/aantonop/bitcoinbook)  
 * [manning.com/books/grokking-bitcoin](https://www.manning.com/books/grokking-bitcoin)
@@ -73,7 +73,7 @@ tags: ["Tech Info"]
 * [jimmysong/programmingbitcoin](https://github.com/jimmysong/programmingbitcoin)
 [programmingbitcoin.com](https://programmingbitcoin.com/)
 
-### 🚧 Tools
+### Tools
 
 * [bitkey.io/](https://bitkey.io/)
 * [richardkiss/pycoin](https://github.com/richardkiss/pycoin)
@@ -108,7 +108,7 @@ tags: ["Tech Info"]
 * [bitcoinj/httpseed](https://github.com/bitcoinj/httpseed)
   > Cartographer: A new type of seed for the Bitcoin network - bitcoinj/httpseed
 
-### 🚧 Api
+### Api
 
 * [block.io/](https://block.io/)
 * [blockcypher.com/](https://www.blockcypher.com/)
@@ -130,7 +130,7 @@ tags: ["Tech Info"]
 * [developers.coinbase.com/](https://developers.coinbase.com/) 
 * [Coinbase Wallet](https://wallet.coinbase.com/)
 
-### 🚧 Scripting
+### Scripting
 
 * [twitter.com/lopp/status/1072156493116518400](https://twitter.com/lopp/status/1072156493116518400)
   > [nioctib.tech](https://nioctib.tech) has a neat animated Bitcoin script interpreter and debugger for those who want to better understand script execution. [t.co/5TAkdoPU7b](https://nioctib.tech/#/transaction/f2f398dace996dab12e0cfb02fb0b59de0ef0398be393d90ebc8ab397550370b/input/0/interpret?automatic=true) [gif](https://twitter.com/i/status/1072156493116518400)
@@ -148,7 +148,7 @@ tags: ["Tech Info"]
   > A Bitcoin Script IDE to facilitate the learning, testing, and teaching of Bitcoin Script.
 * [kallewoof/btcdeb](https://github.com/kallewoof/btcdeb)
 
-### 🚧 Wallet
+### Wallet
 
 * [bitgo.github.io/bitgo-docs/](https://bitgo.github.io/bitgo-docs/)
 * [blockchain.com/api](https://www.blockchain.com/api) 
@@ -186,7 +186,7 @@ piWallet is an open source program developed by Johnathan Martin that allows alm
 * [BobWallet/BobWallet](https://github.com/BobWallet/BobWallet)
   > Bitcoin Privacy Wallet. 
 
-#### - Keys
+#### Keys
 
 * [bitcoinjs/bip39](https://github.com/bitcoinjs/bip39)
   > JavaScript implementation of Bitcoin BIP39: Mnemonic code for generating deterministic keys - bitcoinjs/bip39
@@ -208,13 +208,13 @@ Java Microlibrary implementation of BIP0039.
 * [Network-less VM Bitcoin Storage](https://medium.com/@notgrubles/network-less-vm-bitcoin-storage-29e7d53a17b0)
   > Creating an offline virtual machine with Qubes OS to generate Bitcoin keys.
 
-### 🚧 Test-nets
+### Test-nets
 
 
 * [blockstream.info/testnet/](https://blockstream.info/testnet/)
 * [Bitcoin Testnet Explorer](https://blockstream.info/testnet/)
 
-### 🚧 Explorers
+### Explorers
 
 
 * [janoside/btc-rpc-explorer](https://github.com/janoside/btc-rpc-explorer) - [btc.chaintools.io](https://btc.chaintools.io) (demo)
@@ -223,25 +223,25 @@ Java Microlibrary implementation of BIP0039.
   > Simple and pure block explorer you can run on top of a full node - yogh-io/bitcoin-transaction-explorer
 * [yogh-io/bitcoin-transaction-explorer](https://github.com/yogh-io/bitcoin-transaction-explorer)
 
-### 🚧 Exchange
+### Exchange
 
 * [bitcoin-otc.com/](https://bitcoin-otc.com/) #bitcoin-otc is an over-the-counter marketplace for trading with bitcoin. The marketplace is located in #bitcoin-otc channel on the freenode IRC network. If you don't have an IRC client, click here to visit the channel with your web browser.
 * [ExchangeUnion/xud](https://github.com/ExchangeUnion/xud)
 * [phil8192/limit-order-book](https://github.com/phil8192/limit-order-book) - Bitstamp real time console based limit order book. 
 * [go-faast/faast-web](https://github.com/go-faast/faast-web)
 
-### 🚧 Fork
+### Fork
 
 * [en.bitcoinwiki.org/wiki/Creating_forks](https://en.bitcoinwiki.org/wiki/Creating_forks)
 * [Creating forks](https://en.bitcoinwiki.org/wiki/Creating_forks)
 * [bitcointalk.org/index.php?topic=2836875.0](https://bitcointalk.org/index.php?topic=2836875.0)
 * [LoyceV's Bitcoin Fork claiming guide (and service)](https://bitcointalk.org/index.php?topic=2836875.0)
 
-### 🚧 Anchor
+### Anchor
 
 * [exonum/exonum-btc-anchoring](https://github.com/exonum/exonum-btc-anchoring)
 
-### 🚧 Encryption
+### Encryption
 
 * [bitauth/bitcoin-ts](https://github.com/bitauth/bitcoin-ts)
   > WebAssembly versions of secp256k1, ripemd160, sha256, sha512, and sha1 - bitauth/bitcoin-ts
@@ -251,7 +251,7 @@ Java Microlibrary implementation of BIP0039.
 * [mcdallas/cryptotools](https://github.com/mcdallas/cryptotools)
 * [Okamoto Beats Schnorr: On the Provable Security of Multi-Signatures](https://m.apograf.io/articles/13486)
 
-### 🚧 Mobile
+### Mobile
 
 * [consenlabs/token-core-ios](https://github.com/consenlabs/token-core-ios) 
   > a blockchain private key management library on iOS - consenlabs/token-core-ios
@@ -270,11 +270,11 @@ Java Microlibrary implementation of BIP0039.
   > Full Bitcoin library for iOS, implemented on Swift. SPV wallet implementation for Bitcoin, Bitcoin Cash and Dash blockchains. - horizontalsystems/bitcoin-kit-ios
 * [oleganza/CoreBitcoin](https://github.com/oleganza/CoreBitcoin)
 
-### 🚧 Wordpress
+### Wordpress
 
 * [cryptoapi/Bitcoin-Wordpress-Plugin](https://github.com/cryptoapi/Bitcoin-Wordpress-Plugin)
 
-### 🏗 Java-scala
+### Java-scala
 
 * [knowm/XChange](https://github.com/knowm/XChange)
   > XChange is a Java library providing a streamlined API for interacting with 60+ Bitcoin and Altcoin exchanges providing a consistent interface for trading and accessing market data. - knowm/XChange
@@ -287,7 +287,7 @@ Java Microlibrary implementation of BIP0039.
 * [ACINQ/eclair](https://github.com/ACINQ/eclair)
   > A scala implementation of the Lightning Network. 
  
-### 🏗 Javascript
+### Javascript
 
 * [cryptocoinjs/awesome-cryptocoinjs](https://github.com/cryptocoinjs/awesome-cryptocoinjs)
   > Useful crypto coins JavaScript libraries. 
@@ -308,7 +308,7 @@ Java Microlibrary implementation of BIP0039.
 * [bitcoinjs/indexd](https://github.com/bitcoinjs/indexd)
   > An external bitcoind index management service module - bitcoinjs/indexd
 
-### 🏗 Python
+### Python
 
 * [blocktrail/blocktrail-sdk-python](https://github.com/blocktrail/blocktrail-sdk-python)
   > Python BlockTrail's Developer Friendly SDK for the BlockTrail API
@@ -329,7 +329,7 @@ Java Microlibrary implementation of BIP0039.
 * [ascribe/transactions](https://github.com/ascribe/transactions)
   > transactions: Bitcoin for humans. 
 
-### 🏗 Net-libraries
+### Net-libraries
 
 * [MetacoSA/NBitcoin](https://github.com/MetacoSA/NBitcoin)
   > Comprehensive Bitcoin library for the .NET framework. - MetacoSA/NBitcoin
@@ -337,17 +337,17 @@ Java Microlibrary implementation of BIP0039.
   > Bitcoin Core RPC compatible, battle-tested .NET library and RPC wrapper for Bitcoin and Altcoins - cryptean/bitcoinlib
 * [MetacoSA/QBitNinja](https://github.com/MetacoSA/QBitNinja)
 
-### 🏗 Ruby
+### Ruby
 
 * [lian/bitcoin-ruby](https://github.com/lian/bitcoin-ruby)
   > bitcoin utils and protocol in ruby. 
 
-### 🏗 Golang
+### Golang
 
 * [piotrnar/gocoin](https://github.com/piotrnar/gocoin)
   > Full bitcoin solution written in Go (golang). 
  
-### 🏗 C++
+### C++
 
 * [libbitcoin.org/](https://libbitcoin.org/)
 * [ElementsProject/libwally-core](https://github.com/ElementsProject/libwally-core)
@@ -355,7 +355,7 @@ Java Microlibrary implementation of BIP0039.
 * [bitcoin-core/secp256k1](https://github.com/bitcoin-core/secp256k1)
   > Optimized C library for EC operations on curve secp256k1 - bitcoin-core/secp256k1
 
-### 🏗 PHP
+### PHP
 
 * [coinspark/php-OP_RETURN](https://github.com/coinspark/php-OP_RETURN)
   > Simple PHP commands and library for using bitcoin OP_RETURNs. 
@@ -363,7 +363,7 @@ Java Microlibrary implementation of BIP0039.
   > BlockTrail's Developer Friendly PHP SDK for the BlockTrail API 
 * [Bit-Wasp/bitcoin-php](https://github.com/Bit-Wasp/bitcoin-php)
 
-### 🏗 Rust
+### Rust
 
 * [mikispag/bitiodine](https://github.com/mikispag/bitiodine)
   > A Rust Bitcoin blockchain parser with clustering capabilities, allowing to group together addresses in ownership clusters. Please contact @mikispag if interested in using BitIodine for any real-wor...

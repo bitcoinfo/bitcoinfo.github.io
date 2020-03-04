@@ -58,7 +58,7 @@ Resource and Information Guide
 Lightning Network Specifications. 
 
 
-### 💡 discussion
+### discussion
 
 * [Lightning Network - discordapp](https://discordapp.com/invite/sm2rfS7)
 * [lists.linuxfoundation.org/mailman/listinfo/lightning-dev](https://lists.linuxfoundation.org/mailman/listinfo/lightning-dev)
@@ -68,7 +68,7 @@ Lightning Network Specifications.
 * [t.me/Lightning Makers](https://t.me/joinchat/EFJwOxEZmjqjTBEx2883Hw)
 * [t.me/lightning_network](https://t.me/lightning_network)
 
-### 💡 wallets
+### wallets
 
 [lightningnetworkstores.com/wallets](https://lightningnetworkstores.com/wallets) 
 [lnroute.com/desktop-wallets/](https://lnroute.com/desktop-wallets/)
@@ -132,7 +132,7 @@ Muun Wallet Android
 * [tippin.me](https://tippin.me)
 * [lnwallet.io](https://lnwallet.io/)
 
-### 💡 explorers
+### explorers
 
 [LNRoute -Explorers and Statistics](https://lnroute.com/explorers-and-statistics/)  
 [Visualisers of the Lightning Network (and some other explorers)](https://gist.github.com/bretton/798ec38165ffabc719d91e0f4f67552d)
@@ -157,7 +157,7 @@ Your personal and private Lightning Network explorer.
 * [lightblock.me](http://lightblock.me)
 
 
-### 💡 stats
+### stats
 
 * [Forget Statistics, Reality is Better](https://lnroute.com/2018/09/forget-lightning-statistics-reality-is-even-better/)
 * [Lightning Network Statistics - 1ML](https://1ml.com/statistics)
@@ -172,14 +172,14 @@ Your personal and private Lightning Network explorer.
 * [LN Metrics](https://lnmetrics.opdup.com/)
   > Tracking centrality and articulation points for Lightning Network
 
-### 💡 visualizations
+### visualizations
 
 * [robtex.com/lnemulator.html](https://www.robtex.com/lnemulator.html)
 * [Visualisers of the Lightning Network (and some other explorers)](https://gist.github.com/bretton/798ec38165ffabc719d91e0f4f67552d)
 * [Lightning Network Information - bitcoinexchangerate.org](https://bitcoinexchangerate.org/lightning)
   > Get updated Bitcoin prices and exchange rates. Convert values between Bitcoin, USD, CAD, EUR, GBP, AUD and more.
 
-### 💡 exchange
+### exchange
 
 * [ZigZag - lightning enabled crypto exchange](https://zigzag.io/)
   > Exchange Top Cryptocurrencies in seconds with low fees
@@ -204,7 +204,7 @@ Your personal and private Lightning Network explorer.
 * [ZigZag - lightning enabled crypto exchange](https://zigzag.bitlum.io/)
   > Exchange Top Cryptocurrencies in seconds with low fees
 
-### 💡 tools
+### tools
 
 * [LNRoute - Wallet Tools](https://lnroute.com/category/wallets/wallet-tools/)
 * [elaineo/LightningBuddy](https://github.com/elaineo/LightningBuddy)
@@ -220,7 +220,7 @@ Lightning Decoder is a utility for decoding lightning network payment requests (
 Need a LN simnet? This tool can generate one for you.
 
 
-### 💡 satellite
+### satellite
 
 * [Blockstream Boosts Bitcoin Satellite Service With Lightning Paymen...](https://www.coindesk.com/blockstream-boosts-bitcoin-satellite-service-with-lightning-payments)
   > Blockstream has expanded its bitcoin satellite service to the Asia-Pacific region and added support for Lightning Network transactions.
@@ -239,7 +239,7 @@ Need a LN simnet? This tool can generate one for you.
 * [‎The World Crypto Network Podcast: Fun With Crypto Podcast, Ligh...](https://podcasts.apple.com/us/podcast/the-world-crypto-network-podcast/id825708806?i=1000445805193)
   > ‎Show The World Crypto Network Podcast, Ep Fun With Crypto Podcast, Lightning Node Roundtable 3 - Jul 31, 2019
 
-### ⛈ HowTo
+### HowTo
 
 * [Setup and Tutorials](https://lnroute.com/setup-tutorials/)
 * [402 Payment Required - Lightning Howtos](https://www.youtube.com/playlist?list=PLmoQ11MXEmajsUw95Fq6fHzXnVmoMPIeV)
@@ -250,7 +250,7 @@ Need a LN simnet? This tool can generate one for you.
 * [How to build your own portable plug-in Lightning node!](https://blockstream.com/2018/04/21/portable-lightning-node-tutorial.html)
 
 
-### ⛈ c-lightning
+### c-lightning
 
 * [topics/c-lightning](https://github.com/topics/c-lightning)
 * [ElementsProject/lightning](https://github.com/ElementsProject/lightning)
@@ -286,7 +286,7 @@ lightning payable e-bike.
 PHP interface for the elements/c-lightning RPC API - thorie7912/lightning-php
 
 
-### ⛈ Lightning Network Daemon
+### Lightning Network Daemon
 
 * [lightningnetwork/lnd/releases](https://github.com/lightningnetwork/lnd/releases)
 * [topics/lnd](https://github.com/topics/lnd)
@@ -310,7 +310,7 @@ The LND node software now runs from within the Excel plugin. With neutrino, that
 * [github.com/bitromortac/lndmanage](https://github.com/bitromortac/lndmanage) 
 Control tool for lightning network daemon (lnd) node operators, optimized for remote control. 
 
-### ⛈ eclair
+### eclair
 
 * [ACINQ/eclair](https://github.com/ACINQ/eclair)
   > A scala implementation of the Lightning Network. 
@@ -326,7 +326,7 @@ webln browser extension for lightningd/eclair/ptarmigan
 * [ACINQ/eclair-mobile](https://github.com/ACINQ/eclair-mobile)
   > An Android wallet for the Lightning Network. 
 
-### ⛈ Hardware
+### Hardware
 
 * [nodl.it](https://www.nodl.it/)
 * [The perfect Bitcoin Lightning️ node - Tutorial](https://thebitcoin.pub/t/the-perfect-bitcoin-lightning-node-tutorial/33437)
@@ -338,7 +338,7 @@ The perfect Bitcoin Lightning️ node The goal is to create the perfect Bitcoin 
 * [BTCPi - Bitcoin Lightning Node and payment processing device.](https://lunanode1.lightninginabox.co/apps/3hucSJM9EYXGmp27fkoLwom8fRzc/crowdfund)
   > The BTCPi is a low cost self-hosted crypto currency payment processing solution featuring BTCPayServer.
 
-#### ⛈ PI Raspberry
+#### PI Raspberry
 
 * [Fulmo ⚡ (@fulmolightning)](https://twitter.com/fulmolightning/status/1035183579196743680)
 Get ready to rumble! The latest batch of 20 #RaspiBlitz, a full #Bitcoin and #LightningNetwork node running on a Raspberry Pi, is ready to be picked up and plugged in at the #LightningHackday! If you can't attend in person, you can build one yourself
@@ -347,7 +347,7 @@ Fastest and cheapest way to get your own Lightning Node running - on a Raspberry
 * [Stadicus/RaspiBolt](https://github.com/Stadicus/guides/blob/master/raspibolt/README.md)
 Bitcoin & Lightning full node on a Raspberry Pi. 
 
-#### ⛈ Casa
+#### Casa
 
 * [Casa Node + Casa Gold Membership](https://store.casa/lightning-node/)
 Casa Node for Lightning and Bitcoin
@@ -367,7 +367,7 @@ Casa Lightning Network Explorer
 
 ## Get Lightning
 
-### 💶 Earn 
+### Earn 
 
 [lnroute.com - Category: Internet Services](https://lnroute.com/category/implementations/internet-services/)
 
@@ -381,12 +381,12 @@ Casa Lightning Network Explorer
 * [tallyco.in](https://tallyco.in/)
   >Bitcoin and Lightning fundraising platform. Create crowdfunding campaigns for your project and get funded by fellow bitcoiners!
 
-### 💶 faucets
+### faucets
 
 * [lightninglabs/lightning-faucet](https://github.com/lightninglabs/lightning-faucet)
 * [Lightning Mainnet Faucet](https://light.yuyaogawa.com/faucet/) - A lightning faucet where you can claim an invoice of 200 sats. Maximum one claim per day.
 
-### 💶 give
+### give
 * [lightning.gifts](https://lightning.gifts)
 Now you can send BTC over Lightning without an invoice and no waiting. Perfect for onboarding friends to Lightning [through financial motivation    
 
@@ -417,7 +417,7 @@ Now you can send BTC over Lightning without an invoice and no waiting. Perfect f
 * [coincards.ca](https://coincards.ca/)
 
 
-### ⚡ Merchant Tools
+### Merchant Tools
 
 * [BTCPay (self hosted payment processor)](https://github.com/btcpayserver/btcpayserver)
 * [CoinGate](https://coingate.com/)
@@ -437,7 +437,7 @@ Now you can send BTC over Lightning without an invoice and no waiting. Perfect f
 * [OpenCart Payment Gateway](https://www.opencart.com/index.php?route=marketplace/extension/info&amp;extension_id=36414)
 (for LND node)
 
-### ⚡ social
+### social
 * [lightningwall.tips](http://lightningwall.tips/) 
   > Post public messages on the wall and receive satoshis from people who like your message. 
 * [salttie.com](https://salttie.com/) 
@@ -458,7 +458,7 @@ Micro Blogging Platform
   > CoinTippy helps you reward content on Reddit, Twitter, Telegram and Twitch with cryptocurrencies
 
 
-### ⚡ art
+### art
 
 * [satoshis.place](https://satoshis.place/) 
   > collaborative artboard. Inspired by Reddit Place, and the Million Dollar Homepage. There are 1 million pixels on the canvas and each pixel costs 1 satoshi to paint. Pixels can be painted over indefinitely. Satoshi’s Place is a great way to experience the power of micro-transactions through the Bitcoin Lightning Network. 
@@ -467,11 +467,11 @@ Micro Blogging Platform
 * [ludvigart.com](https://ludvigart.com/) -Bitcoin Art
 
 
-### ⚡ mesh
+### mesh
 * [CryptoChat_013 - Richard Myers and a Lightning Powered Global Mesh...](https://anchor.fm/thecryptoconomy/episodes/CryptoChat_013---Richard-Myers-and-a-Lightning-Powered-Global-Mesh-e4e6ga)
   > Today we have a great chat with Richard Myers all about the recently unveiled Lot49 protocol and how Global Mesh Labs intends to incentivize and help build a global, decentralized meshnet powered by Lightning! Check out the website and read the whitepaper for a deep dive i...
 
-### ⚡ music
+### music
 
 * [moifay.online](https://moifay.online/) 
   > Official release of first ever Music Album of Moifay, sold online for $BTC. Each song is $1 only. 
@@ -485,7 +485,7 @@ Micro Blogging Platform
   > Bitcoin lightning accepted for unique audio samples
 
 
-### ⚡ payments
+### payments
 
 * [github.com/btcpayserver](https://github.com/btcpayserver) 
 * [opencart.com](https://www.opencart.com/) 
@@ -497,7 +497,7 @@ Buy 30+ Vouchers, refill your phone and pay your bills with Lightning.
 * [cryptochill.com](https://cryptochill.com/) 
   > Bitcoin and Lightning Network payment gateway focused on security, customizability and simple integration. 
 
-### ⚡ applications
+### applications
 
 * [bcongdon/awesome-lightning-network/#applications](https://github.com/bcongdon/awesome-lightning-network/#applications)
 * [Lightning App Directory](http://dev.lightning.community/lapps/index.html)
@@ -511,7 +511,7 @@ lightning payable e-bike.
 * [‎The World Crypto Network Podcast: LAPPS - lightning.gifts, Demo...](https://podcasts.apple.com/us/podcast/the-world-crypto-network-podcast/id825708806?i=1000447000955)
 ‎Show The World Crypto Network Podcast, Ep LAPPS - lightning.gifts, Demo + Interview with Ross @baebb_code - Aug 15, 2019
 
-### ⚡ Tips
+### Tips
 * [BitPatron](https://bitpatron.co/)
 * [Lightning Gifts](https://lightning.gifts/) (add tipping to web pages) 
 * [LNTipBot](https://www.reddit.com/r/lntipbot/wiki/index) (reddit)
@@ -523,7 +523,7 @@ lightning payable e-bike.
 * [michael1011/lightningtip](https://github.com/michael1011/lightningtip) -Get tips via the Lightning Network.
 * [ElementsProject/nanotip](https://github.com/ElementsProject/nanotip) - :zap: Lightning Tip Box :zap:.
 
-### ⚡ Marketplaces
+### Marketplaces
 
 [Lightning Network Stores directory](http://lightningnetworkstores.com/)
   > The most comprehensive directory of stores/games/venues/shops that accept bitcoin through the lightning network. - [(@bitcoinLNS)](https://twitter.com/bitcoinLNS)
@@ -566,7 +566,7 @@ lightning payable e-bike.
   > Order Domino’s Pizza via the Lightning Network from anywhere in the US. Get 5% off when paying with Lightning! 
 * [hodlgang.store](https://www.hodlgang.store/)
 
-### ⚡ games
+### games
 
 [LNRoute - Bitcoin Lightning Powered Games](https://lnroute.com/category/implementations/games/)
 [satoshis.games](https://satoshis.games/) 
@@ -626,23 +626,23 @@ Lightning Wheel of Fortune
 
 ## Plugins
 
-### 🔌 shopify-plugins
+### shopify-plugins
 * [mailchi.mp/cf60f9bb7278/opennode-can-now-be-used-on-shopify](https://mailchi.mp/cf60f9bb7278/opennode-can-now-be-used-on-shopify) 
   > Opennode released a plugin for Shopify that allows you to accept Bitcoin and Bitcoin Lightning payments.
 
-### 🔌 browser-extensions
+### browser-extensions
 * [Bitcoin Lightning Joule Browser Extension](https://medium.com/lightning-power-users/bitcoin-lightning-joule-chrome-extension-ac149bb05cb9)
   > Lightning Joule is an awesome Chrome plugin being developed by William O'Beirne, check out his presentation at the Chaincode Labs…
 * [Joule - Lightning Browser Extension](https://lightningjoule.com/)
   > Bring the power of lightning to the web with in-browser payments and identity, all with your own node.
 
-### 🔌 plugins
+### plugins
 * [Pierre Rochard (@pierre_rochard)](https://twitter.com/pierre_rochard/status/1055159992733626368)
   > The LND node software now runs from *within* the Excel plugin. With neutrino, that means that a Windows + Excel user can be making and receiving LN payments with a few clicks. [t.co/qeP2dCJSqp](https://t.co/qeP2dCJSqp)
 * [nayutaco/lightning-dissector](https://github.com/nayutaco/lightning-dissector)
   > WIP: A wireshark plugin to analyze communication between lightning network nodes - nayutaco/lightning-dissector
 
-### 🔌 wordpress-plugins
+### wordpress-plugins
 
 * [github.com/rstmsn/lnd-for-wp](https://github.com/rstmsn/lnd-for-wp) -WordPress plugin for managing & using your LND node
   > - manage your LND node from your WordPress admin panel
@@ -668,7 +668,7 @@ Lightning Wheel of Fortune
 
 ## Development
 
-### 🧙 lightning-dev
+### lightning-dev
 
 * [lightningnetwork/lightning-rfc](https://github.com/lightningnetwork/lightning-rfc/blob/master/00-introduction.md)
 Lightning Network Specifications. 
@@ -725,7 +725,7 @@ Lightning Network LND generated gRPC classes.
 * [Hosted channels](https://gist.github.com/btcontract/d4122a79911eef2620f16b3dfe2850a8)
 
 
-### 🧙 Testnet
+### Testnet
 
 * [Bitcoin Testnet Lightning Network Faucet – Receive tBTC via Lightning](https://faucet.lightning.community/) 
 * [lnd-testnet-2.mably.com](https://lnd-testnet-2.mably.com/) 
@@ -740,7 +740,7 @@ Testnet Slack Tipping Bot
 * [lnroute.com/shop](https://lnroute.com/shop/)
   >Testnet LNROUTE Tea Store
 
-### 🧙 lapp-dev
+### lapp-dev
 * [twitter.com/wbobeirne/status/1131989707389329408?s=12](https://twitter.com/wbobeirne/status/1131989707389329408?s=12)
   > Need plans for the long weekend? Why not get started on making your own Lightning App! Over the next couple of weeks I'll be posting a 5 part series on building a modern web app that takes lightning payments, and how to host it securely. [Making a Lightning Web-App Part1](https://medium.com/@wbobeirne/making-a-lightning-web-app-part-1-4a13c82f3f78)
 

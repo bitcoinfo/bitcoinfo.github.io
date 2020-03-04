@@ -14,7 +14,7 @@ tags: ["Data"]
 [Bitcoin Charts (no TA) (@ChartsBtc)](https://twitter.com/ChartsBtc/media)
 [BitcoinVisuals.com ️ (@BitcoinVisuals)](https://twitter.com/BitcoinVisuals)
 
-## ⧉ Data
+## Data
 * [bitdb.network/](https://bitdb.network/)
 * [bitdb](https://bitdb.network/) - The Random Access Memory for Bitcoin
 * [dumps.webbtc.com/bitcoin/](http://dumps.webbtc.com/bitcoin/)
@@ -80,7 +80,7 @@ We're joined by Allen Day, Science Advocate at Google. Earlier this year, he and
 
 
 
-### 📊 Chainanalysis
+### Chainanalysis
 
 [Blockchain Analysis Is About to Get Harder as P2EP Enters Testing Phase](https://bitcoinmagazine.com/articles/blockchain-analysis-about-get-harder-p2ep-enters-testing-phase)
 

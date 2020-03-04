@@ -24,7 +24,7 @@ tags: ["Layer 1"]
 
 
 
-## ⧉ Payments
+## Payments
 
 * [alexk111/awesome-bitcoin-payment-processors](https://github.com/alexk111/awesome-bitcoin-payment-processors)
 * [blockchain/thunder](https://github.com/blockchain/thunder) - Off-Chain Bitcoin payments using smart contracts
@@ -37,7 +37,7 @@ tags: ["Layer 1"]
   > I set up an instance of @BtcpayServer on @Azure and tested it with @wordpressdotcom + @WooCommerce. It is a fantastic product. Finally someone (@NicolasDorier) has built a sensible, open source platform for Bitcoin merchants! If you have or want a business - go check i...
 
 
-### 💳 Btcpay
+### Btcpay
 
 * [bitcoinmagazine.com/articles/year-after-launch-btcpay-has-grown-larger-its-creator-expected/](https://bitcoinmagazine.com/articles/year-after-launch-btcpay-has-grown-larger-its-creator-expected/) 
   > BTCPay has become a meteoric success. But for what started out as a hobbyist’s side project, this success has, in some respects, become unwieldy.
@@ -65,15 +65,15 @@ tags: ["Layer 1"]
   > BTCPay does not allow server hosts to view the stores of other users nor have access to any personal data (except for registration email address). The xpubkey and even balances of other users can't be seen. However, as mentioned, a malicious third party could modify that by creating a fork that can look like BTCPay on the front but be something completely different in reality. The biggest concern, which happens when using a third-party host (even if the owner of a self-hosted server is not malicious) comes from the nature of the Bitcoin itself. If a user is not running a full node but instead relies on someone else's node, his transactions can be listened to by the owner of that node.
 * [Install BTCPayServer on Raspiblitz V1.3 - Raspberry Pi 4B](https://gist.github.com/normandmickey/3f10fc077d15345fb469034e3697d0d0) 
 
-### 💳 libre-patreon
+### libre-patreon
 
 * [JeffVandrewJr/patron](https://github.com/JeffVandrewJr/patron) - LibrePatron: A Self-Hosted Patreon Alternative for BTCPay - JeffVandrewJr/patron
 * [twitter.com/vandrewattycpa/status/1079471260978040833](https://twitter.com/vandrewattycpa/status/1079471260978040833)
   > Today I released LibrePatron, an alternative to Partreon backed by @BtcpayServer. Most Patreon alternatives don't implement the full Patreon feature set. This seeks to change that. Sample site (alpha not mobile responsive, mobile coming soon!): [t.co/ZcHDjUfBfe](https://t.co/ZcHDjUfBfe) T...
 
-## ⧉ Application
+## Application
 
-### 🧩 Layer One
+### Layer One
 
 * [twitter.com/Beautyon_/status/1062100915925213185](https://twitter.com/Beautyon_/status/1062100915925213185)
   > SUPER INTERESTING: "The [t.co/yDMDqgCKyl](https://t.co/yDMDqgCKyl) platform provides tooling, apps & services on top of any bip32 compatible Bitcoin wallet. It's a service layer on top of the Bitcoin network, offering powerful utilities for users and/or developpers." [t.co/uofRClqm4v](https://t.co/uofRClqm4v)
@@ -86,7 +86,7 @@ tags: ["Layer 1"]
 * [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet)
   > ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network - HelloZeroNet/ZeroNet
 
-### 🧩 Proofs
+### Proofs
 
 * [How to Create and Verify a Chainpoint Proof](https://medium.com/tierion/how-to-create-and-verify-a-chainpoint-proof-eba52a7700e3)
 * [chainpoint/chainpoint-cli](https://github.com/chainpoint/chainpoint-cli)
@@ -99,7 +99,7 @@ tags: ["Layer 1"]
   > OpenTimestamps client. 
 * [opentimestamps/python-opentimestamps](https://github.com/opentimestamps/python-opentimestamps)
 
-### 🧩 OpenBazaar
+### OpenBazaar
 
 
 * [openbazaar.org](https://www.openbazaar.org)

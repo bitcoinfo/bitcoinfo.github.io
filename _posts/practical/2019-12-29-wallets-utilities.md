@@ -51,13 +51,13 @@ tags: ["Layer 1"]
 * [BlueWallet/BlueWallet](https://github.com/BlueWallet/BlueWallet)
 Bitcoin thin client for iOS & Android. Built with React Native - BlueWallet/BlueWallet
 
-### 👛 Blockstream-green
+### Blockstream-green
 
 * [docs.blockstream.com/green/getting-started/getting-started-index.html](https://docs.blockstream.com/green/getting-started/getting-started-index.html)
 * [Blockstream Green](https://blockstream.com/green/)
   > Blockstream Green is our industry-leading Bitcoin wallet, providing Bitcoin users with an unrivaled blend of security and ease-of-use.
 
-### 👛 Wasabi
+### Wasabi
 
 * [wasabiwallet.io/](https://wasabiwallet.io/) 
 * [MIT Bitcoin Expo 2019 - Wasabi Wallet: Unfairly Private](https://www.youtube.com/watch?v=JtDY7Gb-L5s)
@@ -85,7 +85,7 @@ Bitcoin thin client for iOS & Android. Built with React Native - BlueWallet/Blue
 >
 > One of the key points in Wasabi is that you don't need to run a full node to protect your privacy. Wasabi is the first light wallet that doesn't leak information to third parties and protects you against blockchain (thanks to its built-in coinjoin feature, built-in chain analyzer and the coin control ) and network analysis.
 
-### 👛 Samourai
+### Samourai
 
 * [youtube.com/channel/UCb4Y89L9Bokuo6OWqjAhMoA](https://www.youtube.com/channel/UCb4Y89L9Bokuo6OWqjAhMoA)
 * [Samourai Wallet - Apps on Google Play](https://play.google.com/store/apps/details?id=com.samourai.wallet)
@@ -93,7 +93,7 @@ Bitcoin thin client for iOS & Android. Built with React Native - BlueWallet/Blue
 * [Samourai-Wallet/boltzmann](https://github.com/Samourai-Wallet/boltzmann)
   > A python script computing the entropy of Bitcoin transactions and the linkability of their inputs and outputs. - Samourai-Wallet/boltzmann
 
-### 👛 Electrum
+### Electrum
 
 * [electrum.org/](https://electrum.org/) 
 * [docs.electrum.org/en/latest/](http://docs.electrum.org/en/latest/) 
@@ -152,7 +152,7 @@ sudo apt-get install python3-pyqt5
 
 `sudo ln -s ~/.local/bin/electrum /usr/local/bin/electrum`
 
-#### - electrum-personal-server
+#### electrum-personal-server
 
 * [reddit.com/r/Bitcoin/comments/7w6a9k/electrum_personal_server_the_best_way_to_connect/](https://www.reddit.com/r/Bitcoin/comments/7w6a9k/electrum_personal_server_the_best_way_to_connect/) r/Bitcoin - Electrum Personal Server - The best way to connect you... basically, electrum personal server is the more sovereign way to run the electrum wallet... analogous to using the bitcoin-core wallet with the complete blockchain.
 * [Electrum Server Gateways](https://bitcointalk.org/index.php?topic=2664747.msg27179198)
@@ -161,14 +161,14 @@ sudo apt-get install python3-pyqt5
 * [reddit.com/r/Bitcoin/comments/bgyluw/alright_guys_this_is_it_electrum_personal_server/](https://www.reddit.com/r/Bitcoin/comments/bgyluw/alright_guys_this_is_it_electrum_personal_server/)
 * [reddit.com/r/Bitcoin/comments/7w6a9k/electrum_personal_server_the_best_way_to_connect/](https://www.reddit.com/r/Bitcoin/comments/7w6a9k/electrum_personal_server_the_best_way_to_connect/) electrum personal server - a full node for your electrum wallet
 
-### 👛 Bitgo
+### Bitgo
 
 * [bitgo.com/](https://www.bitgo.com/) 
 * [bitgo.github.io/bitgo-docs/](https://bitgo.github.io/bitgo-docs/ 
 * [static1.squarespace.com/static/5956707b6b49988d1df0001a/t/5ae161608a922d28394af452/1524719979322/BitGo+User+Guide042518.pdf](https://static1.squarespace.com/static/5956707b6b49988d1df0001a/t/5ae161608a922d28394af452/1524719979322/BitGo+User+Guide042518.pdf) 
   > This document provides step-by-step details about how to use the non-custodial BitGo servicethrough the Web interface as well as how to administer the service and configure policies.
 
-### 👛 Hardware
+### Hardware
 
 * [bitcoin-only.com - Other Hardware](https://bitcoin-only.com/#hardware)
 * [radmin](https://revealer.cc/author/radmin/) [revealer](https://revealer.cc/) -Optical Seed Encryption Tool 
@@ -178,7 +178,7 @@ sudo apt-get install python3-pyqt5
 * [docs.wasabiwallet.io/building-wasabi/HardwareWalletTestingGuide.html -Integration Testing - Wasabi](https://docs.wasabiwallet.io/building-wasabi/HardwareWalletTestingGuide.html)
 * [news.bitcoin.com/bitcoin-bank-less-thirty-minutes-usb-drive/](https://news.bitcoin.com/bitcoin-bank-less-thirty-minutes-usb-drive/)
 
-#### - Trezor
+#### Trezor
 
 * [shop.trezor.io/](https://shop.trezor.io/) 
 * [wiki.trezor.io/User_manual](https://wiki.trezor.io/User_manual)
@@ -197,7 +197,7 @@ sudo apt-get install python3-pyqt5
 * [martin-lizner/trezor-ssh-agent](https://github.com/martin-lizner/trezor-ssh-agent)
   > Trezor SSH Agent for Windows (Putty, WinSCP and more) + KeepKey supported! - martin-lizner/trezor-ssh-agent
 
-#### - Casa-keymaster
+#### Casa-keymaster
 
 * [keys.casa/keymaster/](https://keys.casa/keymaster/) 
 * [Casa Keymaster Security: Mobile Key Overview](https://blog.keys.casa/casa-keymaster-security-mobile-key-overview/)
@@ -205,13 +205,13 @@ sudo apt-get install python3-pyqt5
 * [Casa - Youtube](https://www.youtube.com/channel/UCgqxjfkJI65huAsJkMiExeQ)
 * [Setting up Keymaster by Casa (Basic Multisig)](https://www.youtube.com/watch?v=B-JpOC1Knx8)   
 
-#### - Ledger
+#### Ledger
 
 * [Ledger Nano X - Secure your crypto](https://shop.ledger.com/pages/ledger-nano-x)
 * [LEDGER NANO X BEST SET-UP GUIDE, UNBOXING AND STEP BY STEP TUTORIA...](https://www.youtube.com/watch?v=lHzFY4ucTYQ)
   > Brand New Ledger Nano X Step By STep Guide. Unboxing and Complete Set-up Guide from start to finish. This is my fifth tutorial on the Ledger Devices, I've be...
 
-#### - Cold Card
+#### Cold Card
 
 * [coldcardwallet.com](https://coldcardwallet.com/) 
 * [coldcardwallet.com/docs/quick](https://coldcardwallet.com/docs/quick) 
@@ -220,7 +220,7 @@ sudo apt-get install python3-pyqt5
 * [Coldcard](https://github.com/Coldcard) 
 
 
-### 👛 Cold Storage
+### Cold Storage
 
 * [medium.com/@timevalueofbtc/the-business-of-bitcoin-cold-storage-148fba7f1255](https://medium.com/@timevalueofbtc/the-business-of-bitcoin-cold-storage-148fba7f1255)
   > Bitcoin is digital gold, and this continues to be its most appropriate and concise metaphor. I recently discussed some parallels between…
@@ -229,7 +229,7 @@ sudo apt-get install python3-pyqt5
 * [Overtorment/cli-cold-wallet](https://github.com/Overtorment/cli-cold-wallet)
   > Make a cold storage for your coins right in terminal, offline - Overtorment/cli-cold-wallet
 
-### 👛 Paper
+### Paper
 
 * [en.bitcoin.it/wiki/Paper_wallet](https://en.bitcoin.it/wiki/Paper_wallet) 
 * [p4fg/secure-paper-wallet](https://github.com/p4fg/secure-paper-wallet) 

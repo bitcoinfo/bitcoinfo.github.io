@@ -25,7 +25,7 @@ categories: ["Practical"]
 [Chelsea Palmer (@IMmsGNU)](https://twitter.com/IMmsGNU/status/1048803584605794304)
   > [...] make sure to visually check that the addresses match after opening. In $btc the standard is compare first & last 4 characters in the address string but can't be too careful.
 
-### 💱 Earn
+### Earn
 
 * [bitcoin-only.com/#get-bitcoin](https://bitcoin-only.com/#get-bitcoin) 
 * [tallyco.in/](https://tallyco.in/) - Bitcoin Fundraising 
@@ -43,7 +43,7 @@ categories: ["Practical"]
 * [bitfortip.com](https://www.bitfortip.com)
 * [earn-bitcoins.com](http://earn-bitcoins.com)
 
-### 💱 Buy
+### Buy
 
 * [Buy Bitcoin with Cash](https://www.buybitcoinworldwide.com/en/buy-bitcoins-with-cash/)
 * [howtobuybitcoins.info](https://howtobuybitcoins.info)
@@ -60,7 +60,7 @@ categories: ["Practical"]
 * [stephanlivera@twitter.com](https://twitter.com/stephanlivera/status/1188652951381741568?s=12)
   > Automate Stacking Sats is the new Automate Your Finances
 
-#### - Atms
+#### Atms
 
 * [Bitcoin ATM](https://en.wikipedia.org/wiki/Bitcoin_ATM)
   > A Bitcoin ATM is a kiosk that allows a person to purchase Bitcoin by using cash or debit card. Some Bitcoin ATMs offer bi-directional functionality enabling both the purchase of Bitcoin as well as the sale of Bitcoin for cash. In some cases, Bitcoin ATM providers require user...
@@ -75,18 +75,18 @@ categories: ["Practical"]
 * [‎What Bitcoin Did Podcast -Karel Kyovsky on Manufacturing Bitcoin ATMs](https://podcasts.apple.com/us/podcast/the-what-bitcoin-did-podcast/id1317356120?i=1000446788790)
 * [‎What Bitcoin Did Podcast -Operating Bitcoin ATMs with Gil Valentine & Eric Gravengaard from Athena Bitcoin](https://podcasts.apple.com/us/podcast/the-what-bitcoin-did-podcast/id1317356120?i=1000446698547)
 
-#### - Europe
+#### Europe
 
 * [getbittr.com/](https://www.getbittr.com/) 
 * [bitonic.nl/](https://bitonic.nl/)
 
-#### - North America
+#### North America
 
 * [Cash App](https://cash.app/)
 * [bullbitcoin.com/](https://bullbitcoin.com/)
 * [fastbitcoins.com/](https://fastbitcoins.com/)
 
-#### - Australia
+#### Australia
 
 * [Amber - Features](https://getamber.io/features.html)
   > The easiest way to buy Bitcoin with the use of transaction round-ups, automatically recurring purchasing and one-off purchases in one application that takes advantage of dollar cost averaging and micro-investing. Available in Australia on iOS and Android.
