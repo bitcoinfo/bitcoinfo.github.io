@@ -1,53 +1,16 @@
-<!-- Including InstantSearch.js library and styling -->
-<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch.min.js"></script>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch.min.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch-theme-algolia.min.css">
-
-<script>
-// Instanciating InstantSearch.js with Algolia credentials
-const search = instantsearch({
-  appId: '{{ site.algolia.application_id }}',
-  apiKey: '{{ site.algolia.search_only_api_key }}',
-  indexName: '{{ site.algolia.index_name }}',
-  searchParameters: {
-    restrictSearchableAttributes: [
-      'title',
-      'content'
-    ]
-  }
-});
-
-const hitTemplate = function(hit) {
-  const url = hit.url;
-  const title = hit._highlightResult.title.value;
-  const content = hit._highlightResult.html.value;
-
-  return `
-    <div class="list__item">
-      <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-        <h2 class="archive__item-title" itemprop="headline"><a href="{{ site.baseurl }}${url}">${title}</a></h2>
-        <div class="archive__item-excerpt" itemprop="description">${content}</div>
-      </article>
-    </div>
-  `;
-}
-
-// Adding searchbar and results widgets
-search.addWidget(
-  instantsearch.widgets.searchBox({
-    container: '.search-searchbar',
-    placeholder: 'Enter your search term...'
-  })
-);
-search.addWidget(
-  instantsearch.widgets.hits({
-    container: '.search-hits',
-    templates: {
-      item: hitTemplate
-    }
-  })
-);
-
-// Starting the search
-search.start();
+{% comment %}TODO consider https://developers.google.com/custom-search/docs/element{% endcomment %}
+{% capture google_search_site %}{{ site.url }}{{ site.baseurl }}/{% endcapture %}
+<script language="Javascript" type="text/javascript">
+	function google_search() {
+		var query = document.getElementById("google-search").value;
+		window.open("https://www.google.com/search?q=" + query + "+site:" + "{{ google_search_site | cgi_escape }}");
+	}
 </script>
+
+<form id="search" onsubmit="google_search(); return false;">
+	<input type="text" id="google-search" placeholder="{{ site.data.language.enter_search_term }}">
+</form>
+<noscript>
+	Search <a href="https://www.google.com/search?q=site:{{ google_search_site | cgi_escape }}" target="_blank">Google</a> for:
+	<pre><code>search-term site:{{ google_search_site }}</code></pre>
+</noscript>
