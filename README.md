@@ -20,6 +20,12 @@ These techniques have not yet widely facilitated the work of content creators, b
 
 For complex subjects, I like to go back in history, to when they weren't so complex.  For Bitcoin, I began studying the history of each of its fundamental components. Bitcoin is the intersection of many domains and areas of inquiry, and its histories seem an endless pursuit. 
 
-I also felt it would be valuable to gather together all resources related to practical application of the Bitcoin protocol. While enterprise seeks iterate upon the idea of Bitcoin, this pursuit seems to have blinded many to the beauty of Bitcoin itself. It's not only the first of its kind, but is culmination of the decades old pursuit of digital currency. The cryptocurrency space is currently learning the lessons of a global regulatory environment that Bitcoin was designed specifically in response to.
+I also felt it would be valuable to gather together all resources related to practical application of the Bitcoin protocol. While enterprise seeks iterate upon the idea of Bitcoin, this pursuit seems to have blinded many to the beauty of Bitcoin itself. 
+
+It's not only the first of its kind, but is culmination of the decades old pursuit of digital currency. The cryptocurrency space is currently learning harsh lessons about the global regulatory environment. 
+
+The creator(s) of Bitcoin learned those lessons in the '90s, and its decentralized, leaderless, stateless, nature was crafted specifically, in response to the challenges of launching an independent digital currency.
 
 While I do stay abreast of the cryptocurrency space, and see it as valuable to be educated about, I am a Bitcoiner at heart. 
+
+I don't see any cryptocurrency innovators as competing with Bitcoin, but as more a part of the digital transformation movement. That movement, in essence, seeks to disrupt incumbants (like Uber), or evade the inevitable disruption unleashed by disintermediating tech (like public key crypto and Bitcoin), that's been enabled by the internet.
