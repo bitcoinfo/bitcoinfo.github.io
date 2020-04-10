@@ -1,5 +1,6 @@
 ---
 layout: page-fullwidth
+subheadline: The Social Layer
 title: "Bitcointalk Forum - Resources"
 permalink: /social/bitcointalk/
 categories: ["Social"]

@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: The Social Layer of Bitcoin
+title: Bitcoin's Social Layer
 excerpt: 'Hype Cycles, Anarchy, Maximalism, Social Media, Governance, "Ethnomycology and the Cult of Satoshi".'
 permalink: /social/
 categories: ["Social"]
