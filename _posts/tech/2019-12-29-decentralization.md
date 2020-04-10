@@ -1,4 +1,5 @@
 ---
+subheadline: Technical
 title: Decentralization
 permalink: /tech/decentralization/
 categories: ["Tech Info"]

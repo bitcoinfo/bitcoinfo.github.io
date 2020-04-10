@@ -1,5 +1,6 @@
 ---
 layout: page-fullwidth
+subheadline: Technical
 title: "Assorted Technical Topics"
 permalink: /tech/
 categories: ["Tech Info"]

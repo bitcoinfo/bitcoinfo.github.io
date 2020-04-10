@@ -1,5 +1,6 @@
 ---
 layout: page-fullwidth
+subheadline: Technical
 title: "Lightning - Info"
 permalink: /layer-2/lightning/
 categories: ["Tech Info"]
