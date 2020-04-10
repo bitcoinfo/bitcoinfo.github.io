@@ -41,8 +41,6 @@
   url: "/info/"
   side: right
   dropdown:
-  - title: "Resources"
-    url: "/info/resources/"
   - title: "Why Bitcoin?"
     url: "/info/why-bitcoin/"
   - title: "101 - Getting Started"
@@ -57,6 +55,8 @@
     url: "/info/articles/"
   - title: "Finance"
     url: "/info/finance/"
+  - title: #"Resources"
+    url: #"/info/resources/"
 
 - title: "Tech"
   url: "/tech/"
