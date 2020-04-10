@@ -1,6 +1,7 @@
 ---
 layout: page-fullwidth
-title: "Bitcoin Whitepaper -  Resources"
+subheadline: Info
+title: "Bitcoin Whitepaper"
 last_modified_at: 2019-12-08T11:22:33-23:00
 permalink: /literature/white-paper/
 categories: ["Info"]

@@ -1,5 +1,6 @@
 ---
 layout: page-fullwidth
+subheadline: Info
 title: "Bitcoin Media: Blogs, Podcasts, Video Channels, etc"
 permalink: /info/audio-video/
 categories: ["Info"]

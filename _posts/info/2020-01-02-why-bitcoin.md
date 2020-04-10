@@ -1,4 +1,5 @@
 ---
+subheadline: Info
 title: "Why Bitcoin?"
 permalink: /info/why-bitcoin/
 categories: ["Info"]
