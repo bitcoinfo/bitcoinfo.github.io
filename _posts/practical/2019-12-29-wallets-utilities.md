@@ -1,5 +1,6 @@
 ---
-title: "Wallets and Utilities"
+title: "Bitcoin Wallets and Utilities"
+subheadline: Practical
 layout: page-fullwidth
 permalink: /layer-1/wallets-utilities/
 categories: ["Practical"]
@@ -260,7 +261,8 @@ Escrow Agents should be impartial and trusted intermediaries who hold custody of
 * [bitkit.live/](https://bitkit.live/)
 * [OXT](https://oxt.me/)
   > OXT is a tool designed for Exploratory Blockchain Analysis of the bitcoin ledger.
-OXT is the "Other eXploration Tool" and it should become the "Open eXploration Tool" in the future.
+  > 
+  > OXT is the "Other eXploration Tool" and it should become the "Open eXploration Tool" in the future.
 
 ### Fees
 
@@ -276,7 +278,7 @@ OXT is the "Other eXploration Tool" and it should become the "Open eXploration T
 
 ### Visualizations
 
-* [xpfio/awesome-blockchain-visualisation](https://github.com/xpfio/awesome-blockchain-visualisation)
+* [Awesome Blockchain Visualisation](https://github.com/xpfio/awesome-blockchain-visualisation) - @xpfio
 * [bitcoin-vr/bitcoin-vr](https://github.com/bitcoin-vr/bitcoin-vr)
 * [KevinSmall/blockchain3d](https://github.com/KevinSmall/blockchain3d)
 

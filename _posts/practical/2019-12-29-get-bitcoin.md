@@ -1,6 +1,8 @@
 ---
-title: Get Bitcoin
+title: Get Bitcoin!!!!!
+subheadline: Practical
 layout: page-fullwidth
+teaser: Resources related to earning or buying Bitcoin
 permalink: /practical/get-bitcoin/
 categories: ["Practical"]
 

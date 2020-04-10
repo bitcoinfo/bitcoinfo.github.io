@@ -1,6 +1,8 @@
 ---
 layout: page-fullwidth
-title: Applications leveraging the Bitcoin Blockchain
+subheadline: Practical
+title: Layer One applications leveraging the Bitcoin blockchain
+teaser: Proofs, Payments, BTCPayserver, and Open Bazaar
 permalink: /layer-1/applications/
 categories: ["Practical"]
 tags: ["Layer 1"]
@@ -23,6 +25,16 @@ tags: ["Layer 1"]
 {% include _improve_content.html %}
 
 
+
+* [twitter.com/Beautyon_/status/1062100915925213185](https://twitter.com/Beautyon_/status/1062100915925213185)
+  > SUPER INTERESTING: "The [t.co/yDMDqgCKyl](https://t.co/yDMDqgCKyl) platform provides tooling, apps & services on top of any bip32 compatible Bitcoin wallet. It's a service layer on top of the Bitcoin network, offering powerful utilities for users and/or developpers." [t.co/uofRClqm4v](https://t.co/uofRClqm4v)
+* [Bitlits/Bitcoin-Casino](https://github.com/Bitlits/Bitcoin-Casino)
+  > Open source cryptocurrency casino. 
+* [wirefly.com/guides/best-bitcoin-apps](https://www.wirefly.com/guides/best-bitcoin-apps)
+* [The Best Bitcoin Apps of 2019](https://www.wirefly.com/guides/best-bitcoin-apps)
+* [davidknezic/sweetbit](https://github.com/davidknezic/sweetbit)
+* [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet)
+  > ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network - HelloZeroNet/ZeroNet
 
 ## Payments
 
@@ -71,36 +83,7 @@ tags: ["Layer 1"]
 * [twitter.com/vandrewattycpa/status/1079471260978040833](https://twitter.com/vandrewattycpa/status/1079471260978040833)
   > Today I released LibrePatron, an alternative to Partreon backed by @BtcpayServer. Most Patreon alternatives don't implement the full Patreon feature set. This seeks to change that. Sample site (alpha not mobile responsive, mobile coming soon!): [t.co/ZcHDjUfBfe](https://t.co/ZcHDjUfBfe) T...
 
-## Application
-
-### Layer One
-
-* [twitter.com/Beautyon_/status/1062100915925213185](https://twitter.com/Beautyon_/status/1062100915925213185)
-  > SUPER INTERESTING: "The [t.co/yDMDqgCKyl](https://t.co/yDMDqgCKyl) platform provides tooling, apps & services on top of any bip32 compatible Bitcoin wallet. It's a service layer on top of the Bitcoin network, offering powerful utilities for users and/or developpers." [t.co/uofRClqm4v](https://t.co/uofRClqm4v)
-* [Bitlits/Bitcoin-Casino](https://github.com/Bitlits/Bitcoin-Casino)
-  > Open source cryptocurrency casino. 
-* [wirefly.com/guides/best-bitcoin-apps](https://www.wirefly.com/guides/best-bitcoin-apps)
-* [The Best Bitcoin Apps of 2019](https://www.wirefly.com/guides/best-bitcoin-apps)
- 
-[davidknezic/sweetbit](https://github.com/davidknezic/sweetbit)
-* [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet)
-  > ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network - HelloZeroNet/ZeroNet
-
-### Proofs
-
-* [How to Create and Verify a Chainpoint Proof](https://medium.com/tierion/how-to-create-and-verify-a-chainpoint-proof-eba52a7700e3)
-* [chainpoint/chainpoint-cli](https://github.com/chainpoint/chainpoint-cli)
-  > A Command Line Interface (CLI) for creating and verifying Chainpoint proofs. - chainpoint/chainpoint-cli
-* [Tierion/blockchain-anchor](https://github.com/Tierion/blockchain-anchor)
-  > A Node.js library for anchoring data onto the Bitcoin blockchain and confirming anchored data on Bitcoin and Ethereum. - Tierion/blockchain-anchor
-* [ligi/SatoshiProof](https://github.com/ligi/SatoshiProof)
-  > Satoshi Proof is your personal notary leveraging the power of the Bitcoin network to prove existence of text or images at a certain time. - ligi/SatoshiProof
-* [opentimestamps/opentimestamps-client](https://github.com/opentimestamps/opentimestamps-client)
-  > OpenTimestamps client. 
-* [opentimestamps/python-opentimestamps](https://github.com/opentimestamps/python-opentimestamps)
-
 ### OpenBazaar
-
 
 * [openbazaar.org](https://www.openbazaar.org)
   > A FREE ONLINE MARKETPLACE. NO PLATFORM FEES. 
@@ -116,6 +99,18 @@ tags: ["Layer 1"]
 * [A STEP-BY-STEP GUIDE FOR BUYING IN OPENBAZAAR - The Green Mile](https://tgmweed.co.uk/a-step-by-step-guide-for-buying-in-openbazaar/)
   > Openbazaar is a marketplace for Bitcoin users where they can trade different stuffs in exchange for the cryptocurrency. What makes it different from other ecommerce is they offer a software for users to download in order to trade. Instead of users visiting a website, they wil...
 
+## Proofs
+
+* [How to Create and Verify a Chainpoint Proof](https://medium.com/tierion/how-to-create-and-verify-a-chainpoint-proof-eba52a7700e3)
+* [chainpoint/chainpoint-cli](https://github.com/chainpoint/chainpoint-cli)
+  > A Command Line Interface (CLI) for creating and verifying Chainpoint proofs. - chainpoint/chainpoint-cli
+* [Tierion/blockchain-anchor](https://github.com/Tierion/blockchain-anchor)
+  > A Node.js library for anchoring data onto the Bitcoin blockchain and confirming anchored data on Bitcoin and Ethereum. - Tierion/blockchain-anchor
+* [ligi/SatoshiProof](https://github.com/ligi/SatoshiProof)
+  > Satoshi Proof is your personal notary leveraging the power of the Bitcoin network to prove existence of text or images at a certain time. - ligi/SatoshiProof
+* [opentimestamps/opentimestamps-client](https://github.com/opentimestamps/opentimestamps-client)
+  > OpenTimestamps client. 
+* [opentimestamps/python-opentimestamps](https://github.com/opentimestamps/python-opentimestamps)
 
 </div>
 </div>

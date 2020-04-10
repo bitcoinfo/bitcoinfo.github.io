@@ -1,6 +1,8 @@
 ---
 layout: page-fullwidth
+subheadline: Practical
 title: Bitcoin Development - Resources
+teaser: Learning Bitcoin 
 permalink: /practical/development/
 categories: ["Practical"]
 tags: ["Tech Info"]
@@ -59,6 +61,7 @@ tags: ["Tech Info"]
   > A curated list of bitcoin services and tools for software developers.
 * [chaincodelabs/bitcoin-curriculum](https://github.com/chaincodelabs/bitcoin-curriculum)  *!!!!!!!!*
 * [MrHash/bitcoin-dev-stack](https://github.com/MrHash/bitcoin-dev-stack)
+* [Blockchain Development — Zero to Hero [Guide]](https://medium.com/programmers-blockchain/blockchain-development-mega-guide-5a316e6d10df)
 
 ### Read
 
