@@ -18,29 +18,10 @@ published: false
 [A Gentle Introduction to Bitcoin Core Development – Bitcoin Tech...](https://bitcointechtalk.com/a-gentle-introduction-to-bitcoin-core-development-fdc95eaee6b8)
   > If you’re a developer and you own any Bitcoin at all, contributing to Bitcoin Core can be one of the best things you can do to help out…
 
-[openblockchains/awesome-blockchains](https://github.com/openblockchains/awesome-blockchains/blob/master/README.md)
-  > awesome-blockchains - A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-). Blockchains are the new tulips :tulip::tulip::tulip:. Distributed i...
+[openblockchains/programming-bitcoin-script](https://github.com/openblockchains/programming-bitcoin-script)
+  > Programming Bitcoin Script Transaction (Crypto) Contracts Step-by-Step - Let's start with building your own bitcoin stack machine from zero / scratch and let's run your own bitcoin ops (operations)...
 
-[https://blockchainathons.com/](https://blockchainathons.com/)
-
-[The Importance of Deep Work & The 30-Hour Method for Learning a Ne...](https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/)
-
-[Balaji S. Srinivasan (@balajis)](https://twitter.com/balajis/status/1032174175358574592)
-  > Fossil has always struck me as under-appreciated relative to git. It's also a complex piece of decentralized software for version control, but it's more programmable than git in key ways. For example, it has a queryable sqlite backend. [https://t.co/XxsjgLCMSD](https://t.co/XxsjgLCMSD)
-
-[Why You Shouldn't Become A Software Engineer](https://www.youtube.com/watch?v=A4dXZkjWTg0)
-
-[Mechanism Labs](https://github.com/Mechanism-Labs) - Open Source Blockchain Research Lab
-
-[Open Source Money will BUIDL the Open Source Ecosystem](https://medium.com/gitcoin/open-source-money-will-buidl-the-open-source-ecosystem-f4169def8748?source=collection_home---4------0----------------)
-
-[Crypto MVC – Kacper Wikieł – Medium](https://medium.com/@kacperwikiel/crypto-mvc-b0a7e4f1831b)
-This is how you build apps for the internet
-
-[Justin Moon (@JustinMoen)](https://twitter.com/JustinMoen/status/1044340856189308930)
-  > @CryptoBlock47 There's no real answer to this. The space is huge and almost every languages is used. For creating the protocols C++ or Rust are preferred because they're fast. For tools or apps people use what python, javascript, go, etc No single answer here.
-
-[https://yukimotopress.github.io/blockchains](https://yukimotopress.github.io/blockchains)
+[Programming Cryptocurrencies and Blockchains (Book Edition)](https://yukimotopress.github.io/blockchains)
 
 [msjaiswal/awesome-python-cryptocurrency](https://github.com/msjaiswal/awesome-python-cryptocurrency)
 A curated list of awesome Python Cryptocurrency frameworks, libraries, software and resources. - msjaiswal/awesome-python-cryptocurrency
@@ -55,11 +36,36 @@ There are very useful APIs, developers can choose from. Please note that while s
 
 [ChristopherA/Blockchain-Developer-Resources](https://github.com/ChristopherA/Blockchain-Developer-Resources)
 
-List of opininated links to resources useful to blockchain and bitcoin developers - ChristopherA/Blockchain-Developer-Resources
+List of opinionated links to resources useful to blockchain and bitcoin developers - ChristopherA/Blockchain-Developer-Resources
 
-[https://programmingblockchain.gitbook.io/programmingblockchain](https://programmingblockchain.gitbook.io/programmingblockchain)
+[Programming The Blockchain in C#](https://programmingblockchain.gitbook.io/programmingblockchain)
 
 [Blockchain's tools](https://blockchains.tools/) - Provide developers blockchain-related tools / functions
   - [nujabes403/blockchains-tools](https://github.com/nujabes403/blockchains-tools)
 
+
+
+---
+
+
 [SerendipityDoDa/nukotest](https://github.com/SerendipityDoDa/nukotest)
+
+
+[https://blockchainathons.com/](https://blockchainathons.com/)
+
+[Open Source Money will BUIDL the Open Source Ecosystem](https://medium.com/gitcoin/open-source-money-will-buidl-the-open-source-ecosystem-f4169def8748?source=collection_home---4------0----------------)
+
+[Crypto MVC – Kacper Wikieł – Medium](https://medium.com/@kacperwikiel/crypto-mvc-b0a7e4f1831b)
+This is how you build apps for the internet
+
+[Justin Moon (@JustinMoen)](https://twitter.com/JustinMoen/status/1044340856189308930)
+  > @CryptoBlock47 There's no real answer to this. The space is huge and almost every languages is used. For creating the protocols C++ or Rust are preferred because they're fast. For tools or apps people use what python, javascript, go, etc No single answer here.
+
+[The Importance of Deep Work & The 30-Hour Method for Learning a Ne...](https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/)
+
+[Balaji S. Srinivasan (@balajis)](https://twitter.com/balajis/status/1032174175358574592)
+  > Fossil has always struck me as under-appreciated relative to git. It's also a complex piece of decentralized software for version control, but it's more programmable than git in key ways. For example, it has a queryable sqlite backend. [https://t.co/XxsjgLCMSD](https://t.co/XxsjgLCMSD)
+
+[Why You Shouldn't Become A Software Engineer](https://www.youtube.com/watch?v=A4dXZkjWTg0)
+
+[Mechanism Labs](https://github.com/Mechanism-Labs) - Open Source Blockchain Research Lab

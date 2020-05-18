@@ -1,6 +1,6 @@
 ---
-subheadline: Info
-title: "Assorted Articles, Tweets, and Short-Form"
+subheadline: "Articles, Short-Form, and a few podcasts."
+title: "Assorted Content"
 permalink: /info/articles/
 categories: ["Info"]
 
