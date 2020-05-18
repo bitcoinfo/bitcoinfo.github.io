@@ -1,8 +1,8 @@
 ---
-title: Bitcoin Satellite Nodes 🛰️
+title: Bitcoin Satellite Nodes
 layout: page-fullwidth
 teaser: Blockstream Satellite broadcasts the Bitcoin blockchain to the entire planet via satellite, reducing Bitcoin’s dependency on internet access. Everyone in the world now has an opportunity to use Bitcoin.
-subheadline: Practical
+subheadline: 🛰️
 permalink: /practical/satellite/
 categories: ["Practical"]
 tags: ["Tech Info"]

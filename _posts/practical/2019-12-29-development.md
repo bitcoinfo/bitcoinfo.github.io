@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
-subheadline: Practical
-title: Bitcoin Development - Resources
-teaser: Learning Bitcoin 
+subheadline: Books, Resources and other Guides
+title: Programming with Bitcoin
+teaser: Learning Bitcoin Development
 permalink: /practical/development/
 categories: ["Practical"]
 tags: ["Tech Info"]
@@ -31,7 +31,8 @@ tags: ["Tech Info"]
 * [bitcoin.org/en/developer-guide](https://bitcoin.org/en/developer-guide)
 * [bitcoin.org/en/developer-reference](https://bitcoin.org/en/developer-reference)
 * [btcinformation.org/en/developer-documentation](https://btcinformation.org/en/developer-documentation) - Community led and supported fork of Bitcoin.org. 
-* [bitcointechtalk.com/a-gentle-introduction-to-bitcoin-core-development-fdc95eaee6b8](https://bitcointechtalk.com/a-gentle-introduction-to-bitcoin-core-development-fdc95eaee6b8) 
+* [A Gentle Introduction to Bitcoin Core Development](https://bitcointechtalk.com/a-gentle-introduction-to-bitcoin-core-development-fdc95eaee6b8)
+  > If you’re a developer and you own any Bitcoin at all, contributing to Bitcoin Core can be one of the best things you can do to help out…
 * [teachbitcoin.io/](https://teachbitcoin.io/) 
   > Teach Bitcoin protocol training is an in-depth program that was inspired from the study of several hundred thousand lines of implementation code. It teaches you both the high and low-level designs of the Bitcoin Protocol, so you can greatly accelerate your journey to becoming a Bitcoin implementation developer or protocol researcher. 
 * [teachbitcoin.io](https://teachbitcoin.io) 
@@ -62,6 +63,8 @@ tags: ["Tech Info"]
 * [chaincodelabs/bitcoin-curriculum](https://github.com/chaincodelabs/bitcoin-curriculum)  *!!!!!!!!*
 * [MrHash/bitcoin-dev-stack](https://github.com/MrHash/bitcoin-dev-stack)
 * [Blockchain Development — Zero to Hero [Guide]](https://medium.com/programmers-blockchain/blockchain-development-mega-guide-5a316e6d10df)
+* [Programming The Blockchain in C#](https://programmingblockchain.gitbook.io/programmingblockchain)
+* [Programming Cryptocurrencies and Blockchains (Book Edition)](https://yukimotopress.github.io/blockchains)
 
 ### Read
 
@@ -130,8 +133,9 @@ tags: ["Tech Info"]
 * [yasaricli/chainradar-api](https://github.com/yasaricli/chainradar-api)
 * [RomelTorres/alpha_vantage](https://github.com/RomelTorres/alpha_vantage) - A python wrapper for Alpha Vantage API
 * [danpaquin/coinbasepro-python](https://github.com/danpaquin/coinbasepro-python)
-* [developers.coinbase.com/](https://developers.coinbase.com/) 
 * [Coinbase Wallet](https://wallet.coinbase.com/)
+* [Coinbase Digital Currency API](https://developers.coinbase.com/)
+  > Bitcoin, Bitcoin Cash, Litecoin, and Ethereum APIs to power the payments in your application
 
 ### Scripting
 

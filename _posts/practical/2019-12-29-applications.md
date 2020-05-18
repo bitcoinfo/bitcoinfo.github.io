@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
-subheadline: Practical
-title: Layer One applications leveraging the Bitcoin blockchain
+subheadline: Leveraging the Bitcoin blockchain
+title: Layer One Applications 
 teaser: Proofs, Payments, BTCPayserver, and Open Bazaar
 permalink: /layer-1/applications/
 categories: ["Practical"]

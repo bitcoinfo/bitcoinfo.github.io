@@ -4,25 +4,13 @@ published: false
 ---
 
 
-[Programming With Bitcoin](https://programmingwithbitcoin.com/)
-
-[Building a Blockchain: The Grey Paper – Hacker Noon](https://hackernoon.com/building-a-blockchain-the-grey-paper-5be456018040)
 
 [From “What is Blockchain?” to building a blockchain in less th...](https://medium.freecodecamp.org/from-what-is-blockchain-to-building-a-blockchain-within-an-hour-4e738efc819d)
 
-[Programming Blockchain - gitbook](https://legacy.gitbook.com/book/programmingblockchain/programmingblockchain/details)
+[Building a Blockchain: The Grey Paper – Hacker Noon](https://hackernoon.com/building-a-blockchain-the-grey-paper-5be456018040)
 
-[Coinbase Digital Currency API](https://developers.coinbase.com/)
-  > Bitcoin, Bitcoin Cash, Litecoin, and Ethereum APIs to power the payments in your application
-
-[A Gentle Introduction to Bitcoin Core Development – Bitcoin Tech...](https://bitcointechtalk.com/a-gentle-introduction-to-bitcoin-core-development-fdc95eaee6b8)
-  > If you’re a developer and you own any Bitcoin at all, contributing to Bitcoin Core can be one of the best things you can do to help out…
-
-[openblockchains/programming-bitcoin-script](https://github.com/openblockchains/programming-bitcoin-script)
-  > Programming Bitcoin Script Transaction (Crypto) Contracts Step-by-Step - Let's start with building your own bitcoin stack machine from zero / scratch and let's run your own bitcoin ops (operations)...
-
-[Programming Cryptocurrencies and Blockchains (Book Edition)](https://yukimotopress.github.io/blockchains)
-
+[Top 10 Most Useful Cryptocurrency APIs](https://coinpedia.org/top-10/top-10-useful-cryptocurrency-apis)
+There are very useful APIs, developers can choose from. Please note that while selecting these APIs we relied on online reviews from other users.
 [msjaiswal/awesome-python-cryptocurrency](https://github.com/msjaiswal/awesome-python-cryptocurrency)
 A curated list of awesome Python Cryptocurrency frameworks, libraries, software and resources. - msjaiswal/awesome-python-cryptocurrency
 
@@ -31,14 +19,11 @@ A curated list of awesome Python Cryptocurrency frameworks, libraries, software 
 
 [Learn Blockchains by Building One – Hacker Noon](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46) - The fastest way to learn how Blockchains work is to build one
 
-[Top 10 Most Useful Cryptocurrency APIs](https://coinpedia.org/top-10/top-10-useful-cryptocurrency-apis)
-There are very useful APIs, developers can choose from. Please note that while selecting these APIs we relied on online reviews from other users.
 
 [ChristopherA/Blockchain-Developer-Resources](https://github.com/ChristopherA/Blockchain-Developer-Resources)
 
 List of opinionated links to resources useful to blockchain and bitcoin developers - ChristopherA/Blockchain-Developer-Resources
 
-[Programming The Blockchain in C#](https://programmingblockchain.gitbook.io/programmingblockchain)
 
 [Blockchain's tools](https://blockchains.tools/) - Provide developers blockchain-related tools / functions
   - [nujabes403/blockchains-tools](https://github.com/nujabes403/blockchains-tools)

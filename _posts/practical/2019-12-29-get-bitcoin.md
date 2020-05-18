@@ -1,6 +1,6 @@
 ---
 title: Get Bitcoin!!!!!
-subheadline: Practical
+subheadline: Earn or Buy, don't borrow!
 layout: page-fullwidth
 teaser: Resources related to earning or buying Bitcoin
 permalink: /practical/get-bitcoin/

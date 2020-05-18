@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-subheadline: Practical
+subheadline: Data data data
 title: Bitcoin Data and Analytics
 teaser: Blockchain data, databases, UTXO, market and exchange data.
 permalink: /practical/data-analytics/

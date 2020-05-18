@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
-subheadline: Technical
-title: "Lightning - Info"
+subheadline: Layer 2
+title: "Lightning Network Info"
 permalink: /layer-2/lightning/
 categories: ["Tech Info"]
 tags: ["Layer 2", "Lightning"]
