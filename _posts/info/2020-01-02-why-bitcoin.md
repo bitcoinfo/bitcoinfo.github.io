@@ -1,5 +1,5 @@
 ---
-subheadline: Info
+subheadline: no really tho
 title: "Why Bitcoin?"
 permalink: /info/why-bitcoin/
 categories: ["Info"]
@@ -17,11 +17,9 @@ No other blockchain or cryptocurrency fulfils that need.
 
 Even if you aren't too concerned about that, there are plenty of reasons, "Why Bitcoin?" However, that is plenty enough for me... the rest of the reasons people have for why are, to me, more about "How" Bitcoin will succeed. 
 
-It's fixed supply schedule does imply some dramatic increases in its price for the future. However, I'm not an investor, becuause I don't have any money. So it's fluctuations in price have minimal impact, upon myself.
+It's fixed supply schedule does imply some dramatic increases in its price for the future. Where most other currencies existing are currently experiencing hyper-inflation. 
 
-I'm more concerned with it's ability to solve, what I see as, a moral problem. 
-
-I just love that there is a choice, and a possibility for me to earn a living, without the necessity of a purposfully broken currency.  I'm not there yet, but it's a dream.
+I just love that there is a choice, and a possibility for me to earn a living, without the necessity of a currency designed to siphon wealth from those who depend on it. I'm not there yet, but it's a dream.
 
 ## ...to, eventually, include the many reason why 
 

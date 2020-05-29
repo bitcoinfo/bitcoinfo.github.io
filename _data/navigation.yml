@@ -68,7 +68,7 @@
     url: "/info/security/"
   - title: "Layer 1"
     url: "/layer-1/"
-  - title: "Layer 2"
+  - title: "Liquid, Drivechain, and Rootstock"
     url: "/layer-2/"
   - title: "Lightning Network Info"
     url: "/layer-2/lightning/"

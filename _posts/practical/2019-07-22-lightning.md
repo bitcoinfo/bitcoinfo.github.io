@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
-subheadline: Practical
-title: "Lightning Network Info: Wallets, Applications, Guides and Development"
+subheadline: Wallets, Applications, Guides and Development
+title: "Lightning Network Info"
 description: A curated list related to using the Lightning Network.
 teaser: Apps, tools, howtos, and other resources for using the Lightning network.
 permalink: /layer-2/lightning/practical/

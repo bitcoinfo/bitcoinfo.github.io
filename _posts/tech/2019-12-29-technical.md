@@ -1,7 +1,8 @@
 ---
 layout: page-fullwidth
-subheadline: Technical
+subheadline: Technical literature
 title: "Assorted Technical Topics"
+teaser: BIPS, scripts and deep dives
 permalink: /tech/
 categories: ["Tech Info"]
 ---

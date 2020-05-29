@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-subheadline: Info
+subheadline: A Peer-to-Peer Electronic Cash
 title: "Bitcoin Whitepaper"
 teaser: Translations of the Bitcoin whitepaper, eratta, and related information.
 last_modified_at: 2019-12-08T11:22:33-23:00

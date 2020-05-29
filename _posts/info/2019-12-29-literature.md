@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-subheadline: Info
+subheadline: Research, Reports, Essays, etc.
 title: "Bitcoin Literature"
 permalink: /literature/
 categories: ["Info"]

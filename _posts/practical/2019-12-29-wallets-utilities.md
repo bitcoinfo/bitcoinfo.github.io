@@ -1,6 +1,6 @@
 ---
 title: "Bitcoin Wallets and Utilities"
-subheadline: Practical
+subheadline: Paper, Mobile, Desktop, and Hardware
 layout: page-fullwidth
 permalink: /layer-1/wallets-utilities/
 categories: ["Practical"]
