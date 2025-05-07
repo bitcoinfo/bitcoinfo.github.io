@@ -57,7 +57,8 @@ tags: ["Lightning", "Layer 2"]
 Resource and Information Guide
 * [lightningnetwork/lightning-rfc](https://github.com/lightningnetwork/lightning-rfc)
 Lightning Network Specifications. 
-
+* [LightingCentral](https://lightningcentral.com)
+Lightning Made Easy - Simple instructions and a channel opening service. 
 
 ### discussion
 
